@@ -1,0 +1,248 @@
+let rodadaAtual = 1;
+let totalRodadas = 1;
+
+document.addEventListener("DOMContentLoaded", () => {
+  const rodadasValidas = Object.values(pontuacoesPorRodada)[0];
+  totalRodadas = rodadasValidas ? Object.keys(rodadasValidas).length : 1;
+
+  // Topo
+  const tituloRodadaTop = document.getElementById("titulo-rodada");
+  const btnAnteriorTop = document.getElementById("btn-anterior");
+  const btnProximaTop = document.getElementById("btn-proxima");
+
+  // Rodapé
+  const tituloRodadaBottom = document.getElementById("titulo-rodada-bottom");
+  const btnAnteriorBottom = document.getElementById("btn-anterior-bottom");
+  const btnProximaBottom = document.getElementById("btn-proxima-bottom");
+
+  // Atualiza UI com rodada atual
+  function atualizarRodada(novaRodada) {
+    rodadaAtual = novaRodada;
+    exibirPontuacoesRodada(rodadaAtual);
+    exibirUltimoColocadoRodada(rodadaAtual);
+    exibirResumoEliminacao(rodadaAtual);
+
+    // Atualiza títulos
+    if (tituloRodadaTop) tituloRodadaTop.textContent = `Rodada ${rodadaAtual}`;
+    if (tituloRodadaBottom) tituloRodadaBottom.textContent = `Rodada ${rodadaAtual}`;
+
+    // Ativa/desativa botões
+    const desabilitarAnterior = rodadaAtual <= 1;
+    const desabilitarProxima = rodadaAtual >= totalRodadas;
+
+    if (btnAnteriorTop) btnAnteriorTop.disabled = desabilitarAnterior;
+    if (btnProximaTop) btnProximaTop.disabled = desabilitarProxima;
+    if (btnAnteriorBottom) btnAnteriorBottom.disabled = desabilitarAnterior;
+    if (btnProximaBottom) btnProximaBottom.disabled = desabilitarProxima;
+  }
+
+  // Ações dos botões
+  const configurarBotao = (botao, direcao) => {
+    if (botao) {
+      botao.addEventListener("click", () => {
+        const novaRodada = rodadaAtual + direcao;
+        if (novaRodada >= 1 && novaRodada <= totalRodadas) {
+          atualizarRodada(novaRodada);
+        }
+      });
+    }
+  };
+
+  configurarBotao(btnAnteriorTop, -1);
+  configurarBotao(btnProximaTop, +1);
+  configurarBotao(btnAnteriorBottom, -1);
+  configurarBotao(btnProximaBottom, +1);
+
+  atualizarRodada(rodadaAtual);
+});
+
+
+// DICIONÁRIO DOS ESCUDOS (ajuste nomes se necessário)
+const escudosTimes = {
+  "KING LEONN": "../imagens/king_leonn.png",
+  "Fedato Futebol Clube": "../imagens/fedato_futebol_clube.png",
+  "BORGES CLIMA FUT F.C": "../imagens/borges_itaqui_fc.png",
+  "OlhaEleAiF.C!": "../imagens/olhaeleaifc.png",
+  "Analove10 ITAQUI GRANDE!!": "../imagens/analove10_itaqui_grande.png",
+  "Gremiomaniasm": "../imagens/gremiomaniasm.png",
+  "Pity10": "../imagens/pity10.png",
+  "E.C. Bororé": "../imagens/ec_borore.png",
+  "PUXE FC": "../imagens/puxe_fc.png",
+  "Super Vasco f.c": "../imagens/super_vasco_fc.png",
+  "Texas Club 2025": "../imagens/texas_club_2025.png",
+  "lsauer fc": "../imagens/lsauer_fc.png",
+  "Grêmio imortal 37": "../imagens/gremio_imortal_37.png",
+  "mercearia Estrela ": "../imagens/mercearia_estrela.png",
+  "pura bucha /botafogo": "../imagens/pura_bucha_botafogo.png",
+  "seralex": "../imagens/seralex.png",
+  "HS SPORTS F.C": "../imagens/hs_sports_fc.png",
+  "Dom Camillo68": "../imagens/dom_camillo68.png",
+  "Tatols Beants F.C": "../imagens/tatols_beants_fc.png",
+  "TEAM LOPES 99": "../imagens/team_lopes_99.png",
+  "MAFRA MARTINS FC": "../imagens/mafra_martins_fc.png",  
+  "Tabajara de Inhaua FC2": "../imagens/tabajara_de_inhaua_fc2.png",
+  "FIGUEIRA DA ILHA": "../imagens/figueira_da_ilha.png",
+  "SERGRILLO": "../imagens/sergrillo.png",
+  "S.E.R. GRILLO": "../imagens/ser_grillo.png",
+  "Gig@ntte": "../imagens/gigntte.png",
+  "KP JUV.": "../imagens/kp_juv.png",
+  "O clube do povo Itaqui/Rss": "../imagens/o_clube_do_povo_itaqui_rss.png",
+  "I.B.CASTILHO FC": "../imagens/i_b_castilho_fc.png",
+  "FBC Colorado": "../imagens/fbc_colorado.png",
+  "VASCO MARTINS FC": "../imagens/vasco_martins_fc.png",
+  "KillerColorado": "../imagens/killercolorado.png",
+};
+
+function configurarBotoesNavegacao(totalRodadas) {
+  document.getElementById("btn-anterior").addEventListener("click", () => {
+    if (rodadaAtual > 1) {
+      rodadaAtual--;
+      atualizarRodada();
+    }
+  });
+
+  document.getElementById("btn-proxima").addEventListener("click", () => {
+    if (rodadaAtual < totalRodadas) {
+      rodadaAtual++;
+      atualizarRodada();
+    }
+  });
+}
+
+function atualizarRodada() {
+  exibirPontuacoesRodada(rodadaAtual);
+  exibirUltimoColocadoRodada(rodadaAtual);
+  exibirResumoEliminacao(rodadaAtual);
+
+  const titulo = document.getElementById("titulo-rodada");
+  if (titulo) {
+    titulo.textContent = `Rodada ${rodadaAtual}`;
+  }
+}
+
+function exibirPontuacoesRodada(rodada) {
+  const tbody = document.getElementById("classificacao-corpo");
+  if (!tbody) return;
+
+  tbody.innerHTML = "";
+  const lista = [];
+
+  for (const time in pontuacoesPorRodada) {
+    const pontos = pontuacoesPorRodada[time][`Rodada ${rodada}`];
+    if (typeof pontos === "number") {
+      lista.push({ time, pontos });
+    }
+  }
+
+  lista.sort((a, b) => b.pontos - a.pontos);
+  const eliminadoRodada = eliminadosPorRodada[`Rodada ${rodada + 1}`]; // Eliminado aparece só na rodada seguinte
+
+  lista.forEach((item, index) => {
+    const escudo = escudosTimes[item.time] || "../imagens/default.png";
+    const isEliminado = item.time === eliminadoRodada;
+
+    const row = document.createElement("tr");
+    row.innerHTML = `
+      <td>${index + 1}</td>
+      <td>
+        <div class="time-info">
+          <img src="${escudo}" class="escudo" alt="${item.time}" />
+          ${item.time}
+          ${isEliminado ? '<span class="eliminado-tag">Eliminado</span>' : ''}
+        </div>
+      </td>
+      <td>${item.pontos.toFixed(2)}</td>
+    `;
+
+    if (item.time === eliminadoRodada) {
+      row.classList.add("eliminado-atual"); 
+    }
+
+    tbody.appendChild(row);
+  });
+}
+
+function exibirUltimoColocadoRodada(rodadaAtual) {
+  const avisoContainer = document.getElementById("aviso-eliminado");
+  if (!avisoContainer) return;
+
+  const pontuacoesRodada = [];
+
+  for (const time in pontuacoesPorRodada) {
+    const pontos = pontuacoesPorRodada[time][`Rodada ${rodadaAtual}`];
+    if (typeof pontos === "number") {
+      pontuacoesRodada.push({ time, pontos });
+    }
+  }
+
+  if (pontuacoesRodada.length === 0) {
+    avisoContainer.innerHTML = "";
+    return;
+  }
+
+  pontuacoesRodada.sort((a, b) => a.pontos - b.pontos);
+  const ultimo = pontuacoesRodada[0];
+
+  avisoContainer.innerHTML = `
+    ❌ <strong>Último colocado da Rodada ${rodadaAtual}:</strong> ${ultimo.time} com ${ultimo.pontos.toFixed(2)} pontos. (Eliminado)
+  `;
+}
+
+
+function exibirResumoEliminacao(rodadaAtual) {
+  const container = document.getElementById("resumo-eliminacao");
+  if (!container || rodadaAtual <= 1) return;
+
+  const rodadaChave = `Rodada ${rodadaAtual}`;
+  const eliminadoAtual = eliminadosPorRodada[rodadaChave];
+
+  const rodadasPassadas = Object.keys(eliminadosPorRodada)
+    .filter(r => parseInt(r.split(" ")[1]) < rodadaAtual)
+    .sort((a, b) => parseInt(a.split(" ")[1]) - parseInt(b.split(" ")[1]));
+
+  // 📊 Estatísticas da rodada
+  const pontuacoesRodada = [];
+
+  for (const time in pontuacoesPorRodada) {
+    const pontos = pontuacoesPorRodada[time][rodadaChave];
+    if (typeof pontos === "number") {
+      pontuacoesRodada.push({ time, pontos });
+    }
+  }
+
+  let estatisticasHTML = "";
+  if (pontuacoesRodada.length > 0) {
+    pontuacoesRodada.sort((a, b) => b.pontos - a.pontos);
+    const maior = pontuacoesRodada[0];
+    const menor = pontuacoesRodada[pontuacoesRodada.length - 1];
+    const total = pontuacoesRodada.reduce((sum, obj) => sum + obj.pontos, 0);
+    const media = (total / pontuacoesRodada.length).toFixed(2);
+
+    estatisticasHTML = `
+      <h3>📊 Resumo da Rodada ${rodadaAtual}</h3>
+      <ul>
+        <li><strong>✅ Maior pontuação:</strong> ${maior.time} com ${maior.pontos.toFixed(2)} pts</li>
+        <li><strong>❌ Menor pontuação:</strong> ${menor.time} com ${menor.pontos.toFixed(2)} pts</li>
+        <li><strong>📊 Média geral:</strong> ${media} pts</li>
+      </ul>
+    `;
+  }
+
+  // 🧾 Resumo de eliminações
+  let eliminacoesHTML = `<h3>🔥 Eliminações</h3>`;
+
+  if (eliminadoAtual) {
+    eliminacoesHTML += `<p><strong>❌ Eliminado da Rodada ${rodadaAtual}:</strong> ${eliminadoAtual}</p>`;
+  }
+
+  if (rodadasPassadas.length > 0) {
+    eliminacoesHTML += `<p><strong>🕓 Eliminados anteriores:</strong></p><ul>`;
+    rodadasPassadas.forEach(r => {
+      eliminacoesHTML += `<li>${r}: ${eliminadosPorRodada[r]}</li>`;
+    });
+    eliminacoesHTML += `</ul>`;
+  }
+
+  container.innerHTML = `${estatisticasHTML}${eliminacoesHTML}`;
+}
+

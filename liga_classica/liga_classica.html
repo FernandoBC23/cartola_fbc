@@ -1,0 +1,67 @@
+<!-- liga_classica.html -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Liga Clássica</title>
+
+  <!-- Estilos globais e específicos -->
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="./styles_liga_classica.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">    
+</head>
+
+<body class="loaded">
+  <!-- Cabeçalho -->
+  <header class="header">
+    <div class="header-content">
+      <div class="logo-titulo">
+        <img src="../imagens/logo-brasileirao-a-256.png" alt="Logo" class="logo" />
+        <h1>Liga Clássica</h1>
+      </div>
+      <nav class="navbar">
+        <ul>
+          <li><a href="../index.html">Painel Competições</a></li>
+          <li><a class="ativo" href="./liga_classica.html">Liga Clássica</a></li>                    
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Conteúdo -->
+  <main class="conteudo-serie-a">
+
+    <!-- Abas -->
+    <div class="tabs" id="tabs-container"></div>
+
+    <!-- Tabela de Classificação -->
+    <section>
+      <table class="tabela-classificacao">
+        <thead>
+          <tr>
+            <th>Posição</th>
+            <th>Time</th>
+            <th>Total de Pontos</th>
+          </tr>
+        </thead>
+        <tbody id="classificacao-corpo"></tbody>
+      </table>
+    </section>
+
+  </main>
+
+  <!-- Rodapé -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p>© 2025 Liga Clássica | Desenvolvido por Fernando Chagas</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="../transicoes.js"></script>
+  <script src="./datasets_liga_classica/Pontuacoes_Liga_Classica.js"></script>
+  <script src="./scripts_liga_classica/liga_classica.js"></script>
+</body>
+</html>

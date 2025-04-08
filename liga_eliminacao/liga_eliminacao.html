@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Liga Eliminação</title>
+
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="./styles_liga_eliminacao.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+
+  
+  
+</head>
+
+<body class="loaded">
+
+  <header class="header">
+    <div class="header-content">
+      <div class="logo-titulo">
+        <img src="../imagens/logo-brasileirao-a-256.png" alt="Logo" class="logo" />
+        <h1>Liga Eliminação</h1>
+      </div>
+      <nav class="navbar">
+        <ul>
+          <li><a href="../index.html">Painel Competições</a></li>
+          <li><a class="ativo" href="./liga_eliminacao.html">Liga Eliminação</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Navegação -->
+  <div class="rodada-container">
+    <div class="navegacao-rodada">
+      <button id="btn-anterior">◀️ Rodada Anterior</button>
+      <div class="titulo-rodada" id="titulo-rodada">Rodada 1</div>
+      <button id="btn-proxima">Próxima Rodada ▶️</button>
+    </div>
+  </div>
+
+  <main>
+    <section>
+      <div id="aviso-eliminado" class="aviso-eliminado"></div>
+
+      <table class="tabela-classificacao">
+        <thead>
+          <tr>
+            <th>Posição</th>
+            <th>Time</th>
+            <th>Total de Pontos</th>
+          </tr>
+        </thead>
+        <tbody id="classificacao-corpo"></tbody>
+      </table>
+      <div id="resumo-eliminacao" class="resumo-eliminacao"></div>
+    </section>
+  </main>
+
+  <!-- Navegação Inferior -->
+  <div class="rodada-container">
+    <div class="navegacao-rodada">
+      <button id="btn-anterior-bottom">◀️ Rodada Anterior</button>
+      <div class="titulo-rodada" id="titulo-rodada-bottom">Rodada 1</div>
+      <button id="btn-proxima-bottom">Próxima Rodada ▶️</button>
+    </div>
+  </div>  
+
+  <footer class="footer">
+    <div class="footer-content">
+      <p>© 2025 Liga Eliminação | Desenvolvido por Fernando Chagas</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="../transicoes.js"></script>
+  <script src="./datasets_liga_eliminacao/Pontuacoes_Por_Rodada_Liga_Eliminacao.js"></script>
+  <script src="./datasets_liga_eliminacao/Eliminados_Por_Rodada.js"></script>  
+  <script src="./scripts_liga_eliminacao/liga_eliminacao.js"></script>
+</body>
+</html>

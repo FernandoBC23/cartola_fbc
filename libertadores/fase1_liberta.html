@@ -1,0 +1,69 @@
+<!-- fase1_liberta.html -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Painel da Libertadores - Fase 1</title>
+  <link rel="stylesheet" href="../styles.css" />
+  <link rel="stylesheet" href="./styles_liberta.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Cabeçalho -->
+  <header class="header">
+    <div class="header-content">
+      <div class="logo-titulo">
+        <img src="../imagens/logo-copa-libertadores-256.png" alt="Logo" class="logo" />
+        <h1>Painel Libertadores</h1>
+      </div>
+      <nav class="navbar">
+        <ul>
+          <li><a href="../index.html">Painel Competições</a></li>
+          <li><a class="ativo" href="../libertadores/fase1_liberta.html">Fase 1</a></li>
+          <li><a href="../libertadores/fase2_liberta.html">Fase 2</a></li>
+          <li><a href="../libertadores/fase3_libertal.html">Fase Final</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Navegação de Rodadas (Topo) -->
+  <div class="rodada-container">
+    <div class="navegacao-rodada">
+      <button id="btn-anterior">◀️ Rodada Anterior</button>
+      <div class="titulo-rodada" id="titulo-rodada">Rodada 1</div>
+      <button id="btn-proxima">Próxima Rodada ▶️</button>
+    </div>
+  </div>
+
+  <!-- Painel de Grupos (Classificação e Confrontos) -->
+  <div id="painel-grupos"></div>
+
+  <!-- Navegação de Rodadas (Base) -->
+  <div class="rodada-container">
+    <div class="navegacao-rodada">
+      <button id="btn-anterior-bottom">◀️ Rodada Anterior</button>
+      <div class="titulo-rodada" id="titulo-rodada-bottom">Rodada 1</div>
+      <button id="btn-proxima-bottom">Próxima Rodada ▶️</button>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p>© 2025 Painel Libertadores | Desenvolvido por Fernando Chagas</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="../transicoes.js"></script>  
+  <script src="./datasets_liberta/resultados_fase_1.js"></script> 
+  <script src="./datasets_liberta/confrontos_fase1_libertadores.js"></script> 
+  <script src="./datasets_liberta/classificacao_por_grupo_fase_1.js"></script> 
+  <script src="./scripts_liberta/fase1_liberta.js"></script>
+</body>
+</html>
