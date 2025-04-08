@@ -1,5 +1,5 @@
 /* ------------------------------------
-   styles_serie_A.css
+   styles_serie_.css
    → Estilo unificado com Liga Eliminação
 ------------------------------------ */
 
@@ -150,104 +150,6 @@ body {
   text-align: center;
   padding: 15px;
 }
-
-
-/* ------------------------------------
-   RESPONSIVO - Série A (Mobile)
------------------------------------- */
-@media (max-width: 768px) {
-
-  body {
-    font-size: 13px;
-    padding: 0 10px;
-  }
-
-  .header-content {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-  }
-
-  .logo {
-    width: 36px;
-    height: 36px;
-  }
-
-  .header h1 {
-    font-size: 18px;
-  }
-
-  .navbar ul {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 6px;
-    padding: 0;
-    margin-top: 8px;
-  }
-
-  .navbar a {
-    font-size: 13px;
-    padding: 4px 8px;
-  }
-
-  .navegacao-rodada {
-    flex-direction: column;
-    gap: 8px;
-    margin: 10px 0;
-  }
-
-  .titulo-rodada {
-    font-size: 0.95rem;
-    padding: 6px 10px;
-    text-align: center;
-  }
-
-  .navegacao-rodada button {
-    font-size: 12px;
-    padding: 6px 12px;
-  }
-
-  .tabela-classificacao {
-    width: 95%;
-    max-width: 930px;
-    margin: 20px auto;
-    font-size: 12px;
-  }
-
-  .tabela-classificacao th,
-  .tabela-classificacao td {
-    padding: 8px;
-  }
-
-  .time-info {
-    gap: 6px;
-  }
-
-  .escudo {
-    width: 20px;
-    height: 20px;
-  }
-
-  .resumo-rodada {
-    padding: 12px 16px;
-    margin: 20px 10px;
-    font-size: 10px;
-  }
-
-  .resumo-rodada h3 {
-    font-size: 13px;
-  }
-
-  .resumo-rodada ul li {
-    font-size: 13px;
-  }
-
-  .footer {
-    font-size: 12px;
-    padding: 10px;
-  }
-}
-
 
 
 /* ------------------------------------

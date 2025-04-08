@@ -64,8 +64,8 @@ h2 {
 }
 
 .logo {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   object-fit: contain;
   border-radius: 8px;
   background-color: #f0f0f0;
@@ -114,6 +114,7 @@ h2 {
   justify-content: center;
   align-items: center;
   gap: 15px;
+  margin-top: 20px;
 }
 
 .titulo-rodada {
@@ -185,8 +186,8 @@ h2 {
 }
 
 .time img {
-  width: 50px;
-  height: 50px;
+  width: 20%;
+  height: 20%;
   object-fit: contain;
   margin: 0 auto;
   border-radius: 10px;
@@ -223,9 +224,10 @@ h2 {
   text-align: center;
   padding: 20px;
   width: 200px;
+  /* height: 150px; */
   text-decoration: none;
   color: #3F4E4F;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+  box-shadow: 4px 8px 12px rgba(0,0,0,0.9);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -346,12 +348,12 @@ h2 {
     .logo-titulo {
       flex-direction: row;
       align-items: center;
-      gap: 8px;
+      gap: 12px;
     }
   
     .logo {
-      width: 36px;
-      height: 36px;
+      width: 20%;
+      height: 20%;
     }
   
     .header h1 {
@@ -372,14 +374,14 @@ h2 {
     }
   
     .competicoes {
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
       padding: 20px;
       gap: 24px;
     }
   
     .card-competicao {
-      width: 90%;
+      width: 30%;
     }
   
     .pagina-construcao {
@@ -393,9 +395,18 @@ h2 {
       font-size: 20px;
     }
   
-    .footer {
-      font-size: 12px;
-      padding: 10px;
+    footer {
+      margin-top: auto;
+      text-align: center;
+      color: #ccc;
+      background-color: rgba(0, 0, 0, 0.1);
+      padding: 10px 5px;
+      font-size: 0.85rem;
+      border-top: 1px solid #555;
+      margin-top: 20px;
+      width: 100%;
+      box-sizing: border-box;
     }
+    
   }
   

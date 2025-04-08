@@ -1,4 +1,4 @@
-// scripts/serie_A.js
+// scripts/serie_B.js
 
 window.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('loaded');
