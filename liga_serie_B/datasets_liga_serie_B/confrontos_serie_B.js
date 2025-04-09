@@ -4,8 +4,112 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
+      "id": 18,
+      "nome": "lsauer fc"
+    },
+    "visitante": {
+      "id": 5,
       "nome": "FBC Colorado"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 2,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 12,
+      "nome": "Real SCI"
+    },
+    "visitante": {
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 3,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 9,
+      "nome": "PUXE FC"
+    },
+    "visitante": {
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 4,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
+    },
+    "visitante": {
+      "id": 17,
+      "nome": "cartola scheuer"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 5,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 11,
+      "nome": "PraiaBravaFC"
+    },
+    "visitante": {
+      "id": 13,
+      "nome": "Sport Clube PAIM"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 6,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 16,
+      "nome": "Texas Club 2025"
+    },
+    "visitante": {
+      "id": 7,
+      "nome": "Grêmio imortal 37"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 7,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
+    },
+    "visitante": {
+      "id": 4,
+      "nome": "Dom Camillo68"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 8,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 8,
+      "nome": "HS SPORTS F.C"
+    },
+    "visitante": {
+      "id": 14,
+      "nome": "TIGRE LEON"
+    }
+  },
+  {
+    "rodada": 1,
+    "confronto": 9,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
       "id": 15,
@@ -14,119 +118,15 @@ const confrontosFase1 = [
   },
   {
     "rodada": 1,
-    "confronto": 2,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
-    },
-    "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 3,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
-    },
-    "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 4,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
-    },
-    "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 5,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
-    },
-    "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 6,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
-    },
-    "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 7,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
-    },
-    "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 8,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
-    },
-    "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
-    }
-  },
-  {
-    "rodada": 1,
-    "confronto": 9,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
-    },
-    "visitante": {
-      "id": 20,
-      "nome": "seralex"
-    }
-  },
-  {
-    "rodada": 1,
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 10,
+      "nome": "Pity10"
     },
     "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     }
   },
   {
@@ -134,11 +134,11 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     }
   },
@@ -147,12 +147,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 12,
+      "nome": "Real SCI"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -160,12 +160,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 17,
+      "nome": "cartola scheuer"
     }
   },
   {
@@ -173,12 +173,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -186,12 +186,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -199,12 +199,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -212,12 +212,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -225,12 +225,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -238,12 +238,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -251,12 +251,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 20,
+      "nome": "seralex"
     }
   },
   {
@@ -264,12 +264,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -277,12 +277,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -290,12 +290,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -303,11 +303,11 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 1,
+      "id": 2,
       "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
@@ -316,12 +316,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -329,12 +329,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -342,12 +342,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -355,12 +355,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -368,12 +368,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -381,12 +381,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -394,12 +394,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -407,12 +407,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -424,8 +424,8 @@ const confrontosFase1 = [
       "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -433,12 +433,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -446,12 +446,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -459,12 +459,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     }
   },
   {
@@ -472,12 +472,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 10,
+      "nome": "Pity10"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -485,12 +485,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -498,12 +498,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 20,
+      "nome": "seralex"
     }
   },
   {
@@ -511,12 +511,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -525,11 +525,11 @@ const confrontosFase1 = [
     "grupo": "Série B",
     "mandante": {
       "id": 5,
-      "nome": "Eleis-Itaqui"
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -537,12 +537,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 12,
+      "nome": "Real SCI"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -550,21 +550,8 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
-    },
-    "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
-    }
-  },
-  {
-    "rodada": 5,
-    "confronto": 4,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
       "id": 16,
@@ -573,15 +560,28 @@ const confrontosFase1 = [
   },
   {
     "rodada": 5,
+    "confronto": 4,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 8,
+      "nome": "HS SPORTS F.C"
+    },
+    "visitante": {
+      "id": 9,
+      "nome": "PUXE FC"
+    }
+  },
+  {
+    "rodada": 5,
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     }
   },
   {
@@ -589,12 +589,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 10,
+      "nome": "Pity10"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
   {
@@ -602,12 +602,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     }
   },
   {
@@ -615,12 +615,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -628,12 +628,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -641,12 +641,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -654,11 +654,11 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     }
   },
@@ -667,12 +667,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -680,12 +680,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -693,12 +693,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -706,12 +706,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 10,
+      "nome": "Pity10"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -719,12 +719,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -732,12 +732,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
   {
@@ -745,12 +745,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -758,12 +758,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 4,
+      "nome": "Dom Camillo68"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -771,12 +771,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -784,12 +784,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 5,
+      "nome": "FBC Colorado"
     }
   },
   {
@@ -797,12 +797,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -810,12 +810,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -823,21 +823,8 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
-    },
-    "visitante": {
-      "id": 20,
-      "nome": "seralex"
-    }
-  },
-  {
-    "rodada": 7,
-    "confronto": 5,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     },
     "visitante": {
       "id": 15,
@@ -846,15 +833,28 @@ const confrontosFase1 = [
   },
   {
     "rodada": 7,
+    "confronto": 5,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 10,
+      "nome": "Pity10"
+    },
+    "visitante": {
+      "id": 17,
+      "nome": "cartola scheuer"
+    }
+  },
+  {
+    "rodada": 7,
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -862,12 +862,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -875,12 +875,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -888,12 +888,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -901,12 +901,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -914,12 +914,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -927,12 +927,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 12,
+      "nome": "Real SCI"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -940,12 +940,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     }
   },
   {
@@ -953,12 +953,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -966,12 +966,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -979,12 +979,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 17,
+      "nome": "cartola scheuer"
     }
   },
   {
@@ -992,12 +992,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 4,
+      "nome": "Dom Camillo68"
     },
     "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -1005,12 +1005,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     }
   },
   {
@@ -1018,12 +1018,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
   {
@@ -1031,12 +1031,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -1044,12 +1044,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     }
   },
   {
@@ -1057,8 +1057,47 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
+      "id": 15,
+      "nome": "Tatols Beants F.C"
+    },
+    "visitante": {
+      "id": 12,
+      "nome": "Real SCI"
+    }
+  },
+  {
+    "rodada": 9,
+    "confronto": 3,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 8,
+      "nome": "HS SPORTS F.C"
+    },
+    "visitante": {
+      "id": 10,
+      "nome": "Pity10"
+    }
+  },
+  {
+    "rodada": 9,
+    "confronto": 4,
+    "grupo": "Série B",
+    "mandante": {
       "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "nome": "BORGES CLIMA FUT F.C"
+    },
+    "visitante": {
+      "id": 19,
+      "nome": "pura bucha /botafogo"
+    }
+  },
+  {
+    "rodada": 9,
+    "confronto": 5,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
       "id": 20,
@@ -1067,54 +1106,15 @@ const confrontosFase1 = [
   },
   {
     "rodada": 9,
-    "confronto": 3,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
-    },
-    "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
-    }
-  },
-  {
-    "rodada": 9,
-    "confronto": 4,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
-    },
-    "visitante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
-    }
-  },
-  {
-    "rodada": 9,
-    "confronto": 5,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
-    },
-    "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
-    }
-  },
-  {
-    "rodada": 9,
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -1122,12 +1122,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -1135,12 +1135,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -1148,12 +1148,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -1161,12 +1161,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
       "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
   {
@@ -1174,11 +1174,11 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     }
   },
@@ -1187,12 +1187,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 10,
+      "nome": "Pity10"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -1200,73 +1200,8 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 20,
-      "nome": "seralex"
-    },
-    "visitante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
-    }
-  },
-  {
-    "rodada": 10,
-    "confronto": 4,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
-    },
-    "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
-    }
-  },
-  {
-    "rodada": 10,
-    "confronto": 5,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
-    },
-    "visitante": {
       "id": 19,
-      "nome": "lsauer fc"
-    }
-  },
-  {
-    "rodada": 10,
-    "confronto": 6,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
-    },
-    "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
-    }
-  },
-  {
-    "rodada": 10,
-    "confronto": 7,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
-    },
-    "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
-    }
-  },
-  {
-    "rodada": 10,
-    "confronto": 8,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
       "id": 15,
@@ -1275,15 +1210,80 @@ const confrontosFase1 = [
   },
   {
     "rodada": 10,
+    "confronto": 4,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 20,
+      "nome": "seralex"
+    },
+    "visitante": {
+      "id": 8,
+      "nome": "HS SPORTS F.C"
+    }
+  },
+  {
+    "rodada": 10,
+    "confronto": 5,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 14,
+      "nome": "TIGRE LEON"
+    },
+    "visitante": {
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
+    }
+  },
+  {
+    "rodada": 10,
+    "confronto": 6,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 16,
+      "nome": "Texas Club 2025"
+    },
+    "visitante": {
+      "id": 4,
+      "nome": "Dom Camillo68"
+    }
+  },
+  {
+    "rodada": 10,
+    "confronto": 7,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 7,
+      "nome": "Grêmio imortal 37"
+    },
+    "visitante": {
+      "id": 13,
+      "nome": "Sport Clube PAIM"
+    }
+  },
+  {
+    "rodada": 10,
+    "confronto": 8,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 17,
+      "nome": "cartola scheuer"
+    },
+    "visitante": {
+      "id": 11,
+      "nome": "PraiaBravaFC"
+    }
+  },
+  {
+    "rodada": 10,
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -1291,12 +1291,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -1304,11 +1304,11 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 1,
+      "id": 2,
       "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
@@ -1317,12 +1317,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -1330,12 +1330,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -1343,12 +1343,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -1356,12 +1356,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     },
     "visitante": {
       "id": 4,
-      "nome": "E.C. Bororé"
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -1369,12 +1369,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     }
   },
   {
@@ -1382,12 +1382,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 16,
+      "nome": "Texas Club 2025"
     }
   },
   {
@@ -1395,12 +1395,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -1408,12 +1408,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -1421,12 +1421,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -1434,12 +1434,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -1447,12 +1447,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 12,
+      "nome": "Real SCI"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 20,
+      "nome": "seralex"
     }
   },
   {
@@ -1460,51 +1460,51 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 9,
+      "id": 19,
+      "nome": "pura bucha /botafogo"
+    }
+  },
+  {
+    "rodada": 12,
+    "confronto": 4,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 10,
+      "nome": "Pity10"
+    },
+    "visitante": {
+      "id": 4,
+      "nome": "Dom Camillo68"
+    }
+  },
+  {
+    "rodada": 12,
+    "confronto": 5,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 15,
+      "nome": "Tatols Beants F.C"
+    },
+    "visitante": {
+      "id": 7,
       "nome": "Grêmio imortal 37"
     }
   },
   {
     "rodada": 12,
-    "confronto": 4,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
-    },
-    "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
-    }
-  },
-  {
-    "rodada": 12,
-    "confronto": 5,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 20,
-      "nome": "seralex"
-    },
-    "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
-    }
-  },
-  {
-    "rodada": 12,
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -1512,12 +1512,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -1525,12 +1525,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 16,
+      "nome": "Texas Club 2025"
     }
   },
   {
@@ -1538,12 +1538,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -1551,12 +1551,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -1564,12 +1564,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 5,
+      "nome": "FBC Colorado"
     }
   },
   {
@@ -1577,12 +1577,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -1590,12 +1590,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -1603,12 +1603,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     }
   },
   {
@@ -1616,12 +1616,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 10,
+      "nome": "Pity10"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -1629,12 +1629,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -1642,12 +1642,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -1655,12 +1655,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -1668,12 +1668,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -1681,8 +1681,21 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 9,
+      "nome": "PUXE FC"
+    },
+    "visitante": {
+      "id": 13,
+      "nome": "Sport Clube PAIM"
+    }
+  },
+  {
+    "rodada": 14,
+    "confronto": 1,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
       "id": 16,
@@ -1691,28 +1704,15 @@ const confrontosFase1 = [
   },
   {
     "rodada": 14,
-    "confronto": 1,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
-    },
-    "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
-    }
-  },
-  {
-    "rodada": 14,
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 4,
+      "nome": "Dom Camillo68"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -1720,12 +1720,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -1733,12 +1733,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 20,
+      "nome": "seralex"
     }
   },
   {
@@ -1746,12 +1746,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     }
   },
   {
@@ -1759,12 +1759,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -1772,12 +1772,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     }
   },
   {
@@ -1785,12 +1785,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -1798,12 +1798,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -1811,12 +1811,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -1824,12 +1824,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -1837,12 +1837,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -1850,12 +1850,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -1863,12 +1863,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -1876,34 +1876,8 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
-    },
-    "visitante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
-    }
-  },
-  {
-    "rodada": 15,
-    "confronto": 6,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
-    },
-    "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
-    }
-  },
-  {
-    "rodada": 15,
-    "confronto": 7,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
       "id": 20,
@@ -1912,15 +1886,41 @@ const confrontosFase1 = [
   },
   {
     "rodada": 15,
+    "confronto": 6,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
+    },
+    "visitante": {
+      "id": 19,
+      "nome": "pura bucha /botafogo"
+    }
+  },
+  {
+    "rodada": 15,
+    "confronto": 7,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
+    },
+    "visitante": {
+      "id": 10,
+      "nome": "Pity10"
+    }
+  },
+  {
+    "rodada": 15,
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     }
   },
   {
@@ -1928,12 +1928,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -1941,12 +1941,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -1954,12 +1954,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -1967,12 +1967,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 11,
+      "nome": "PraiaBravaFC"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -1980,12 +1980,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     }
   },
   {
@@ -1993,12 +1993,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 4,
+      "nome": "Dom Camillo68"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -2006,12 +2006,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
   {
@@ -2019,12 +2019,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 20,
+      "nome": "seralex"
     }
   },
   {
@@ -2032,12 +2032,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     }
   },
   {
@@ -2049,8 +2049,8 @@ const confrontosFase1 = [
       "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 17,
+      "nome": "cartola scheuer"
     }
   },
   {
@@ -2058,12 +2058,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     },
     "visitante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -2071,12 +2071,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 16,
+      "nome": "Texas Club 2025"
     }
   },
   {
@@ -2084,11 +2084,11 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 6,
+      "id": 5,
       "nome": "FBC Colorado"
     }
   },
@@ -2097,12 +2097,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 12,
+      "nome": "Real SCI"
     }
   },
   {
@@ -2110,12 +2110,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -2123,12 +2123,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     }
   },
   {
@@ -2136,12 +2136,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 4,
+      "nome": "Dom Camillo68"
     }
   },
   {
@@ -2149,12 +2149,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -2162,8 +2162,34 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 17,
+      "nome": "cartola scheuer"
+    },
+    "visitante": {
+      "id": 19,
+      "nome": "pura bucha /botafogo"
+    }
+  },
+  {
+    "rodada": 17,
+    "confronto": 8,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 10,
+      "nome": "Pity10"
+    },
+    "visitante": {
+      "id": 13,
+      "nome": "Sport Clube PAIM"
+    }
+  },
+  {
+    "rodada": 17,
+    "confronto": 9,
+    "grupo": "Série B",
+    "mandante": {
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
       "id": 15,
@@ -2172,41 +2198,15 @@ const confrontosFase1 = [
   },
   {
     "rodada": 17,
-    "confronto": 8,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
-    },
-    "visitante": {
-      "id": 12,
-      "nome": "SISO FC25"
-    }
-  },
-  {
-    "rodada": 17,
-    "confronto": 9,
-    "grupo": "Série B",
-    "mandante": {
-      "id": 20,
-      "nome": "seralex"
-    },
-    "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
-    }
-  },
-  {
-    "rodada": 17,
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -2214,12 +2214,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 4,
+      "nome": "Dom Camillo68"
     },
     "visitante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 5,
+      "nome": "FBC Colorado"
     }
   },
   {
@@ -2227,12 +2227,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 12,
+      "nome": "Real SCI"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 18,
+      "nome": "lsauer fc"
     }
   },
   {
@@ -2240,12 +2240,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     },
     "visitante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -2253,12 +2253,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -2266,12 +2266,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 9,
+      "nome": "PUXE FC"
     }
   },
   {
@@ -2279,12 +2279,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 14,
+      "nome": "TIGRE LEON"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 17,
+      "nome": "cartola scheuer"
     }
   },
   {
@@ -2292,12 +2292,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 20,
+      "nome": "seralex"
     }
   },
   {
@@ -2305,12 +2305,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     }
   },
   {
@@ -2318,12 +2318,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     },
     "visitante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 10,
+      "nome": "Pity10"
     }
   },
   {
@@ -2331,12 +2331,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     }
   },
   {
@@ -2344,12 +2344,12 @@ const confrontosFase1 = [
     "confronto": 1,
     "grupo": "Série B",
     "mandante": {
-      "id": 10,
-      "nome": "OlhaEleAiF.C!"
+      "id": 5,
+      "nome": "FBC Colorado"
     },
     "visitante": {
-      "id": 6,
-      "nome": "FBC Colorado"
+      "id": 11,
+      "nome": "PraiaBravaFC"
     }
   },
   {
@@ -2357,12 +2357,12 @@ const confrontosFase1 = [
     "confronto": 2,
     "grupo": "Série B",
     "mandante": {
-      "id": 7,
-      "nome": "Fedato Futebol Clube"
+      "id": 12,
+      "nome": "Real SCI"
     },
     "visitante": {
-      "id": 3,
-      "nome": "BORGES ITAQUI F.C."
+      "id": 2,
+      "nome": "Analove10 ITAQUI GRANDE!!"
     }
   },
   {
@@ -2370,12 +2370,12 @@ const confrontosFase1 = [
     "confronto": 3,
     "grupo": "Série B",
     "mandante": {
-      "id": 17,
-      "nome": "Time do S.A.P.O"
+      "id": 18,
+      "nome": "lsauer fc"
     },
     "visitante": {
-      "id": 2,
-      "nome": "Atlético Colorado 2021"
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
     }
   },
   {
@@ -2383,12 +2383,12 @@ const confrontosFase1 = [
     "confronto": 4,
     "grupo": "Série B",
     "mandante": {
-      "id": 16,
-      "nome": "Texas Club 2025"
+      "id": 9,
+      "nome": "PUXE FC"
     },
     "visitante": {
-      "id": 14,
-      "nome": "Tabajara de Inhaua FC2"
+      "id": 6,
+      "nome": "Fedato Futebol Clube"
     }
   },
   {
@@ -2396,12 +2396,12 @@ const confrontosFase1 = [
     "confronto": 5,
     "grupo": "Série B",
     "mandante": {
-      "id": 15,
-      "nome": "Tatols Beants F.C"
+      "id": 17,
+      "nome": "cartola scheuer"
     },
     "visitante": {
-      "id": 8,
-      "nome": "Gremiomaniasm"
+      "id": 7,
+      "nome": "Grêmio imortal 37"
     }
   },
   {
@@ -2409,12 +2409,12 @@ const confrontosFase1 = [
     "confronto": 6,
     "grupo": "Série B",
     "mandante": {
-      "id": 1,
-      "nome": "Analove10 ITAQUI GRANDE!!"
+      "id": 4,
+      "nome": "Dom Camillo68"
     },
     "visitante": {
-      "id": 18,
-      "nome": "cartola scheuer"
+      "id": 13,
+      "nome": "Sport Clube PAIM"
     }
   },
   {
@@ -2422,12 +2422,12 @@ const confrontosFase1 = [
     "confronto": 7,
     "grupo": "Série B",
     "mandante": {
-      "id": 13,
-      "nome": "TIGRE LEON"
+      "id": 16,
+      "nome": "Texas Club 2025"
     },
     "visitante": {
-      "id": 11,
-      "nome": "Rolo Compressor ZN"
+      "id": 14,
+      "nome": "TIGRE LEON"
     }
   },
   {
@@ -2435,12 +2435,12 @@ const confrontosFase1 = [
     "confronto": 8,
     "grupo": "Série B",
     "mandante": {
-      "id": 19,
-      "nome": "lsauer fc"
+      "id": 20,
+      "nome": "seralex"
     },
     "visitante": {
-      "id": 5,
-      "nome": "Eleis-Itaqui"
+      "id": 3,
+      "nome": "BORGES CLIMA FUT F.C"
     }
   },
   {
@@ -2448,12 +2448,12 @@ const confrontosFase1 = [
     "confronto": 9,
     "grupo": "Série B",
     "mandante": {
-      "id": 4,
-      "nome": "E.C. Bororé"
+      "id": 19,
+      "nome": "pura bucha /botafogo"
     },
     "visitante": {
-      "id": 9,
-      "nome": "Grêmio imortal 37"
+      "id": 8,
+      "nome": "HS SPORTS F.C"
     }
   },
   {
@@ -2461,12 +2461,12 @@ const confrontosFase1 = [
     "confronto": 10,
     "grupo": "Série B",
     "mandante": {
-      "id": 12,
-      "nome": "SISO FC25"
+      "id": 15,
+      "nome": "Tatols Beants F.C"
     },
     "visitante": {
-      "id": 20,
-      "nome": "seralex"
+      "id": 10,
+      "nome": "Pity10"
     }
   }
 ];

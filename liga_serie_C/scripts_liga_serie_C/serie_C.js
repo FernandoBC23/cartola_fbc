@@ -102,7 +102,7 @@ window.addEventListener('DOMContentLoaded', () => {
         const tr = document.createElement("tr");
         if (index === 0 || index === 1) tr.classList.add("lider-grupo");
 
-        const escudo = escudosTimes[time.nome] || "../imagens/escudo_padrao.png";
+        const escudoSrc = nome => escudosTimes[nome] || `../imagens/${gerarNomeArquivo(nome)}.png`;
 
         tr.innerHTML = `
           <td>${time.posicao}</td>
