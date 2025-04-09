@@ -102,7 +102,7 @@ window.addEventListener('DOMContentLoaded', () => {
       tabela.innerHTML = `
         <thead>
           <tr>
-            <th>Posição</th>
+            <th>Pos</th>
             <th>Time</th>
             <th>Pts</th>
             <th>J</th>

@@ -1,0 +1,273 @@
+/* ========================================
+   reset.css (Sugerido como primeiro import)
+   ----------------------------------------
+   Reseta estilos padrão dos navegadores
+======================================== */
+
+/* ========================================
+   styles_global.css
+   → Estilos compartilhados padronizados
+======================================== */
+
+/* === Cores padrão === */
+:root {
+    --fundo: #2C3639;
+    --bloco: #3F4E4F;
+    --destaque: #A27B5C;
+    --texto: #DCD7C9;
+    --preto: #252525;
+    --cinza-claro: #f7f9f9;
+  }
+
+  
+  /* === Base === */
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--fundo);
+    color: var(--texto);
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+  }
+  
+  body.loaded {
+    opacity: 1;
+  }
+  
+  h1, h2 {
+    color: var(--fundo);
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 26px;
+  }
+  
+  h2 {
+    font-size: 18px;
+  }
+  
+  /* === Header / Navegação === */
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: var(--bloco);
+    padding: 12px 20px;
+    border-bottom: 3px solid var(--destaque);
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .logo-titulo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .logo {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 8px;
+    background-color: #f0f0f0;
+  }
+  
+  .header h1 {
+    font-size: 20px;
+    margin: 0;
+    color: var(--texto);
+  }
+  
+  .navbar ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar a {
+    color: var(--texto);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 6px 10px;
+    transition: 0.3s;
+  }
+  
+  .navbar a:hover {
+    color: var(--destaque);
+    border-bottom: 2px solid var(--destaque);
+  }
+  
+  .navbar a.ativo {
+    color: var(--destaque);
+    border-bottom: 2px solid var(--destaque);
+  }
+  
+  /* === Painel de Grupos === */
+  #painel-grupos {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 40px;
+    /* background-color: aqua;  */
+  }
+  
+  .grupo-linha {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+    /* background-color: chartreuse; */
+  }
+  
+  .grupo-linha .coluna-esquerda,
+  .grupo-linha .coluna-direita {
+    flex: 1 1 48%;
+  }
+
+  /* === Tabela de Classificação === */
+.tabela-classificacao {
+    max-width: 960px;
+    width: 100%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    border-radius: 6px;
+    overflow: hidden;
+    background-color: var(--cinza-claro);
+    box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.9);
+    font-size: 14px;
+  }
+  
+  .tabela-classificacao th {
+    background-color: var(--preto);
+    color: var(--texto);
+    padding: 12px;
+  }
+  
+  .tabela-classificacao td {
+    padding: 10px;
+    border-bottom: 1px solid var(--fundo);
+    color: var(--preto);
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .tabela-classificacao tbody tr:hover {
+    background-color: var(--texto);
+    transition: background-color 0.3s ease;
+  }
+
+  
+  /* === Página em Construção === */
+  .pagina-construcao {
+    text-align: center;
+    margin: 60px auto;
+    padding: 40px;
+    border: 2px dashed var(--destaque);
+    border-radius: 12px;
+    background-color: var(--bloco);
+    color: var(--texto);
+    max-width: 600px;
+    font-weight: bold;
+    box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.9);
+  }
+  
+  .pagina-construcao h2 {
+    font-size: 22px;
+    margin-bottom: 12px;
+  }
+  
+  /* === Rodapé === */
+  .footer {
+    background-color: var(--bloco);
+    color: var(--texto);
+    text-align: center;
+    padding: 15px;
+    font-size: 13px;
+    border-top: 1px solid var(--fundo);
+    margin-top: 20px;
+  }
+  
+  .footer-content p {
+    margin: 5px 0;
+  }
+
+
+  /* ------------------------------------
+   RESPONSIVO PARA DISPOSITIVOS MÓVEIS
+   ------------------------------------ */
+   @media (max-width: 768px) {
+
+    body {
+      font-size: 13px;
+      padding: 0 16px;
+    }
+  
+    .header-content {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+    }
+  
+    .logo-titulo {
+      flex-direction: row;
+      align-items: center;
+      gap: 12px;
+    }
+  
+    .logo {
+      width: 20%;
+      height: 20%;
+    }
+  
+    .header h1 {
+      font-size: 18px;
+    }
+
+    h2 {
+      font-size: 8px;
+    }
+  
+    .navbar ul {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+      padding-left: 0;
+      margin-top: 8px;
+    }
+  
+    .navbar a {
+      font-size: 13px;
+      padding: 4px 8px;
+    }
+  
+    .pagina-construcao {
+      padding: 20px;
+      margin: 40px 0;
+      max-width: 90%;
+      font-size: 14px;
+    }
+  
+    .pagina-construcao h2 {
+      font-size: 20px;
+    }
+  
+    footer {
+      padding: 10px;
+      font-size: 10px;
+    }
+    
+  }
+  
+  
