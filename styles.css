@@ -36,7 +36,7 @@ h1 {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 /* Header / Navegação */
@@ -359,6 +359,10 @@ h2 {
     .header h1 {
       font-size: 18px;
     }
+
+    h2 {
+      font-size: 8px;
+    }
   
     .navbar ul {
       flex-direction: column;
@@ -381,7 +385,7 @@ h2 {
     }
   
     .card-competicao {
-      width: 30%;
+      width: 35%;
     }
   
     .pagina-construcao {
