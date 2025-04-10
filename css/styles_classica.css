@@ -47,10 +47,33 @@ body {
   }
 
   .escudo {
-    width: 24px;
-    height: 24px;
+    width: 7%;
+    height: 7%;
     object-fit: contain;
+    border-radius: 10%;
+  }
+
+  .tag {
+    /* background-color: #A27B5C; */
+    background-color: #fad504;
+    color: #fff;
+    padding: 2px 6px;
     border-radius: 4px;
+    font-size: 8px;
+    margin-left: 8px;
+    font-weight: 600;
+    box-shadow: 2px 4px 8px rgba(0,0,0,0.9);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+
+  .tag-amarela {
+    background-color: #f1c40f;
+    color: #000;
+  }
+
+  .tag-verde {
+    background-color: #2ecc71;
+    color: white;
   }
   
   
@@ -125,10 +148,22 @@ body {
       width: 20px;
       height: 20px;
     }
+
+    .tag {
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 6px;
+      /* margin-left: 8px; */
+      font-weight: 600;
+      transition: background-color 0.3s ease, transform 0.2s ease;
+    }
   
     .footer {
       font-size: 10px;
       padding: 10px;
     }
   }
+ 
   
+
+

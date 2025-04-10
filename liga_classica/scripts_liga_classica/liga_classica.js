@@ -1,10 +1,3 @@
-// document.addEventListener("DOMContentLoaded", () => {
-//   const rodadaAtual = 1;
-//   exibirPontuacoesRodada(rodadaAtual);
-
-//   const classificacao = gerarClassificacaoGeral(pontuacoesPorRodada);
-//   exibirClassificacao(classificacao);
-// });
 
 // DICIONÁRIO DOS ESCUDOS
 const escudosTimes = {
@@ -72,14 +65,14 @@ const escudosTimes = {
 
 document.addEventListener("DOMContentLoaded", () => {
   criarAbas();
-  exibirClassificacaoPor("geral", "");
+  exibirClassificacaoPor("geral", "geral");
 });
 
 function criarAbas() {
   const container = document.getElementById("tabs-container");
 
   const abas = [
-    { label: "Geral", type: "geral", key: "" },
+    { label: "Geral", type: "geral", key: "geral" },
     { label: "Turno 1", type: "turnos", key: "turno_1" },
     { label: "Turno 2", type: "turnos", key: "turno_2" },
     ...Object.keys(classificacaoLigaClassica.meses).map(mes => ({
@@ -106,8 +99,26 @@ function criarAbas() {
   });
 }
 
+function obterRodadaAtual() {
+  const geral = classificacaoLigaClassica.geral;
+  const umTimeQualquer = Object.keys(geral)[0];
+  const rodadas = Object.keys(geral[umTimeQualquer]);
+
+  const numerosRodadas = rodadas.map(r => {
+    const match = r.match(/\d+/);
+    return match ? parseInt(match[0], 10) : 0;
+  });
+
+  return Math.max(...numerosRodadas);
+}
+
+
 function exibirClassificacaoPor(tipo, chave) {
+
+  console.log("Objeto completo:", classificacaoLigaClassica);
+
   let dados = [];
+  const rodadaAtual = obterRodadaAtual();
 
   if (tipo === "geral") {
     const geral = classificacaoLigaClassica.geral;
@@ -123,34 +134,81 @@ function exibirClassificacaoPor(tipo, chave) {
     }
   }
 
+  const { texto, cor } = gerarStatusDaTag(tipo, chave, rodadaAtual);
   dados.sort((a, b) => b.totalPontos - a.totalPontos);
-  renderizarTabela(dados);
+
+  console.log("Rodada Atual:", rodadaAtual, "Tipo:", tipo, "Chave:", chave);
+  console.log("Tag:", texto, "Cor:", cor);
+
+  renderizarTabela(dados, texto, cor, tipo);
 }
 
-function renderizarTabela(classificacao) {
-  const tbody = document.getElementById("classificacao-corpo");
-  tbody.innerHTML = "";
+function gerarStatusDaTag(tipo, chave, rodadaAtual) {
+  if (tipo === "geral" && chave === "geral") {
+    if (rodadaAtual <= 37) {
+      return { texto: "Zona de Premiação", cor: "amarela" };
+    } else {
+      return { texto: "Premiados", cor: "verde" };
+    }
+  }
 
-  classificacao.forEach((item, index) => {
-    const escudo = escudosTimes[item.time] || "escudos/default.png";
-    const row = document.createElement("tr");
+  if (tipo === "turnos") {
+    if (chave === "turno_1") {
+      if (rodadaAtual <= 19) {
+        return { texto: "Zona de Premiação", cor: "amarela" };
+      } else {
+        return { texto: "Premiados", cor: "verde" };
+      }
+    }
 
-    row.innerHTML = `
-      <td>${index + 1}</td>
-      <td>
-        <div class="time-info">
-          <img src="${escudo}" class="escudo" alt="${item.time}" />
-          ${item.time}
-        </div>
-      </td>
-      <td>${item.totalPontos.toFixed(2)}</td>
-    `;
+    if (chave === "turno_2") {
+      if (rodadaAtual < 20) {
+        return { texto: "", cor: "" };
+      } else if (rodadaAtual <= 37) {
+        return { texto: "Zona de Premiação", cor: "amarela" };
+      } else {
+        return { texto: "Premiados", cor: "verde" };
+      }
+    }
+  }
 
-    tbody.appendChild(row);
-  });
+  if (tipo === "meses") {
+    const rodadasPorMes = {
+      "Março": [1],
+      "Abril": [2, 3, 4, 5, 6],
+      "Maio": [7, 8, 9, 10, 11],
+      "Junho": [12],
+      "Julho": [13, 14, 15, 16, 17],
+      "Agosto": [18, 19, 20, 21, 22],
+      "Setembro": [23, 24, 25],
+      "Outubro": [26, 27, 28],
+      "Novembro": [29, 30, 31, 32],
+      "Dezembro": [33, 34, 35, 36, 37, 38]
+    };
+  
+    const rodadas = rodadasPorMes[chave];
+    if (!rodadas) return { texto: "", cor: "" };
+  
+    const primeiraRodada = Math.min(...rodadas);
+    const ultimaRodada = Math.max(...rodadas);
+  
+    if (rodadaAtual < primeiraRodada) {
+      return { texto: "", cor: "" }; // mês futuro
+    }
+  
+    if (rodadaAtual > ultimaRodada) {
+      return { texto: "Premiados", cor: "verde" }; // mês encerrado
+    }
+  
+    return { texto: "Zona de Premiação", cor: "amarela" }; // mês em andamento
+  }
+  
+
+  return { texto: "", cor: "" };
 }
 
-function renderizarTabela(classificacao) {
+
+function renderizarTabela(classificacao, tagTexto = "", tagCor = "", tipo = "") {
   const tbody = document.getElementById("classificacao-corpo");
   tbody.innerHTML = "";
 
@@ -184,12 +242,25 @@ function renderizarTabela(classificacao) {
     const row = document.createElement("tr");
     if (destaque) row.classList.add(destaque);
 
+    let exibirTag = false;
+
+    if (tagTexto) {
+      if (tipo === "geral" && posicao <= 5) exibirTag = true;
+      if (tipo === "turnos" && posicao <= 3) exibirTag = true;
+      if (tipo === "meses" && posicao <= 5) exibirTag = true;
+    }
+    
+    const tagSpan = exibirTag
+      ? `<span class="tag tag-${tagCor}">${tagTexto}</span>`
+      : "";
+    
+
     row.innerHTML = `
       <td>${posicao} ${icone}</td>
       <td>
         <div class="time-info">
           <img src="${escudo}" class="escudo" alt="${item.time}" />
-          ${item.time}
+          ${item.time} ${tagSpan}
         </div>
       </td>
       <td>${item.totalPontos.toFixed(2)}</td>

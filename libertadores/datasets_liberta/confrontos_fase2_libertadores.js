@@ -153,7 +153,7 @@ const confrontosFase2 = [
     "Rodada":1,
     "Grupo":"Grupo K",
     "Mandante":"Gig@ntte",
-    "Visitante":"TORRESMO COM PINGA"
+    "Visitante":"FC Los Castilho"
   },
   {
     "Rodada":2,
@@ -164,7 +164,7 @@ const confrontosFase2 = [
   {
     "Rodada":2,
     "Grupo":"Grupo K",
-    "Mandante":"TORRESMO COM PINGA",
+    "Mandante":"FC Los Castilho",
     "Visitante":"KING LEONN"
   },
   {
@@ -176,7 +176,7 @@ const confrontosFase2 = [
   {
     "Rodada":3,
     "Grupo":"Grupo K",
-    "Mandante":"TORRESMO COM PINGA",
+    "Mandante":"FC Los Castilho",
     "Visitante":"Real SCI"
   },
   {
@@ -189,7 +189,7 @@ const confrontosFase2 = [
     "Rodada":4,
     "Grupo":"Grupo K",
     "Mandante":"KING LEONN",
-    "Visitante":"TORRESMO COM PINGA"
+    "Visitante":"FC Los Castilho"
   },
   {
     "Rodada":5,
@@ -201,7 +201,7 @@ const confrontosFase2 = [
     "Rodada":5,
     "Grupo":"Grupo K",
     "Mandante":"Real SCI",
-    "Visitante":"TORRESMO COM PINGA"
+    "Visitante":"FC Los Castilho"
   },
   {
     "Rodada":6,
@@ -212,7 +212,7 @@ const confrontosFase2 = [
   {
     "Rodada":6,
     "Grupo":"Grupo K",
-    "Mandante":"TORRESMO COM PINGA",
+    "Mandante":"FC Los Castilho",
     "Visitante":"Gig@ntte"
   },
   {

@@ -163,32 +163,32 @@ const confrontosFase1 = [
     "grupo": "Grupo F",
     "rodada": 1,
     "mandante": {
-      "id": 50158297,
-      "nome": "Lá do Itaqui",
-      "clube": "Internacional",
-      "participante": "Gerônimo"
-    },
-    "visitante": {
-      "id": 25311459,
-      "nome": "FC Los Castilho",
-      "clube": "Nacional",
-      "participante": "Castilho"
-    }
-  },
-  {
-    "grupo": "Grupo F",
-    "rodada": 1,
-    "mandante": {
       "id": 49128587,
       "nome": "TORRESMO COM PINGA",
       "clube": "Bahia",
       "participante": "Marquinho"
     },
     "visitante": {
+      "id": 50158297,
+      "nome": "Lá do Itaqui",
+      "clube": "Internacional",
+      "participante": "Gerônimo"
+    }
+  },
+  {
+    "grupo": "Grupo F",
+    "rodada": 1,
+    "mandante": {
       "id": 29228373,
       "nome": "seralex",
       "clube": "Atlético Nacional",
       "participante": "Alex"
+    },
+    "visitante": {
+      "id": 25311459,
+      "nome": "FC Los Castilho",
+      "clube": "Nacional",
+      "participante": "Castilho"
     }
   },
   {
@@ -419,16 +419,16 @@ const confrontosFase1 = [
     "grupo": "Grupo F",
     "rodada": 2,
     "mandante": {
-      "id": 29228373,
-      "nome": "seralex",
-      "clube": "Atlético Nacional",
-      "participante": "Alex"
-    },
-    "visitante": {
       "id": 50158297,
       "nome": "Lá do Itaqui",
       "clube": "Internacional",
       "participante": "Gerônimo"
+    },
+    "visitante": {
+      "id": 29228373,
+      "nome": "seralex",
+      "clube": "Atlético Nacional",
+      "participante": "Alex"
     }
   },
   {
@@ -681,20 +681,20 @@ const confrontosFase1 = [
       "participante": "Gerônimo"
     },
     "visitante": {
-      "id": 49128587,
-      "nome": "TORRESMO COM PINGA",
-      "clube": "Bahia",
-      "participante": "Marquinho"
+      "id": 25311459,
+      "nome": "FC Los Castilho",
+      "clube": "Nacional",
+      "participante": "Castilho"
     }
   },
   {
     "grupo": "Grupo F",
     "rodada": 3,
     "mandante": {
-      "id": 25311459,
-      "nome": "FC Los Castilho",
-      "clube": "Nacional",
-      "participante": "Castilho"
+      "id": 49128587,
+      "nome": "TORRESMO COM PINGA",
+      "clube": "Bahia",
+      "participante": "Marquinho"
     },
     "visitante": {
       "id": 29228373,
@@ -931,16 +931,16 @@ const confrontosFase1 = [
     "grupo": "Grupo F",
     "rodada": 4,
     "mandante": {
-      "id": 50158297,
-      "nome": "Lá do Itaqui",
-      "clube": "Internacional",
-      "participante": "Gerônimo"
-    },
-    "visitante": {
       "id": 29228373,
       "nome": "seralex",
       "clube": "Atlético Nacional",
       "participante": "Alex"
+    },
+    "visitante": {
+      "id": 50158297,
+      "nome": "Lá do Itaqui",
+      "clube": "Internacional",
+      "participante": "Gerônimo"
     }
   },
   {
@@ -1187,10 +1187,10 @@ const confrontosFase1 = [
     "grupo": "Grupo F",
     "rodada": 5,
     "mandante": {
-      "id": 49128587,
-      "nome": "TORRESMO COM PINGA",
-      "clube": "Bahia",
-      "participante": "Marquinho"
+      "id": 25311459,
+      "nome": "FC Los Castilho",
+      "clube": "Nacional",
+      "participante": "Castilho"
     },
     "visitante": {
       "id": 50158297,
@@ -1209,10 +1209,10 @@ const confrontosFase1 = [
       "participante": "Alex"
     },
     "visitante": {
-      "id": 25311459,
-      "nome": "FC Los Castilho",
-      "clube": "Nacional",
-      "participante": "Castilho"
+      "id": 49128587,
+      "nome": "TORRESMO COM PINGA",
+      "clube": "Bahia",
+      "participante": "Marquinho"
     }
   },
   {
@@ -1443,32 +1443,32 @@ const confrontosFase1 = [
     "grupo": "Grupo F",
     "rodada": 6,
     "mandante": {
-      "id": 29228373,
-      "nome": "seralex",
-      "clube": "Atlético Nacional",
-      "participante": "Alex"
-    },
-    "visitante": {
-      "id": 49128587,
-      "nome": "TORRESMO COM PINGA",
-      "clube": "Bahia",
-      "participante": "Marquinho"
-    }
-  },
-  {
-    "grupo": "Grupo F",
-    "rodada": 6,
-    "mandante": {
       "id": 25311459,
       "nome": "FC Los Castilho",
       "clube": "Nacional",
       "participante": "Castilho"
     },
     "visitante": {
+      "id": 29228373,
+      "nome": "seralex",
+      "clube": "Atlético Nacional",
+      "participante": "Alex"
+    }
+  },
+  {
+    "grupo": "Grupo F",
+    "rodada": 6,
+    "mandante": {
       "id": 50158297,
       "nome": "Lá do Itaqui",
       "clube": "Internacional",
       "participante": "Gerônimo"
+    },
+    "visitante": {
+      "id": 49128587,
+      "nome": "TORRESMO COM PINGA",
+      "clube": "Bahia",
+      "participante": "Marquinho"
     }
   },
   {

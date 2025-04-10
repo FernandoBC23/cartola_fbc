@@ -67,6 +67,48 @@ window.addEventListener('DOMContentLoaded', () => {
     "KillerColorado": "../imagens/killercolorado.png",
   };
 
+  const clubesTimes = {
+    "A Lenda Super Vasco F.c": "CBB",
+    "BORGES ITAQUI F.C.": "EST",
+    "Dom Camillo68": "UCH",
+    "pura bucha /botafogo": "BOT",
+
+    "lsauer fc": "BSC",
+    "Tabajara de Inhaua FC2": "IDV",
+    "Rolo Compressor ZN": "UNI",
+    "HS SPORTS F.C": "RIV",
+
+    "Analove10 ITAQUI GRANDE!!": "CCO",
+    "cartola scheuer": "LDU",
+    "Grêmio imortal 37": "TAC",
+    "TEAM LOPES 99": "FLA", 
+
+    "Fedato Futebol Clube": "ALI",
+    "Super Vasco f.c": "LIB", 
+    "Tatols Beants F.C": "TAL",  
+    "Texas Club 2025": "SAO",
+
+    "ITAQUI F.C.": "COL",
+    "Real SCI": "RAC",
+    "Gremiomaniasm": "ATL",
+    "E.C. Bororé": "FOR",
+
+    "Lá do Itaqui": "INT",
+    "FC Los Castilho": "NAC",
+    "TORRESMO COM PINGA": "BAH",
+    "seralex": "ATN",
+
+    "F.C. Rei Das Copas": "CCP",
+    "TATITTA FC": "BOL",  
+    "KillerColorado": "SCR",
+    "KING LEONN": "PAL",
+
+    "FBC Colorado": "VEL",     
+    "Gig@ntte": "SAB",  
+    "Laranjja Mecannica": "PEN",               
+    "MauHumor F.C.": "OLI",
+  }; 
+
 
   function renderPainelCompleto(numeroRodada) {
     painelGrupos.innerHTML = "";
@@ -122,7 +164,14 @@ window.addEventListener('DOMContentLoaded', () => {
         const escudo = escudosTimes[time.nome] || "../imagens/escudo_padrao.png";
         tr.innerHTML = `
           <td>${time.posicao}</td>
-          <td><div class="time-info"><img src="${escudo}" class="escudo" alt="${time.nome}">${time.nome}</div></td>
+          <td>
+            <div class="time-info">
+              <img src="${escudo}" class="escudo" alt="${time.nome}">
+              <span class="tag-clube">${clubesTimes[time.nome] ?? ""}</span>
+              ${time.nome}
+              
+            </div>
+          </td>
           <td>${time.pontos}</td>
           <td>${time.vitorias + time.empates + time.derrotas}</td>
           <td>${time.vitorias}</td>
@@ -152,11 +201,20 @@ window.addEventListener('DOMContentLoaded', () => {
 
           const time1 = document.createElement("div");
           time1.className = "time";
-          time1.innerHTML = `<img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">`;
+          // time1.innerHTML = `<img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">`;
+          time1.innerHTML = `
+            <img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">
+            <span class="tag-escudo">${clubesTimes[jogo.mandante.nome] ?? ""}</span>
+          `;
+
 
           const time2 = document.createElement("div");
           time2.className = "time";
-          time2.innerHTML = `<img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">`;
+          // time2.innerHTML = `<img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">`;
+          time2.innerHTML = `
+            <span class="tag-escudo">${clubesTimes[jogo.visitante.nome] ?? ""}</span>
+            <img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">            
+          `;
 
           const resultado = resultadosRodada.find(r =>
             r.mandante.nome === jogo.mandante.nome &&

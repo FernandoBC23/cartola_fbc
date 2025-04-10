@@ -132,7 +132,7 @@ const classificacao = {
     },
     {
       "Grupo": "Grupo K",
-      "Nome do Time": "TORRESMO COM PINGA",
+      "Nome do Time": "FC Los Castilho",
       "Pontos": 3,
       "Vitorias": NaN,
       "Empates": NaN,

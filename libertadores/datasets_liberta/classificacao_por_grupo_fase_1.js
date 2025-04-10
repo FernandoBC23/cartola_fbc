@@ -238,41 +238,41 @@ const classificacaoFase1 = {
       "empates": 0,
       "derrotas": 0,
       "totalCartola": 164.7001953125,
-      "cartolaSofrido": 137.64013671875,
-      "saldoCartola": 27.06005859375
+      "cartolaSofrido": 147.580078125,
+      "saldoCartola": 17.1201171875
     },
     {
       "posicao": 2,
-      "nome": "TORRESMO COM PINGA",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 161.18017578125,
-      "cartolaSofrido": 163.98974609375,
-      "saldoCartola": -2.8095703125
-    },
-    {
-      "posicao": 3,
       "nome": "FC Los Castilho",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
       "derrotas": 1,
       "totalCartola": 160.33984375,
-      "cartolaSofrido": 169.17041015625,
-      "saldoCartola": -8.83056640625
+      "cartolaSofrido": 154.89013671875,
+      "saldoCartola": 5.44970703125
+    },
+    {
+      "posicao": 3,
+      "nome": "seralex",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 141.2900390625,
+      "cartolaSofrido": 146.77001953125,
+      "saldoCartola": -5.47998046875
     },
     {
       "posicao": 4,
-      "nome": "seralex",
+      "nome": "TORRESMO COM PINGA",
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
       "derrotas": 2,
-      "totalCartola": 141.2900390625,
-      "cartolaSofrido": 156.7099609375,
-      "saldoCartola": -15.419921875
+      "totalCartola": 161.18017578125,
+      "cartolaSofrido": 178.27001953125,
+      "saldoCartola": -17.08984375
     }
   ],
   "Grupo G": [

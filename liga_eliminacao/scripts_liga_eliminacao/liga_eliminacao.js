@@ -1,3 +1,5 @@
+// liga_eliminacao.js
+
 let rodadaAtual = 1;
 let totalRodadas = 1;
 
@@ -134,12 +136,16 @@ function exibirPontuacoesRodada(rodada) {
     }
   }
 
+  // Ordena por pontuação
   lista.sort((a, b) => b.pontos - a.pontos);
-  const eliminadoRodada = eliminadosPorRodada[`Rodada ${rodada + 1}`]; // Eliminado aparece só na rodada seguinte
+
+  // Identifica o eliminado com base na menor pontuação da rodada atual
+  const menorPontuacao = lista.length > 0 ? lista[lista.length - 1].pontos : null;
+  const eliminadoDaRodadaAtual = lista.find(item => item.pontos === menorPontuacao)?.time || null;
 
   lista.forEach((item, index) => {
     const escudo = escudosTimes[item.time] || "../imagens/default.png";
-    const isEliminado = item.time === eliminadoRodada;
+    const isEliminado = item.time === eliminadoDaRodadaAtual;
 
     const row = document.createElement("tr");
     row.innerHTML = `
@@ -154,8 +160,8 @@ function exibirPontuacoesRodada(rodada) {
       <td>${item.pontos.toFixed(2)}</td>
     `;
 
-    if (item.time === eliminadoRodada) {
-      row.classList.add("eliminado-atual"); 
+    if (isEliminado) {
+      row.classList.add("eliminado-atual");
     }
 
     tbody.appendChild(row);
@@ -191,18 +197,12 @@ function exibirUltimoColocadoRodada(rodadaAtual) {
 
 function exibirResumoEliminacao(rodadaAtual) {
   const container = document.getElementById("resumo-eliminacao");
-  if (!container || rodadaAtual <= 1) return;
+  if (!container) return;
 
   const rodadaChave = `Rodada ${rodadaAtual}`;
-  const eliminadoAtual = eliminadosPorRodada[rodadaChave];
-
-  const rodadasPassadas = Object.keys(eliminadosPorRodada)
-    .filter(r => parseInt(r.split(" ")[1]) < rodadaAtual)
-    .sort((a, b) => parseInt(a.split(" ")[1]) - parseInt(b.split(" ")[1]));
 
   // 📊 Estatísticas da rodada
   const pontuacoesRodada = [];
-
   for (const time in pontuacoesPorRodada) {
     const pontos = pontuacoesPorRodada[time][rodadaChave];
     if (typeof pontos === "number") {
@@ -228,21 +228,27 @@ function exibirResumoEliminacao(rodadaAtual) {
     `;
   }
 
-  // 🧾 Resumo de eliminações
-  let eliminacoesHTML = `<h3>🔥 Eliminações</h3>`;
+  // 🔥 Eliminações reais: menor pontuação de cada rodada com dados
+  let eliminacoesHTML = `<h3>🔥 Eliminações</h3><ul>`;
 
-  if (eliminadoAtual) {
-    eliminacoesHTML += `<p><strong>❌ Eliminado da Rodada ${rodadaAtual}:</strong> ${eliminadoAtual}</p>`;
+  for (let i = 1; i <= rodadaAtual; i++) {
+    const chaveRodada = `Rodada ${i}`;
+    const pontuacoes = [];
+
+    for (const time in pontuacoesPorRodada) {
+      const pontos = pontuacoesPorRodada[time][chaveRodada];
+      if (typeof pontos === "number") {
+        pontuacoes.push({ time, pontos });
+      }
+    }
+
+    if (pontuacoes.length > 0) {
+      pontuacoes.sort((a, b) => a.pontos - b.pontos); // menor pontuação
+      const eliminado = pontuacoes[0].time;
+      eliminacoesHTML += `<li>❌ <strong>Rodada ${i}:</strong> ${eliminado}</li>`;
+    }
   }
 
-  if (rodadasPassadas.length > 0) {
-    eliminacoesHTML += `<p><strong>🕓 Eliminados anteriores:</strong></p><ul>`;
-    rodadasPassadas.forEach(r => {
-      eliminacoesHTML += `<li>${r}: ${eliminadosPorRodada[r]}</li>`;
-    });
-    eliminacoesHTML += `</ul>`;
-  }
-
+  eliminacoesHTML += `</ul>`;
   container.innerHTML = `${estatisticasHTML}${eliminacoesHTML}`;
 }
-

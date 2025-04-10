@@ -173,33 +173,33 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 1,
     "mandante": {
-      "nome": "Lá do Itaqui",
-      "participante": "Gerônimo",
-      "clube": "Internacional",
-      "pontos": 82.68017578125
-    },
-    "visitante": {
-      "nome": "FC Los Castilho",
-      "participante": "Castilho",
-      "clube": "Nacional",
-      "pontos": 64.75
-    },
-    "vencedor": "mandante"
-  },
-  {
-    "grupo": "Grupo F",
-    "rodada": 1,
-    "mandante": {
       "nome": "TORRESMO COM PINGA",
       "participante": "Marquinho",
       "clube": "Bahia",
       "pontos": 74.68994140625
     },
     "visitante": {
+      "nome": "Lá do Itaqui",
+      "participante": "Gerônimo",
+      "clube": "Internacional",
+      "pontos": 82.68017578125
+    },
+    "vencedor": "visitante"
+  },
+  {
+    "grupo": "Grupo F",
+    "rodada": 1,
+    "mandante": {
       "nome": "seralex",
       "participante": "Alex",
       "clube": "Atlético Nacional",
       "pontos": 68.39990234375
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "participante": "Castilho",
+      "clube": "Nacional",
+      "pontos": 64.75
     },
     "vencedor": "mandante"
   },
@@ -445,18 +445,18 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 2,
     "mandante": {
-      "nome": "seralex",
-      "participante": "Alex",
-      "clube": "Atlético Nacional",
-      "pontos": 72.89013671875
-    },
-    "visitante": {
       "nome": "Lá do Itaqui",
       "participante": "Gerônimo",
       "clube": "Internacional",
       "pontos": 82.02001953125
     },
-    "vencedor": "visitante"
+    "visitante": {
+      "nome": "seralex",
+      "participante": "Alex",
+      "clube": "Atlético Nacional",
+      "pontos": 72.89013671875
+    },
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo F",
@@ -723,9 +723,9 @@ const resultadosFase1 = [
       "pontos": null
     },
     "visitante": {
-      "nome": "TORRESMO COM PINGA",
-      "participante": "Marquinho",
-      "clube": "Bahia",
+      "nome": "FC Los Castilho",
+      "participante": "Castilho",
+      "clube": "Nacional",
       "pontos": null
     },
     "vencedor": "indefinido"
@@ -734,9 +734,9 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 3,
     "mandante": {
-      "nome": "FC Los Castilho",
-      "participante": "Castilho",
-      "clube": "Nacional",
+      "nome": "TORRESMO COM PINGA",
+      "participante": "Marquinho",
+      "clube": "Bahia",
       "pontos": null
     },
     "visitante": {
@@ -989,15 +989,15 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 4,
     "mandante": {
-      "nome": "Lá do Itaqui",
-      "participante": "Gerônimo",
-      "clube": "Internacional",
-      "pontos": null
-    },
-    "visitante": {
       "nome": "seralex",
       "participante": "Alex",
       "clube": "Atlético Nacional",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Lá do Itaqui",
+      "participante": "Gerônimo",
+      "clube": "Internacional",
       "pontos": null
     },
     "vencedor": "indefinido"
@@ -1261,9 +1261,9 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 5,
     "mandante": {
-      "nome": "TORRESMO COM PINGA",
-      "participante": "Marquinho",
-      "clube": "Bahia",
+      "nome": "FC Los Castilho",
+      "participante": "Castilho",
+      "clube": "Nacional",
       "pontos": null
     },
     "visitante": {
@@ -1284,9 +1284,9 @@ const resultadosFase1 = [
       "pontos": null
     },
     "visitante": {
-      "nome": "FC Los Castilho",
-      "participante": "Castilho",
-      "clube": "Nacional",
+      "nome": "TORRESMO COM PINGA",
+      "participante": "Marquinho",
+      "clube": "Bahia",
       "pontos": null
     },
     "vencedor": "indefinido"
@@ -1533,15 +1533,15 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 6,
     "mandante": {
-      "nome": "seralex",
-      "participante": "Alex",
-      "clube": "Atlético Nacional",
+      "nome": "FC Los Castilho",
+      "participante": "Castilho",
+      "clube": "Nacional",
       "pontos": null
     },
     "visitante": {
-      "nome": "TORRESMO COM PINGA",
-      "participante": "Marquinho",
-      "clube": "Bahia",
+      "nome": "seralex",
+      "participante": "Alex",
+      "clube": "Atlético Nacional",
       "pontos": null
     },
     "vencedor": "indefinido"
@@ -1550,15 +1550,15 @@ const resultadosFase1 = [
     "grupo": "Grupo F",
     "rodada": 6,
     "mandante": {
-      "nome": "FC Los Castilho",
-      "participante": "Castilho",
-      "clube": "Nacional",
-      "pontos": null
-    },
-    "visitante": {
       "nome": "Lá do Itaqui",
       "participante": "Gerônimo",
       "clube": "Internacional",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TORRESMO COM PINGA",
+      "participante": "Marquinho",
+      "clube": "Bahia",
       "pontos": null
     },
     "vencedor": "indefinido"

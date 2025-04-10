@@ -68,6 +68,33 @@
     margin-top: 35px;
     margin-bottom: 0;
   }
+
+  .tag-clube {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 2px 6px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    background-color: #2C3639;
+    color: white;
+    border-radius: 4px;
+  }
+
+  .tag-escudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;  
+    padding: 3px 8px;
+    background-color: #2C3639;
+    font-size: 10px;
+    color: white;
+    border-radius: 4px;
+  } 
+  
   
   /* === Escudo e Nome do Time === */
   .time-info {
@@ -77,10 +104,11 @@
   }
   
   .escudo {
-    width: 24px;
-    height: 24px;
+    width: 8%;
+    height: 8%;
     object-fit: contain;
-    border-radius: 4px;
+    border-radius: 10%;
+    background-color: #28a745;
   }
   
   /* === Cards de Confrontos === */
@@ -265,6 +293,31 @@
     .navegacao-rodada button {      
         padding: 6px 10px;  
       }
+
+    .tag-clube {
+      /* display: inline-block; */
+      margin-left: 3px;
+      /* padding: 2px 6px; */
+      font-size: 8px;
+      /* font-weight: bold;
+      background-color: #2C3639;
+      color: white;
+      border-radius: 4px; */
+    }
+    
+    .tag-escudo {
+      /* display: flex; */
+      /* justify-content: center; */
+      /* align-items: center; */
+      /* margin-left: 5px; */
+      /* margin-top: 15px; */
+      /* margin-bottom: 15px;   */
+      padding: 3px 8px;
+      background-color: #2C3639;
+      font-size: 8px;
+      color: white;
+      border-radius: 4px;
+    } 
   
     .time-info {
       flex-direction: row;
