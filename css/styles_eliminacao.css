@@ -166,8 +166,8 @@
 
   /* Aviso de eliminação */
   .aviso-eliminado {
-    background-color: #A27B5C;
-    color: #fff;
+    background-color: #FFE6E1;
+    color: #2C3639;
     font-weight: bold;
     padding: 12px;
     text-align: center;
@@ -203,20 +203,22 @@
   #resumo-eliminacao {
     max-width: 960px;
     width: 95%;
-    background-color: #3F4E4F;
+    /* background-color: #3F4E4F; */
+    background-color: #DCDCDC;
     border-left: 5px solid #A27B5C;
     padding: 20px 25px;
     margin: 40px auto 60px auto;
     max-width: 960px;
     border-radius: 10px;
-    color: #ffffff;
+    /* color: #ffffff; */
+    color: #3F4E4F;
     box-shadow: 2px 4px 8px rgba(0,0,0,0.9);
     font-size: 15px;
   }
       
   #resumo-eliminacao h3 {
     margin-bottom: 12px;
-    color: #A27B5C;
+    color: #2C3639;
     font-size: 20px;
     border-bottom: 1px solid #A27B5C;
     padding-bottom: 6px;

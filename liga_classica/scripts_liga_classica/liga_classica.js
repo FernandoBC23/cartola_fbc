@@ -219,24 +219,29 @@ function renderizarTabela(classificacao, tagTexto = "", tagCor = "", tipo = "") 
     let destaque = "";
     let icone = "";
 
-    switch (posicao) {
-      case 1:
-        destaque = "primeiro";
-        icone = "🥇";
-        break;
-      case 2:
-        destaque = "segundo";
-        icone = "🥈";
-        break;
-      case 3:
-        destaque = "terceiro";
-        icone = "🥉";
-        break;
-      case 4:
-      case 5:
-        destaque = "top5";
-        icone = "⭐";
-        break;
+    // Aplica ícones apenas se não for "geral"
+    if (tipo !== "geral") {
+      switch (posicao) {
+        case 1:
+          destaque = "primeiro";
+          icone = "🥇";
+          break;
+        case 2:
+          destaque = "segundo";
+          icone = "🥈";
+          break;
+        case 3:
+          destaque = "terceiro";
+          icone = "🥉";
+          break;
+        case 4:
+        case 5:
+          if (tipo === "meses") {
+            destaque = "top5";
+            icone = "⭐";
+          }
+          break;
+      }
     }
 
     const row = document.createElement("tr");
@@ -245,15 +250,14 @@ function renderizarTabela(classificacao, tagTexto = "", tagCor = "", tipo = "") 
     let exibirTag = false;
 
     if (tagTexto) {
-      if (tipo === "geral" && posicao <= 5) exibirTag = true;
       if (tipo === "turnos" && posicao <= 3) exibirTag = true;
       if (tipo === "meses" && posicao <= 5) exibirTag = true;
+      // Geral: sem TAG
     }
-    
+
     const tagSpan = exibirTag
       ? `<span class="tag tag-${tagCor}">${tagTexto}</span>`
       : "";
-    
 
     row.innerHTML = `
       <td>${posicao} ${icone}</td>
