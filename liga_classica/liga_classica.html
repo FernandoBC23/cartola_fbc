@@ -1,5 +1,6 @@
 <!-- liga_classica.html -->
 
+<!-- liga_classica.html ajustado -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -14,11 +15,10 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">    
 </head>
-
 <body class="loaded">
   <!-- Cabeçalho -->
   <header class="header">
-    <div class="header-content">
+    <div class="header-content container-central">
       <div class="logo-titulo">
         <img src="../imagens/logo_liga_classica_gerado_fb_1.png" alt="Logo" class="logo" />
         <h1>Liga Clássica</h1>
@@ -33,13 +33,13 @@
   </header>
 
   <!-- Conteúdo -->
-  <main class="conteudo-serie-a">
-
+  <main class="container-central">
     <!-- Abas -->
     <div class="tabs" id="tabs-container"></div>
 
     <!-- Tabela de Classificação -->
     <section>
+      <div id="info-atualizacao" class="info-atualizacao"></div>
       <table class="tabela-classificacao">
         <thead>
           <tr>
@@ -51,12 +51,11 @@
         <tbody id="classificacao-corpo"></tbody>
       </table>
     </section>
-
   </main>
 
   <!-- Rodapé -->
   <footer class="footer">
-    <div class="footer-content">
+    <div class="footer-content container-central">
       <p>© 2025 Liga Clássica | Desenvolvido por Fernando Chagas</p>
     </div>
   </footer>

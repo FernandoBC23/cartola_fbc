@@ -14,13 +14,13 @@ window.addEventListener('DOMContentLoaded', () => {
 
   const painelGrupos = document.getElementById("painel-grupos");
 
-  const tituloRodadaTop = document.getElementById("titulo-rodada");
-  const tituloRodadaBottom = document.getElementById("titulo-rodada-bottom");
+  // const tituloRodadaTop = document.getElementById("titulo-rodada");
+  // const tituloRodadaBottom = document.getElementById("titulo-rodada-bottom");
 
-  const btnAnteriorTop = document.getElementById("btn-anterior");
-  const btnProximaTop = document.getElementById("btn-proxima");
-  const btnAnteriorBottom = document.getElementById("btn-anterior-bottom");
-  const btnProximaBottom = document.getElementById("btn-proxima-bottom");
+  // const btnAnteriorTop = document.getElementById("btn-anterior");
+  // const btnProximaTop = document.getElementById("btn-proxima");
+  // const btnAnteriorBottom = document.getElementById("btn-anterior-bottom");
+  // const btnProximaBottom = document.getElementById("btn-proxima-bottom");
 
   // Função para formatar nomes de arquivos de escudos
   const gerarNomeArquivo = nome => {
@@ -112,8 +112,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
   function renderPainelCompleto(numeroRodada) {
     painelGrupos.innerHTML = "";
-    tituloRodadaTop.textContent = `Rodada ${numeroRodada}`;
-    tituloRodadaBottom.textContent = `Rodada ${numeroRodada}`;
+    // tituloRodadaTop.textContent = `Rodada ${numeroRodada}`;
+    // tituloRodadaBottom.textContent = `Rodada ${numeroRodada}`;
 
     const confrontosRodada = confrontosFase1.filter(j => j.rodada === numeroRodada);
     const resultadosRodada = resultadosFase1.filter(j => j.rodada === numeroRodada);
@@ -135,9 +135,10 @@ window.addEventListener('DOMContentLoaded', () => {
       const grupoDiv = document.createElement("div");
       grupoDiv.className = "tabela-grupo";
 
-      const titulo = document.createElement("h2");
+      const titulo = document.createElement("div");
+      titulo.className = "titulo-grupo";
       titulo.textContent = grupo;
-      grupoDiv.appendChild(titulo);
+      grupoDiv.appendChild(titulo);   
 
       const tabela = document.createElement("table");
       tabela.className = "tabela-classificacao";
@@ -271,6 +272,12 @@ window.addEventListener('DOMContentLoaded', () => {
         colunaDireita.appendChild(grupoConfrontos);
       }
 
+      const navegacaoRodadaGrupo = criarNavegacaoRodadaGrupo(grupo, numeroRodada);
+      console.log("Adicionando navegação para grupo:", grupo);
+
+      colunaDireita.appendChild(navegacaoRodadaGrupo);
+
+
       linha.appendChild(colunaEsquerda);
       linha.appendChild(colunaDireita);
       painelGrupos.appendChild(linha);
@@ -280,25 +287,50 @@ window.addEventListener('DOMContentLoaded', () => {
   function atualizarRodada(novaRodada) {
     rodadaAtual = novaRodada;
     renderPainelCompleto(novaRodada);
-
-    btnAnteriorTop.disabled = novaRodada === 1;
-    btnProximaTop.disabled = novaRodada === RODADA_MAXIMA;
-    btnAnteriorBottom.disabled = novaRodada === 1;
-    btnProximaBottom.disabled = novaRodada === RODADA_MAXIMA;
+  
+    // btnAnteriorTop.disabled = novaRodada === 1;
+    // btnProximaTop.disabled = novaRodada === RODADA_MAXIMA;
+    // btnAnteriorBottom.disabled = novaRodada === 1;
+    // btnProximaBottom.disabled = novaRodada === RODADA_MAXIMA;
   }
-
-  btnAnteriorTop.addEventListener("click", () => {
-    if (rodadaAtual > 1) atualizarRodada(rodadaAtual - 1);
-  });
-  btnProximaTop.addEventListener("click", () => {
-    if (rodadaAtual < RODADA_MAXIMA) atualizarRodada(rodadaAtual + 1);
-  });
-  btnAnteriorBottom.addEventListener("click", () => {
-    if (rodadaAtual > 1) atualizarRodada(rodadaAtual - 1);
-  });
-  btnProximaBottom.addEventListener("click", () => {
-    if (rodadaAtual < RODADA_MAXIMA) atualizarRodada(rodadaAtual + 1);
-  });
-
+  
+  function criarNavegacaoRodadaGrupo(grupo, rodadaParaExibir) {
+    const container = document.createElement("div");
+    container.className = "rodada-container";
+  
+    const navegacao = document.createElement("div");
+    navegacao.className = "navegacao-rodada";
+  
+    const btnAnterior = document.createElement("button");
+    btnAnterior.textContent = "◀️ Rodada Anterior";
+    btnAnterior.addEventListener("click", () => {
+      if (rodadaAtual > 1) atualizarRodada(rodadaAtual - 1);
+    });
+  
+    const titulo = document.createElement("div");
+    titulo.className = "titulo-rodada";
+    titulo.textContent = `Rodada ${rodadaParaExibir}`;
+  
+    const btnProxima = document.createElement("button");
+    btnProxima.textContent = "Próxima Rodada ▶️";
+    btnProxima.addEventListener("click", () => {
+      if (rodadaAtual < RODADA_MAXIMA) atualizarRodada(rodadaAtual + 1);
+    });
+  
+    if (rodadaAtual === 1) btnAnterior.disabled = true;
+    if (rodadaAtual === RODADA_MAXIMA) btnProxima.disabled = true;
+  
+    navegacao.appendChild(btnAnterior);
+    navegacao.appendChild(titulo);
+    navegacao.appendChild(btnProxima);
+  
+    container.appendChild(navegacao);
+    return container;
+  }
+  
+  // inicia com a rodada atual
   atualizarRodada(rodadaAtual);
+  
 });
+
+

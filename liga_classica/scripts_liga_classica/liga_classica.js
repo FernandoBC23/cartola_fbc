@@ -70,6 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function criarAbas() {
   const container = document.getElementById("tabs-container");
+  container.innerHTML = ""; // <-- limpa o conteúdo anterior antes de criar novos elementos
 
   const abas = [
     { label: "Geral", type: "geral", key: "geral" },
@@ -82,6 +83,7 @@ function criarAbas() {
     }))
   ];
 
+  // Criação dos botões padrão
   abas.forEach((aba, index) => {
     const btn = document.createElement("button");
     btn.className = "tab" + (index === 0 ? " active" : "");
@@ -97,7 +99,27 @@ function criarAbas() {
 
     container.appendChild(btn);
   });
+
+  // Adiciona o select se for em tela pequena
+  if (window.innerWidth < 768) {
+    const select = document.createElement("select");
+    select.className = "tab-select";
+    abas.forEach(aba => {
+      const opt = document.createElement("option");
+      opt.value = JSON.stringify(aba);
+      opt.textContent = aba.label;
+      select.appendChild(opt);
+    });
+
+    select.addEventListener("change", () => {
+      const aba = JSON.parse(select.value);
+      exibirClassificacaoPor(aba.type, aba.key);
+    });
+
+    container.appendChild(select);
+  }
 }
+
 
 function obterRodadaAtual() {
   const geral = classificacaoLigaClassica.geral;
@@ -119,6 +141,11 @@ function exibirClassificacaoPor(tipo, chave) {
 
   let dados = [];
   const rodadaAtual = obterRodadaAtual();
+
+  const infoDiv = document.getElementById("info-atualizacao");
+  const dataAtualizacao = "11/04/2025"; // pode ser dinâmico no futuro
+  infoDiv.innerHTML = `📅 Rodada Atual: <strong>${rodadaAtual}</strong> &nbsp;&nbsp; ⏱️ Última atualização: <strong>${dataAtualizacao}</strong>`;
+
 
   if (tipo === "geral") {
     const geral = classificacaoLigaClassica.geral;

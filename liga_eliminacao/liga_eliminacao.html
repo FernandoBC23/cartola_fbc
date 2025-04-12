@@ -1,3 +1,4 @@
+<!-- liga_eliminacao.html ajustado -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,30 +11,29 @@
   <link rel="stylesheet" href="../css/styles_eliminacao.css" />
 
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-
-  
-  
 </head>
-
 <body class="loaded">
-
   <header class="header">
-    <div class="header-content">
+    <div class="header-content container-central">
       <div class="logo-titulo">
         <img src="../imagens/logo_liga_eliminacao_gerado_fb_1.png" alt="Logo" class="logo" />
         <h1>Liga Eliminação</h1>
       </div>
       <nav class="navbar">
-        <ul>
-          <li><a href="../index.html">Painel Competições</a></li>
-          <li><a class="ativo" href="./liga_eliminacao.html">Liga Eliminação</a></li>
-        </ul>
+        <div class="container-central">
+          <ul>
+            <li><a href="../index.html">Painel Competições</a></li>
+            <li><a class="ativo" href="./liga_eliminacao.html">Liga Eliminação</a></li>
+          </ul>
+        </div>
       </nav>
+      
     </div>
   </header>
+  
 
   <!-- Navegação -->
-  <div class="rodada-container">
+  <div class="rodada-container container-central">
     <div class="navegacao-rodada">
       <button id="btn-anterior">◀️ Rodada Anterior</button>
       <div class="titulo-rodada" id="titulo-rodada">Rodada 1</div>
@@ -41,16 +41,16 @@
     </div>
   </div>
 
-  <main>
+  <main class="container-central">
     <section>
       <div id="aviso-eliminado" class="aviso-eliminado"></div>
 
       <table class="tabela-classificacao">
         <thead>
           <tr>
-            <th>Posição</th>
+            <th>Pos</th>
             <th>Time</th>
-            <th>Total de Pontos</th>
+            <th>Pontos</th>
           </tr>
         </thead>
         <tbody id="classificacao-corpo"></tbody>
@@ -60,7 +60,7 @@
   </main>
 
   <!-- Navegação Inferior -->
-  <div class="rodada-container">
+  <div class="rodada-container container-central">
     <div class="navegacao-rodada">
       <button id="btn-anterior-bottom">◀️ Rodada Anterior</button>
       <div class="titulo-rodada" id="titulo-rodada-bottom">Rodada 1</div>
@@ -69,7 +69,7 @@
   </div>  
 
   <footer class="footer">
-    <div class="footer-content">
+    <div class="footer-content container-central">
       <p>© 2025 Liga Eliminação | Desenvolvido por Fernando Chagas</p>
     </div>
   </footer>
