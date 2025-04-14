@@ -3,19 +3,19 @@ const confrontosFase2 = [
     "Rodada":1,
     "Grupo":"Grupo I",
     "Mandante":"Grêmio imortal 37",
-    "Visitante":"BORGES ITAQUI F.C."
+    "Visitante":"pura bucha \/botafogo"
   },
   {
     "Rodada":1,
     "Grupo":"Grupo I",
-    "Mandante":"Super Vasco f.c",
+    "Mandante":"Tatols Beants F.C",
     "Visitante":"Tabajara de Inhaua FC2"
   },
   {
     "Rodada":2,
     "Grupo":"Grupo I",
-    "Mandante":"BORGES ITAQUI F.C.",
-    "Visitante":"Super Vasco f.c"
+    "Mandante":"pura bucha \/botafogo",
+    "Visitante":"Tatols Beants F.C"
   },
   {
     "Rodada":2,
@@ -26,20 +26,20 @@ const confrontosFase2 = [
   {
     "Rodada":3,
     "Grupo":"Grupo I",
-    "Mandante":"Super Vasco f.c",
+    "Mandante":"Tatols Beants F.C",
     "Visitante":"Grêmio imortal 37"
   },
   {
     "Rodada":3,
     "Grupo":"Grupo I",
     "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"BORGES ITAQUI F.C."
+    "Visitante":"pura bucha \/botafogo"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo I",
-    "Mandante":"Super Vasco f.c",
-    "Visitante":"BORGES ITAQUI F.C."
+    "Mandante":"Tatols Beants F.C",
+    "Visitante":"pura bucha \/botafogo"
   },
   {
     "Rodada":4,
@@ -51,48 +51,48 @@ const confrontosFase2 = [
     "Rodada":5,
     "Grupo":"Grupo I",
     "Mandante":"Grêmio imortal 37",
-    "Visitante":"Super Vasco f.c"
+    "Visitante":"Tatols Beants F.C"
   },
   {
     "Rodada":5,
     "Grupo":"Grupo I",
-    "Mandante":"BORGES ITAQUI F.C.",
+    "Mandante":"pura bucha \/botafogo",
     "Visitante":"Tabajara de Inhaua FC2"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo I",
-    "Mandante":"BORGES ITAQUI F.C.",
+    "Mandante":"pura bucha \/botafogo",
     "Visitante":"Grêmio imortal 37"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo I",
     "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"Super Vasco f.c"
+    "Visitante":"Tatols Beants F.C"
   },
   {
     "Rodada":1,
     "Grupo":"Grupo J",
     "Mandante":"Texas Club 2025",
-    "Visitante":"HS SPORTS F.C"
+    "Visitante":"lsauer fc"
   },
   {
     "Rodada":1,
     "Grupo":"Grupo J",
     "Mandante":"cartola scheuer",
-    "Visitante":"pura bucha \/botafogo"
+    "Visitante":"BORGES ITAQUI F.C."
   },
   {
     "Rodada":2,
     "Grupo":"Grupo J",
-    "Mandante":"HS SPORTS F.C",
+    "Mandante":"lsauer fc",
     "Visitante":"cartola scheuer"
   },
   {
     "Rodada":2,
     "Grupo":"Grupo J",
-    "Mandante":"pura bucha \/botafogo",
+    "Mandante":"BORGES ITAQUI F.C.",
     "Visitante":"Texas Club 2025"
   },
   {
@@ -104,20 +104,20 @@ const confrontosFase2 = [
   {
     "Rodada":3,
     "Grupo":"Grupo J",
-    "Mandante":"pura bucha \/botafogo",
-    "Visitante":"HS SPORTS F.C"
+    "Mandante":"BORGES ITAQUI F.C.",
+    "Visitante":"lsauer fc"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo J",
     "Mandante":"cartola scheuer",
-    "Visitante":"HS SPORTS F.C"
+    "Visitante":"lsauer fc"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo J",
     "Mandante":"Texas Club 2025",
-    "Visitante":"pura bucha \/botafogo"
+    "Visitante":"BORGES ITAQUI F.C."
   },
   {
     "Rodada":5,
@@ -128,19 +128,19 @@ const confrontosFase2 = [
   {
     "Rodada":5,
     "Grupo":"Grupo J",
-    "Mandante":"HS SPORTS F.C",
-    "Visitante":"pura bucha \/botafogo"
+    "Mandante":"lsauer fc",
+    "Visitante":"BORGES ITAQUI F.C."
   },
   {
     "Rodada":6,
     "Grupo":"Grupo J",
-    "Mandante":"HS SPORTS F.C",
+    "Mandante":"lsauer fc",
     "Visitante":"Texas Club 2025"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo J",
-    "Mandante":"pura bucha \/botafogo",
+    "Mandante":"BORGES ITAQUI F.C.",
     "Visitante":"cartola scheuer"
   },
   {
@@ -153,7 +153,7 @@ const confrontosFase2 = [
     "Rodada":1,
     "Grupo":"Grupo K",
     "Mandante":"Gig@ntte",
-    "Visitante":"FC Los Castilho"
+    "Visitante":"TORRESMO COM PINGA"
   },
   {
     "Rodada":2,
@@ -164,7 +164,7 @@ const confrontosFase2 = [
   {
     "Rodada":2,
     "Grupo":"Grupo K",
-    "Mandante":"FC Los Castilho",
+    "Mandante":"TORRESMO COM PINGA",
     "Visitante":"KING LEONN"
   },
   {
@@ -176,7 +176,7 @@ const confrontosFase2 = [
   {
     "Rodada":3,
     "Grupo":"Grupo K",
-    "Mandante":"FC Los Castilho",
+    "Mandante":"TORRESMO COM PINGA",
     "Visitante":"Real SCI"
   },
   {
@@ -189,7 +189,7 @@ const confrontosFase2 = [
     "Rodada":4,
     "Grupo":"Grupo K",
     "Mandante":"KING LEONN",
-    "Visitante":"FC Los Castilho"
+    "Visitante":"TORRESMO COM PINGA"
   },
   {
     "Rodada":5,
@@ -201,7 +201,7 @@ const confrontosFase2 = [
     "Rodada":5,
     "Grupo":"Grupo K",
     "Mandante":"Real SCI",
-    "Visitante":"FC Los Castilho"
+    "Visitante":"TORRESMO COM PINGA"
   },
   {
     "Rodada":6,
@@ -212,7 +212,7 @@ const confrontosFase2 = [
   {
     "Rodada":6,
     "Grupo":"Grupo K",
-    "Mandante":"FC Los Castilho",
+    "Mandante":"TORRESMO COM PINGA",
     "Visitante":"Gig@ntte"
   },
   {

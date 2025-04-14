@@ -1,5 +1,5 @@
 const classificacaoSerieA = {
-  "Série A": [
+  "Série D": [
     {
       "nome": "OlhaEleAiF.C!",
       "pontos": 6,

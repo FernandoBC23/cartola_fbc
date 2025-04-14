@@ -1,6 +1,6 @@
 const resultadosFase1 = [
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "FBC Colorado",
@@ -12,7 +12,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -24,7 +24,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -36,7 +36,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -48,7 +48,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -60,7 +60,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -72,7 +72,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "lsauer fc",
@@ -84,7 +84,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -96,7 +96,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -108,7 +108,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 1,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -120,7 +120,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -132,7 +132,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -144,7 +144,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -156,7 +156,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -168,7 +168,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -180,7 +180,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "lsauer fc",
@@ -192,7 +192,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -204,7 +204,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "seralex",
@@ -216,7 +216,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "SISO FC25",
@@ -228,7 +228,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 2,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -240,7 +240,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -252,7 +252,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -264,7 +264,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -276,7 +276,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -288,7 +288,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -300,7 +300,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -312,7 +312,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -324,7 +324,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "SISO FC25",
@@ -336,7 +336,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -348,7 +348,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 3,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -360,7 +360,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "SISO FC25",
@@ -372,7 +372,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -384,7 +384,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -396,7 +396,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -408,7 +408,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "lsauer fc",
@@ -420,7 +420,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -432,7 +432,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "seralex",
@@ -444,7 +444,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -456,7 +456,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -468,7 +468,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 4,
     "mandante": {
       "nome": "cartola scheuer",
@@ -480,7 +480,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -492,7 +492,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -504,7 +504,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -516,7 +516,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "lsauer fc",
@@ -528,7 +528,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -540,7 +540,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -552,7 +552,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -564,7 +564,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -576,7 +576,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -588,7 +588,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 5,
     "mandante": {
       "nome": "cartola scheuer",
@@ -600,7 +600,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "cartola scheuer",
@@ -612,7 +612,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -624,7 +624,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -636,7 +636,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -648,7 +648,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -660,7 +660,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -672,7 +672,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -684,7 +684,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -696,7 +696,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -708,7 +708,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 6,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -720,7 +720,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "FBC Colorado",
@@ -732,7 +732,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "lsauer fc",
@@ -744,7 +744,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -756,7 +756,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -768,7 +768,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "SISO FC25",
@@ -780,7 +780,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -792,7 +792,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -804,7 +804,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -816,7 +816,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "cartola scheuer",
@@ -828,7 +828,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 7,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -840,7 +840,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "FBC Colorado",
@@ -852,7 +852,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -864,7 +864,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "seralex",
@@ -876,7 +876,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "SISO FC25",
@@ -888,7 +888,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -900,7 +900,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -912,7 +912,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -924,7 +924,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "cartola scheuer",
@@ -936,7 +936,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -948,7 +948,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 8,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -960,7 +960,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -972,7 +972,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -984,7 +984,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -996,7 +996,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "lsauer fc",
@@ -1008,7 +1008,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -1020,7 +1020,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -1032,7 +1032,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -1044,7 +1044,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -1056,7 +1056,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -1068,7 +1068,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 9,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -1080,7 +1080,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -1092,7 +1092,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "SISO FC25",
@@ -1104,7 +1104,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "seralex",
@@ -1116,7 +1116,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -1128,7 +1128,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -1140,7 +1140,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "cartola scheuer",
@@ -1152,7 +1152,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -1164,7 +1164,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -1176,7 +1176,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -1188,7 +1188,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 10,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -1200,7 +1200,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "FBC Colorado",
@@ -1212,7 +1212,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -1224,7 +1224,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -1236,7 +1236,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "seralex",
@@ -1248,7 +1248,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "cartola scheuer",
@@ -1260,7 +1260,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -1272,7 +1272,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -1284,7 +1284,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -1296,7 +1296,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -1308,7 +1308,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 11,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -1320,7 +1320,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "lsauer fc",
@@ -1332,7 +1332,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -1344,7 +1344,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -1356,7 +1356,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "cartola scheuer",
@@ -1368,7 +1368,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "seralex",
@@ -1380,7 +1380,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -1392,7 +1392,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -1404,7 +1404,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -1416,7 +1416,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -1428,7 +1428,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 12,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -1440,7 +1440,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "FBC Colorado",
@@ -1452,7 +1452,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -1464,7 +1464,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "cartola scheuer",
@@ -1476,7 +1476,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -1488,7 +1488,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "SISO FC25",
@@ -1500,7 +1500,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -1512,7 +1512,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -1524,7 +1524,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -1536,7 +1536,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -1548,7 +1548,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 13,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -1560,7 +1560,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -1572,7 +1572,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -1584,7 +1584,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "Rolo Compressor ZN",
@@ -1596,7 +1596,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -1608,7 +1608,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "SISO FC25",
@@ -1620,7 +1620,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "seralex",
@@ -1632,7 +1632,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -1644,7 +1644,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "lsauer fc",
@@ -1656,7 +1656,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -1668,7 +1668,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 14,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -1680,7 +1680,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "FBC Colorado",
@@ -1692,7 +1692,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -1704,7 +1704,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "cartola scheuer",
@@ -1716,7 +1716,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -1728,7 +1728,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -1740,7 +1740,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -1752,7 +1752,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -1764,7 +1764,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -1776,7 +1776,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "lsauer fc",
@@ -1788,7 +1788,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 15,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -1800,7 +1800,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -1812,7 +1812,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -1824,7 +1824,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -1836,7 +1836,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -1848,7 +1848,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Eleis-Itaqui",
@@ -1860,7 +1860,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -1872,7 +1872,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "SISO FC25",
@@ -1884,7 +1884,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -1896,7 +1896,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -1908,7 +1908,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 16,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -1920,7 +1920,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -1932,7 +1932,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "Atlético Colorado 2021",
@@ -1944,7 +1944,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -1956,7 +1956,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "cartola scheuer",
@@ -1968,7 +1968,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -1980,7 +1980,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -1992,7 +1992,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -2004,7 +2004,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -2016,7 +2016,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "seralex",
@@ -2028,7 +2028,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 17,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -2040,7 +2040,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "FBC Colorado",
@@ -2052,7 +2052,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -2064,7 +2064,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -2076,7 +2076,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -2088,7 +2088,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -2100,7 +2100,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -2112,7 +2112,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -2124,7 +2124,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -2136,7 +2136,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "SISO FC25",
@@ -2148,7 +2148,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 18,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -2160,7 +2160,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "OlhaEleAiF.C!",
@@ -2172,7 +2172,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "Fedato Futebol Clube",
@@ -2184,7 +2184,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "Time do S.A.P.O",
@@ -2196,7 +2196,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -2208,7 +2208,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -2220,7 +2220,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -2232,7 +2232,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "TIGRE LEON",
@@ -2244,7 +2244,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "lsauer fc",
@@ -2256,7 +2256,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -2268,7 +2268,7 @@ const resultadosFase1 = [
     }
   },
   {
-    "grupo": "Série A",
+    "grupo": "Série D",
     "rodada": 19,
     "mandante": {
       "nome": "SISO FC25",

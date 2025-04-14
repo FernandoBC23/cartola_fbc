@@ -2,7 +2,7 @@ const classificacao = {
   "Grupo I": [
     {
       "Grupo": "Grupo I",
-      "Nome do Time": "BORGES ITAQUI F.C.",
+      "Nome do Time": "pura bucha /botafogo",
       "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
@@ -17,7 +17,7 @@ const classificacao = {
     {
       "Grupo": "Grupo I",
       "Nome do Time": "Tabajara de Inhaua FC2",
-      "Pontos": 3,
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -31,7 +31,7 @@ const classificacao = {
     {
       "Grupo": "Grupo I",
       "Nome do Time": "Gr\u00eamio imortal 37",
-      "Pontos": 3,
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -44,7 +44,7 @@ const classificacao = {
     },
     {
       "Grupo": "Grupo I",
-      "Nome do Time": "Super Vasco f.c",
+      "Nome do Time": "Tatols Beants F.C",
       "Pontos": 3,
       "Vitorias": NaN,
       "Empates": NaN,
@@ -60,8 +60,8 @@ const classificacao = {
   "Grupo J": [
     {
       "Grupo": "Grupo J",
-      "Nome do Time": "HS SPORTS F.C",
-      "Pontos": 3,
+      "Nome do Time": "lsauer fc",
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -74,8 +74,8 @@ const classificacao = {
     },
     {
       "Grupo": "Grupo J",
-      "Nome do Time": "pura bucha /botafogo",
-      "Pontos": 3,
+      "Nome do Time": "BORGES ITAQUI F.C.",
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -89,7 +89,7 @@ const classificacao = {
     {
       "Grupo": "Grupo J",
       "Nome do Time": "Texas Club 2025",
-      "Pontos": 6,
+      "Pontos": 9,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -103,7 +103,7 @@ const classificacao = {
     {
       "Grupo": "Grupo J",
       "Nome do Time": "cartola scheuer",
-      "Pontos": 3,
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -119,7 +119,7 @@ const classificacao = {
     {
       "Grupo": "Grupo K",
       "Nome do Time": "Real SCI",
-      "Pontos": 6,
+      "Pontos": 9,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -132,7 +132,7 @@ const classificacao = {
     },
     {
       "Grupo": "Grupo K",
-      "Nome do Time": "FC Los Castilho",
+      "Nome do Time": "TORRESMO COM PINGA",
       "Pontos": 3,
       "Vitorias": NaN,
       "Empates": NaN,
@@ -147,7 +147,7 @@ const classificacao = {
     {
       "Grupo": "Grupo K",
       "Nome do Time": "KING LEONN",
-      "Pontos": 6,
+      "Pontos": 9,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -161,7 +161,7 @@ const classificacao = {
     {
       "Grupo": "Grupo K",
       "Nome do Time": "Gig@ntte",
-      "Pontos": 3,
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -177,7 +177,7 @@ const classificacao = {
     {
       "Grupo": "Grupo L",
       "Nome do Time": "L\u00e1 do Itaqui",
-      "Pontos": 6,
+      "Pontos": 9,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -191,7 +191,7 @@ const classificacao = {
     {
       "Grupo": "Grupo L",
       "Nome do Time": "Gremiomaniasm",
-      "Pontos": 3,
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -205,7 +205,7 @@ const classificacao = {
     {
       "Grupo": "Grupo L",
       "Nome do Time": "Laranjja Mecannica",
-      "Pontos": 6,
+      "Pontos": 9,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
@@ -219,7 +219,7 @@ const classificacao = {
     {
       "Grupo": "Grupo L",
       "Nome do Time": "F.C. Rei Das Copas",
-      "Pontos": 3,
+      "Pontos": 6,
       "Vitorias": NaN,
       "Empates": NaN,
       "Derrotas": NaN,
