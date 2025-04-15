@@ -61,6 +61,7 @@ const escudosTimes = {
   "Luis lemes inter": "../imagens/luis_lemes_inter.png",
   "emer jr fc": "../imagens/emer_jr_fc.png",
   "Cril Futebol Club": "../imagens/cril_futebol_club.png",
+  "Santo Ângelo United": "../imagens/santo_angelo_united.png",
 };
 
 document.addEventListener("DOMContentLoaded", () => {
