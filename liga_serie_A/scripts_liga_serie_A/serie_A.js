@@ -3,7 +3,13 @@
 window.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('loaded');
 
-  let rodadaAtual = 1;
+  let rodadaAtual = (() => {
+    const rodadasComPontuacao = resultadosFase1
+      .filter(r => r.mandante?.pontos != null && r.visitante?.pontos != null)
+      .map(r => r.rodada);
+    return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 1;
+  })();
+  
   const RODADA_MAXIMA = 19;
 
   const painelGrupos = document.getElementById("painel-grupos");

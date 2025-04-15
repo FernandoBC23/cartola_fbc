@@ -44,6 +44,11 @@ const pontuacoesPorRodada = {
     "Rodada 2": 95.2900390625,
     "Rodada 3": 86.9501953125
   },
+  "A Lenda Super Vasco F.c ": {
+    "Rodada 1": 59.0,
+    "Rodada 2": "",
+    "Rodada 3": ""
+  },
   "Super Vasco f.c": {
     "Rodada 1": 60.550048828125,
     "Rodada 2": 96.990234375,
@@ -153,10 +158,5 @@ const pontuacoesPorRodada = {
     "Rodada 1": 64.0,
     "Rodada 2": 72.68994140625,
     "Rodada 3": 81.52001953125
-  },
-  "KillerColorado": {
-    "Rodada 1": 56.139892578125,
-    "Rodada 2": "",
-    "Rodada 3": ""
   }
 };

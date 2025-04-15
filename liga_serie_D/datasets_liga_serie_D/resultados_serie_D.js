@@ -3,44 +3,80 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 1,
     "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": 64.0
+      "nome": "TIGRE LEON",
+      "pontos": 69.39990234375
     },
     "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": 66.60009765625
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 1,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": 71.08984375
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": 78.0498046875
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 1,
-    "mandante": {
       "nome": "Fedato Futebol Clube",
       "pontos": 77.580078125
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": 96.18994140625
     }
   },
   {
     "grupo": "Série D",
     "rodada": 1,
     "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": 86.5498046875
+      "nome": "Tatols Beants F.C",
+      "pontos": 66.60009765625
+    },
+    "visitante": {
+      "nome": "Noah A 10",
+      "pontos": 85.14990234375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 1,
+    "mandante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": 59.0
+    },
+    "visitante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": 66.5
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 1,
+    "mandante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": 64.5498046875
+    },
+    "visitante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": 69.4501953125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 1,
+    "mandante": {
+      "nome": "MauHumor F.C.",
+      "pontos": 66.2001953125
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": 72.2900390625
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 1,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": 72.97998046875
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": 65.39990234375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 1,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": 74.68994140625
     },
     "visitante": {
       "nome": "Texas Club 2025",
@@ -51,24 +87,24 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 1,
     "mandante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": 69.4501953125
+      "nome": "pura bucha /botafogo",
+      "pontos": 73.77978515625
     },
     "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": 72.58984375
+      "nome": "FC Los Castilho",
+      "pontos": 64.75
     }
   },
   {
     "grupo": "Série D",
     "rodada": 1,
     "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": 69.39990234375
+      "nome": "FC castelo Branco 2",
+      "pontos": 75.3798828125
     },
     "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": 95.22998046875
+      "nome": "pra sempre imortal fc",
+      "pontos": 74.68994140625
     }
   },
   {
@@ -79,44 +115,8 @@ const resultadosFase1 = [
       "pontos": 72.3798828125
     },
     "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": 73.08984375
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 1,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": 81.9501953125
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": 67.990234375
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 1,
-    "mandante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": 79.9501953125
-    },
-    "visitante": {
       "nome": "seralex",
       "pontos": 68.39990234375
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 1,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": 61.550048828125
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": 74.68994140625
     }
   },
   {
@@ -127,32 +127,8 @@ const resultadosFase1 = [
       "pontos": 83.0400390625
     },
     "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": 72.68994140625
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 2,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": 102.990234375
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": 71.39013671875
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 2,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": 98.89013671875
-    },
-    "visitante": {
-      "nome": "Texas Club 2025",
-      "pontos": 85.990234375
+      "nome": "MauHumor F.C.",
+      "pontos": 102.89013671875
     }
   },
   {
@@ -163,6 +139,18 @@ const resultadosFase1 = [
       "pontos": 73.31982421875
     },
     "visitante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": 88.2900390625
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 2,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": 75.2900390625
+    },
+    "visitante": {
       "nome": "Fedato Futebol Clube",
       "pontos": 77.490234375
     }
@@ -171,12 +159,60 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 2,
     "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": 76.97998046875
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": 87.990234375
     },
     "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": 76.18994140625
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": 103.6201171875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 2,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": 91.8798828125
+    },
+    "visitante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": 44.919921875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 2,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": 86.490234375
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": 56.820068359375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 2,
+    "mandante": {
+      "nome": "TATITTA FC",
+      "pontos": 59.679931640625
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "pontos": 95.58984375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 2,
+    "mandante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": 73.39013671875
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": 85.990234375
     }
   },
   {
@@ -187,104 +223,32 @@ const resultadosFase1 = [
       "pontos": 79.2900390625
     },
     "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": 87.990234375
+      "nome": "pura bucha /botafogo",
+      "pontos": 73.83984375
     }
   },
   {
     "grupo": "Série D",
     "rodada": 2,
     "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": 59.219970703125
+      "nome": "pra sempre imortal fc",
+      "pontos": 68.18994140625
     },
     "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": 86.39013671875
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 2,
-    "mandante": {
       "nome": "seralex",
       "pontos": 72.89013671875
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": 86.39013671875
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 2,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": 86.490234375
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": 74.490234375
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 2,
-    "mandante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": 85.990234375
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": 99.39013671875
     }
   },
   {
     "grupo": "Série D",
     "rodada": 3,
     "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
+      "nome": "TIGRE LEON",
+      "pontos": 83.60009765625
     },
     "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
+      "nome": "RHANKA DENTY FC25",
+      "pontos": 70.10009765625
     }
   },
   {
@@ -292,23 +256,11 @@ const resultadosFase1 = [
     "rodada": 3,
     "mandante": {
       "nome": "Fedato Futebol Clube",
-      "pontos": null
+      "pontos": 75.419921875
     },
     "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
+      "nome": "Tatols Beants F.C",
+      "pontos": 99.5498046875
     }
   },
   {
@@ -316,90 +268,102 @@ const resultadosFase1 = [
     "rodada": 3,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
+      "pontos": 72.9501953125
     },
     "visitante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": 63.699951171875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": 94.6201171875
+    },
+    "visitante": {
+      "nome": "MauHumor F.C.",
+      "pontos": 74.2998046875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": 76.52001953125
+    },
+    "visitante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": 76.89990234375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": 65.10009765625
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "pontos": 64.47021484375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": 91.990234375
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": 50.02001953125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
+      "nome": "TATITTA FC",
+      "pontos": 61.699951171875
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": 82.169921875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
       "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
+      "pontos": 38.219970703125
     },
     "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 3,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 4,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 4,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 4,
-    "mandante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 76.919921875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 3,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": 77.1201171875
     },
     "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
+      "nome": "pra sempre imortal fc",
+      "pontos": 63.300048828125
     }
   },
   {
     "grupo": "Série D",
     "rodada": 4,
     "mandante": {
-      "nome": "OlhaEleAiF.C!",
+      "nome": "FC castelo Branco 2",
       "pontos": null
     },
     "visitante": {
@@ -411,11 +375,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 4,
     "mandante": {
-      "nome": "lsauer fc",
+      "nome": "Tabajara de Inhaua FC2",
       "pontos": null
     },
     "visitante": {
-      "nome": "Time do S.A.P.O",
+      "nome": "Tatols Beants F.C",
       "pontos": null
     }
   },
@@ -423,11 +387,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 4,
     "mandante": {
-      "nome": "E.C. Bororé",
+      "nome": "Fedato Futebol Clube",
       "pontos": null
     },
     "visitante": {
-      "nome": "Fedato Futebol Clube",
+      "nome": "MauHumor F.C.",
       "pontos": null
     }
   },
@@ -435,23 +399,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 4,
     "mandante": {
-      "nome": "seralex",
+      "nome": "Santo Ângelo United",
       "pontos": null
     },
     "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 4,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
+      "nome": "A Lenda Super Vasco F.c",
       "pontos": null
     }
   },
@@ -459,11 +411,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 4,
     "mandante": {
-      "nome": "Eleis-Itaqui",
+      "nome": "Noah A 10",
       "pontos": null
     },
     "visitante": {
-      "nome": "Gremiomaniasm",
+      "nome": "RHANKA DENTY FC25",
       "pontos": null
     }
   },
@@ -471,71 +423,59 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 4,
     "mandante": {
-      "nome": "cartola scheuer",
+      "nome": "FC Los Castilho",
       "pontos": null
     },
     "visitante": {
-      "nome": "Rolo Compressor ZN",
+      "nome": "FIGUEIRA DA ILHA",
       "pontos": null
     }
   },
   {
     "grupo": "Série D",
-    "rodada": 5,
+    "rodada": 4,
     "mandante": {
-      "nome": "Eleis-Itaqui",
+      "nome": "JV5 Tricolor Gaúcho",
       "pontos": null
     },
     "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 5,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 5,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 5,
-    "mandante": {
       "nome": "lsauer fc",
       "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 4,
+    "mandante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
     },
     "visitante": {
+      "nome": "seralex",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 4,
+    "mandante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 4,
+    "mandante": {
       "nome": "Texas Club 2025",
       "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 5,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
     },
     "visitante": {
-      "nome": "E.C. Bororé",
+      "nome": "pura bucha /botafogo",
       "pontos": null
     }
   },
@@ -543,7 +483,7 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 5,
     "mandante": {
-      "nome": "Time do S.A.P.O",
+      "nome": "TIGRE LEON",
       "pontos": null
     },
     "visitante": {
@@ -555,11 +495,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 5,
     "mandante": {
-      "nome": "Fedato Futebol Clube",
+      "nome": "Tatols Beants F.C",
       "pontos": null
     },
     "visitante": {
-      "nome": "SISO FC25",
+      "nome": "MauHumor F.C.",
       "pontos": null
     }
   },
@@ -567,11 +507,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 5,
     "mandante": {
-      "nome": "Grêmio imortal 37",
+      "nome": "Tabajara de Inhaua FC2",
       "pontos": null
     },
     "visitante": {
-      "nome": "Atlético Colorado 2021",
+      "nome": "Santo Ângelo United",
       "pontos": null
     }
   },
@@ -579,11 +519,11 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 5,
     "mandante": {
-      "nome": "Rolo Compressor ZN",
+      "nome": "Fedato Futebol Clube",
       "pontos": null
     },
     "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
+      "nome": "RHANKA DENTY FC25",
       "pontos": null
     }
   },
@@ -591,43 +531,31 @@ const resultadosFase1 = [
     "grupo": "Série D",
     "rodada": 5,
     "mandante": {
-      "nome": "cartola scheuer",
+      "nome": "A Lenda Super Vasco F.c",
       "pontos": null
     },
     "visitante": {
-      "nome": "Gremiomaniasm",
+      "nome": "FC Los Castilho",
       "pontos": null
     }
   },
   {
     "grupo": "Série D",
-    "rodada": 6,
+    "rodada": 5,
     "mandante": {
-      "nome": "cartola scheuer",
+      "nome": "Noah A 10",
       "pontos": null
     },
     "visitante": {
-      "nome": "FBC Colorado",
+      "nome": "FC castelo Branco 2",
       "pontos": null
     }
   },
   {
     "grupo": "Série D",
-    "rodada": 6,
+    "rodada": 5,
     "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 6,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
+      "nome": "FIGUEIRA DA ILHA",
       "pontos": null
     },
     "visitante": {
@@ -637,1645 +565,37 @@ const resultadosFase1 = [
   },
   {
     "grupo": "Série D",
-    "rodada": 6,
+    "rodada": 5,
     "mandante": {
-      "nome": "Tatols Beants F.C",
+      "nome": "JV5 Tricolor Gaúcho",
       "pontos": null
     },
     "visitante": {
-      "nome": "E.C. Bororé",
+      "nome": "pra sempre imortal fc",
       "pontos": null
     }
   },
   {
     "grupo": "Série D",
-    "rodada": 6,
+    "rodada": 5,
     "mandante": {
-      "nome": "Texas Club 2025",
+      "nome": "pura bucha /botafogo",
       "pontos": null
     },
     "visitante": {
-      "nome": "seralex",
+      "nome": "VASCO MARTINS FC",
       "pontos": null
     }
   },
   {
     "grupo": "Série D",
-    "rodada": 6,
+    "rodada": 5,
     "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 6,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 6,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 6,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 6,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
+      "nome": "TATITTA FC",
       "pontos": null
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 7,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "seralex",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 8,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 9,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "seralex",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 10,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "seralex",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 11,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "seralex",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 12,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 13,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "seralex",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 14,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 15,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 16,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "seralex",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 17,
-    "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 18,
-    "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "OlhaEleAiF.C!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "FBC Colorado",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "Fedato Futebol Clube",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "Time do S.A.P.O",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Atlético Colorado 2021",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "Texas Club 2025",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "Tatols Beants F.C",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Gremiomaniasm",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "cartola scheuer",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "TIGRE LEON",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Rolo Compressor ZN",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "lsauer fc",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Eleis-Itaqui",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "E.C. Bororé",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "Grêmio imortal 37",
-      "pontos": null
-    }
-  },
-  {
-    "grupo": "Série D",
-    "rodada": 19,
-    "mandante": {
-      "nome": "SISO FC25",
-      "pontos": null
-    },
-    "visitante": {
-      "nome": "seralex",
       "pontos": null
     }
   }

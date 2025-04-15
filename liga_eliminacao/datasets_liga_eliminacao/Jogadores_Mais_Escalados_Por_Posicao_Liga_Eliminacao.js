@@ -9,25 +9,25 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Weverton",
     "Posição": "Goleiro",
     "Clube": "PAL",
-    "Quantidade": 22
+    "Quantidade": 23
   },
   {
     "Nome": "Anthoni",
     "Posição": "Goleiro",
     "Clube": "INT",
-    "Quantidade": 16
+    "Quantidade": 15
   },
   {
     "Nome": "Léo Ortiz",
     "Posição": "Zagueiro",
     "Clube": "FLA",
-    "Quantidade": 32
+    "Quantidade": 33
   },
   {
     "Nome": "Junior Alonso",
     "Posição": "Zagueiro",
     "Clube": "CAM",
-    "Quantidade": 25
+    "Quantidade": 26
   },
   {
     "Nome": "Kanu",
@@ -39,13 +39,13 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Arboleda",
     "Posição": "Zagueiro",
     "Clube": "SAO",
-    "Quantidade": 12
+    "Quantidade": 11
   },
   {
     "Nome": "Juninho Capixaba",
     "Posição": "Lateral",
     "Clube": "RBB",
-    "Quantidade": 34
+    "Quantidade": 35
   },
   {
     "Nome": "Natanael",
@@ -57,42 +57,42 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Wesley",
     "Posição": "Lateral",
     "Clube": "FLA",
-    "Quantidade": 12
+    "Quantidade": 13
   },
   {
     "Nome": "Aguirre",
     "Posição": "Lateral",
     "Clube": "INT",
-    "Quantidade": 11
+    "Quantidade": 12
   },
   {
     "Nome": "Arias",
     "Posição": "Meia",
     "Clube": "FLU",
-    "Quantidade": 46
+    "Quantidade": 48
   },
   {
     "Nome": "Gustavo Scarpa",
     "Posição": "Meia",
     "Clube": "CAM",
-    "Quantidade": 28
+    "Quantidade": 27
   },
   {
     "Nome": "Jhon Jhon",
     "Posição": "Meia",
     "Clube": "RBB",
-    "Quantidade": 20
-  },
-  {
-    "Nome": "Richard Ríos",
-    "Posição": "Meia",
-    "Clube": "PAL",
-    "Quantidade": 14
+    "Quantidade": 21
   },
   {
     "Nome": "Gabriel Bontempo",
     "Posição": "Meia",
     "Clube": "SAN",
+    "Quantidade": 15
+  },
+  {
+    "Nome": "Richard Ríos",
+    "Posição": "Meia",
+    "Clube": "PAL",
     "Quantidade": 14
   },
   {
@@ -123,6 +123,6 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Igor Jesus",
     "Posição": "Atacante",
     "Clube": "BOT",
-    "Quantidade": 21
+    "Quantidade": 22
   }
 ];

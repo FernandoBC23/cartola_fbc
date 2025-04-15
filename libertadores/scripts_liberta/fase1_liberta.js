@@ -14,14 +14,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
   const painelGrupos = document.getElementById("painel-grupos");
 
-  // const tituloRodadaTop = document.getElementById("titulo-rodada");
-  // const tituloRodadaBottom = document.getElementById("titulo-rodada-bottom");
-
-  // const btnAnteriorTop = document.getElementById("btn-anterior");
-  // const btnProximaTop = document.getElementById("btn-proxima");
-  // const btnAnteriorBottom = document.getElementById("btn-anterior-bottom");
-  // const btnProximaBottom = document.getElementById("btn-proxima-bottom");
-
   // Função para formatar nomes de arquivos de escudos
   const gerarNomeArquivo = nome => {
     return nome
@@ -60,7 +52,7 @@ window.addEventListener('DOMContentLoaded', () => {
     "Grêmio imortal 37": "../imagens/gremio_imortal_37.png", 
     "Super Vasco f.c": "../imagens/super_vasco_fc.png",
     "A Lenda Super Vasco F.c": "../imagens/a_lenda_super_vasco_fc.png",  
-    "ITAQUI F.C.": "../imagens/itaqui_fc.png",
+    "ITAQUI F. C.": "../imagens/itaqui_f_c.png",
     "TORRESMO COM PINGA": "../imagens/torresmo_com_pinga.png",
     "Lá do Itaqui": "../imagens/la_do_itaqui.png",
     "FC Los Castilho": "../imagens/fc_los_castilho.png",
@@ -88,7 +80,7 @@ window.addEventListener('DOMContentLoaded', () => {
     "Tatols Beants F.C": "TAL",  
     "Texas Club 2025": "SAO",
 
-    "ITAQUI F.C.": "COL",
+    "ITAQUI F. C.": "COL",
     "Real SCI": "RAC",
     "Gremiomaniasm": "ATL",
     "E.C. Bororé": "FOR",
@@ -112,8 +104,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
   function renderPainelCompleto(numeroRodada) {
     painelGrupos.innerHTML = "";
-    // tituloRodadaTop.textContent = `Rodada ${numeroRodada}`;
-    // tituloRodadaBottom.textContent = `Rodada ${numeroRodada}`;
 
     const confrontosRodada = confrontosFase1.filter(j => j.rodada === numeroRodada);
     const resultadosRodada = resultadosFase1.filter(j => j.rodada === numeroRodada);
@@ -287,11 +277,6 @@ window.addEventListener('DOMContentLoaded', () => {
   function atualizarRodada(novaRodada) {
     rodadaAtual = novaRodada;
     renderPainelCompleto(novaRodada);
-  
-    // btnAnteriorTop.disabled = novaRodada === 1;
-    // btnProximaTop.disabled = novaRodada === RODADA_MAXIMA;
-    // btnAnteriorBottom.disabled = novaRodada === 1;
-    // btnProximaBottom.disabled = novaRodada === RODADA_MAXIMA;
   }
   
   function criarNavegacaoRodadaGrupo(grupo, rodadaParaExibir) {

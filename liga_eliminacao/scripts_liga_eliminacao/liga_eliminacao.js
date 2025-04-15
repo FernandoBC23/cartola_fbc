@@ -94,7 +94,7 @@ const escudosTimes = {
   "I.B.CASTILHO FC": "../imagens/i_b_castilho_fc.png",
   "FBC Colorado": "../imagens/fbc_colorado.png",
   "VASCO MARTINS FC": "../imagens/vasco_martins_fc.png",
-  "KillerColorado": "../imagens/killercolorado.png",
+  "A Lenda Super Vasco F.c ": "../imagens/a_lenda_super_vasco_fc.png",
 };
 
 function configurarBotoesNavegacao(totalRodadas) {

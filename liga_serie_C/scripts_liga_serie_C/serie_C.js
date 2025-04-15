@@ -3,8 +3,14 @@
 window.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('loaded');
 
-  let rodadaAtual = 1;
-  const RODADA_MAXIMA = 19;
+  let rodadaAtual = (() => {
+    const rodadasComPontuacao = resultadosFase1
+      .filter(r => r.mandante?.pontos != null && r.visitante?.pontos != null)
+      .map(r => r.rodada);
+    return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 1;
+  })();
+  
+  const RODADA_MAXIMA = 5;
 
   const painelGrupos = document.getElementById("painel-grupos");
 
@@ -17,44 +23,26 @@ window.addEventListener('DOMContentLoaded', () => {
   };
 
     const escudosTimes = {
-    "OlhaEleAiF.C!": "../imagens/olhaeleaifc.png",
-    "Atlético Colorado 2021": "../imagens/atletico_colorado_2021.png",
-    "Time do S.A.P.O": "../imagens/time_do_sapo.png",
-    "SISO FC25": "../imagens/siso_fc25.png",
-    "FBC Colorado": "../imagens/fbc_colorado.png",
-    "Texas Club 2025": "../imagens/texas_club_2025.png",
-    "Real SCI": "../imagens/real_sci.png",
-    "Gig@ntte": "../imagens/gigntte.png",  
-    "Gremiomaniasm": "../imagens/gremiomaniasm.png",  
-    "F.C. Rei Das Copas": "../imagens/fc_rei_das_copas.png",
-    "Rolo Compressor ZN": "../imagens/rolo_compressor_zn.png", 
-    "KING LEONN": "../imagens/king_leonn.png",
-    "Laranjja Mecannica": "../imagens/laranjja_mecannica.png",
-    "Fedato Futebol Clube": "../imagens/fedato_futebol_clube.png", 
-    "TEAM LOPES 99": "../imagens/team_lopes_99.png",
-    "pura bucha /botafogo": "../imagens/pura_bucha_botafogo.png",
-    "cartola scheuer": "../imagens/cartola_scheuer.png", 
-    "Analove10 ITAQUI GRANDE!!":"../imagens/analove10_itaqui_grande.png", 
-    "lsauer fc": "../imagens/lsauer_fc.png", 
-    "BORGES ITAQUI F.C.": "../imagens/borges_itaqui_fc.png",  
-    "Tabajara de Inhaua FC2": "../imagens/tabajara_de_inhaua_fc2.png", 
-    "seralex": "../imagens/seralex.png",
-    "E.C. Bororé": "../imagens/ec_borore.png", 
-    "Tatols Beants F.C": "../imagens/tatols_beants_fc.png",
-    "MauHumor F.C.": "../imagens/mauhumor_fc.png", 
-    "TATITTA FC": "../imagens/tatitta_fc.png",
-    "HS SPORTS F.C": "../imagens/hs_sports_fc.png",
-    "Dom Camillo68": "../imagens/dom_camillo68.png",  
-    "Grêmio imortal 37": "../imagens/gremio_imortal_37.png", 
-    "Super Vasco f.c": "../imagens/super_vasco_fc.png",
-    "A Lenda Super Vasco F.c": "../imagens/a_lenda_super_vasco_fc.png",  
-    "ITAQUI F.C.": "../imagens/itaqui_fc.png",
-    "TORRESMO COM PINGA": "../imagens/torresmo_com_pinga.png",
-    "Lá do Itaqui": "../imagens/la_do_itaqui.png",
-    "FC Los Castilho": "../imagens/fc_los_castilho.png",
-    "KillerColorado": "../imagens/killercolorado.png",
-    "Eleis-Itaqui": "../imagens/eleis_itaqui.png",
-    "TIGRE LEON": "../imagens/tigre_leon.png",
+      "ITAQUI F. C.": "../imagens/itaqui_f_c.png",
+      "TIGRE LEON": "../imagens/tigre_leon.png",
+      "Dom Camillo68": "../imagens/dom_camillo68.png", 
+      "Noah A 10": "../imagens/noah_a_10.png",
+      "TEAM LOPES 99": "../imagens/team_lopes_99.png",
+      "cartola scheuer": "../imagens/cartola_scheuer.png",  
+      "Super Vasco f.c": "../imagens/super_vasco_fc.png",  
+      "HS SPORTS F.C": "../imagens/hs_sports_fc.png", 
+      "S.E.R. GRILLO": "../imagens/ser_grillo.png",
+      "lsauer fc": "../imagens/lsauer_fc.png", 
+      "pura bucha /botafogo": "../imagens/pura_bucha_botafogo.png",  
+      "Fedato Futebol Clube": "../imagens/fedato_futebol_clube.png", 
+      "Texas Club 2025": "../imagens/texas_club_2025.png",
+      "KP JUV.": "../imagens/kp_juv.png",
+      "seralex": "../imagens/seralex.png",
+      "BORGES CLIMA FUT F.C": "../imagens/borges_clima_fut_fc.png",
+      "DM Studio": "../imagens/dm_studio.png",
+      "Cril Futebol Club": "../imagens/cril_futebol_club.png",
+      "SERGRILLO": "../imagens/sergrillo.png",
+      "Tatols Beants F.C": "../imagens/tatols_beants_fc.png",    
   };
 
   function renderPainelCompleto(numeroRodada) {
@@ -102,7 +90,8 @@ window.addEventListener('DOMContentLoaded', () => {
         const tr = document.createElement("tr");
         if (index === 0 || index === 1) tr.classList.add("lider-grupo");
 
-        const escudoSrc = nome => escudosTimes[nome] || `../imagens/${gerarNomeArquivo(nome)}.png`;
+        // const escudoSrc = nome => escudosTimes[nome] || `../imagens/${gerarNomeArquivo(nome)}.png`;
+        const escudo = escudosTimes[time.nome] || "../imagens/escudo_padrao.png";
 
         tr.innerHTML = `
           <td>${time.posicao}</td>
