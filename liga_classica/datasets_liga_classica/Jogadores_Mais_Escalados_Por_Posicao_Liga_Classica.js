@@ -15,13 +15,13 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Anthoni",
     "Posição": "Goleiro",
     "Clube": "INT",
-    "Quantidade": 34
+    "Quantidade": 39
   },
   {
     "Nome": "Léo Ortiz",
     "Posição": "Zagueiro",
     "Clube": "FLA",
-    "Quantidade": 64
+    "Quantidade": 93
   },
   {
     "Nome": "Junior Alonso",
@@ -30,22 +30,28 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Quantidade": 47
   },
   {
+    "Nome": "Jair",
+    "Posição": "Zagueiro",
+    "Clube": "BOT",
+    "Quantidade": 35
+  },
+  {
     "Nome": "Kanu",
     "Posição": "Zagueiro",
     "Clube": "BAH",
     "Quantidade": 32
   },
   {
-    "Nome": "Arboleda",
-    "Posição": "Zagueiro",
-    "Clube": "SAO",
-    "Quantidade": 27
-  },
-  {
     "Nome": "Juninho Capixaba",
     "Posição": "Lateral",
     "Clube": "RBB",
-    "Quantidade": 68
+    "Quantidade": 77
+  },
+  {
+    "Nome": "Wesley",
+    "Posição": "Lateral",
+    "Clube": "FLA",
+    "Quantidade": 48
   },
   {
     "Nome": "Natanael",
@@ -54,22 +60,22 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Quantidade": 33
   },
   {
-    "Nome": "Wesley",
+    "Nome": "Escobar",
     "Posição": "Lateral",
-    "Clube": "FLA",
-    "Quantidade": 29
-  },
-  {
-    "Nome": "Luciano Juba",
-    "Posição": "Lateral",
-    "Clube": "BAH",
-    "Quantidade": 23
+    "Clube": "SAN",
+    "Quantidade": 28
   },
   {
     "Nome": "Arias",
     "Posição": "Meia",
     "Clube": "FLU",
     "Quantidade": 82
+  },
+  {
+    "Nome": "Arrascaeta",
+    "Posição": "Meia",
+    "Clube": "FLA",
+    "Quantidade": 55
   },
   {
     "Nome": "Gustavo Scarpa",
@@ -81,25 +87,31 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Jhon Jhon",
     "Posição": "Meia",
     "Clube": "RBB",
-    "Quantidade": 37
-  },
-  {
-    "Nome": "Jean Lucas",
-    "Posição": "Meia",
-    "Clube": "BAH",
-    "Quantidade": 34
+    "Quantidade": 38
   },
   {
     "Nome": "Gabriel Bontempo",
     "Posição": "Meia",
     "Clube": "SAN",
-    "Quantidade": 25
+    "Quantidade": 35
+  },
+  {
+    "Nome": "Yuri Alberto",
+    "Posição": "Atacante",
+    "Clube": "COR",
+    "Quantidade": 92
+  },
+  {
+    "Nome": "Igor Jesus",
+    "Posição": "Atacante",
+    "Clube": "BOT",
+    "Quantidade": 68
   },
   {
     "Nome": "Gabriel",
     "Posição": "Atacante",
     "Clube": "CRU",
-    "Quantidade": 56
+    "Quantidade": 57
   },
   {
     "Nome": "Hulk",
@@ -112,17 +124,5 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Posição": "Atacante",
     "Clube": "VAS",
     "Quantidade": 49
-  },
-  {
-    "Nome": "Igor Jesus",
-    "Posição": "Atacante",
-    "Clube": "BOT",
-    "Quantidade": 44
-  },
-  {
-    "Nome": "Yuri Alberto",
-    "Posição": "Atacante",
-    "Clube": "COR",
-    "Quantidade": 43
   }
 ];
