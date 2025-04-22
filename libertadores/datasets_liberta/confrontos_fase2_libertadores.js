@@ -8,14 +8,14 @@ const confrontosFase2 = [
   {
     "Rodada":1,
     "Grupo":"Grupo I",
-    "Mandante":"Tatols Beants F.C",
+    "Mandante":"Texas Club 2025",
     "Visitante":"lsauer fc"
   },
   {
     "Rodada":2,
     "Grupo":"Grupo I",
     "Mandante":"pura bucha \/botafogo",
-    "Visitante":"Tatols Beants F.C"
+    "Visitante":"Texas Club 2025"
   },
   {
     "Rodada":2,
@@ -26,7 +26,7 @@ const confrontosFase2 = [
   {
     "Rodada":3,
     "Grupo":"Grupo I",
-    "Mandante":"Tatols Beants F.C",
+    "Mandante":"Texas Club 2025",
     "Visitante":"Grêmio imortal 37"
   },
   {
@@ -38,7 +38,7 @@ const confrontosFase2 = [
   {
     "Rodada":4,
     "Grupo":"Grupo I",
-    "Mandante":"Tatols Beants F.C",
+    "Mandante":"Texas Club 2025",
     "Visitante":"pura bucha \/botafogo"
   },
   {
@@ -51,7 +51,7 @@ const confrontosFase2 = [
     "Rodada":5,
     "Grupo":"Grupo I",
     "Mandante":"Grêmio imortal 37",
-    "Visitante":"Tatols Beants F.C"
+    "Visitante":"Texas Club 2025"
   },
   {
     "Rodada":5,
@@ -69,12 +69,12 @@ const confrontosFase2 = [
     "Rodada":6,
     "Grupo":"Grupo I",
     "Mandante":"lsauer fc",
-    "Visitante":"Tatols Beants F.C"
+    "Visitante":"Texas Club 2025"
   },
   {
     "Rodada":1,
     "Grupo":"Grupo J",
-    "Mandante":"Texas Club 2025",
+    "Mandante":"Tatols Beants F.C",
     "Visitante":"Tabajara de Inhaua FC2"
   },
   {
@@ -93,13 +93,13 @@ const confrontosFase2 = [
     "Rodada":2,
     "Grupo":"Grupo J",
     "Mandante":"Dom Camillo68",
-    "Visitante":"Texas Club 2025"
+    "Visitante":"Tatols Beants F.C"
   },
   {
     "Rodada":3,
     "Grupo":"Grupo J",
     "Mandante":"Analove10 ITAQUI GRANDE!!",
-    "Visitante":"Texas Club 2025"
+    "Visitante":"Tatols Beants F.C"
   },
   {
     "Rodada":3,
@@ -116,13 +116,13 @@ const confrontosFase2 = [
   {
     "Rodada":4,
     "Grupo":"Grupo J",
-    "Mandante":"Texas Club 2025",
+    "Mandante":"Tatols Beants F.C",
     "Visitante":"Dom Camillo68"
   },
   {
     "Rodada":5,
     "Grupo":"Grupo J",
-    "Mandante":"Texas Club 2025",
+    "Mandante":"Tatols Beants F.C",
     "Visitante":"Analove10 ITAQUI GRANDE!!"
   },
   {
@@ -135,7 +135,7 @@ const confrontosFase2 = [
     "Rodada":6,
     "Grupo":"Grupo J",
     "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"Texas Club 2025"
+    "Visitante":"Tatols Beants F.C"
   },
   {
     "Rodada":6,
