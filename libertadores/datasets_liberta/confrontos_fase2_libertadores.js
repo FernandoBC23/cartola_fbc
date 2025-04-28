@@ -2,146 +2,146 @@ const confrontosFase2 = [
   {
     "Rodada":1,
     "Grupo":"Grupo I",
-    "Mandante":"Grêmio imortal 37",
-    "Visitante":"pura bucha \/botafogo"
+    "Mandante":"Analove10 ITAQUI GRANDE!!",
+    "Visitante":"Dom Camillo68"
   },
   {
     "Rodada":1,
     "Grupo":"Grupo I",
-    "Mandante":"Texas Club 2025",
+    "Mandante":"Super Vasco f.c",
     "Visitante":"lsauer fc"
   },
   {
     "Rodada":2,
     "Grupo":"Grupo I",
-    "Mandante":"pura bucha \/botafogo",
-    "Visitante":"Texas Club 2025"
+    "Mandante":"Dom Camillo68",
+    "Visitante":"Super Vasco f.c"
   },
   {
     "Rodada":2,
     "Grupo":"Grupo I",
     "Mandante":"lsauer fc",
-    "Visitante":"Grêmio imortal 37"
+    "Visitante":"Analove10 ITAQUI GRANDE!!"
   },
   {
     "Rodada":3,
     "Grupo":"Grupo I",
-    "Mandante":"Texas Club 2025",
-    "Visitante":"Grêmio imortal 37"
+    "Mandante":"Super Vasco f.c",
+    "Visitante":"Analove10 ITAQUI GRANDE!!"
   },
   {
     "Rodada":3,
     "Grupo":"Grupo I",
     "Mandante":"lsauer fc",
-    "Visitante":"pura bucha \/botafogo"
+    "Visitante":"Dom Camillo68"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo I",
-    "Mandante":"Texas Club 2025",
-    "Visitante":"pura bucha \/botafogo"
+    "Mandante":"Super Vasco f.c",
+    "Visitante":"Dom Camillo68"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo I",
-    "Mandante":"Grêmio imortal 37",
+    "Mandante":"Analove10 ITAQUI GRANDE!!",
     "Visitante":"lsauer fc"
   },
   {
     "Rodada":5,
     "Grupo":"Grupo I",
-    "Mandante":"Grêmio imortal 37",
-    "Visitante":"Texas Club 2025"
+    "Mandante":"Analove10 ITAQUI GRANDE!!",
+    "Visitante":"Super Vasco f.c"
   },
   {
     "Rodada":5,
     "Grupo":"Grupo I",
-    "Mandante":"pura bucha \/botafogo",
+    "Mandante":"Dom Camillo68",
     "Visitante":"lsauer fc"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo I",
-    "Mandante":"pura bucha \/botafogo",
-    "Visitante":"Grêmio imortal 37"
+    "Mandante":"Dom Camillo68",
+    "Visitante":"Analove10 ITAQUI GRANDE!!"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo I",
     "Mandante":"lsauer fc",
+    "Visitante":"Super Vasco f.c"
+  },
+  {
+    "Rodada":1,
+    "Grupo":"Grupo J",
+    "Mandante":"Texas Club 2025",
+    "Visitante":"Tabajara de Inhaua FC2"
+  },
+  {
+    "Rodada":1,
+    "Grupo":"Grupo J",
+    "Mandante":"TEAM LOPES 99",
+    "Visitante":"pura bucha \/botafogo"
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo J",
+    "Mandante":"Tabajara de Inhaua FC2",
+    "Visitante":"TEAM LOPES 99"
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo J",
+    "Mandante":"pura bucha \/botafogo",
     "Visitante":"Texas Club 2025"
   },
   {
-    "Rodada":1,
+    "Rodada":3,
     "Grupo":"Grupo J",
-    "Mandante":"Tatols Beants F.C",
-    "Visitante":"Tabajara de Inhaua FC2"
-  },
-  {
-    "Rodada":1,
-    "Grupo":"Grupo J",
-    "Mandante":"Analove10 ITAQUI GRANDE!!",
-    "Visitante":"Dom Camillo68"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo J",
-    "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"Analove10 ITAQUI GRANDE!!"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo J",
-    "Mandante":"Dom Camillo68",
-    "Visitante":"Tatols Beants F.C"
+    "Mandante":"TEAM LOPES 99",
+    "Visitante":"Texas Club 2025"
   },
   {
     "Rodada":3,
     "Grupo":"Grupo J",
-    "Mandante":"Analove10 ITAQUI GRANDE!!",
-    "Visitante":"Tatols Beants F.C"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo J",
-    "Mandante":"Dom Camillo68",
+    "Mandante":"pura bucha \/botafogo",
     "Visitante":"Tabajara de Inhaua FC2"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo J",
-    "Mandante":"Analove10 ITAQUI GRANDE!!",
+    "Mandante":"TEAM LOPES 99",
     "Visitante":"Tabajara de Inhaua FC2"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo J",
-    "Mandante":"Tatols Beants F.C",
-    "Visitante":"Dom Camillo68"
+    "Mandante":"Texas Club 2025",
+    "Visitante":"pura bucha \/botafogo"
   },
   {
     "Rodada":5,
     "Grupo":"Grupo J",
-    "Mandante":"Tatols Beants F.C",
-    "Visitante":"Analove10 ITAQUI GRANDE!!"
+    "Mandante":"Texas Club 2025",
+    "Visitante":"TEAM LOPES 99"
   },
   {
     "Rodada":5,
     "Grupo":"Grupo J",
     "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"Dom Camillo68"
+    "Visitante":"pura bucha \/botafogo"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo J",
     "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"Tatols Beants F.C"
+    "Visitante":"Texas Club 2025"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo J",
-    "Mandante":"Dom Camillo68",
-    "Visitante":"Analove10 ITAQUI GRANDE!!"
+    "Mandante":"pura bucha \/botafogo",
+    "Visitante":"TEAM LOPES 99"
   },
   {
     "Rodada":1,
@@ -153,7 +153,7 @@ const confrontosFase2 = [
     "Rodada":1,
     "Grupo":"Grupo K",
     "Mandante":"Laranjja Mecannica",
-    "Visitante":"TORRESMO COM PINGA"
+    "Visitante":"Lá do Itaqui"
   },
   {
     "Rodada":2,
@@ -164,7 +164,7 @@ const confrontosFase2 = [
   {
     "Rodada":2,
     "Grupo":"Grupo K",
-    "Mandante":"TORRESMO COM PINGA",
+    "Mandante":"Lá do Itaqui",
     "Visitante":"KING LEONN"
   },
   {
@@ -176,7 +176,7 @@ const confrontosFase2 = [
   {
     "Rodada":3,
     "Grupo":"Grupo K",
-    "Mandante":"TORRESMO COM PINGA",
+    "Mandante":"Lá do Itaqui",
     "Visitante":"Real SCI"
   },
   {
@@ -189,7 +189,7 @@ const confrontosFase2 = [
     "Rodada":4,
     "Grupo":"Grupo K",
     "Mandante":"KING LEONN",
-    "Visitante":"TORRESMO COM PINGA"
+    "Visitante":"Lá do Itaqui"
   },
   {
     "Rodada":5,
@@ -201,7 +201,7 @@ const confrontosFase2 = [
     "Rodada":5,
     "Grupo":"Grupo K",
     "Mandante":"Real SCI",
-    "Visitante":"TORRESMO COM PINGA"
+    "Visitante":"Lá do Itaqui"
   },
   {
     "Rodada":6,
@@ -212,14 +212,14 @@ const confrontosFase2 = [
   {
     "Rodada":6,
     "Grupo":"Grupo K",
-    "Mandante":"TORRESMO COM PINGA",
+    "Mandante":"Lá do Itaqui",
     "Visitante":"Laranjja Mecannica"
   },
   {
     "Rodada":1,
     "Grupo":"Grupo L",
     "Mandante":"Gig@ntte",
-    "Visitante":"Lá do Itaqui"
+    "Visitante":"TORRESMO COM PINGA"
   },
   {
     "Rodada":1,
@@ -230,7 +230,7 @@ const confrontosFase2 = [
   {
     "Rodada":2,
     "Grupo":"Grupo L",
-    "Mandante":"Lá do Itaqui",
+    "Mandante":"TORRESMO COM PINGA",
     "Visitante":"KillerColorado"
   },
   {
@@ -249,13 +249,13 @@ const confrontosFase2 = [
     "Rodada":3,
     "Grupo":"Grupo L",
     "Mandante":"Gremiomaniasm",
-    "Visitante":"Lá do Itaqui"
+    "Visitante":"TORRESMO COM PINGA"
   },
   {
     "Rodada":4,
     "Grupo":"Grupo L",
     "Mandante":"KillerColorado",
-    "Visitante":"Lá do Itaqui"
+    "Visitante":"TORRESMO COM PINGA"
   },
   {
     "Rodada":4,
@@ -272,13 +272,13 @@ const confrontosFase2 = [
   {
     "Rodada":5,
     "Grupo":"Grupo L",
-    "Mandante":"Lá do Itaqui",
+    "Mandante":"TORRESMO COM PINGA",
     "Visitante":"Gremiomaniasm"
   },
   {
     "Rodada":6,
     "Grupo":"Grupo L",
-    "Mandante":"Lá do Itaqui",
+    "Mandante":"TORRESMO COM PINGA",
     "Visitante":"Gig@ntte"
   },
   {

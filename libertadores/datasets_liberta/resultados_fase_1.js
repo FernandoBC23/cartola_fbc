@@ -1366,15 +1366,15 @@ const resultadosFase1 = [
       "nome": "pura bucha /botafogo",
       "participante": "Gabriel",
       "clube": "Botafogo",
-      "pontos": null
+      "pontos": 77.5
     },
     "visitante": {
       "nome": "Dom Camillo68",
       "participante": "Camilo",
       "clube": "Universidade Católica do Chile",
-      "pontos": null
+      "pontos": 78.56005859375
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo A",
@@ -1383,15 +1383,15 @@ const resultadosFase1 = [
       "nome": "BORGES ITAQUI F.C.",
       "participante": "Elvis",
       "clube": "Estudiantes",
-      "pontos": null
+      "pontos": 109.64990234375
     },
     "visitante": {
       "nome": "A Lenda Super Vasco F.c",
       "participante": "Júlio Cesar",
       "clube": "Carabobo",
-      "pontos": null
+      "pontos": 93.35986328125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo B",
@@ -1400,15 +1400,15 @@ const resultadosFase1 = [
       "nome": "HS SPORTS F.C",
       "participante": "Henrique",
       "clube": "River Plate",
-      "pontos": null
+      "pontos": 82.64990234375
     },
     "visitante": {
       "nome": "Rolo Compressor ZN",
       "participante": "Lucas",
       "clube": "Universitário",
-      "pontos": null
+      "pontos": 68.4501953125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo B",
@@ -1417,15 +1417,15 @@ const resultadosFase1 = [
       "nome": "Tabajara de Inhaua FC2",
       "participante": "Ivanildo",
       "clube": "Independiente del Valle",
-      "pontos": null
+      "pontos": 106.14990234375
     },
     "visitante": {
       "nome": "lsauer fc",
       "participante": "Sauer",
       "clube": "Barcelona",
-      "pontos": null
+      "pontos": 108.56005859375
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo C",
@@ -1434,15 +1434,15 @@ const resultadosFase1 = [
       "nome": "TEAM LOPES 99",
       "participante": "Marllon",
       "clube": "Flamengo",
-      "pontos": null
+      "pontos": 106.06005859375
     },
     "visitante": {
       "nome": "Grêmio imortal 37",
       "participante": "Rodrigo",
       "clube": "Deportivo Táchira",
-      "pontos": null
+      "pontos": 88.35986328125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo C",
@@ -1451,15 +1451,15 @@ const resultadosFase1 = [
       "nome": "cartola scheuer",
       "participante": "Paulo Augusto",
       "clube": "LDU",
-      "pontos": null
+      "pontos": 98.2998046875
     },
     "visitante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
       "participante": "Ananias",
       "clube": "Central Córdoba",
-      "pontos": null
+      "pontos": 104.2001953125
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo D",
@@ -1468,15 +1468,15 @@ const resultadosFase1 = [
       "nome": "Texas Club 2025",
       "participante": "Fumaco",
       "clube": "São Paulo",
-      "pontos": null
+      "pontos": 119.85009765625
     },
     "visitante": {
       "nome": "Tatols Beants F.C",
       "participante": "Elemar",
       "clube": "Talleres",
-      "pontos": null
+      "pontos": 86.06005859375
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo D",
@@ -1485,15 +1485,15 @@ const resultadosFase1 = [
       "nome": "Super Vasco f.c",
       "participante": "Boka",
       "clube": "Libertad",
-      "pontos": null
+      "pontos": 100.85986328125
     },
     "visitante": {
       "nome": "Fedato Futebol Clube",
       "participante": "Fedato",
       "clube": "Alianza Lima",
-      "pontos": null
+      "pontos": 92.06005859375
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo E",
@@ -1502,15 +1502,15 @@ const resultadosFase1 = [
       "nome": "Real SCI",
       "participante": "Diego",
       "clube": "Racing",
-      "pontos": null
+      "pontos": 103.259765625
     },
     "visitante": {
       "nome": "E.C. Bororé",
       "participante": "Moodi",
       "clube": "Fortaleza",
-      "pontos": null
+      "pontos": 103.66015625
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo E",
@@ -1519,15 +1519,15 @@ const resultadosFase1 = [
       "nome": "ITAQUI F. C.",
       "participante": "Cassiano",
       "clube": "Colo-Colo",
-      "pontos": null
+      "pontos": 56.330078125
     },
     "visitante": {
       "nome": "Gremiomaniasm",
       "participante": "Márcio",
       "clube": "Bucaramanga",
-      "pontos": null
+      "pontos": 78.919921875
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo F",
@@ -1536,15 +1536,15 @@ const resultadosFase1 = [
       "nome": "FC Los Castilho",
       "participante": "Castilho",
       "clube": "Nacional",
-      "pontos": null
+      "pontos": 86.35986328125
     },
     "visitante": {
       "nome": "seralex",
       "participante": "Alex",
       "clube": "Atlético Nacional",
-      "pontos": null
+      "pontos": 66.759765625
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo F",
@@ -1553,15 +1553,15 @@ const resultadosFase1 = [
       "nome": "Lá do Itaqui",
       "participante": "Gerônimo",
       "clube": "Internacional",
-      "pontos": null
+      "pontos": 82.60986328125
     },
     "visitante": {
       "nome": "TORRESMO COM PINGA",
       "participante": "Marquinho",
       "clube": "Bahia",
-      "pontos": null
+      "pontos": 98.16015625
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo G",
@@ -1570,15 +1570,15 @@ const resultadosFase1 = [
       "nome": "KING LEONN",
       "participante": "Leon",
       "clube": "Palmeiras",
-      "pontos": null
+      "pontos": 99.56005859375
     },
     "visitante": {
       "nome": "KillerColorado",
       "participante": "Ronaldo",
       "clube": "Sporting Cristal",
-      "pontos": null
+      "pontos": 77.85986328125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo G",
@@ -1587,15 +1587,15 @@ const resultadosFase1 = [
       "nome": "TATITTA FC",
       "participante": "Tatita",
       "clube": "Bolívar",
-      "pontos": null
+      "pontos": 73.259765625
     },
     "visitante": {
       "nome": "F.C. Rei Das Copas",
       "participante": "Ricardo",
       "clube": "Cerro Porteño",
-      "pontos": null
+      "pontos": 70.93017578125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo H",
@@ -1604,15 +1604,15 @@ const resultadosFase1 = [
       "nome": "Laranjja Mecannica",
       "participante": "Roberto",
       "clube": "Peñarol",
-      "pontos": null
+      "pontos": 49.260009765625
     },
     "visitante": {
       "nome": "FBC Colorado",
       "participante": "Fernando",
       "clube": "Velez Sarsfield",
-      "pontos": null
+      "pontos": 92.0498046875
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo H",
@@ -1621,14 +1621,14 @@ const resultadosFase1 = [
       "nome": "MauHumor F.C.",
       "participante": "André",
       "clube": "Olimpia",
-      "pontos": null
+      "pontos": 107.7001953125
     },
     "visitante": {
       "nome": "Gig@ntte",
       "participante": "Adriano",
       "clube": "San Antônio Bulo Bulo",
-      "pontos": null
+      "pontos": 78.85986328125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   }
 ];
