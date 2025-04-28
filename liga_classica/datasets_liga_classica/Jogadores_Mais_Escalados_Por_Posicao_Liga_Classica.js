@@ -1,128 +1,128 @@
 const jogadoresMaisEscaladosPorPosicao = [
   {
-    "Nome": "Matheus Donelli",
+    "Nome": "Anthoni",
     "Posição": "Goleiro",
-    "Clube": "COR",
-    "Quantidade": 51
+    "Clube": "INT",
+    "Quantidade": 65
   },
   {
     "Nome": "Weverton",
     "Posição": "Goleiro",
     "Clube": "PAL",
-    "Quantidade": 48
+    "Quantidade": 55
   },
   {
-    "Nome": "Anthoni",
+    "Nome": "Ronaldo",
     "Posição": "Goleiro",
-    "Clube": "INT",
-    "Quantidade": 48
+    "Clube": "BAH",
+    "Quantidade": 51
   },
   {
     "Nome": "Léo Ortiz",
     "Posição": "Zagueiro",
     "Clube": "FLA",
-    "Quantidade": 127
+    "Quantidade": 154
   },
   {
     "Nome": "Junior Alonso",
     "Posição": "Zagueiro",
     "Clube": "CAM",
-    "Quantidade": 49
+    "Quantidade": 51
+  },
+  {
+    "Nome": "Vitão",
+    "Posição": "Zagueiro",
+    "Clube": "INT",
+    "Quantidade": 40
   },
   {
     "Nome": "Jair",
     "Posição": "Zagueiro",
     "Clube": "BOT",
-    "Quantidade": 36
-  },
-  {
-    "Nome": "Kanu",
-    "Posição": "Zagueiro",
-    "Clube": "BAH",
-    "Quantidade": 32
+    "Quantidade": 39
   },
   {
     "Nome": "Juninho Capixaba",
     "Posição": "Lateral",
     "Clube": "RBB",
-    "Quantidade": 103
-  },
-  {
-    "Nome": "Wesley",
-    "Posição": "Lateral",
-    "Clube": "FLA",
-    "Quantidade": 55
+    "Quantidade": 104
   },
   {
     "Nome": "Bernabéi",
     "Posição": "Lateral",
     "Clube": "INT",
-    "Quantidade": 37
+    "Quantidade": 83
   },
   {
-    "Nome": "Angileri",
+    "Nome": "Wesley",
     "Posição": "Lateral",
-    "Clube": "COR",
-    "Quantidade": 36
+    "Clube": "FLA",
+    "Quantidade": 64
   },
   {
-    "Nome": "Arias",
-    "Posição": "Meia",
-    "Clube": "FLU",
-    "Quantidade": 129
+    "Nome": "Escobar",
+    "Posição": "Lateral",
+    "Clube": "SAN",
+    "Quantidade": 50
   },
   {
     "Nome": "Arrascaeta",
     "Posição": "Meia",
     "Clube": "FLA",
-    "Quantidade": 90
+    "Quantidade": 134
+  },
+  {
+    "Nome": "Arias",
+    "Posição": "Meia",
+    "Clube": "FLU",
+    "Quantidade": 131
   },
   {
     "Nome": "Alan Patrick",
     "Posição": "Meia",
     "Clube": "INT",
-    "Quantidade": 68
+    "Quantidade": 121
   },
   {
     "Nome": "Gustavo Scarpa",
     "Posição": "Meia",
     "Clube": "CAM",
-    "Quantidade": 55
+    "Quantidade": 58
   },
   {
     "Nome": "Gerson",
     "Posição": "Meia",
     "Clube": "FLA",
-    "Quantidade": 44
+    "Quantidade": 52
   },
   {
     "Nome": "Yuri Alberto",
     "Posição": "Atacante",
     "Clube": "COR",
-    "Quantidade": 143
+    "Quantidade": 144
+  },
+  {
+    "Nome": "Guilherme",
+    "Posição": "Atacante",
+    "Clube": "SAN",
+    "Quantidade": 79
   },
   {
     "Nome": "Igor Jesus",
     "Posição": "Atacante",
     "Clube": "BOT",
-    "Quantidade": 70
+    "Quantidade": 74
+  },
+  {
+    "Nome": "Estêvão",
+    "Posição": "Atacante",
+    "Clube": "PAL",
+    "Quantidade": 71
   },
   {
     "Nome": "Hulk",
     "Posição": "Atacante",
     "Clube": "CAM",
-    "Quantidade": 59
-  },
-  {
-    "Nome": "Gabriel",
-    "Posição": "Atacante",
-    "Clube": "CRU",
-    "Quantidade": 57
-  },
-  {
-    "Nome": "Memphis Depay",
-    "Posição": "Atacante",
-    "Clube": "COR",
-    "Quantidade": 49
+    "Quantidade": 66
   }
 ];
