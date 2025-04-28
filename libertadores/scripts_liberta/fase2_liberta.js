@@ -13,14 +13,19 @@ window.addEventListener('DOMContentLoaded', () => {
   }
 
 
-    // Função para formatar nomes de arquivos de escudos
-    const gerarNomeArquivo = nome => {
+    // === Função para gerar o nome do arquivo de escudo de forma segura ===
+    const gerarNomeArquivo = (nome) => {
+      if (!nome) {
+        return "escudo_padrao"; // Pode colocar uma imagem padrão se o nome vier vazio
+      }
       return nome
-        .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // remove acentos
-        .replace(/\s+/g, "_") // troca espaços por underscore
-        .replace(/[^\w\-]/g, "") // remove caracteres especiais
-        .toLowerCase();
+        .normalize("NFD")                    // Remove acentos
+        .replace(/[\u0300-\u036f]/g, "")     // Remove marcas de acento
+        .replace(/\s+/g, "_")                // Substitui espaços por _
+        .replace(/[^\w\-]/g, "")             // Remove caracteres especiais
+        .toLowerCase();                     // Tudo minúsculo
     };
+
   
   
     const escudosTimes = {
@@ -101,9 +106,6 @@ window.addEventListener('DOMContentLoaded', () => {
     }; 
 
 
-
-
-
   function renderPainelCompleto(numeroRodada) {
     painelGrupos.innerHTML = "";
 
@@ -153,15 +155,15 @@ window.addEventListener('DOMContentLoaded', () => {
       times.forEach((time, index) => {
         const tr = document.createElement("tr");
         if (index === 0 || index === 1) tr.classList.add("lider-grupo");
-        tr.innerHTML = `
-          <td>${time["Posicao"]}</td>
-          <td>${time["Nome do Time"]}</td>
-          <td>${time["Pontos"]}</td>
-          <td>${(time["Vitorias"] ?? 0) + (time["Empates"] ?? 0) + (time["Derrotas"] ?? 0)}</td>
-          <td>${time["Vitorias"] ?? 0}</td>
-          <td>${time["Empates"] ?? 0}</td>
-          <td>${time["Derrotas"] ?? 0}</td>
-          <td>${(time["Total Cartola"] ?? 0).toFixed(2)}</td>
+        tr.innerHTML = `          
+          <td>${index + 1}</td>
+          <td>${time["nome"]}</td>
+          <td>${time["pontos"]}</td>
+          <td>${(time["vitorias"] ?? 0) + (time["empates"] ?? 0) + (time["derrotas"] ?? 0)}</td>
+          <td>${time["vitorias"] ?? 0}</td>
+          <td>${time["empates"] ?? 0}</td>
+          <td>${time["derrotas"] ?? 0}</td>
+          <td>${(time["totalCartola"] ?? 0).toFixed(2)}</td>
         `;
         tbody.appendChild(tr);
       });
@@ -180,29 +182,36 @@ window.addEventListener('DOMContentLoaded', () => {
         confrontosPorGrupo[grupo].forEach(jogo => {
           const jogoDiv = document.createElement("div");
           jogoDiv.className = "jogo";
-          
 
-          const escudoSrc = nome => {
-            if (escudosTimes[nome]) {
-              return escudosTimes[nome];
-            } else {
-              return `../imagens/${gerarNomeArquivo(nome)}.png`;
-            }
+
+          // === Função para gerar o caminho do escudo ===
+          const escudoSrc = (nome) => {
+            return `../imagens/${gerarNomeArquivo(nome)}.png`;
           };
+
+
+          // const escudoSrc = nome => {
+          //   if (escudosTimes[nome]) {
+          //     return escudosTimes[nome];
+          //   } else {
+          //     return `../imagens/${gerarNomeArquivo(nome)}.png`;
+          //   }
+          // };
           
 
           const time1 = document.createElement("div");
           time1.className = "time";
-          time1.innerHTML = `<img src="${escudoSrc(jogo.Mandante)}" alt="${jogo.Mandante}">`;
+          time1.innerHTML = `<img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">`;
 
           const time2 = document.createElement("div");
           time2.className = "time";
-          time2.innerHTML = `<img src="${escudoSrc(jogo.Visitante)}" alt="${jogo.Visitante}">`;
+          time2.innerHTML = `<img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">`;
 
           const resultado = resultadosRodada.find(r =>
-            r.mandante.nome === jogo.Mandante &&
-            r.visitante.nome === jogo.Visitante
+            r.mandante.nome === jogo.mandante.nome &&
+            r.visitante.nome === jogo.visitante.nome
           );
+          
 
           const p1 = resultado?.mandante?.pontos != null ? resultado.mandante.pontos.toFixed(2) : "?";
           const p2 = resultado?.visitante?.pontos != null ? resultado.visitante.pontos.toFixed(2) : "?";

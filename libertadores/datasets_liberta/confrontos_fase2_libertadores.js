@@ -2,289 +2,577 @@ const confrontosFase2 = [
   {
     "Rodada":1,
     "Grupo":"Grupo I",
-    "Mandante":"Analove10 ITAQUI GRANDE!!",
-    "Visitante":"Dom Camillo68"
+    "mandante":{
+      "nome":"Dom Camillo68",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"lsauer fc",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo I",
-    "Mandante":"Super Vasco f.c",
-    "Visitante":"lsauer fc"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo I",
-    "Mandante":"Dom Camillo68",
-    "Visitante":"Super Vasco f.c"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo I",
-    "Mandante":"lsauer fc",
-    "Visitante":"Analove10 ITAQUI GRANDE!!"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo I",
-    "Mandante":"Super Vasco f.c",
-    "Visitante":"Analove10 ITAQUI GRANDE!!"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo I",
-    "Mandante":"lsauer fc",
-    "Visitante":"Dom Camillo68"
-  },
-  {
-    "Rodada":4,
-    "Grupo":"Grupo I",
-    "Mandante":"Super Vasco f.c",
-    "Visitante":"Dom Camillo68"
-  },
-  {
-    "Rodada":4,
-    "Grupo":"Grupo I",
-    "Mandante":"Analove10 ITAQUI GRANDE!!",
-    "Visitante":"lsauer fc"
-  },
-  {
-    "Rodada":5,
-    "Grupo":"Grupo I",
-    "Mandante":"Analove10 ITAQUI GRANDE!!",
-    "Visitante":"Super Vasco f.c"
-  },
-  {
-    "Rodada":5,
-    "Grupo":"Grupo I",
-    "Mandante":"Dom Camillo68",
-    "Visitante":"lsauer fc"
-  },
-  {
-    "Rodada":6,
-    "Grupo":"Grupo I",
-    "Mandante":"Dom Camillo68",
-    "Visitante":"Analove10 ITAQUI GRANDE!!"
-  },
-  {
-    "Rodada":6,
-    "Grupo":"Grupo I",
-    "Mandante":"lsauer fc",
-    "Visitante":"Super Vasco f.c"
+    "mandante":{
+      "nome":"Analove10 ITAQUI GRANDE!!",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Super Vasco f.c",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo J",
-    "Mandante":"Texas Club 2025",
-    "Visitante":"Tabajara de Inhaua FC2"
+    "mandante":{
+      "nome":"Tabajara de Inhaua FC2",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"pura bucha \/botafogo",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo J",
-    "Mandante":"TEAM LOPES 99",
-    "Visitante":"pura bucha \/botafogo"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo J",
-    "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"TEAM LOPES 99"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo J",
-    "Mandante":"pura bucha \/botafogo",
-    "Visitante":"Texas Club 2025"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo J",
-    "Mandante":"TEAM LOPES 99",
-    "Visitante":"Texas Club 2025"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo J",
-    "Mandante":"pura bucha \/botafogo",
-    "Visitante":"Tabajara de Inhaua FC2"
-  },
-  {
-    "Rodada":4,
-    "Grupo":"Grupo J",
-    "Mandante":"TEAM LOPES 99",
-    "Visitante":"Tabajara de Inhaua FC2"
-  },
-  {
-    "Rodada":4,
-    "Grupo":"Grupo J",
-    "Mandante":"Texas Club 2025",
-    "Visitante":"pura bucha \/botafogo"
-  },
-  {
-    "Rodada":5,
-    "Grupo":"Grupo J",
-    "Mandante":"Texas Club 2025",
-    "Visitante":"TEAM LOPES 99"
-  },
-  {
-    "Rodada":5,
-    "Grupo":"Grupo J",
-    "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"pura bucha \/botafogo"
-  },
-  {
-    "Rodada":6,
-    "Grupo":"Grupo J",
-    "Mandante":"Tabajara de Inhaua FC2",
-    "Visitante":"Texas Club 2025"
-  },
-  {
-    "Rodada":6,
-    "Grupo":"Grupo J",
-    "Mandante":"pura bucha \/botafogo",
-    "Visitante":"TEAM LOPES 99"
+    "mandante":{
+      "nome":"Texas Club 2025",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"TEAM LOPES 99",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo K",
-    "Mandante":"KING LEONN",
-    "Visitante":"Real SCI"
+    "mandante":{
+      "nome":"Real SCI",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Lá do Itaqui",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo K",
-    "Mandante":"Laranjja Mecannica",
-    "Visitante":"Lá do Itaqui"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo K",
-    "Mandante":"Real SCI",
-    "Visitante":"Laranjja Mecannica"
-  },
-  {
-    "Rodada":2,
-    "Grupo":"Grupo K",
-    "Mandante":"Lá do Itaqui",
-    "Visitante":"KING LEONN"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo K",
-    "Mandante":"Laranjja Mecannica",
-    "Visitante":"KING LEONN"
-  },
-  {
-    "Rodada":3,
-    "Grupo":"Grupo K",
-    "Mandante":"Lá do Itaqui",
-    "Visitante":"Real SCI"
-  },
-  {
-    "Rodada":4,
-    "Grupo":"Grupo K",
-    "Mandante":"Laranjja Mecannica",
-    "Visitante":"Real SCI"
-  },
-  {
-    "Rodada":4,
-    "Grupo":"Grupo K",
-    "Mandante":"KING LEONN",
-    "Visitante":"Lá do Itaqui"
-  },
-  {
-    "Rodada":5,
-    "Grupo":"Grupo K",
-    "Mandante":"KING LEONN",
-    "Visitante":"Laranjja Mecannica"
-  },
-  {
-    "Rodada":5,
-    "Grupo":"Grupo K",
-    "Mandante":"Real SCI",
-    "Visitante":"Lá do Itaqui"
-  },
-  {
-    "Rodada":6,
-    "Grupo":"Grupo K",
-    "Mandante":"Real SCI",
-    "Visitante":"KING LEONN"
-  },
-  {
-    "Rodada":6,
-    "Grupo":"Grupo K",
-    "Mandante":"Lá do Itaqui",
-    "Visitante":"Laranjja Mecannica"
+    "mandante":{
+      "nome":"KING LEONN",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Laranjja Mecannica",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo L",
-    "Mandante":"Gig@ntte",
-    "Visitante":"TORRESMO COM PINGA"
+    "mandante":{
+      "nome":"TORRESMO COM PINGA",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Gremiomaniasm",
+      "pontos":null
+    }
   },
   {
     "Rodada":1,
     "Grupo":"Grupo L",
-    "Mandante":"KillerColorado",
-    "Visitante":"Gremiomaniasm"
+    "mandante":{
+      "nome":"Gig@ntte",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"KillerColorado",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"lsauer fc",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Analove10 ITAQUI GRANDE!!",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Super Vasco f.c",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Dom Camillo68",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"pura bucha \/botafogo",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Texas Club 2025",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"TEAM LOPES 99",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Tabajara de Inhaua FC2",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Lá do Itaqui",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"KING LEONN",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":2,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Laranjja Mecannica",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Real SCI",
+      "pontos":null
+    }
   },
   {
     "Rodada":2,
     "Grupo":"Grupo L",
-    "Mandante":"TORRESMO COM PINGA",
-    "Visitante":"KillerColorado"
+    "mandante":{
+      "nome":"Gremiomaniasm",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Gig@ntte",
+      "pontos":null
+    }
   },
   {
     "Rodada":2,
     "Grupo":"Grupo L",
-    "Mandante":"Gremiomaniasm",
-    "Visitante":"Gig@ntte"
+    "mandante":{
+      "nome":"KillerColorado",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"TORRESMO COM PINGA",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":3,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Dom Camillo68",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Analove10 ITAQUI GRANDE!!",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":3,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Super Vasco f.c",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"lsauer fc",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":3,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"Tabajara de Inhaua FC2",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Texas Club 2025",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":3,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"TEAM LOPES 99",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"pura bucha \/botafogo",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":3,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Real SCI",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"KING LEONN",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":3,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Laranjja Mecannica",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Lá do Itaqui",
+      "pontos":null
+    }
   },
   {
     "Rodada":3,
     "Grupo":"Grupo L",
-    "Mandante":"KillerColorado",
-    "Visitante":"Gig@ntte"
+    "mandante":{
+      "nome":"TORRESMO COM PINGA",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Gig@ntte",
+      "pontos":null
+    }
   },
   {
     "Rodada":3,
     "Grupo":"Grupo L",
-    "Mandante":"Gremiomaniasm",
-    "Visitante":"TORRESMO COM PINGA"
+    "mandante":{
+      "nome":"KillerColorado",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Gremiomaniasm",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":4,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"lsauer fc",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Dom Camillo68",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":4,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Super Vasco f.c",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Analove10 ITAQUI GRANDE!!",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":4,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"pura bucha \/botafogo",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Tabajara de Inhaua FC2",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":4,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"TEAM LOPES 99",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Texas Club 2025",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":4,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Lá do Itaqui",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Real SCI",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":4,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Laranjja Mecannica",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"KING LEONN",
+      "pontos":null
+    }
   },
   {
     "Rodada":4,
     "Grupo":"Grupo L",
-    "Mandante":"KillerColorado",
-    "Visitante":"TORRESMO COM PINGA"
+    "mandante":{
+      "nome":"Gremiomaniasm",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"TORRESMO COM PINGA",
+      "pontos":null
+    }
   },
   {
     "Rodada":4,
     "Grupo":"Grupo L",
-    "Mandante":"Gig@ntte",
-    "Visitante":"Gremiomaniasm"
+    "mandante":{
+      "nome":"KillerColorado",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Gig@ntte",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":5,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Analove10 ITAQUI GRANDE!!",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"lsauer fc",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":5,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Dom Camillo68",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Super Vasco f.c",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":5,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"Texas Club 2025",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"pura bucha \/botafogo",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":5,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"Tabajara de Inhaua FC2",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"TEAM LOPES 99",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":5,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"KING LEONN",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Lá do Itaqui",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":5,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Real SCI",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Laranjja Mecannica",
+      "pontos":null
+    }
   },
   {
     "Rodada":5,
     "Grupo":"Grupo L",
-    "Mandante":"Gig@ntte",
-    "Visitante":"KillerColorado"
+    "mandante":{
+      "nome":"Gig@ntte",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Gremiomaniasm",
+      "pontos":null
+    }
   },
   {
     "Rodada":5,
     "Grupo":"Grupo L",
-    "Mandante":"TORRESMO COM PINGA",
-    "Visitante":"Gremiomaniasm"
+    "mandante":{
+      "nome":"TORRESMO COM PINGA",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"KillerColorado",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":6,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"Analove10 ITAQUI GRANDE!!",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Dom Camillo68",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":6,
+    "Grupo":"Grupo I",
+    "mandante":{
+      "nome":"lsauer fc",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Super Vasco f.c",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":6,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"Texas Club 2025",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Tabajara de Inhaua FC2",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":6,
+    "Grupo":"Grupo J",
+    "mandante":{
+      "nome":"pura bucha \/botafogo",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"TEAM LOPES 99",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":6,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"KING LEONN",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Real SCI",
+      "pontos":null
+    }
+  },
+  {
+    "Rodada":6,
+    "Grupo":"Grupo K",
+    "mandante":{
+      "nome":"Lá do Itaqui",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"Laranjja Mecannica",
+      "pontos":null
+    }
   },
   {
     "Rodada":6,
     "Grupo":"Grupo L",
-    "Mandante":"TORRESMO COM PINGA",
-    "Visitante":"Gig@ntte"
+    "mandante":{
+      "nome":"Gig@ntte",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"TORRESMO COM PINGA",
+      "pontos":null
+    }
   },
   {
     "Rodada":6,
     "Grupo":"Grupo L",
-    "Mandante":"Gremiomaniasm",
-    "Visitante":"KillerColorado"
+    "mandante":{
+      "nome":"Gremiomaniasm",
+      "pontos":null
+    },
+    "visitante":{
+      "nome":"KillerColorado",
+      "pontos":null
+    }
   }
 ];
