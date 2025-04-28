@@ -598,5 +598,125 @@ const resultadosFase1 = [
       "nome": "Texas Club 2025",
       "pontos": 71.31982421875
     }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "TIGRE LEON",
+      "pontos": 85.16015625
+    },
+    "visitante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": 77.5
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": 86.06005859375
+    },
+    "visitante": {
+      "nome": "Santo Ângelo United",
+      "pontos": 68.7001953125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "MauHumor F.C.",
+      "pontos": 107.7001953125
+    },
+    "visitante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": 98.16015625
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "FC Los Castilho",
+      "pontos": 86.35986328125
+    },
+    "visitante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": 106.14990234375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": 104.330078125
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": 92.06005859375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": 93.35986328125
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": 108.56005859375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": 66.759765625
+    },
+    "visitante": {
+      "nome": "Noah A 10",
+      "pontos": 121.35986328125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": 110.35986328125
+    },
+    "visitante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": 102.85986328125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": 119.85009765625
+    },
+    "visitante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": 100.0498046875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 6,
+    "mandante": {
+      "nome": "TATITTA FC",
+      "pontos": 73.259765625
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": 48.840087890625
+    }
   }
 ];

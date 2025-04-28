@@ -648,5 +648,135 @@ const confrontosFase1 = [
       "id": 15,
       "nome": "Tatols Beants F.C"
     }
+  },
+  {
+    "rodada": 6,
+    "confronto": 1,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 15,
+      "nome": "Tatols Beants F.C"
+    },
+    "visitante": {
+      "id": 14,
+      "nome": "TIGRE LEON"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 2,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 4,
+      "nome": "Dom Camillo68"
+    },
+    "visitante": {
+      "id": 17,
+      "nome": "cartola scheuer"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 3,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 12,
+      "nome": "Super Vasco f.c"
+    },
+    "visitante": {
+      "id": 9,
+      "nome": "Noah A 10"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 4,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 13,
+      "nome": "TEAM LOPES 99"
+    },
+    "visitante": {
+      "id": 18,
+      "nome": "lsauer fc"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 5,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 19,
+      "nome": "pura bucha /botafogo"
+    },
+    "visitante": {
+      "id": 6,
+      "nome": "HS SPORTS F.C"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 6,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 8,
+      "nome": "KP JUV."
+    },
+    "visitante": {
+      "id": 10,
+      "nome": "S.E.R. GRILLO"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 7,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 1,
+      "nome": "BORGES CLIMA FUT F.C"
+    },
+    "visitante": {
+      "id": 5,
+      "nome": "Fedato Futebol Clube"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 8,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 16,
+      "nome": "Texas Club 2025"
+    },
+    "visitante": {
+      "id": 7,
+      "nome": "ITAQUI F. C."
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 9,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 20,
+      "nome": "seralex"
+    },
+    "visitante": {
+      "id": 3,
+      "nome": "DM Studio"
+    }
+  },
+  {
+    "rodada": 6,
+    "confronto": 10,
+    "grupo": "Série C",
+    "mandante": {
+      "id": 2,
+      "nome": "Cril Futebol Club"
+    },
+    "visitante": {
+      "id": 11,
+      "nome": "SERGRILLO"
+    }
   }
 ];

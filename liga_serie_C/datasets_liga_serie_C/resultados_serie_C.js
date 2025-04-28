@@ -598,5 +598,125 @@ const resultadosFase1 = [
       "nome": "Tatols Beants F.C",
       "pontos": 83.02978515625
     }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": 86.06005859375
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": 85.16015625
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Dom Camillo68",
+      "pontos": 78.56005859375
+    },
+    "visitante": {
+      "nome": "cartola scheuer",
+      "pontos": 98.2998046875
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Super Vasco f.c",
+      "pontos": 100.85986328125
+    },
+    "visitante": {
+      "nome": "Noah A 10",
+      "pontos": 121.35986328125
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": 106.06005859375
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": 108.56005859375
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": 77.5
+    },
+    "visitante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": 82.64990234375
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "KP JUV.",
+      "pontos": 98.06005859375
+    },
+    "visitante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": 95.31982421875
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": 106.14990234375
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": 92.06005859375
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": 119.85009765625
+    },
+    "visitante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": 56.330078125
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": 66.759765625
+    },
+    "visitante": {
+      "nome": "DM Studio",
+      "pontos": 86.06005859375
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 6,
+    "mandante": {
+      "nome": "Cril Futebol Club",
+      "pontos": 96.75
+    },
+    "visitante": {
+      "nome": "SERGRILLO",
+      "pontos": 69.60986328125
+    }
   }
 ];
