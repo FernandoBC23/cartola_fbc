@@ -81,7 +81,7 @@
     height: 8%;
     object-fit: contain;
     border-radius: 10%;
-    background-color: #28a745;
+    /* background-color: #28a745; */
   }
   
   /* === Cards de Confrontos === */
@@ -110,6 +110,8 @@
     height: 35%;
     object-fit: contain;
     border-radius: 10%;
+    /* background-color: #2C3639; */
+    box-shadow: 1px 1px 2px #283134
   }
   
   .placar {
