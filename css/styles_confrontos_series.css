@@ -77,8 +77,8 @@
   }
   
   .escudo {
-    width: 8%;
-    height: 8%;
+    width: 9%;
+    height: 9%;
     object-fit: contain;
     border-radius: 10%;
     /* background-color: #28a745; */
@@ -288,8 +288,8 @@
     }
   
     .escudo {
-      width: 25%;
-      height: 25%;
+      width: 35%;
+      height: 35%;
     } 
   
     .jogo {
