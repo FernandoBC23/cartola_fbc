@@ -159,8 +159,7 @@ window.addEventListener('DOMContentLoaded', () => {
             <div class="time-info">
               <img src="${escudo}" class="escudo" alt="${time.nome}">
               <span class="tag-clube">${clubesTimes[time.nome] ?? ""}</span>
-              ${time.nome}
-              
+              ${time.nome}              
             </div>
           </td>
           <td>${time.pontos}</td>

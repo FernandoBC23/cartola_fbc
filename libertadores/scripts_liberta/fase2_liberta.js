@@ -155,9 +155,19 @@ window.addEventListener('DOMContentLoaded', () => {
       times.forEach((time, index) => {
         const tr = document.createElement("tr");
         if (index === 0 || index === 1) tr.classList.add("lider-grupo");
-        tr.innerHTML = `          
+      
+        // Buscar escudo
+        const escudo = escudosTimes[time.nome] || "../imagens/escudo_padrao.png";
+      
+        tr.innerHTML = `
           <td>${index + 1}</td>
-          <td>${time["nome"]}</td>
+          <td>
+            <div class="time-info">
+              <img src="${escudo}" class="escudo" alt="${time.nome}">
+              <span class="tag-clube">${clubesTimes[time.nome] ?? ""}</span>
+              ${time.nome}
+            </div>
+          </td>
           <td>${time["pontos"]}</td>
           <td>${(time["vitorias"] ?? 0) + (time["empates"] ?? 0) + (time["derrotas"] ?? 0)}</td>
           <td>${time["vitorias"] ?? 0}</td>
@@ -165,8 +175,10 @@ window.addEventListener('DOMContentLoaded', () => {
           <td>${time["derrotas"] ?? 0}</td>
           <td>${(time["totalCartola"] ?? 0).toFixed(2)}</td>
         `;
+      
         tbody.appendChild(tr);
       });
+      
 
       tabela.appendChild(tbody);
       grupoDiv.appendChild(tabela);
