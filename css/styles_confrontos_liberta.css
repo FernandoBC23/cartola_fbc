@@ -112,7 +112,7 @@
     height: 8%;
     object-fit: contain;
     border-radius: 10%;
-    background-color: #28a745;
+    /* background-color: #28a745; */
   }
   
   /* === Cards de Confrontos === */
@@ -126,7 +126,6 @@
     border-radius: 12px;
     padding: 10px 14px;
     margin: 16px auto;
-
     box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.9);
     flex-wrap: wrap;
   }
@@ -142,6 +141,7 @@
     height: 35%;
     object-fit: contain;
     border-radius: 10%;
+    background-color: #F7F9F9;
   }
   
   .placar {
@@ -314,8 +314,8 @@
     }
   
     .escudo {
-      width: 25%;
-      height: 25%;
+      width: 35%;
+      height: 35%;
     } 
   
     .jogo {

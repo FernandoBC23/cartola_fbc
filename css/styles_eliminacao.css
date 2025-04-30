@@ -109,7 +109,7 @@
   height: 8%;
   object-fit: contain;
   border-radius: 10%;
-  background-color: #28a745; /* opcional */
+  /* background-color: #28a745;  */
 }
 
 /* === Cards de Confrontos === */
@@ -301,10 +301,10 @@
     padding: 2px 6px;
   }
 
-  /* .escudo {
-    width: 20px;
-    height: 20px;
-  } */
+  .escudo {
+    width: 20%;
+    height: 20%;
+  } 
 
   .placar {
     font-size: 18px;

@@ -29,38 +29,38 @@ window.addEventListener('DOMContentLoaded', () => {
   
   
     const escudosTimes = {
-      "FBC Colorado": "../imagens/fbc_colorado.png",
-      "Texas Club 2025": "../imagens/texas_club_2025.png",
-      "Real SCI": "../imagens/real_sci.png",
-      "Gig@ntte": "../imagens/gigntte.png",  
-      "Gremiomaniasm": "../imagens/gremiomaniasm.png",  
-      "F.C. Rei Das Copas": "../imagens/fc_rei_das_copas.png",
-      "Rolo Compressor ZN": "../imagens/rolo_compressor_zn.png", 
-      "KING LEONN": "../imagens/king_leonn.png",
-      "Laranjja Mecannica": "../imagens/laranjja_mecannica.png",
-      "Fedato Futebol Clube": "../imagens/fedato_futebol_clube.png", 
-      "TEAM LOPES 99": "../imagens/team_lopes_99.png",
-      "pura bucha /botafogo": "../imagens/pura_bucha_botafogo.png",
-      "cartola scheuer": "../imagens/cartola_scheuer.png", 
-      "Analove10 ITAQUI GRANDE!!":"../imagens/analove10_itaqui_grande.png", 
-      "lsauer fc": "../imagens/lsauer_fc.png", 
-      "BORGES ITAQUI F.C.": "../imagens/borges_itaqui_fc.png",  
-      "Tabajara de Inhaua FC2": "../imagens/tabajara_de_inhaua_fc2.png", 
-      "seralex": "../imagens/seralex.png",
-      "E.C. Bororé": "../imagens/ec_borore.png", 
-      "Tatols Beants F.C": "../imagens/tatols_beants_fc.png",
-      "MauHumor F.C.": "../imagens/mauhumor_fc.png", 
-      "TATITTA FC": "../imagens/tatitta_fc.png",
-      "HS SPORTS F.C": "../imagens/hs_sports_fc.png",
-      "Dom Camillo68": "../imagens/dom_camillo68.png",  
-      "Grêmio imortal 37": "../imagens/gremio_imortal_37.png", 
-      "Super Vasco f.c": "../imagens/super_vasco_fc.png",
-      "A Lenda Super Vasco F.c": "../imagens/a_lenda_super_vasco_fc.png",  
-      "ITAQUI F. C.": "../imagens/itaqui_f_c.png",
-      "TORRESMO COM PINGA": "../imagens/torresmo_com_pinga.png",
-      "Lá do Itaqui": "../imagens/la_do_itaqui.png",
-      "FC Los Castilho": "../imagens/fc_los_castilho.png",
-      "KillerColorado": "../imagens/killercolorado.png",
+      "FBC Colorado": "../imagens/2_fbc_colorado.png",
+      "Texas Club 2025": "../imagens/2_texas_club_2025.png",
+      "Real SCI": "../imagens/2_real_sci.png",
+      "Gig@ntte": "../imagens/2_gigntte.png",  
+      "Gremiomaniasm": "../imagens/2_gremiomaniasm.png",  
+      "F.C. Rei Das Copas": "../imagens/2_fc_rei_das_copas.png",
+      "Rolo Compressor ZN": "../imagens/2_rolo_compressor_zn.png", 
+      "KING LEONN": "../imagens/2_king_leonn.png",
+      "Laranjja Mecannica": "../imagens/2_laranjja_mecannica.png",
+      "Fedato Futebol Clube": "../imagens/2_fedato_futebol_clube.png", 
+      "TEAM LOPES 99": "../imagens/2_team_lopes_99.png",
+      "pura bucha /botafogo": "../imagens/2_pura_bucha_botafogo.png",
+      "cartola scheuer": "../imagens/2_cartola_scheuer.png", 
+      "Analove10 ITAQUI GRANDE!!":"../imagens/2_analove10_itaqui_grande.png", 
+      "lsauer fc": "../imagens/2_lsauer_fc.png", 
+      "BORGES ITAQUI F.C.": "../imagens/2_borges_itaqui_fc.png",  
+      "Tabajara de Inhaua FC2": "../imagens/2_tabajara_de_inhaua_fc2.png", 
+      "seralex": "../imagens/2_seralex.png",
+      "E.C. Bororé": "../imagens/2_ec_borore.png", 
+      "Tatols Beants F.C": "../imagens/2_tatols_beants_fc.png",
+      "MauHumor F.C.": "../imagens/2_mauhumor_fc.png", 
+      "TATITTA FC": "../imagens/2_tatitta_fc.png",
+      "HS SPORTS F.C": "../imagens/2_hs_sports_fc.png",
+      "Dom Camillo68": "../imagens/2_dom_camillo68.png",  
+      "Grêmio imortal 37": "../imagens/2_gremio_imortal_37.png", 
+      "Super Vasco f.c": "../imagens/2_super_vasco_fc.png",
+      "A Lenda Super Vasco F.c": "../imagens/2_a_lenda_super_vasco_fc.png",  
+      "ITAQUI F. C.": "../imagens/2_itaqui_f_c.png",
+      "TORRESMO COM PINGA": "../imagens/2_torresmo_com_pinga.png",
+      "Lá do Itaqui": "../imagens/2_la_do_itaqui.png",
+      "FC Los Castilho": "../imagens/2_fc_los_castilho.png",
+      "KillerColorado": "../imagens/2_killercolorado.png",
     };
   
     const clubesTimes = {
@@ -198,7 +198,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
           // === Função para gerar o caminho do escudo ===
           const escudoSrc = (nome) => {
-            return `../imagens/${gerarNomeArquivo(nome)}.png`;
+            return `../imagens/2_${gerarNomeArquivo(nome)}.png`;
           };
 
 
