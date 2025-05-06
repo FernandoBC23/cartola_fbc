@@ -778,5 +778,135 @@ const confrontosFase1 = [
       "id": 16,
       "nome": "VASCO MARTINS FC"
     }
+  },
+  {
+    "rodada": 7,
+    "confronto": 1,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 11,
+      "nome": "TATITTA FC"
+    },
+    "visitante": {
+      "id": 12,
+      "nome": "TIGRE LEON"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 2,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 9,
+      "nome": "RHANKA DENTY FC25"
+    },
+    "visitante": {
+      "id": 14,
+      "nome": "Tatols Beants F.C"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 3,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 10,
+      "nome": "Santo Ângelo United"
+    },
+    "visitante": {
+      "id": 2,
+      "nome": "FC Los Castilho"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 4,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 7,
+      "nome": "MauHumor F.C."
+    },
+    "visitante": {
+      "id": 3,
+      "nome": "FC castelo Branco 2"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 5,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 13,
+      "nome": "Tabajara de Inhaua FC2"
+    },
+    "visitante": {
+      "id": 17,
+      "nome": "lsauer fc"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 6,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 20,
+      "nome": "seralex"
+    },
+    "visitante": {
+      "id": 5,
+      "nome": "Fedato Futebol Clube"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 7,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 1,
+      "nome": "A Lenda Super Vasco F.c"
+    },
+    "visitante": {
+      "id": 18,
+      "nome": "pra sempre imortal fc"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 8,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 8,
+      "nome": "Noah A 10"
+    },
+    "visitante": {
+      "id": 19,
+      "nome": "pura bucha /botafogo"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 9,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 4,
+      "nome": "FIGUEIRA DA ILHA"
+    },
+    "visitante": {
+      "id": 15,
+      "nome": "Texas Club 2025"
+    }
+  },
+  {
+    "rodada": 7,
+    "confronto": 10,
+    "grupo": "Série D",
+    "mandante": {
+      "id": 16,
+      "nome": "VASCO MARTINS FC"
+    },
+    "visitante": {
+      "id": 6,
+      "nome": "JV5 Tricolor Gaúcho"
+    }
   }
 ];

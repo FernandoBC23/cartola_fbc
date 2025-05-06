@@ -9,13 +9,6 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "FBC Colorado",
       "nome": "Renê",
       "posicao": "Lateral",
       "clube": "FLU",
@@ -23,10 +16,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Sabino",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 7.3
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "FBC Colorado",
@@ -37,10 +30,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
+      "nome": "Sabino",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 7.3
     },
     {
       "time": "FBC Colorado",
@@ -58,10 +51,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
     },
     {
       "time": "FBC Colorado",
@@ -79,6 +72,13 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
+    },
+    {
+      "time": "FBC Colorado",
       "nome": "Luis Zubeldía",
       "posicao": "Técnico",
       "clube": "SAO",
@@ -93,17 +93,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Kaiki Bruno",
       "posicao": "Lateral",
       "clube": "CRU",
       "pontos": 5.7
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "Texas Club 2025",
@@ -142,10 +142,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Luciano",
+      "nome": "Kaio Jorge",
       "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
+      "clube": "CRU",
+      "pontos": 5.6
     },
     {
       "time": "Texas Club 2025",
@@ -156,10 +156,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Kaio Jorge",
+      "nome": "Luciano",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 5.6
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "Texas Club 2025",
@@ -212,17 +212,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Yago Pikachu",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 5.4
-    },
-    {
-      "time": "Real SCI",
       "nome": "Jean Lucas",
       "posicao": "Meia",
       "clube": "BAH",
       "pontos": 4.5
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Yago Pikachu",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 5.4
     },
     {
       "time": "Real SCI",
@@ -261,13 +261,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "William",
       "posicao": "Lateral",
       "clube": "CRU",
@@ -275,10 +268,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Alan Franco",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 9.2
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "Gig@ntte",
@@ -289,17 +282,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Emmanuel Martínez",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 6.6
-    },
-    {
-      "time": "Gig@ntte",
-      "nome": "Hugo Moura",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 3.3
+      "nome": "Alan Franco",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 9.2
     },
     {
       "time": "Gig@ntte",
@@ -310,10 +296,24 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Estêvão",
+      "nome": "Hugo Moura",
+      "posicao": "Meia",
+      "clube": "VAS",
+      "pontos": 3.3
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Emmanuel Martínez",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 6.6
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.9
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "Gig@ntte",
@@ -324,10 +324,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Gabriel",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "PAL",
+      "pontos": 2.9
     },
     {
       "time": "Gig@ntte",
@@ -359,13 +359,6 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Alan Franco",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 9.2
-    },
-    {
-      "time": "PraiaBravaFC",
       "nome": "Micael",
       "posicao": "Zagueiro",
       "clube": "PAL",
@@ -373,10 +366,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Hugo Moura",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 3.3
+      "nome": "Alan Franco",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 9.2
     },
     {
       "time": "PraiaBravaFC",
@@ -387,6 +380,13 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
+      "nome": "Hugo Moura",
+      "posicao": "Meia",
+      "clube": "VAS",
+      "pontos": 3.3
+    },
+    {
+      "time": "PraiaBravaFC",
       "nome": "Jadson",
       "posicao": "Meia",
       "clube": "JUV",
@@ -394,10 +394,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Estêvão",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.9
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "PraiaBravaFC",
@@ -408,10 +408,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Gabriel",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "PAL",
+      "pontos": 2.9
     },
     {
       "time": "PraiaBravaFC",
@@ -443,17 +443,17 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 13.0
-    },
-    {
-      "time": "OlhaEleAiF.C!",
       "nome": "Villalba",
       "posicao": "Zagueiro",
       "clube": "CRU",
       "pontos": 0.0
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 13.0
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -541,10 +541,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Philippe Coutinho",
+      "nome": "Raphael Veiga",
       "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 3.5
+      "clube": "PAL",
+      "pontos": 6.4
     },
     {
       "time": "Gremiomaniasm",
@@ -555,10 +555,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Raphael Veiga",
+      "nome": "Philippe Coutinho",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 6.4
+      "clube": "VAS",
+      "pontos": 3.5
     },
     {
       "time": "Gremiomaniasm",
@@ -597,17 +597,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "William",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 19.3
-    },
-    {
-      "time": "Sport Clube PAIM",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 7.4
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "William",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 19.3
     },
     {
       "time": "Sport Clube PAIM",
@@ -625,10 +625,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Yago Pikachu",
+      "nome": "Matheus Henrique",
       "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 5.4
+      "clube": "CRU",
+      "pontos": -1.9
     },
     {
       "time": "Sport Clube PAIM",
@@ -639,17 +639,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Matheus Henrique",
+      "nome": "Yago Pikachu",
       "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": -1.9
+      "clube": "FOR",
+      "pontos": 5.4
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Rony",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 11.5
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "Sport Clube PAIM",
@@ -660,10 +660,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Gabriel",
+      "nome": "Rony",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "CAM",
+      "pontos": 11.5
     },
     {
       "time": "Sport Clube PAIM",
@@ -898,17 +898,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Amuzu",
       "posicao": "Atacante",
       "clube": "GRE",
       "pontos": 5.1
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "ZIVI FC",
@@ -1017,13 +1017,6 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "Ewerthon",
       "posicao": "Lateral",
       "clube": "JUV",
@@ -1031,10 +1024,10 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Pedro Henrique",
-      "posicao": "Zagueiro",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
       "clube": "RBB",
-      "pontos": 4.5
+      "pontos": 7.4
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -1045,17 +1038,10 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Raphael Veiga",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 6.4
-    },
-    {
-      "time": "F.C. Rei Das Copas",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 4.5
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -1066,10 +1052,17 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Arezo",
-      "posicao": "Atacante",
-      "clube": "GRE",
-      "pontos": 9.2
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Raphael Veiga",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -1087,6 +1080,13 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
+      "nome": "Arezo",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 9.2
+    },
+    {
+      "time": "F.C. Rei Das Copas",
       "nome": "Fernando Seabra",
       "posicao": "Técnico",
       "clube": "RBB",
@@ -1101,6 +1101,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
+    },
+    {
+      "time": "Rolo Compressor ZN",
       "nome": "Enzo Díaz",
       "posicao": "Lateral",
       "clube": "SAO",
@@ -1108,10 +1115,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 13.0
     },
     {
       "time": "Rolo Compressor ZN",
@@ -1122,10 +1129,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 13.0
+      "nome": "Alan Franco",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 1.0
     },
     {
       "time": "Rolo Compressor ZN",
@@ -1143,10 +1150,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Alan Franco",
-      "posicao": "Meia",
+      "nome": "Cuello",
+      "posicao": "Atacante",
       "clube": "CAM",
-      "pontos": 1.0
+      "pontos": 6.4
     },
     {
       "time": "Rolo Compressor ZN",
@@ -1161,13 +1168,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 9.1
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Cuello",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.4
     },
     {
       "time": "Rolo Compressor ZN",
@@ -1213,13 +1213,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Matheus Fernandes",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 1.3
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
@@ -1234,10 +1227,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "nome": "Matheus Fernandes",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 1.3
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -1245,6 +1238,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 6.4
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -1381,6 +1381,13 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
+      "nome": "Hugo Moura",
+      "posicao": "Meia",
+      "clube": "VAS",
+      "pontos": 3.3
+    },
+    {
+      "time": "KING LEONN",
       "nome": "Matheus Fernandes",
       "posicao": "Meia",
       "clube": "RBB",
@@ -1392,13 +1399,6 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "JUV",
       "pontos": 0.1
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Hugo Moura",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 3.3
     },
     {
       "time": "KING LEONN",
@@ -1437,17 +1437,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
       "pontos": 5.8
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "Laranjja Mecannica",
@@ -1461,13 +1461,6 @@ const escalacoesGerais = {
       "nome": "Arboleda",
       "posicao": "Zagueiro",
       "clube": "SAO",
-      "pontos": 6.6
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Emmanuel Martínez",
-      "posicao": "Meia",
-      "clube": "FOR",
       "pontos": 6.6
     },
     {
@@ -1486,10 +1479,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Gabriel",
+      "nome": "Emmanuel Martínez",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 6.6
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Vegetti",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "VAS",
+      "pontos": 14.4
     },
     {
       "time": "Laranjja Mecannica",
@@ -1500,10 +1500,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Vegetti",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 14.4
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "Laranjja Mecannica",
@@ -1535,13 +1535,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.6
-    },
-    {
-      "time": "Fedato Futebol Clube",
       "nome": "Arboleda",
       "posicao": "Zagueiro",
       "clube": "SAO",
@@ -1549,10 +1542,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Jhon Jhon",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.6
     },
     {
       "time": "Fedato Futebol Clube",
@@ -1560,6 +1553,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "PAL",
       "pontos": 3.5
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
     },
     {
       "time": "Fedato Futebol Clube",
@@ -1661,17 +1661,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Dudu",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 13.9
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Ferreira",
       "posicao": "Atacante",
       "clube": "SAO",
       "pontos": 4.2
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Dudu",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 13.9
     },
     {
       "time": "Perronee F.C",
@@ -1703,17 +1703,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Fabrício Bruno",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 1.4
-    },
-    {
-      "time": "Pity10",
       "nome": "Murilo",
       "posicao": "Zagueiro",
       "clube": "PAL",
       "pontos": 3.4
+    },
+    {
+      "time": "Pity10",
+      "nome": "Fabrício Bruno",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 1.4
     },
     {
       "time": "Pity10",
@@ -1773,17 +1773,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Igor Vinícius",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 6.7
-    },
-    {
-      "time": "pra sempre imortal fc",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 7.4
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Igor Vinícius",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 6.7
     },
     {
       "time": "pra sempre imortal fc",
@@ -1808,13 +1808,6 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Jhon Jhon",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
-    },
-    {
-      "time": "pra sempre imortal fc",
       "nome": "Philippe Coutinho",
       "posicao": "Meia",
       "clube": "VAS",
@@ -1822,10 +1815,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Gabriel",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Marinho",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "FOR",
+      "pontos": 5.2
     },
     {
       "time": "pra sempre imortal fc",
@@ -1836,10 +1836,10 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Marinho",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "FOR",
-      "pontos": 5.2
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "pra sempre imortal fc",
@@ -1857,17 +1857,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Kaiki Bruno",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 5.7
-    },
-    {
-      "time": "RHANKA DENTY FC25",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 7.4
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Kaiki Bruno",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 5.7
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -1885,10 +1885,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Jhon Jhon",
+      "nome": "Jean Lucas",
       "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "clube": "BAH",
+      "pontos": 4.5
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -1899,10 +1899,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Jean Lucas",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Lucho Rodríguez",
+      "posicao": "Atacante",
       "clube": "BAH",
-      "pontos": 4.5
+      "pontos": 6.1
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -1917,13 +1924,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 5.6
-    },
-    {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Lucho Rodríguez",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 6.1
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -2053,6 +2053,13 @@ const escalacoesGerais = {
     },
     {
       "time": "pura bucha /botafogo",
+      "nome": "Alisson",
+      "posicao": "Meia",
+      "clube": "SAO",
+      "pontos": 1.4
+    },
+    {
+      "time": "pura bucha /botafogo",
       "nome": "Matheus Henrique",
       "posicao": "Meia",
       "clube": "CRU",
@@ -2064,13 +2071,6 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "RBB",
       "pontos": 3.3
-    },
-    {
-      "time": "pura bucha /botafogo",
-      "nome": "Alisson",
-      "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 1.4
     },
     {
       "time": "pura bucha /botafogo",
@@ -2109,17 +2109,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Kaiki Bruno",
       "posicao": "Lateral",
       "clube": "CRU",
       "pontos": 5.7
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "cartola scheuer",
@@ -2137,10 +2137,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Richard Ríos",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
+      "clube": "RBB",
+      "pontos": 3.3
     },
     {
       "time": "cartola scheuer",
@@ -2151,17 +2151,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Jhon Jhon",
+      "nome": "Richard Ríos",
       "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "clube": "PAL",
+      "pontos": 3.5
     },
     {
       "time": "cartola scheuer",
-      "nome": "Luciano",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "cartola scheuer",
@@ -2172,10 +2172,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Gabriel",
+      "nome": "Luciano",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "cartola scheuer",
@@ -2193,17 +2193,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Igor Vinícius",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 6.7
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 7.4
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Igor Vinícius",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 6.7
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -2221,6 +2221,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
@@ -2232,13 +2239,6 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "JUV",
       "pontos": 0.1
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -2291,17 +2291,17 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.6
-    },
-    {
-      "time": "DM Studio",
       "nome": "Arboleda",
       "posicao": "Zagueiro",
       "clube": "SAO",
       "pontos": 6.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.6
     },
     {
       "time": "DM Studio",
@@ -2312,13 +2312,6 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
-    },
-    {
-      "time": "DM Studio",
       "nome": "Jean Lucas",
       "posicao": "Meia",
       "clube": "BAH",
@@ -2326,10 +2319,10 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Luiz Araújo",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 5.1
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
     },
     {
       "time": "DM Studio",
@@ -2337,6 +2330,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Luiz Araújo",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 5.1
     },
     {
       "time": "DM Studio",
@@ -2361,17 +2361,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Igor Vinícius",
       "posicao": "Lateral",
       "clube": "SAO",
       "pontos": 6.7
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "lsauer fc",
@@ -2410,17 +2410,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Luciano",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Luciano",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "lsauer fc",
@@ -2613,13 +2613,6 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
       "nome": "Igor Vinícius",
       "posicao": "Lateral",
       "clube": "SAO",
@@ -2627,10 +2620,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Arboleda",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 6.6
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -2641,10 +2634,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Luis Mandaca",
-      "posicao": "Meia",
-      "clube": "JUV",
-      "pontos": 4.1
+      "nome": "Arboleda",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 6.6
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -2655,6 +2648,13 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
+      "nome": "Luis Mandaca",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 4.1
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
       "nome": "Matheus Henrique",
       "posicao": "Meia",
       "clube": "CRU",
@@ -2662,10 +2662,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Michael",
+      "nome": "Gabriel",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 6.4
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -2676,10 +2676,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Gabriel",
+      "nome": "Michael",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "clube": "FLA",
+      "pontos": 6.4
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -2711,13 +2711,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Gamarra",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 3.2
-    },
-    {
-      "time": "Profit Soccer",
       "nome": "Arboleda",
       "posicao": "Zagueiro",
       "clube": "SAO",
@@ -2725,10 +2718,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Lucas Sasha",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 1.8
+      "nome": "Gamarra",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 3.2
     },
     {
       "time": "Profit Soccer",
@@ -2739,6 +2732,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
+      "nome": "Lucas Sasha",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 1.8
+    },
+    {
+      "time": "Profit Soccer",
       "nome": "Luis Mandaca",
       "posicao": "Meia",
       "clube": "JUV",
@@ -2746,17 +2746,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Luciano",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
-    },
-    {
-      "time": "Profit Soccer",
       "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Luciano",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "Profit Soccer",
@@ -2795,13 +2795,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Alan Franco",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 9.2
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
       "nome": "Gamarra",
       "posicao": "Zagueiro",
       "clube": "CRU",
@@ -2809,10 +2802,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
+      "nome": "Alan Franco",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 9.2
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -2823,6 +2816,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
@@ -2830,10 +2830,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Lucho Rodríguez",
+      "nome": "Kaio Jorge",
       "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 6.1
+      "clube": "CRU",
+      "pontos": 5.6
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -2844,10 +2844,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Kaio Jorge",
+      "nome": "Lucho Rodríguez",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 5.6
+      "clube": "BAH",
+      "pontos": 6.1
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -2879,13 +2879,6 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Arboleda",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 6.6
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Gamarra",
       "posicao": "Zagueiro",
       "clube": "CRU",
@@ -2893,10 +2886,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Hugo Moura",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 3.3
+      "nome": "Arboleda",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 6.6
     },
     {
       "time": "TIGRE LEON",
@@ -2904,6 +2897,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "JUV",
       "pontos": 0.1
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Hugo Moura",
+      "posicao": "Meia",
+      "clube": "VAS",
+      "pontos": 3.3
     },
     {
       "time": "TIGRE LEON",
@@ -2949,13 +2949,6 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 12.5
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Diogo Barbosa",
       "posicao": "Lateral",
       "clube": "FOR",
@@ -2963,10 +2956,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Jonathan Jesus",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 0.0
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 12.5
     },
     {
       "time": "S.E.R. GRILLO",
@@ -2977,10 +2970,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Gabriel Menino",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.5
+      "nome": "Jonathan Jesus",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 0.0
     },
     {
       "time": "S.E.R. GRILLO",
@@ -2991,6 +2984,13 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
+      "nome": "Gabriel Menino",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.5
+    },
+    {
+      "time": "S.E.R. GRILLO",
       "nome": "Alisson",
       "posicao": "Meia",
       "clube": "SAO",
@@ -2998,17 +2998,17 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 4.3
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "S.E.R. GRILLO",
@@ -3145,13 +3145,6 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Emmanuel Martínez",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 6.6
-    },
-    {
-      "time": "E.C. Bororé",
       "nome": "Matheus Henrique",
       "posicao": "Meia",
       "clube": "CRU",
@@ -3166,10 +3159,10 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Luciano",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
+      "nome": "Emmanuel Martínez",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 6.6
     },
     {
       "time": "E.C. Bororé",
@@ -3184,6 +3177,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Luciano",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "E.C. Bororé",
@@ -3229,6 +3229,13 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
+      "nome": "Walace",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": -0.1
+    },
+    {
+      "time": "MAFRA MARTINS FC",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
@@ -3243,10 +3250,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Walace",
-      "posicao": "Meia",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
       "clube": "CRU",
-      "pontos": -0.1
+      "pontos": 8.8
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -3254,13 +3261,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 2.7
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -3299,17 +3299,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Arboleda",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 6.6
-    },
-    {
-      "time": "BordonFC",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
       "pontos": 0.6
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Arboleda",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 6.6
     },
     {
       "time": "BordonFC",
@@ -3341,17 +3341,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Ademir",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 4.7
-    },
-    {
-      "time": "BordonFC",
       "nome": "Lucho Rodríguez",
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 6.1
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Ademir",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 4.7
     },
     {
       "time": "BordonFC",
@@ -3467,17 +3467,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Micael",
-      "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": 4.7
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
       "nome": "Murilo",
       "posicao": "Zagueiro",
       "clube": "PAL",
       "pontos": 3.4
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Micael",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 4.7
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -3551,13 +3551,6 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Micael",
-      "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": 4.7
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -3565,10 +3558,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Jhon Jhon",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "nome": "Micael",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 4.7
     },
     {
       "time": "MauHumor F.C.",
@@ -3586,10 +3579,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.9
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
     },
     {
       "time": "MauHumor F.C.",
@@ -3597,6 +3590,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 5.6
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 2.9
     },
     {
       "time": "MauHumor F.C.",
@@ -3670,17 +3670,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 2.7
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 2.7
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -3719,13 +3719,6 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Gamarra",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 3.2
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Arboleda",
       "posicao": "Zagueiro",
       "clube": "SAO",
@@ -3733,10 +3726,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Villasanti",
-      "posicao": "Meia",
-      "clube": "GRE",
-      "pontos": 2.4
+      "nome": "Gamarra",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 3.2
     },
     {
       "time": "TATITTA FC",
@@ -3744,6 +3737,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "PAL",
       "pontos": 3.5
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Villasanti",
+      "posicao": "Meia",
+      "clube": "GRE",
+      "pontos": 2.4
     },
     {
       "time": "TATITTA FC",
@@ -3761,17 +3761,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.9
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 2.9
     },
     {
       "time": "TATITTA FC",
@@ -3817,13 +3817,6 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Matheus Henrique",
       "posicao": "Meia",
       "clube": "CRU",
@@ -3838,10 +3831,10 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
     },
     {
       "time": "HS SPORTS F.C",
@@ -3849,6 +3842,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 2.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "HS SPORTS F.C",
@@ -3873,17 +3873,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Enzo Díaz",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 7.7
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 7.4
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Enzo Díaz",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 7.7
     },
     {
       "time": "Dom Camillo68",
@@ -3908,17 +3908,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Jadson",
-      "posicao": "Meia",
-      "clube": "JUV",
-      "pontos": 0.1
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Baralhas",
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 0.0
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Jadson",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 0.1
     },
     {
       "time": "Dom Camillo68",
@@ -3929,17 +3929,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Arezo",
       "posicao": "Atacante",
       "clube": "GRE",
       "pontos": 9.2
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "Dom Camillo68",
@@ -4069,17 +4069,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Jhon Jhon",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Matheus Henrique",
       "posicao": "Meia",
       "clube": "CRU",
       "pontos": -1.9
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
     },
     {
       "time": "CosmoCity ZO",
@@ -4090,17 +4090,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Gabriel",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.8
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Luiz Araújo",
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 5.1
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Gabriel",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.8
     },
     {
       "time": "CosmoCity ZO",
@@ -4125,13 +4125,6 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Cédric Soares",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 0.0
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
@@ -4139,10 +4132,10 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.6
+      "nome": "Cédric Soares",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 0.0
     },
     {
       "time": "clarinvalau fc",
@@ -4153,10 +4146,10 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 6.5
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.6
     },
     {
       "time": "clarinvalau fc",
@@ -4164,6 +4157,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "CEA",
       "pontos": 2.9
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 6.5
     },
     {
       "time": "clarinvalau fc",
@@ -4181,17 +4181,17 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Luciano",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "Michael",
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 6.4
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Luciano",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "clarinvalau fc",
@@ -4209,13 +4209,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Igor Vinícius",
       "posicao": "Lateral",
       "clube": "SAO",
@@ -4223,10 +4216,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Sabino",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 7.3
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "Grêmio imortal 37",
@@ -4237,10 +4230,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Jadson",
+      "nome": "Sabino",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 7.3
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "JUV",
-      "pontos": 0.1
+      "clube": "RBB",
+      "pontos": 3.3
     },
     {
       "time": "Grêmio imortal 37",
@@ -4251,10 +4251,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Jhon Jhon",
+      "nome": "Jadson",
       "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "clube": "JUV",
+      "pontos": 0.1
     },
     {
       "time": "Grêmio imortal 37",
@@ -4293,13 +4293,6 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "William",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 19.3
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Enzo Díaz",
       "posicao": "Lateral",
       "clube": "SAO",
@@ -4307,10 +4300,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Fabrício Bruno",
-      "posicao": "Zagueiro",
+      "nome": "William",
+      "posicao": "Lateral",
       "clube": "CRU",
-      "pontos": 1.4
+      "pontos": 19.3
     },
     {
       "time": "SERGRILLO",
@@ -4318,6 +4311,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "FOR",
       "pontos": 4.7
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Fabrício Bruno",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 1.4
     },
     {
       "time": "SERGRILLO",
@@ -4342,10 +4342,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Ênio",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "JUV",
-      "pontos": 4.1
+      "clube": "BAH",
+      "pontos": 2.7
     },
     {
       "time": "SERGRILLO",
@@ -4356,10 +4356,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Erick Pulga",
+      "nome": "Ênio",
       "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 2.7
+      "clube": "JUV",
+      "pontos": 4.1
     },
     {
       "time": "SERGRILLO",
@@ -4461,13 +4461,6 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
       "nome": "Igor Vinícius",
       "posicao": "Lateral",
       "clube": "SAO",
@@ -4475,10 +4468,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Gamarra",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 3.2
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -4489,17 +4482,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 4.5
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
-      "nome": "Jhon Jhon",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "nome": "Gamarra",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 3.2
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -4510,10 +4496,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Luciano",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 4.5
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -4521,6 +4514,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Luciano",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -4573,13 +4573,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 4.5
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
@@ -4587,17 +4580,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 4.5
+    },
+    {
+      "time": "Paulo Virgili FC",
       "nome": "Sérgio Oliveira",
       "posicao": "Meia",
       "clube": "SPT",
       "pontos": 5.0
-    },
-    {
-      "time": "Paulo Virgili FC",
-      "nome": "Arezo",
-      "posicao": "Atacante",
-      "clube": "GRE",
-      "pontos": 9.2
     },
     {
       "time": "Paulo Virgili FC",
@@ -4612,6 +4605,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Arezo",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 9.2
     },
     {
       "time": "Paulo Virgili FC",
@@ -4713,13 +4713,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Enzo Díaz",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 7.7
-    },
-    {
-      "time": "Luis lemes inter",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -4727,10 +4720,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Fabrício Bruno",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 1.4
+      "nome": "Enzo Díaz",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 7.7
     },
     {
       "time": "Luis lemes inter",
@@ -4741,10 +4734,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Jhon Jhon",
-      "posicao": "Meia",
-      "clube": "RBB",
-      "pontos": 3.3
+      "nome": "Fabrício Bruno",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 1.4
     },
     {
       "time": "Luis lemes inter",
@@ -4762,6 +4755,20 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 3.3
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Calleri",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": -2.7
+    },
+    {
+      "time": "Luis lemes inter",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
@@ -4773,13 +4780,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
-    },
-    {
-      "time": "Luis lemes inter",
-      "nome": "Calleri",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": -2.7
     },
     {
       "time": "Luis lemes inter",
@@ -4811,17 +4811,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.6
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
       "clube": "GRE",
       "pontos": 2.9
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.6
     },
     {
       "time": "emer jr fc",
@@ -4937,17 +4937,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 2.9
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Cristian Olivera",
       "posicao": "Atacante",
       "clube": "GRE",
       "pontos": 1.3
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 2.9
     },
     {
       "time": "Cril Futebol Club",
@@ -4993,17 +4993,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Alisson",
-      "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 1.4
-    },
-    {
-      "time": "ITAQUI F.C.",
       "nome": "Lucas Romero",
       "posicao": "Meia",
       "clube": "CRU",
       "pontos": 1.9
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Alisson",
+      "posicao": "Meia",
+      "clube": "SAO",
+      "pontos": 1.4
     },
     {
       "time": "ITAQUI F.C.",
@@ -5077,17 +5077,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 4.5
-    },
-    {
-      "time": "TORRESMO COM PINGA",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
       "pontos": 3.3
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 4.5
     },
     {
       "time": "TORRESMO COM PINGA",
@@ -5217,17 +5217,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Wendell",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 7.7
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 7.4
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Wendell",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 7.7
     },
     {
       "time": "FC Los Castilho",
@@ -5245,6 +5245,13 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 3.5
+    },
+    {
+      "time": "FC Los Castilho",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
@@ -5259,17 +5266,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 3.5
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Wanderson",
+      "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
-      "pontos": 2.0
+      "pontos": 8.8
     },
     {
       "time": "FC Los Castilho",
@@ -5280,10 +5280,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Gabriel",
+      "nome": "Wanderson",
       "posicao": "Atacante",
       "clube": "CRU",
-      "pontos": 8.8
+      "pontos": 2.0
     },
     {
       "time": "FC Los Castilho",
@@ -5301,13 +5301,6 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.4
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
@@ -5315,10 +5308,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Gamarra",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 3.2
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.4
     },
     {
       "time": "KillerColorado",
@@ -5329,17 +5322,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
+      "nome": "Gamarra",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 3.2
+    },
+    {
+      "time": "KillerColorado",
       "nome": "Matheus Henrique",
       "posicao": "Meia",
       "clube": "CRU",
       "pontos": -1.9
-    },
-    {
-      "time": "KillerColorado",
-      "nome": "Jadson",
-      "posicao": "Meia",
-      "clube": "JUV",
-      "pontos": 0.1
     },
     {
       "time": "KillerColorado",
@@ -5350,10 +5343,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Marinho",
+      "nome": "Jadson",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 0.1
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "FOR",
-      "pontos": 5.2
+      "clube": "PAL",
+      "pontos": 2.9
     },
     {
       "time": "KillerColorado",
@@ -5364,10 +5364,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Estêvão",
+      "nome": "Marinho",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.9
+      "clube": "FOR",
+      "pontos": 5.2
     },
     {
       "time": "KillerColorado",
@@ -5399,13 +5399,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 13.0
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "João Victor",
       "posicao": "Zagueiro",
       "clube": "MIR",
@@ -5413,10 +5406,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Pol Fernández",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 5.6
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 13.0
     },
     {
       "time": "Atlético Colorado 2021",
@@ -5427,6 +5420,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
+      "nome": "Pol Fernández",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 5.6
+    },
+    {
+      "time": "Atlético Colorado 2021",
       "nome": "Edenílson",
       "posicao": "Meia",
       "clube": "GRE",
@@ -5434,17 +5434,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.9
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.8
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 2.9
     },
     {
       "time": "Atlético Colorado 2021",
@@ -5497,17 +5497,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Matheus Alves",
-      "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 2.3
-    },
-    {
-      "time": "Time do S.A.P.O",
       "nome": "Jhon Jhon",
       "posicao": "Meia",
       "clube": "RBB",
       "pontos": 3.3
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Matheus Alves",
+      "posicao": "Meia",
+      "clube": "SAO",
+      "pontos": 2.3
     },
     {
       "time": "Time do S.A.P.O",
@@ -5525,17 +5525,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Luciano",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 1.5
-    },
-    {
-      "time": "Time do S.A.P.O",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 7.0
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Luciano",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "Time do S.A.P.O",
@@ -5588,17 +5588,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 4.5
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Richard Ríos",
       "posicao": "Meia",
       "clube": "PAL",
       "pontos": 3.5
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 4.5
     },
     {
       "time": "SISO FC25",
@@ -5667,17 +5667,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Carrillo",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 3.6
-    },
-    {
-      "time": "FBC Colorado",
       "nome": "Gabriel Bontempo",
       "posicao": "Meia",
       "clube": "SAN",
       "pontos": 6.0
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Carrillo",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 3.6
     },
     {
       "time": "FBC Colorado",
@@ -5723,17 +5723,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 1.3
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 7.4
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 1.3
     },
     {
       "time": "Texas Club 2025",
@@ -5751,17 +5751,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 2.8
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Gabriel Bontempo",
       "posicao": "Meia",
       "clube": "SAN",
       "pontos": 6.0
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 2.8
     },
     {
       "time": "Texas Club 2025",
@@ -5772,17 +5772,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "Texas Club 2025",
@@ -5807,17 +5807,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 1.3
-    },
-    {
-      "time": "Real SCI",
       "nome": "Matheuzinho",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 8.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 1.3
     },
     {
       "time": "Real SCI",
@@ -5835,10 +5835,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Lucas Mugni",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "CEA",
-      "pontos": 2.3
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "Real SCI",
@@ -5849,17 +5849,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Arias",
+      "nome": "Lucas Mugni",
       "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
+      "clube": "CEA",
+      "pontos": 2.3
     },
     {
       "time": "Real SCI",
-      "nome": "Igor Jesus",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "clube": "CAM",
+      "pontos": 3.6
     },
     {
       "time": "Real SCI",
@@ -5870,10 +5870,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Hulk",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 3.6
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "Real SCI",
@@ -5891,6 +5891,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 14.5
+    },
+    {
+      "time": "Gig@ntte",
       "nome": "Vitinho",
       "posicao": "Lateral",
       "clube": "BOT",
@@ -5898,10 +5905,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 14.5
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
     },
     {
       "time": "Gig@ntte",
@@ -5912,10 +5919,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 6.0
     },
     {
       "time": "Gig@ntte",
@@ -5933,17 +5940,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 6.0
-    },
-    {
-      "time": "Gig@ntte",
-      "nome": "Hulk",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 3.6
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "Gig@ntte",
@@ -5954,10 +5954,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Igor Jesus",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "clube": "CAM",
+      "pontos": 3.6
     },
     {
       "time": "Gig@ntte",
@@ -5989,17 +5989,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Rogel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 6.2
-    },
-    {
-      "time": "PraiaBravaFC",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
       "pontos": 0.0
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Rogel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 6.2
     },
     {
       "time": "PraiaBravaFC",
@@ -6031,17 +6031,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
-    },
-    {
-      "time": "PraiaBravaFC",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 13.6
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "PraiaBravaFC",
@@ -6059,17 +6059,17 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 14.5
-    },
-    {
-      "time": "OlhaEleAiF.C!",
       "nome": "Renê",
       "posicao": "Lateral",
       "clube": "FLU",
       "pontos": 2.4
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 14.5
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -6087,10 +6087,10 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Gregore",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 0.2
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -6101,17 +6101,10 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Arias",
+      "nome": "Gregore",
       "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
+      "clube": "BOT",
+      "pontos": 0.2
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -6119,6 +6112,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 11.8
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -6143,17 +6143,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Reinaldo",
-      "posicao": "Lateral",
-      "clube": "MIR",
-      "pontos": 1.2
-    },
-    {
-      "time": "Gremiomaniasm",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 14.5
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Reinaldo",
+      "posicao": "Lateral",
+      "clube": "MIR",
+      "pontos": 1.2
     },
     {
       "time": "Gremiomaniasm",
@@ -6178,17 +6178,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Bruno Henrique",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 0.9
-    },
-    {
-      "time": "Gremiomaniasm",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 2.0
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Bruno Henrique",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 0.9
     },
     {
       "time": "Gremiomaniasm",
@@ -6241,17 +6241,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Sport Clube PAIM",
       "nome": "Igor Rabello",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 0.0
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 8.2
     },
     {
       "time": "Sport Clube PAIM",
@@ -6444,17 +6444,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
-    },
-    {
-      "time": "RS Expressões da Arte",
       "nome": "Tiquinho Soares",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 5.0
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "RS Expressões da Arte",
@@ -6507,13 +6507,6 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Emiliano Martínez",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 2.7
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Erick Pulgar",
       "posicao": "Meia",
       "clube": "FLA",
@@ -6525,6 +6518,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "COR",
       "pontos": 3.6
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Emiliano Martínez",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 2.7
     },
     {
       "time": "ZIVI FC",
@@ -6598,16 +6598,16 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Arias",
+      "nome": "Igor Coronado",
       "posicao": "Meia",
-      "clube": "FLU",
+      "clube": "COR",
       "pontos": 2.0
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Igor Coronado",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "COR",
+      "clube": "FLU",
       "pontos": 2.0
     },
     {
@@ -6647,13 +6647,6 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 6.4
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
@@ -6661,10 +6654,10 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 8.2
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.4
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -6675,10 +6668,10 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Lucas Evangelista",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 1.2
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 8.2
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -6696,6 +6689,20 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
+      "nome": "Lucas Evangelista",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 1.2
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 1.5
+    },
+    {
+      "time": "F.C. Rei Das Copas",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
@@ -6707,13 +6714,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
-    },
-    {
-      "time": "F.C. Rei Das Copas",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 1.5
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -6745,17 +6745,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Rolo Compressor ZN",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
       "pontos": 0.0
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 8.2
     },
     {
       "time": "Rolo Compressor ZN",
@@ -6934,13 +6934,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Igor Coronado",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 2.0
-    },
-    {
-      "time": "Eleis-Itaqui",
       "nome": "Santiago Rodríguez",
       "posicao": "Meia",
       "clube": "BOT",
@@ -6948,10 +6941,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 7.5
+      "nome": "Igor Coronado",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 2.0
     },
     {
       "time": "Eleis-Itaqui",
@@ -6959,6 +6952,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 7.5
     },
     {
       "time": "Eleis-Itaqui",
@@ -7032,17 +7032,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
-    },
-    {
-      "time": "KING LEONN",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 12.8
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "KING LEONN",
@@ -7067,13 +7067,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Vitinho",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 5.0
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
@@ -7081,10 +7074,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
+      "nome": "Vitinho",
+      "posicao": "Lateral",
       "clube": "BOT",
-      "pontos": 7.8
+      "pontos": 5.0
     },
     {
       "time": "Laranjja Mecannica",
@@ -7095,17 +7088,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 6.0
+      "nome": "Jair",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 7.8
     },
     {
       "time": "Laranjja Mecannica",
@@ -7116,10 +7102,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Pedro Raul",
-      "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 13.6
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 6.0
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "Laranjja Mecannica",
@@ -7137,6 +7130,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 13.6
+    },
+    {
+      "time": "Laranjja Mecannica",
       "nome": "Renato Paiva",
       "posicao": "Técnico",
       "clube": "BOT",
@@ -7151,17 +7151,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Aguirre",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 7.4
-    },
-    {
-      "time": "Fedato Futebol Clube",
       "nome": "Matheus Bahia",
       "posicao": "Lateral",
       "clube": "CEA",
       "pontos": 9.4
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Aguirre",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 7.4
     },
     {
       "time": "Fedato Futebol Clube",
@@ -7235,13 +7235,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Vitinho",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 5.0
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
@@ -7249,10 +7242,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Kuscevic",
-      "posicao": "Zagueiro",
-      "clube": "FOR",
-      "pontos": 2.1
+      "nome": "Vitinho",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 5.0
     },
     {
       "time": "Perronee F.C",
@@ -7263,17 +7256,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Carrillo",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 3.6
+      "nome": "Kuscevic",
+      "posicao": "Zagueiro",
+      "clube": "FOR",
+      "pontos": 2.1
     },
     {
       "time": "Perronee F.C",
@@ -7284,10 +7270,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Bruno Henrique",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 10.0
+      "nome": "Carrillo",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 3.6
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "Perronee F.C",
@@ -7305,6 +7298,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
+      "nome": "Bruno Henrique",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 10.0
+    },
+    {
+      "time": "Perronee F.C",
       "nome": "Ramón Díaz",
       "posicao": "Técnico",
       "clube": "COR",
@@ -7319,17 +7319,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Renê",
-      "posicao": "Lateral",
-      "clube": "FLU",
-      "pontos": 2.4
-    },
-    {
-      "time": "Pity10",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
       "pontos": 6.4
+    },
+    {
+      "time": "Pity10",
+      "nome": "Renê",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 2.4
     },
     {
       "time": "Pity10",
@@ -7403,13 +7403,6 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Guilherme Arana",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 7.7
-    },
-    {
-      "time": "pra sempre imortal fc",
       "nome": "Vitinho",
       "posicao": "Lateral",
       "clube": "BOT",
@@ -7417,10 +7410,10 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Guilherme Arana",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 7.7
     },
     {
       "time": "pra sempre imortal fc",
@@ -7431,17 +7424,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
+    },
+    {
+      "time": "pra sempre imortal fc",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 3.8
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Patrick de Paula",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 0.2
     },
     {
       "time": "pra sempre imortal fc",
@@ -7452,10 +7445,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
+      "nome": "Patrick de Paula",
+      "posicao": "Meia",
       "clube": "BOT",
-      "pontos": 10.6
+      "pontos": 0.2
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 3.6
     },
     {
       "time": "pra sempre imortal fc",
@@ -7466,10 +7466,10 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Hulk",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 3.6
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "pra sempre imortal fc",
@@ -7487,13 +7487,6 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Matheuzinho",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 8.7
-    },
-    {
-      "time": "RHANKA DENTY FC25",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
@@ -7501,10 +7494,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Lyanco",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 3.1
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 8.7
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -7515,17 +7508,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Igor Coronado",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 2.0
+      "nome": "Lyanco",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 3.1
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -7536,10 +7522,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Bruno Henrique",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 10.0
+      "nome": "Igor Coronado",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 2.0
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -7557,6 +7550,13 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
+      "nome": "Bruno Henrique",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 10.0
+    },
+    {
+      "time": "RHANKA DENTY FC25",
       "nome": "Renato Paiva",
       "posicao": "Técnico",
       "clube": "BOT",
@@ -7571,17 +7571,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Matheus Bahia",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 9.4
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Renê",
       "posicao": "Lateral",
       "clube": "FLU",
       "pontos": 2.4
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 9.4
     },
     {
       "time": "TEAM LOPES 99",
@@ -7620,17 +7620,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "TEAM LOPES 99",
@@ -7704,17 +7704,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 11.8
-    },
-    {
-      "time": "pura bucha /botafogo",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Enner Valencia",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 11.8
     },
     {
       "time": "pura bucha /botafogo",
@@ -7753,13 +7753,6 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 7.5
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Jair",
       "posicao": "Zagueiro",
       "clube": "BOT",
@@ -7767,10 +7760,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 2.8
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 7.5
     },
     {
       "time": "cartola scheuer",
@@ -7788,10 +7781,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
+      "nome": "Savarino",
+      "posicao": "Meia",
       "clube": "BOT",
-      "pontos": 10.6
+      "pontos": 2.8
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Bruno Henrique",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 10.0
     },
     {
       "time": "cartola scheuer",
@@ -7802,10 +7802,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Bruno Henrique",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 10.0
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "cartola scheuer",
@@ -7837,17 +7837,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Bruno Fuchs",
       "posicao": "Zagueiro",
       "clube": "PAL",
       "pontos": -0.1
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 8.2
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -7858,17 +7858,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 6.0
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 2.0
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 6.0
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -7935,13 +7935,6 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Carrillo",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 3.6
-    },
-    {
-      "time": "DM Studio",
       "nome": "Gabriel Bontempo",
       "posicao": "Meia",
       "clube": "SAN",
@@ -7956,10 +7949,10 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
+      "nome": "Carrillo",
+      "posicao": "Meia",
       "clube": "COR",
-      "pontos": 12.8
+      "pontos": 3.6
     },
     {
       "time": "DM Studio",
@@ -7967,6 +7960,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "DM Studio",
@@ -7991,17 +7991,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Vitinho",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 5.0
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
       "pontos": 1.3
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Vitinho",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 5.0
     },
     {
       "time": "lsauer fc",
@@ -8019,10 +8019,10 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Arias",
+      "nome": "Gabriel Bontempo",
       "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
+      "clube": "SAN",
+      "pontos": 6.0
     },
     {
       "time": "lsauer fc",
@@ -8033,17 +8033,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Gabriel Bontempo",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 6.0
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "lsauer fc",
-      "nome": "Estêvão",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 1.5
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "lsauer fc",
@@ -8054,10 +8054,10 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Igor Jesus",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "clube": "PAL",
+      "pontos": 1.5
     },
     {
       "time": "lsauer fc",
@@ -8089,17 +8089,17 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Gil",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": -0.1
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 7.5
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Gil",
+      "posicao": "Zagueiro",
+      "clube": "SAN",
+      "pontos": -0.1
     },
     {
       "time": "VASCO MARTINS FC",
@@ -8110,13 +8110,6 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Marlon Freitas",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 0.0
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -8124,10 +8117,10 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Canobbio",
-      "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 1.7
+      "nome": "Marlon Freitas",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 0.0
     },
     {
       "time": "VASCO MARTINS FC",
@@ -8135,6 +8128,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Canobbio",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 1.7
     },
     {
       "time": "VASCO MARTINS FC",
@@ -8159,17 +8159,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KP JUV.",
-      "nome": "Vitinho",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 5.0
-    },
-    {
-      "time": "KP JUV.",
       "nome": "Matheus Bidu",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 7.4
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Vitinho",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 5.0
     },
     {
       "time": "KP JUV.",
@@ -8187,17 +8187,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KP JUV.",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "KP JUV.",
       "nome": "Gabriel Bontempo",
       "posicao": "Meia",
       "clube": "SAN",
       "pontos": 6.0
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "KP JUV.",
@@ -8355,17 +8355,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Lucas Mugni",
-      "posicao": "Meia",
-      "clube": "CEA",
-      "pontos": 2.3
-    },
-    {
-      "time": "Profit Soccer",
       "nome": "Lucas Evangelista",
       "posicao": "Meia",
       "clube": "PAL",
       "pontos": 1.2
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Lucas Mugni",
+      "posicao": "Meia",
+      "clube": "CEA",
+      "pontos": 2.3
     },
     {
       "time": "Profit Soccer",
@@ -8460,17 +8460,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -8544,17 +8544,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "TIGRE LEON",
@@ -8579,17 +8579,17 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 14.5
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Alex Telles",
       "posicao": "Lateral",
       "clube": "BOT",
       "pontos": 6.1
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 14.5
     },
     {
       "time": "S.E.R. GRILLO",
@@ -8614,6 +8614,13 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
+      "nome": "Barreal",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 2.4
+    },
+    {
+      "time": "S.E.R. GRILLO",
       "nome": "Marlon Freitas",
       "posicao": "Meia",
       "clube": "BOT",
@@ -8621,10 +8628,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Barreal",
-      "posicao": "Meia",
+      "nome": "Tiquinho Soares",
+      "posicao": "Atacante",
       "clube": "SAN",
-      "pontos": 2.4
+      "pontos": 5.0
     },
     {
       "time": "S.E.R. GRILLO",
@@ -8639,13 +8646,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 5.2
-    },
-    {
-      "time": "S.E.R. GRILLO",
-      "nome": "Tiquinho Soares",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.0
     },
     {
       "time": "S.E.R. GRILLO",
@@ -8698,17 +8698,17 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "seralex",
       "nome": "Emmanuel Martínez",
       "posicao": "Meia",
       "clube": "FOR",
       "pontos": 8.2
+    },
+    {
+      "time": "seralex",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "seralex",
@@ -8761,17 +8761,17 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 7.8
-    },
-    {
-      "time": "E.C. Bororé",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 7.5
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Jair",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 7.8
     },
     {
       "time": "E.C. Bororé",
@@ -8880,6 +8880,13 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
+    },
+    {
+      "time": "MAFRA MARTINS FC",
       "nome": "Canobbio",
       "posicao": "Atacante",
       "clube": "FLU",
@@ -8891,13 +8898,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 13.6
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -8999,13 +8999,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Vitinho",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 5.0
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Matheuzinho",
       "posicao": "Lateral",
       "clube": "COR",
@@ -9013,10 +9006,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 9.5
+      "nome": "Vitinho",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 5.0
     },
     {
       "time": "Tatols Beants F.C",
@@ -9027,17 +9020,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Patrick de Paula",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 0.2
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 9.5
     },
     {
       "time": "Tatols Beants F.C",
@@ -9048,10 +9034,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Bruno Henrique",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 10.0
+      "nome": "Patrick de Paula",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 0.2
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "Tatols Beants F.C",
@@ -9069,6 +9062,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
+      "nome": "Bruno Henrique",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 10.0
+    },
+    {
+      "time": "Tatols Beants F.C",
       "nome": "Roger Machado",
       "posicao": "Técnico",
       "clube": "INT",
@@ -9083,13 +9083,6 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Matheus Bidu",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 7.4
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
       "nome": "Matheuzinho",
       "posicao": "Lateral",
       "clube": "COR",
@@ -9097,10 +9090,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Matheus Bidu",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 7.4
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -9108,6 +9101,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "INT",
       "pontos": 6.2
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -9139,17 +9139,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 18.4
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 13.6
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 18.4
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -9181,13 +9181,6 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 7.8
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -9195,10 +9188,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
+      "nome": "Jair",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 7.8
     },
     {
       "time": "MauHumor F.C.",
@@ -9216,10 +9209,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Pedro Raul",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 13.6
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "MauHumor F.C.",
@@ -9230,10 +9230,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Yuri Alberto",
+      "nome": "Pedro Raul",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
+      "clube": "CEA",
+      "pontos": 13.6
     },
     {
       "time": "MauHumor F.C.",
@@ -9251,17 +9251,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 6.4
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "JP Chermont",
       "posicao": "Lateral",
       "clube": "SAN",
       "pontos": 5.1
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.4
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -9279,17 +9279,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 9.2
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Igor Coronado",
       "posicao": "Meia",
       "clube": "COR",
       "pontos": 2.0
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 9.2
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -9300,17 +9300,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -9335,17 +9335,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 14.5
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Renê",
       "posicao": "Lateral",
       "clube": "FLU",
       "pontos": 2.4
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 14.5
     },
     {
       "time": "TATITTA FC",
@@ -9419,17 +9419,17 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 14.5
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 5.2
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 14.5
     },
     {
       "time": "HS SPORTS F.C",
@@ -9447,13 +9447,6 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Carrillo",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 3.6
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -9461,17 +9454,17 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
+      "nome": "Carrillo",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 3.6
+    },
+    {
+      "time": "HS SPORTS F.C",
       "nome": "Gabriel Bontempo",
       "posicao": "Meia",
       "clube": "SAN",
       "pontos": 6.0
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
     },
     {
       "time": "HS SPORTS F.C",
@@ -9489,6 +9482,13 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
+    },
+    {
+      "time": "HS SPORTS F.C",
       "nome": "Rafael Guanaes",
       "posicao": "Técnico",
       "clube": "MIR",
@@ -9503,17 +9503,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Vitinho",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 5.0
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 9.4
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Vitinho",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 5.0
     },
     {
       "time": "Dom Camillo68",
@@ -9615,10 +9615,10 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Alan Patrick",
+      "nome": "Patrick de Paula",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 9.2
+      "clube": "BOT",
+      "pontos": 0.2
     },
     {
       "time": "mercearia Estrela",
@@ -9629,10 +9629,10 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Patrick de Paula",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 0.2
+      "clube": "INT",
+      "pontos": 9.2
     },
     {
       "time": "mercearia Estrela",
@@ -9727,17 +9727,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Pedro Raul",
-      "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 13.6
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 13.6
     },
     {
       "time": "CosmoCity ZO",
@@ -9755,17 +9755,17 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 8.2
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "Alex Telles",
       "posicao": "Lateral",
       "clube": "BOT",
       "pontos": 6.1
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 8.2
     },
     {
       "time": "clarinvalau fc",
@@ -9783,13 +9783,6 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 3.8
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "Alisson",
       "posicao": "Meia",
       "clube": "SAO",
@@ -9804,10 +9797,17 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Amuzu",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 3.8
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "GRE",
-      "pontos": 0.6
+      "clube": "PAL",
+      "pontos": 1.5
     },
     {
       "time": "clarinvalau fc",
@@ -9818,10 +9818,10 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Estêvão",
+      "nome": "Amuzu",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 1.5
+      "clube": "GRE",
+      "pontos": 0.6
     },
     {
       "time": "clarinvalau fc",
@@ -9853,13 +9853,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Félix Torres",
       "posicao": "Zagueiro",
       "clube": "COR",
@@ -9867,10 +9860,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 6.0
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 8.2
     },
     {
       "time": "Grêmio imortal 37",
@@ -9885,6 +9878,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 2.0
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 6.0
     },
     {
       "time": "Grêmio imortal 37",
@@ -9923,17 +9923,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 14.5
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 7.4
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 14.5
     },
     {
       "time": "SERGRILLO",
@@ -9958,17 +9958,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Martinelli",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 8.9
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 9.2
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Martinelli",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 8.9
     },
     {
       "time": "SERGRILLO",
@@ -10007,17 +10007,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Matheuzinho",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 8.7
-    },
-    {
-      "time": "Super Vasco f.c",
       "nome": "Renê",
       "posicao": "Lateral",
       "clube": "FLU",
       "pontos": 2.4
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 8.7
     },
     {
       "time": "Super Vasco f.c",
@@ -10056,17 +10056,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
-    },
-    {
-      "time": "Super Vasco f.c",
       "nome": "Enner Valencia",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 11.8
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "Super Vasco f.c",
@@ -10091,13 +10091,6 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Aguirre",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 7.4
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
@@ -10105,10 +10098,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Lyanco",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 3.1
+      "nome": "Aguirre",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 7.4
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -10119,10 +10112,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
+      "nome": "Lyanco",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 3.1
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -10140,10 +10133,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Bruno Henrique",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 10.0
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -10154,10 +10154,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Igor Jesus",
+      "nome": "Bruno Henrique",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "clube": "FLA",
+      "pontos": 10.0
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -10175,17 +10175,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 6.4
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Lucas Ramon",
       "posicao": "Lateral",
       "clube": "MIR",
       "pontos": 11.0
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.4
     },
     {
       "time": "Paulo Virgili FC",
@@ -10224,17 +10224,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Arezo",
       "posicao": "Atacante",
       "clube": "GRE",
       "pontos": 1.7
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "Paulo Virgili FC",
@@ -10287,10 +10287,10 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Bruno Henrique",
+      "nome": "Erick Pulgar",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 0.9
+      "clube": "FLA",
+      "pontos": 1.4
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -10301,17 +10301,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Erick Pulgar",
+      "nome": "Bruno Henrique",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 1.4
+      "clube": "INT",
+      "pontos": 0.9
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Memphis Depay",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 18.4
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -10322,10 +10322,10 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Igor Jesus",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "clube": "COR",
+      "pontos": 18.4
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -10343,17 +10343,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Luciano Juba",
-      "posicao": "Lateral",
-      "clube": "BAH",
-      "pontos": 15.7
-    },
-    {
-      "time": "Luis lemes inter",
       "nome": "Alex Telles",
       "posicao": "Lateral",
       "clube": "BOT",
       "pontos": 6.1
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Luciano Juba",
+      "posicao": "Lateral",
+      "clube": "BAH",
+      "pontos": 15.7
     },
     {
       "time": "Luis lemes inter",
@@ -10371,6 +10371,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
+    },
+    {
+      "time": "Luis lemes inter",
       "nome": "Patrick de Paula",
       "posicao": "Meia",
       "clube": "BOT",
@@ -10385,17 +10392,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "Luis lemes inter",
-      "nome": "Yuri Alberto",
+      "nome": "Pedro Raul",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 12.8
+      "clube": "CEA",
+      "pontos": 13.6
     },
     {
       "time": "Luis lemes inter",
@@ -10406,10 +10406,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Pedro Raul",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 13.6
+      "clube": "COR",
+      "pontos": 12.8
     },
     {
       "time": "Luis lemes inter",
@@ -10427,17 +10427,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Igor Serrote",
-      "posicao": "Lateral",
-      "clube": "GRE",
-      "pontos": 0.7
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Gilberto",
       "posicao": "Lateral",
       "clube": "BAH",
       "pontos": 6.5
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Igor Serrote",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 0.7
     },
     {
       "time": "emer jr fc",
@@ -10455,17 +10455,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 9.2
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 3.9
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 9.2
     },
     {
       "time": "emer jr fc",
@@ -10476,17 +10476,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Vitor Roque",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 2.2
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Enner Valencia",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 11.8
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Vitor Roque",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 2.2
     },
     {
       "time": "emer jr fc",
@@ -10511,17 +10511,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Igor Serrote",
-      "posicao": "Lateral",
-      "clube": "GRE",
-      "pontos": 0.7
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 7.4
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Igor Serrote",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 0.7
     },
     {
       "time": "Cril Futebol Club",
@@ -10546,13 +10546,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
@@ -10560,10 +10553,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "Cril Futebol Club",
@@ -10571,6 +10564,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 12.8
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "Cril Futebol Club",
@@ -10714,16 +10714,16 @@ const escalacoesGerais = {
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Igor Coronado",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "COR",
+      "clube": "FLU",
       "pontos": 2.0
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Arias",
+      "nome": "Igor Coronado",
       "posicao": "Meia",
-      "clube": "FLU",
+      "clube": "COR",
       "pontos": 2.0
     },
     {
@@ -10763,13 +10763,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Alex Telles",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 6.1
-    },
-    {
-      "time": "Lá do Itaqui",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
@@ -10777,10 +10770,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 7.5
+      "nome": "Alex Telles",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 6.1
     },
     {
       "time": "Lá do Itaqui",
@@ -10791,17 +10784,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Igor Coronado",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 2.0
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 7.5
     },
     {
       "time": "Lá do Itaqui",
@@ -10812,10 +10798,24 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Bruno Henrique",
+      "nome": "Igor Coronado",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 2.0
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 10.0
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "Lá do Itaqui",
@@ -10826,10 +10826,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Igor Jesus",
+      "nome": "Bruno Henrique",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
+      "clube": "FLA",
+      "pontos": 10.0
     },
     {
       "time": "Lá do Itaqui",
@@ -10847,17 +10847,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Matheus Bahia",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 9.4
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 7.4
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 9.4
     },
     {
       "time": "FC Los Castilho",
@@ -10875,13 +10875,6 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 2.0
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
@@ -10896,10 +10889,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 11.8
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.0
     },
     {
       "time": "FC Los Castilho",
@@ -10907,6 +10900,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 10.6
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Enner Valencia",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 11.8
     },
     {
       "time": "FC Los Castilho",
@@ -10966,17 +10966,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 9.2
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 3.8
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 9.2
     },
     {
       "time": "KillerColorado",
@@ -11029,17 +11029,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
       "pontos": 0.0
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 8.2
     },
     {
       "time": "Atlético Colorado 2021",
@@ -11099,17 +11099,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Matheus Bahia",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 9.4
-    },
-    {
-      "time": "Time do S.A.P.O",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 14.5
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 9.4
     },
     {
       "time": "Time do S.A.P.O",
@@ -11148,17 +11148,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 10.6
-    },
-    {
-      "time": "Time do S.A.P.O",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 12.8
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 10.6
     },
     {
       "time": "Time do S.A.P.O",
@@ -11211,17 +11211,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 6.0
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Igor Coronado",
       "posicao": "Meia",
       "clube": "COR",
       "pontos": 2.0
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 6.0
     },
     {
       "time": "SISO FC25",
@@ -11269,17 +11269,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Natanael",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.0
-    },
-    {
-      "time": "FBC Colorado",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 10.4
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.0
     },
     {
       "time": "FBC Colorado",
@@ -11297,10 +11297,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Gustavo Scarpa",
+      "nome": "Philippe Coutinho",
       "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
+      "clube": "VAS",
+      "pontos": 7.0
     },
     {
       "time": "FBC Colorado",
@@ -11311,17 +11311,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Philippe Coutinho",
+      "nome": "Gustavo Scarpa",
       "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 7.0
-    },
-    {
-      "time": "FBC Colorado",
-      "nome": "Hulk",
-      "posicao": "Atacante",
       "clube": "CAM",
-      "pontos": 5.5
+      "pontos": 2.8
     },
     {
       "time": "FBC Colorado",
@@ -11339,6 +11332,13 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
+    },
+    {
+      "time": "FBC Colorado",
       "nome": "Fábio Matias",
       "posicao": "Técnico",
       "clube": "JUV",
@@ -11353,13 +11353,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Natanael",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.0
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -11367,10 +11360,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Santiago Mingo",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 0.5
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.0
     },
     {
       "time": "Texas Club 2025",
@@ -11378,6 +11371,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "FLA",
       "pontos": 6.5
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 0.5
     },
     {
       "time": "Texas Club 2025",
@@ -11402,10 +11402,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Vegetti",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "Texas Club 2025",
@@ -11416,10 +11416,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Hulk",
+      "nome": "Vegetti",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Texas Club 2025",
@@ -11549,17 +11549,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Rubens",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 4.2
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 4.2
     },
     {
       "time": "Gig@ntte",
@@ -11619,13 +11619,6 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
-    },
-    {
-      "time": "PraiaBravaFC",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
@@ -11633,10 +11626,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 1.5
     },
     {
       "time": "PraiaBravaFC",
@@ -11654,10 +11647,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Vegetti",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "PraiaBravaFC",
@@ -11668,10 +11668,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Hulk",
+      "nome": "Vegetti",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "PraiaBravaFC",
@@ -11689,6 +11689,13 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
+      "nome": "Ewerthon",
+      "posicao": "Lateral",
+      "clube": "JUV",
+      "pontos": 1.2
+    },
+    {
+      "time": "OlhaEleAiF.C!",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -11696,10 +11703,10 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Ewerthon",
-      "posicao": "Lateral",
-      "clube": "JUV",
-      "pontos": 1.2
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 0.5
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -11710,10 +11717,10 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Santiago Mingo",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 0.5
+      "nome": "Philippe Coutinho",
+      "posicao": "Meia",
+      "clube": "VAS",
+      "pontos": 7.0
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -11728,13 +11735,6 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Philippe Coutinho",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 7.0
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -11871,17 +11871,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Santiago Mingo",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 0.5
-    },
-    {
-      "time": "Sport Clube PAIM",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 0.8
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 0.5
     },
     {
       "time": "Sport Clube PAIM",
@@ -11969,17 +11969,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Rubens",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 4.2
-    },
-    {
-      "time": "PUXE FC",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 4.2
     },
     {
       "time": "PUXE FC",
@@ -11990,17 +11990,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "PUXE FC",
       "nome": "Rony",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "PUXE FC",
@@ -12025,17 +12025,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Guilherme Arana",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.5
-    },
-    {
-      "time": "RS Expressões da Arte",
       "nome": "Samuel Xavier",
       "posicao": "Lateral",
       "clube": "FLU",
       "pontos": 17.3
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Guilherme Arana",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.5
     },
     {
       "time": "RS Expressões da Arte",
@@ -12074,13 +12074,6 @@ const escalacoesGerais = {
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
-    },
-    {
-      "time": "RS Expressões da Arte",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
@@ -12092,6 +12085,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 0.4
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "RS Expressões da Arte",
@@ -12123,13 +12123,6 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Alexander Barboza",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 3.9
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
@@ -12137,10 +12130,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 4.0
+      "nome": "Alexander Barboza",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 3.9
     },
     {
       "time": "ZIVI FC",
@@ -12151,6 +12144,13 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
+      "nome": "Bruno Tabata",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 4.0
+    },
+    {
+      "time": "ZIVI FC",
       "nome": "Gregore",
       "posicao": "Meia",
       "clube": "BOT",
@@ -12158,10 +12158,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Cano",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 1.7
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "ZIVI FC",
@@ -12172,10 +12172,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Erick Pulga",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
+      "clube": "FLU",
+      "pontos": 1.7
     },
     {
       "time": "ZIVI FC",
@@ -12193,13 +12193,6 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Natanael",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.0
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -12207,10 +12200,10 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Santiago Mingo",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 0.5
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.0
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -12221,17 +12214,10 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
       "clube": "BAH",
-      "pontos": 5.3
+      "pontos": 0.5
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -12242,10 +12228,17 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Hulk",
-      "posicao": "Atacante",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 5.3
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
       "clube": "CAM",
-      "pontos": 5.5
+      "pontos": 2.8
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -12260,6 +12253,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -12305,6 +12305,13 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
+    },
+    {
+      "time": "F.C. Rei Das Copas",
       "nome": "Jean Lucas",
       "posicao": "Meia",
       "clube": "BAH",
@@ -12319,13 +12326,6 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
@@ -12333,17 +12333,17 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "Rony",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -12361,13 +12361,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 6.2
-    },
-    {
-      "time": "Rolo Compressor ZN",
       "nome": "Luciano Juba",
       "posicao": "Lateral",
       "clube": "BAH",
@@ -12375,10 +12368,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 3.0
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 6.2
     },
     {
       "time": "Rolo Compressor ZN",
@@ -12389,10 +12382,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 2.2
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 3.0
     },
     {
       "time": "Rolo Compressor ZN",
@@ -12410,6 +12403,20 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 2.2
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Gabriel Taliari",
+      "posicao": "Atacante",
+      "clube": "JUV",
+      "pontos": -0.1
+    },
+    {
+      "time": "Rolo Compressor ZN",
       "nome": "Bruno Henrique",
       "posicao": "Atacante",
       "clube": "FLA",
@@ -12421,13 +12428,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Gabriel Taliari",
-      "posicao": "Atacante",
-      "clube": "JUV",
-      "pontos": -0.1
     },
     {
       "time": "Rolo Compressor ZN",
@@ -12459,13 +12459,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
@@ -12473,10 +12466,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Emmanuel Martínez",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": -0.8
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 1.5
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -12487,6 +12480,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
+      "nome": "Emmanuel Martínez",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": -0.8
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
       "nome": "Lucas Sasha",
       "posicao": "Meia",
       "clube": "FOR",
@@ -12494,17 +12494,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 6.4
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -12543,17 +12543,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Alan Franco",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 0.0
-    },
-    {
-      "time": "Eleis-Itaqui",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 0.8
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Alan Franco",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 0.0
     },
     {
       "time": "Eleis-Itaqui",
@@ -12585,17 +12585,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "Eleis-Itaqui",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Eleis-Itaqui",
@@ -12641,17 +12641,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 5.3
-    },
-    {
-      "time": "KING LEONN",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 5.3
     },
     {
       "time": "KING LEONN",
@@ -12669,17 +12669,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
-    },
-    {
-      "time": "KING LEONN",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "KING LEONN",
@@ -12711,6 +12711,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 1.5
+    },
+    {
+      "time": "Laranjja Mecannica",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -12718,10 +12725,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
     },
     {
       "time": "Laranjja Mecannica",
@@ -12739,13 +12746,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
@@ -12753,17 +12753,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Rony",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "Laranjja Mecannica",
@@ -12809,10 +12809,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Gustavo Scarpa",
+      "nome": "Rubens",
       "posicao": "Meia",
       "clube": "CAM",
-      "pontos": 2.8
+      "pontos": 4.2
     },
     {
       "time": "Fedato Futebol Clube",
@@ -12823,10 +12823,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Rubens",
+      "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
-      "pontos": 4.2
+      "pontos": 2.8
     },
     {
       "time": "Fedato Futebol Clube",
@@ -12837,17 +12837,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
-    },
-    {
-      "time": "Fedato Futebol Clube",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "Fedato Futebol Clube",
@@ -12900,17 +12900,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Everton Ribeiro",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 0.9
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Jean Lucas",
       "posicao": "Meia",
       "clube": "BAH",
       "pontos": 5.3
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 0.9
     },
     {
       "time": "Perronee F.C",
@@ -12984,17 +12984,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
-    },
-    {
-      "time": "Pity10",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "Pity10",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
     },
     {
       "time": "Pity10",
@@ -13005,17 +13005,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "Pity10",
       "nome": "Erick Pulga",
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 14.4
+    },
+    {
+      "time": "Pity10",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Pity10",
@@ -13089,17 +13089,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Rony",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.9
-    },
-    {
-      "time": "pra sempre imortal fc",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Rony",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 6.9
     },
     {
       "time": "pra sempre imortal fc",
@@ -13152,17 +13152,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
-    },
-    {
-      "time": "RHANKA DENTY FC25",
       "nome": "Rubens",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 4.2
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -13215,17 +13215,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Alan Franco",
-      "posicao": "Zagueiro",
-      "clube": "SAO",
-      "pontos": 0.0
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Kanu",
       "posicao": "Zagueiro",
       "clube": "BAH",
       "pontos": 1.5
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Alan Franco",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 0.0
     },
     {
       "time": "TEAM LOPES 99",
@@ -13257,17 +13257,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Rony",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.9
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Rony",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 6.9
     },
     {
       "time": "TEAM LOPES 99",
@@ -13285,17 +13285,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Lucas Piton",
-      "posicao": "Lateral",
-      "clube": "VAS",
-      "pontos": 4.0
-    },
-    {
-      "time": "pura bucha /botafogo",
       "nome": "Guilherme Arana",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 2.5
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Lucas Piton",
+      "posicao": "Lateral",
+      "clube": "VAS",
+      "pontos": 4.0
     },
     {
       "time": "pura bucha /botafogo",
@@ -13313,17 +13313,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 16.5
-    },
-    {
-      "time": "pura bucha /botafogo",
       "nome": "De la Cruz",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 4.1
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 16.5
     },
     {
       "time": "pura bucha /botafogo",
@@ -13397,17 +13397,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Rubens",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 4.2
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
     },
     {
       "time": "cartola scheuer",
@@ -13453,13 +13453,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Luciano Juba",
-      "posicao": "Lateral",
-      "clube": "BAH",
-      "pontos": 5.2
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Guilherme Arana",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -13467,10 +13460,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 0.8
+      "nome": "Luciano Juba",
+      "posicao": "Lateral",
+      "clube": "BAH",
+      "pontos": 5.2
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -13481,10 +13474,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
       "clube": "CAM",
-      "pontos": 2.8
+      "pontos": 0.8
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -13495,17 +13488,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Everton Ribeiro",
       "posicao": "Meia",
       "clube": "BAH",
       "pontos": 0.9
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Ferreira",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 15.7
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -13520,6 +13513,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Ferreira",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 15.7
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -13565,17 +13565,17 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
-    },
-    {
-      "time": "DM Studio",
       "nome": "Jean Lucas",
       "posicao": "Meia",
       "clube": "BAH",
       "pontos": 5.3
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
     },
     {
       "time": "DM Studio",
@@ -13586,10 +13586,10 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Vegetti",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "DM Studio",
@@ -13600,10 +13600,10 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Erick Pulga",
+      "nome": "Vegetti",
       "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "DM Studio",
@@ -13621,13 +13621,6 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 6.2
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -13635,10 +13628,10 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 6.2
     },
     {
       "time": "lsauer fc",
@@ -13649,10 +13642,10 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 1.5
     },
     {
       "time": "lsauer fc",
@@ -13670,10 +13663,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Rony",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.9
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "lsauer fc",
@@ -13684,10 +13684,10 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Erick Pulga",
+      "nome": "Rony",
       "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
+      "clube": "CAM",
+      "pontos": 6.9
     },
     {
       "time": "lsauer fc",
@@ -13761,17 +13761,17 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Erick Pulga",
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 14.4
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "VASCO MARTINS FC",
@@ -13817,17 +13817,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KP JUV.",
-      "nome": "Rubens",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 4.2
-    },
-    {
-      "time": "KP JUV.",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 4.2
     },
     {
       "time": "KP JUV.",
@@ -13901,6 +13901,13 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 4.2
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
@@ -13912,13 +13919,6 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 10.0
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Rubens",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 4.2
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -13957,13 +13957,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Natanael",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.0
-    },
-    {
-      "time": "Profit Soccer",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -13971,10 +13964,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 6.5
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.0
     },
     {
       "time": "Profit Soccer",
@@ -13985,10 +13978,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 6.5
     },
     {
       "time": "Profit Soccer",
@@ -13999,6 +13992,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
+    },
+    {
+      "time": "Profit Soccer",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -14006,10 +14006,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Hulk",
+      "nome": "Vegetti",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Profit Soccer",
@@ -14020,10 +14020,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Vegetti",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "Profit Soccer",
@@ -14055,13 +14055,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 0.8
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
       "nome": "Abner",
       "posicao": "Zagueiro",
       "clube": "JUV",
@@ -14069,10 +14062,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Philippe Coutinho",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 7.0
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 0.8
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -14090,10 +14083,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
+      "nome": "Philippe Coutinho",
+      "posicao": "Meia",
       "clube": "VAS",
-      "pontos": 18.2
+      "pontos": 7.0
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -14101,6 +14094,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "FLU",
       "pontos": 1.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -14125,17 +14125,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Natanael",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.0
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 10.4
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.0
     },
     {
       "time": "TIGRE LEON",
@@ -14181,17 +14181,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "TIGRE LEON",
@@ -14237,10 +14237,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Martinelli",
+      "nome": "De la Cruz",
       "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 1.7
+      "clube": "FLA",
+      "pontos": 4.1
     },
     {
       "time": "S.E.R. GRILLO",
@@ -14251,10 +14251,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "De la Cruz",
+      "nome": "Martinelli",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 4.1
+      "clube": "FLU",
+      "pontos": 1.7
     },
     {
       "time": "S.E.R. GRILLO",
@@ -14265,17 +14265,17 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Bruno Henrique",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": -0.1
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Ferreira",
       "posicao": "Atacante",
       "clube": "SAO",
       "pontos": 15.7
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Bruno Henrique",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": -0.1
     },
     {
       "time": "S.E.R. GRILLO",
@@ -14321,10 +14321,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Martinelli",
+      "nome": "Jean Lucas",
       "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 1.7
+      "clube": "BAH",
+      "pontos": 5.3
     },
     {
       "time": "seralex",
@@ -14335,10 +14335,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Jean Lucas",
+      "nome": "Martinelli",
       "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 5.3
+      "clube": "FLU",
+      "pontos": 1.7
     },
     {
       "time": "seralex",
@@ -14412,17 +14412,17 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
-    },
-    {
-      "time": "E.C. Bororé",
       "nome": "Rubens",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 4.2
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
     },
     {
       "time": "E.C. Bororé",
@@ -14433,17 +14433,17 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "E.C. Bororé",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "E.C. Bororé",
@@ -14489,17 +14489,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Gabriel Menino",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 1.2
-    },
-    {
-      "time": "MAFRA MARTINS FC",
       "nome": "Everton Ribeiro",
       "posicao": "Meia",
       "clube": "BAH",
       "pontos": 0.9
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Gabriel Menino",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 1.2
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -14510,17 +14510,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "MAFRA MARTINS FC",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -14559,13 +14559,6 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 6.5
-    },
-    {
-      "time": "BordonFC",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
@@ -14573,10 +14566,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 6.5
     },
     {
       "time": "BordonFC",
@@ -14584,6 +14577,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 4.2
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
     },
     {
       "time": "BordonFC",
@@ -14629,17 +14629,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Guilherme Arana",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.5
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Luciano Juba",
       "posicao": "Lateral",
       "clube": "BAH",
       "pontos": 5.2
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Guilherme Arana",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.5
     },
     {
       "time": "Tatols Beants F.C",
@@ -14657,6 +14657,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 5.3
+    },
+    {
+      "time": "Tatols Beants F.C",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -14671,20 +14678,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 5.3
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Erick Pulga",
       "posicao": "Atacante",
       "clube": "BAH",
@@ -14696,6 +14689,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "SAO",
       "pontos": 15.7
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Tatols Beants F.C",
@@ -14769,17 +14769,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Rony",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.9
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Rony",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 6.9
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -14832,17 +14832,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
     },
     {
       "time": "MauHumor F.C.",
@@ -14853,17 +14853,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "MauHumor F.C.",
@@ -14916,6 +14916,13 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 0.9
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -14923,10 +14930,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Everton Ribeiro",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 0.9
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -14944,13 +14951,6 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Fábio Matias",
       "posicao": "Técnico",
       "clube": "JUV",
@@ -14965,13 +14965,6 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.4
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -14979,10 +14972,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.4
     },
     {
       "time": "TATITTA FC",
@@ -14993,6 +14986,13 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 1.5
+    },
+    {
+      "time": "TATITTA FC",
       "nome": "Jean Lucas",
       "posicao": "Meia",
       "clube": "BAH",
@@ -15000,17 +15000,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 10.0
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 10.0
     },
     {
       "time": "TATITTA FC",
@@ -15049,17 +15049,17 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.4
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 2.0
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.4
     },
     {
       "time": "HS SPORTS F.C",
@@ -15147,17 +15147,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 0.8
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Abner",
       "posicao": "Zagueiro",
       "clube": "JUV",
       "pontos": 3.0
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 0.8
     },
     {
       "time": "Dom Camillo68",
@@ -15189,17 +15189,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 6.4
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "Dom Camillo68",
@@ -15217,17 +15217,17 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Guilherme Arana",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.5
-    },
-    {
-      "time": "mercearia Estrela",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 2.0
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Guilherme Arana",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.5
     },
     {
       "time": "mercearia Estrela",
@@ -15245,13 +15245,6 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 5.0
-    },
-    {
-      "time": "mercearia Estrela",
       "nome": "Caio Alexandre",
       "posicao": "Meia",
       "clube": "BAH",
@@ -15259,10 +15252,24 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
+      "nome": "Felipe Anderson",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 5.0
+    },
+    {
+      "time": "mercearia Estrela",
       "nome": "Gabriel Menino",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 1.2
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "mercearia Estrela",
@@ -15277,13 +15284,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
-    },
-    {
-      "time": "mercearia Estrela",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
     },
     {
       "time": "mercearia Estrela",
@@ -15441,17 +15441,17 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "Gabriel",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 0.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "clarinvalau fc",
@@ -15483,17 +15483,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Santiago Mingo",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 0.5
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 0.8
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 0.5
     },
     {
       "time": "Grêmio imortal 37",
@@ -15518,17 +15518,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Erick Pulga",
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 14.4
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Grêmio imortal 37",
@@ -15567,17 +15567,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 0.8
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Abner",
       "posicao": "Zagueiro",
       "clube": "JUV",
       "pontos": 3.0
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 0.8
     },
     {
       "time": "SERGRILLO",
@@ -15672,13 +15672,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Philippe Coutinho",
-      "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 7.0
-    },
-    {
-      "time": "Super Vasco f.c",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -15686,10 +15679,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Vegetti",
-      "posicao": "Atacante",
+      "nome": "Philippe Coutinho",
+      "posicao": "Meia",
       "clube": "VAS",
-      "pontos": 18.2
+      "pontos": 7.0
     },
     {
       "time": "Super Vasco f.c",
@@ -15697,6 +15690,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Vegetti",
+      "posicao": "Atacante",
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "Super Vasco f.c",
@@ -15770,10 +15770,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Cano",
+      "nome": "Vegetti",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 1.7
+      "clube": "VAS",
+      "pontos": 18.2
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -15784,10 +15784,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Vegetti",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 18.2
+      "clube": "FLU",
+      "pontos": 1.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -15840,17 +15840,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 2.8
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Thaciano",
       "posicao": "Meia",
       "clube": "SAN",
       "pontos": 0.0
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 2.8
     },
     {
       "time": "Paulo Virgili FC",
@@ -15889,17 +15889,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Guilherme Arana",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.5
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
       "nome": "Luciano Juba",
       "posicao": "Lateral",
       "clube": "BAH",
       "pontos": 5.2
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Guilherme Arana",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.5
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -15938,17 +15938,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Canobbio",
-      "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 1.6
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
       "nome": "Cano",
       "posicao": "Atacante",
       "clube": "FLU",
       "pontos": 1.7
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Canobbio",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 1.6
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -15973,17 +15973,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Luciano Juba",
-      "posicao": "Lateral",
-      "clube": "BAH",
-      "pontos": 5.2
-    },
-    {
-      "time": "Luis lemes inter",
       "nome": "Santiago Arias",
       "posicao": "Lateral",
       "clube": "BAH",
       "pontos": 1.2
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Luciano Juba",
+      "posicao": "Lateral",
+      "clube": "BAH",
+      "pontos": 5.2
     },
     {
       "time": "Luis lemes inter",
@@ -16057,17 +16057,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Samuel Xavier",
-      "posicao": "Lateral",
-      "clube": "FLU",
-      "pontos": 17.3
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 2.0
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 17.3
     },
     {
       "time": "emer jr fc",
@@ -16106,17 +16106,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Cano",
-      "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 1.7
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Vitinho",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 1.1
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Cano",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 1.7
     },
     {
       "time": "emer jr fc",
@@ -16155,17 +16155,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 3.0
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Junior Alonso",
       "posicao": "Zagueiro",
       "clube": "CAM",
       "pontos": 0.8
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 3.0
     },
     {
       "time": "Cril Futebol Club",
@@ -16190,17 +16190,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 5.5
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "Cril Futebol Club",
@@ -16260,17 +16260,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Raniele",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 2.4
-    },
-    {
-      "time": "ITAQUI F.C.",
       "nome": "Lucas Romero",
       "posicao": "Meia",
       "clube": "CRU",
       "pontos": 1.7
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Raniele",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 2.4
     },
     {
       "time": "ITAQUI F.C.",
@@ -16421,17 +16421,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 5.3
-    },
-    {
-      "time": "Lá do Itaqui",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 5.3
     },
     {
       "time": "Lá do Itaqui",
@@ -16442,17 +16442,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 14.4
-    },
-    {
-      "time": "Lá do Itaqui",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 14.4
     },
     {
       "time": "Lá do Itaqui",
@@ -16505,17 +16505,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Everton Ribeiro",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 0.9
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 2.8
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 0.9
     },
     {
       "time": "FC Los Castilho",
@@ -16533,17 +16533,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Rony",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.9
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Rony",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 6.9
     },
     {
       "time": "FC Los Castilho",
@@ -16561,13 +16561,6 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Natanael",
-      "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 2.0
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Andrés Hurtado",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -16575,10 +16568,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 3.0
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 2.0
     },
     {
       "time": "KillerColorado",
@@ -16586,6 +16579,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "BAH",
       "pontos": 0.5
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 3.0
     },
     {
       "time": "KillerColorado",
@@ -16659,6 +16659,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 0.8
+    },
+    {
+      "time": "Atlético Colorado 2021",
       "nome": "Kanu",
       "posicao": "Zagueiro",
       "clube": "BAH",
@@ -16666,10 +16673,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 0.8
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 5.3
     },
     {
       "time": "Atlético Colorado 2021",
@@ -16687,10 +16694,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 5.3
+      "nome": "Rony",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 6.9
     },
     {
       "time": "Atlético Colorado 2021",
@@ -16698,13 +16705,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "VAS",
       "pontos": 18.2
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Rony",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 6.9
     },
     {
       "time": "Atlético Colorado 2021",
@@ -16743,13 +16743,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
-    },
-    {
-      "time": "Time do S.A.P.O",
       "nome": "Vitor Hugo",
       "posicao": "Zagueiro",
       "clube": "CAM",
@@ -16757,10 +16750,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Jean Lucas",
-      "posicao": "Meia",
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
       "clube": "BAH",
-      "pontos": 5.3
+      "pontos": 1.5
     },
     {
       "time": "Time do S.A.P.O",
@@ -16771,6 +16764,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 5.3
+    },
+    {
+      "time": "Time do S.A.P.O",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
@@ -16778,10 +16778,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Hulk",
+      "nome": "Luciano",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
+      "clube": "SAO",
+      "pontos": 0.7
     },
     {
       "time": "Time do S.A.P.O",
@@ -16792,10 +16792,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Luciano",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 0.7
+      "clube": "CAM",
+      "pontos": 5.5
     },
     {
       "time": "Time do S.A.P.O",
@@ -16813,13 +16813,6 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.4
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -16827,10 +16820,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Kanu",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 1.5
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.4
     },
     {
       "time": "SISO FC25",
@@ -16841,10 +16834,24 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
+      "nome": "Kanu",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 1.5
+    },
+    {
+      "time": "SISO FC25",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 10.0
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 4.2
     },
     {
       "time": "SISO FC25",
@@ -16855,10 +16862,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Rubens",
-      "posicao": "Meia",
+      "nome": "Hulk",
+      "posicao": "Atacante",
       "clube": "CAM",
-      "pontos": 4.2
+      "pontos": 5.5
     },
     {
       "time": "SISO FC25",
@@ -16873,13 +16880,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 6.9
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 5.5
     },
     {
       "time": "SISO FC25",
@@ -17011,17 +17011,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Rubens",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 10.0
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "Texas Club 2025",
@@ -17067,17 +17067,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 12.0
-    },
-    {
-      "time": "Real SCI",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 7.1
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 12.0
     },
     {
       "time": "Real SCI",
@@ -17095,10 +17095,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Gerson",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 7.9
+      "pontos": 18.8
     },
     {
       "time": "Real SCI",
@@ -17109,10 +17109,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Arrascaeta",
+      "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 18.8
+      "pontos": 7.9
     },
     {
       "time": "Real SCI",
@@ -17165,6 +17165,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
+    },
+    {
+      "time": "Gig@ntte",
       "nome": "Jonathan Jesus",
       "posicao": "Zagueiro",
       "clube": "CRU",
@@ -17172,10 +17179,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Matheus Pereira",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 4.4
     },
     {
       "time": "Gig@ntte",
@@ -17193,13 +17200,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 4.4
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "Everton",
       "posicao": "Atacante",
       "clube": "FLA",
@@ -17207,17 +17207,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "Gig@ntte",
@@ -17284,17 +17284,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "PraiaBravaFC",
       "nome": "Enner Valencia",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 3.9
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "PraiaBravaFC",
@@ -17319,6 +17319,13 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
+      "nome": "Lucas Halter",
+      "posicao": "Zagueiro",
+      "clube": "VIT",
+      "pontos": 1.5
+    },
+    {
+      "time": "OlhaEleAiF.C!",
       "nome": "Gustavo Henrique",
       "posicao": "Zagueiro",
       "clube": "COR",
@@ -17333,24 +17340,10 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Lucas Halter",
-      "posicao": "Zagueiro",
-      "clube": "VIT",
-      "pontos": 1.5
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Arrascaeta",
+      "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 19.3
+      "pontos": 7.9
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -17361,10 +17354,17 @@ const escalacoesGerais = {
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Gerson",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 19.3
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 7.9
+      "pontos": 18.8
     },
     {
       "time": "OlhaEleAiF.C!",
@@ -17431,17 +17431,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "Gremiomaniasm",
       "nome": "Matheuzinho",
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 18.1
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "Gremiomaniasm",
@@ -17452,17 +17452,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Everton",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 2.3
-    },
-    {
-      "time": "Gremiomaniasm",
       "nome": "Memphis Depay",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 2.7
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.3
     },
     {
       "time": "Gremiomaniasm",
@@ -17536,10 +17536,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Igor Jesus",
+      "nome": "Everton",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
+      "clube": "FLA",
+      "pontos": 2.3
     },
     {
       "time": "Sport Clube PAIM",
@@ -17550,10 +17550,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Everton",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 2.3
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "Sport Clube PAIM",
@@ -17585,13 +17585,6 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Jonathan Jesus",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 0.0
-    },
-    {
-      "time": "PUXE FC",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -17599,10 +17592,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
+      "nome": "Jonathan Jesus",
+      "posicao": "Zagueiro",
       "clube": "CRU",
-      "pontos": 4.4
+      "pontos": 0.0
     },
     {
       "time": "PUXE FC",
@@ -17610,6 +17603,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 18.8
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Matheus Pereira",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 4.4
     },
     {
       "time": "PUXE FC",
@@ -17627,17 +17627,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Everton",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 2.3
-    },
-    {
-      "time": "PUXE FC",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.3
     },
     {
       "time": "PUXE FC",
@@ -17669,16 +17669,16 @@ const escalacoesGerais = {
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Jair",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "BOT",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Léo Ortiz",
+      "nome": "Jair",
       "posicao": "Zagueiro",
-      "clube": "FLA",
+      "clube": "BOT",
       "pontos": 0.0
     },
     {
@@ -17739,17 +17739,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Andrés Hurtado",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 12.5
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.5
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Andrés Hurtado",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 12.5
     },
     {
       "time": "ZIVI FC",
@@ -17767,17 +17767,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 7.9
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Marlon Freitas",
       "posicao": "Meia",
       "clube": "BOT",
       "pontos": 1.2
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 7.9
     },
     {
       "time": "ZIVI FC",
@@ -17837,13 +17837,6 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
       "nome": "Jair",
       "posicao": "Zagueiro",
       "clube": "BOT",
@@ -17851,17 +17844,10 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Gerson",
-      "posicao": "Meia",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 7.9
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
-      "nome": "Neymar",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 0.5
+      "pontos": 0.0
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -17872,10 +17858,24 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Yuri Alberto",
+      "nome": "Neymar",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 0.5
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 7.9
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -17886,10 +17886,10 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Igor Jesus",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -17907,17 +17907,17 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Kaiki Bruno",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 7.9
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "William",
       "posicao": "Lateral",
       "clube": "CRU",
       "pontos": 9.7
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Kaiki Bruno",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 7.9
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -17935,17 +17935,17 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "Emiliano Martínez",
       "posicao": "Meia",
       "clube": "PAL",
       "pontos": 2.0
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -18005,13 +18005,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 0.0
-    },
-    {
-      "time": "Rolo Compressor ZN",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -18019,10 +18012,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Savarino",
-      "posicao": "Meia",
+      "nome": "Jair",
+      "posicao": "Zagueiro",
       "clube": "BOT",
-      "pontos": 19.3
+      "pontos": 0.0
     },
     {
       "time": "Rolo Compressor ZN",
@@ -18030,6 +18023,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "CRU",
       "pontos": 4.4
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 19.3
     },
     {
       "time": "Rolo Compressor ZN",
@@ -18075,17 +18075,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Matheuzinho",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 4.7
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
       "pontos": 10.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 4.7
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -18103,17 +18103,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
       "nome": "Matheuzinho",
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 18.1
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -18131,17 +18131,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 13.0
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -18187,13 +18187,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Erick Pulgar",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 8.7
-    },
-    {
-      "time": "Eleis-Itaqui",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -18201,10 +18194,24 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
+      "nome": "Erick Pulgar",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 8.7
+    },
+    {
+      "time": "Eleis-Itaqui",
       "nome": "Allan",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": -0.6
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "Eleis-Itaqui",
@@ -18219,13 +18226,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 2.3
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
     },
     {
       "time": "Eleis-Itaqui",
@@ -18257,16 +18257,16 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Léo Ortiz",
+      "nome": "Jonathan Jesus",
       "posicao": "Zagueiro",
-      "clube": "FLA",
+      "clube": "CRU",
       "pontos": 0.0
     },
     {
       "time": "KING LEONN",
-      "nome": "Jonathan Jesus",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "CRU",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
@@ -18278,13 +18278,6 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 9.0
-    },
-    {
-      "time": "KING LEONN",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -18292,10 +18285,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "nome": "Danielzinho",
+      "posicao": "Meia",
+      "clube": "MIR",
+      "pontos": 9.0
     },
     {
       "time": "KING LEONN",
@@ -18303,6 +18296,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 2.7
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "KING LEONN",
@@ -18327,17 +18327,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 7.1
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 5.8
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 7.1
     },
     {
       "time": "Laranjja Mecannica",
@@ -18355,13 +18355,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 4.4
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -18376,10 +18369,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
+      "nome": "Matheus Pereira",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 4.4
     },
     {
       "time": "Laranjja Mecannica",
@@ -18394,6 +18387,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "Laranjja Mecannica",
@@ -18460,10 +18460,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Igor Jesus",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
+      "clube": "COR",
+      "pontos": 2.7
     },
     {
       "time": "Fedato Futebol Clube",
@@ -18474,10 +18474,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Memphis Depay",
+      "nome": "Igor Jesus",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 2.7
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "Fedato Futebol Clube",
@@ -18509,17 +18509,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Jemerson",
-      "posicao": "Zagueiro",
-      "clube": "GRE",
-      "pontos": 7.2
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Vitão",
       "posicao": "Zagueiro",
       "clube": "INT",
       "pontos": 0.0
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Jemerson",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 7.2
     },
     {
       "time": "Perronee F.C",
@@ -18544,13 +18544,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Enner Valencia",
       "posicao": "Atacante",
       "clube": "INT",
@@ -18562,6 +18555,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 2.3
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "Perronee F.C",
@@ -18607,10 +18607,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Gerson",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 7.9
+      "pontos": 18.8
     },
     {
       "time": "Pity10",
@@ -18621,10 +18621,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Arrascaeta",
+      "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 18.8
+      "pontos": 7.9
+    },
+    {
+      "time": "Pity10",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "Pity10",
@@ -18639,13 +18646,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 13.0
-    },
-    {
-      "time": "Pity10",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
     },
     {
       "time": "Pity10",
@@ -18691,10 +18691,10 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Gerson",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 7.9
+      "pontos": 18.8
     },
     {
       "time": "pra sempre imortal fc",
@@ -18705,10 +18705,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Arrascaeta",
+      "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 18.8
+      "pontos": 7.9
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "pra sempre imortal fc",
@@ -18726,13 +18733,6 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "pra sempre imortal fc",
       "nome": "Thiago Carpini",
       "posicao": "Técnico",
       "clube": "VIT",
@@ -18747,17 +18747,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 15.5
-    },
-    {
-      "time": "RHANKA DENTY FC25",
       "nome": "Cuiabano",
       "posicao": "Lateral",
       "clube": "BOT",
       "pontos": 3.2
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 15.5
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -18796,10 +18796,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Guilherme",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
+      "clube": "COR",
+      "pontos": 2.7
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -18810,10 +18810,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Memphis Depay",
+      "nome": "Guilherme",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 2.7
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -18831,17 +18831,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 15.5
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
       "pontos": 10.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 15.5
     },
     {
       "time": "TEAM LOPES 99",
@@ -18880,17 +18880,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 13.0
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "TEAM LOPES 99",
@@ -18999,17 +18999,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 15.5
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 5.8
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 15.5
     },
     {
       "time": "cartola scheuer",
@@ -19027,13 +19027,6 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Rubens",
       "posicao": "Meia",
       "clube": "CAM",
@@ -19048,10 +19041,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "cartola scheuer",
@@ -19059,6 +19052,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 5.5
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "cartola scheuer",
@@ -19097,16 +19097,16 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Léo Ortiz",
+      "nome": "Jonathan Jesus",
       "posicao": "Zagueiro",
-      "clube": "FLA",
+      "clube": "CRU",
       "pontos": 0.0
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Jonathan Jesus",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "CRU",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
@@ -19132,17 +19132,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Everton",
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 2.3
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -19167,17 +19167,17 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 20.2
-    },
-    {
-      "time": "DM Studio",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
       "pontos": 10.7
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 20.2
     },
     {
       "time": "DM Studio",
@@ -19195,10 +19195,10 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Gerson",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 7.9
+      "pontos": 18.8
     },
     {
       "time": "DM Studio",
@@ -19209,10 +19209,17 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Arrascaeta",
+      "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 18.8
+      "pontos": 7.9
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "DM Studio",
@@ -19227,13 +19234,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 2.7
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
     },
     {
       "time": "DM Studio",
@@ -19279,17 +19279,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 18.1
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 18.8
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 18.1
     },
     {
       "time": "lsauer fc",
@@ -19300,17 +19300,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "lsauer fc",
@@ -19335,13 +19335,6 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Cuiabano",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 3.2
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Matheuzinho",
       "posicao": "Lateral",
       "clube": "COR",
@@ -19349,10 +19342,10 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 3.4
+      "nome": "Cuiabano",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 3.2
     },
     {
       "time": "VASCO MARTINS FC",
@@ -19363,10 +19356,10 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 4.4
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 3.4
     },
     {
       "time": "VASCO MARTINS FC",
@@ -19374,6 +19367,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 18.8
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Matheus Pereira",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 4.4
     },
     {
       "time": "VASCO MARTINS FC",
@@ -19454,13 +19454,6 @@ const escalacoesGerais = {
     },
     {
       "time": "KP JUV.",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 5.5
-    },
-    {
-      "time": "KP JUV.",
       "nome": "Matheus Pereira",
       "posicao": "Meia",
       "clube": "CRU",
@@ -19468,10 +19461,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KP JUV.",
-      "nome": "Everton",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.5
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 2.3
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "KP JUV.",
@@ -19482,10 +19482,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KP JUV.",
-      "nome": "Yuri Alberto",
+      "nome": "Everton",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "clube": "FLA",
+      "pontos": 2.3
     },
     {
       "time": "KP JUV.",
@@ -19517,13 +19517,6 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Villalba",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 11.0
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -19531,10 +19524,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Gerson",
+      "nome": "Villalba",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 11.0
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Rubens",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 7.9
+      "clube": "CAM",
+      "pontos": 10.0
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -19545,10 +19545,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Rubens",
+      "nome": "Gerson",
       "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 10.0
+      "clube": "FLA",
+      "pontos": 7.9
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -19622,6 +19622,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 11.8
+    },
+    {
+      "time": "Profit Soccer",
       "nome": "Neymar",
       "posicao": "Meia",
       "clube": "SAN",
@@ -19629,10 +19636,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 11.8
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.3
     },
     {
       "time": "Profit Soccer",
@@ -19647,13 +19654,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 5.5
-    },
-    {
-      "time": "Profit Soccer",
-      "nome": "Everton",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 2.3
     },
     {
       "time": "Profit Soccer",
@@ -19699,13 +19699,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Gabriel",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 1.0
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -19720,6 +19713,20 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
+      "nome": "Gabriel",
+      "posicao": "Meia",
+      "clube": "MIR",
+      "pontos": 1.0
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
       "nome": "Everton",
       "posicao": "Atacante",
       "clube": "FLA",
@@ -19731,13 +19738,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 13.0
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -19804,17 +19804,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 5.5
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "TIGRE LEON",
@@ -19839,17 +19839,17 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 7.1
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Kaiki Bruno",
       "posicao": "Lateral",
       "clube": "CRU",
       "pontos": 7.9
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 7.1
     },
     {
       "time": "S.E.R. GRILLO",
@@ -19867,6 +19867,13 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 19.3
+    },
+    {
+      "time": "S.E.R. GRILLO",
       "nome": "Carrillo",
       "posicao": "Meia",
       "clube": "COR",
@@ -19881,17 +19888,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 19.3
-    },
-    {
-      "time": "S.E.R. GRILLO",
-      "nome": "Dudu",
+      "nome": "Tiquinho Soares",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 0.0
+      "clube": "SAN",
+      "pontos": 2.1
     },
     {
       "time": "S.E.R. GRILLO",
@@ -19902,10 +19902,10 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Tiquinho Soares",
+      "nome": "Dudu",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 2.1
+      "clube": "CRU",
+      "pontos": 0.0
     },
     {
       "time": "S.E.R. GRILLO",
@@ -19923,17 +19923,17 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 20.2
-    },
-    {
-      "time": "seralex",
       "nome": "William",
       "posicao": "Lateral",
       "clube": "CRU",
       "pontos": 9.7
+    },
+    {
+      "time": "seralex",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 20.2
     },
     {
       "time": "seralex",
@@ -19951,6 +19951,13 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
+      "nome": "Emmanuel Martínez",
+      "posicao": "Meia",
+      "clube": "FOR",
+      "pontos": 1.3
+    },
+    {
+      "time": "seralex",
       "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
@@ -19965,17 +19972,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Emmanuel Martínez",
-      "posicao": "Meia",
-      "clube": "FOR",
-      "pontos": 1.3
-    },
-    {
-      "time": "seralex",
-      "nome": "Guilherme",
+      "nome": "Artur",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
+      "clube": "BOT",
+      "pontos": 5.7
     },
     {
       "time": "seralex",
@@ -19986,10 +19986,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Artur",
+      "nome": "Guilherme",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 5.7
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "seralex",
@@ -20105,6 +20105,13 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
+      "nome": "Jair",
+      "posicao": "Zagueiro",
+      "clube": "BOT",
+      "pontos": 0.0
+    },
+    {
+      "time": "MAFRA MARTINS FC",
       "nome": "Félix Torres",
       "posicao": "Zagueiro",
       "clube": "COR",
@@ -20112,10 +20119,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 0.0
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 18.1
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -20133,17 +20140,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 18.1
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Guilherme",
+      "nome": "Cristian",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
+      "clube": "MIR",
+      "pontos": 1.0
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -20154,10 +20154,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Cristian",
+      "nome": "Guilherme",
       "posicao": "Atacante",
-      "clube": "MIR",
-      "pontos": 1.0
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -20189,13 +20189,6 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Rogel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 2.1
-    },
-    {
-      "time": "BordonFC",
       "nome": "Jair",
       "posicao": "Zagueiro",
       "clube": "BOT",
@@ -20203,10 +20196,10 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 9.0
+      "nome": "Rogel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 2.1
     },
     {
       "time": "BordonFC",
@@ -20214,6 +20207,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 18.8
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Danielzinho",
+      "posicao": "Meia",
+      "clube": "MIR",
+      "pontos": 9.0
     },
     {
       "time": "BordonFC",
@@ -20259,17 +20259,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "William",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 9.7
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Matheuzinho",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 4.7
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "William",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 9.7
     },
     {
       "time": "Tatols Beants F.C",
@@ -20315,17 +20315,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Everton",
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 2.3
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "Tatols Beants F.C",
@@ -20343,6 +20343,13 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
+      "nome": "Kaiki Bruno",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 7.9
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
@@ -20350,10 +20357,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Kaiki Bruno",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 7.9
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -20364,10 +20371,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.5
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -20385,10 +20392,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 5.5
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -20403,13 +20410,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 5.5
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -20427,13 +20427,6 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 20.2
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
@@ -20441,10 +20434,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 20.2
     },
     {
       "time": "MauHumor F.C.",
@@ -20455,10 +20448,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Lucas Lima",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "SPT",
-      "pontos": 5.5
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "MauHumor F.C.",
@@ -20469,10 +20469,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Arrascaeta",
+      "nome": "Lucas Lima",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
+      "clube": "SPT",
+      "pontos": 5.5
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "MauHumor F.C.",
@@ -20490,13 +20497,6 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Filipe Luís",
       "posicao": "Técnico",
       "clube": "FLA",
@@ -20511,13 +20511,6 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 15.5
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Matheuzinho",
       "posicao": "Lateral",
       "clube": "COR",
@@ -20525,16 +20518,23 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
+      "nome": "Wesley",
+      "posicao": "Lateral",
       "clube": "FLA",
-      "pontos": 0.0
+      "pontos": 15.5
     },
     {
       "time": "A Lenda Super Vascão f.c",
       "nome": "Jair",
       "posicao": "Zagueiro",
       "clube": "BOT",
+      "pontos": 0.0
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
@@ -20560,17 +20560,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 13.0
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -20609,16 +20609,16 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Jonathan Jesus",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "CRU",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
       "time": "TATITTA FC",
-      "nome": "Léo Ortiz",
+      "nome": "Jonathan Jesus",
       "posicao": "Zagueiro",
-      "clube": "FLA",
+      "clube": "CRU",
       "pontos": 0.0
     },
     {
@@ -20630,6 +20630,13 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
+      "nome": "Danielzinho",
+      "posicao": "Meia",
+      "clube": "MIR",
+      "pontos": 9.0
+    },
+    {
+      "time": "TATITTA FC",
       "nome": "Neymar",
       "posicao": "Meia",
       "clube": "SAN",
@@ -20637,10 +20644,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 9.0
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "TATITTA FC",
@@ -20658,13 +20665,6 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Leonardo Jardim",
       "posicao": "Técnico",
       "clube": "CRU",
@@ -20679,13 +20679,6 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Matheuzinho",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 4.7
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
@@ -20693,16 +20686,23 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 4.7
     },
     {
       "time": "HS SPORTS F.C",
       "nome": "Jair",
       "posicao": "Zagueiro",
       "clube": "BOT",
+      "pontos": 0.0
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
@@ -20714,17 +20714,17 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 19.3
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 7.9
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 19.3
     },
     {
       "time": "HS SPORTS F.C",
@@ -20735,17 +20735,17 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 5.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "HS SPORTS F.C",
@@ -20763,13 +20763,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Renê",
-      "posicao": "Lateral",
-      "clube": "FLU",
-      "pontos": 20.5
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -20777,10 +20770,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Gustavo Gómez",
-      "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": 3.7
+      "nome": "Renê",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 20.5
     },
     {
       "time": "Dom Camillo68",
@@ -20791,10 +20784,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 7.9
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 3.7
     },
     {
       "time": "Dom Camillo68",
@@ -20812,6 +20805,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 7.9
+    },
+    {
+      "time": "Dom Camillo68",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
@@ -20819,17 +20819,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Memphis Depay",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 2.7
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "Dom Camillo68",
@@ -20861,17 +20861,17 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "André Ramalho",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 0.0
-    },
-    {
-      "time": "mercearia Estrela",
       "nome": "Kuscevic",
       "posicao": "Zagueiro",
       "clube": "FOR",
       "pontos": 1.5
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "André Ramalho",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 0.0
     },
     {
       "time": "mercearia Estrela",
@@ -20931,17 +20931,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Kaiki Bruno",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 7.9
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 5.8
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Kaiki Bruno",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 7.9
     },
     {
       "time": "CosmoCity ZO",
@@ -20959,17 +20959,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Matheuzinho",
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 18.1
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
     },
     {
       "time": "CosmoCity ZO",
@@ -20987,17 +20987,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Everton",
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 2.3
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "CosmoCity ZO",
@@ -21015,13 +21015,6 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Luciano Juba",
-      "posicao": "Lateral",
-      "clube": "BAH",
-      "pontos": 4.2
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "João Pedro",
       "posicao": "Lateral",
       "clube": "GRE",
@@ -21029,10 +21022,10 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "David Luiz",
-      "posicao": "Zagueiro",
-      "clube": "FOR",
-      "pontos": 2.3
+      "nome": "Luciano Juba",
+      "posicao": "Lateral",
+      "clube": "BAH",
+      "pontos": 4.2
     },
     {
       "time": "clarinvalau fc",
@@ -21043,17 +21036,10 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 7.9
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Erick Pulgar",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 8.7
+      "nome": "David Luiz",
+      "posicao": "Zagueiro",
+      "clube": "FOR",
+      "pontos": 2.3
     },
     {
       "time": "clarinvalau fc",
@@ -21064,9 +21050,23 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Erick Pulga",
+      "nome": "Erick Pulgar",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 8.7
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 7.9
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Tiquinho Soares",
       "posicao": "Atacante",
-      "clube": "BAH",
+      "clube": "SAN",
       "pontos": 2.1
     },
     {
@@ -21078,9 +21078,9 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Tiquinho Soares",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "SAN",
+      "clube": "BAH",
       "pontos": 2.1
     },
     {
@@ -21099,13 +21099,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 15.5
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
@@ -21113,10 +21106,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Jemerson",
-      "posicao": "Zagueiro",
-      "clube": "GRE",
-      "pontos": 7.2
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 15.5
     },
     {
       "time": "Grêmio imortal 37",
@@ -21127,10 +21120,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Gerson",
+      "nome": "Jemerson",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 7.2
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 7.9
+      "pontos": 18.8
     },
     {
       "time": "Grêmio imortal 37",
@@ -21141,10 +21141,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Arrascaeta",
+      "nome": "Gerson",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 18.8
+      "pontos": 7.9
     },
     {
       "time": "Grêmio imortal 37",
@@ -21183,13 +21183,6 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Matheuzinho",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 4.7
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -21197,10 +21190,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 0.0
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 4.7
     },
     {
       "time": "SERGRILLO",
@@ -21208,6 +21201,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "BOT",
       "pontos": 5.5
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 0.0
     },
     {
       "time": "SERGRILLO",
@@ -21232,10 +21232,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Tiquinho Soares",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 2.1
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "SERGRILLO",
@@ -21246,10 +21246,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Yuri Alberto",
+      "nome": "Tiquinho Soares",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "clube": "SAN",
+      "pontos": 2.1
     },
     {
       "time": "SERGRILLO",
@@ -21407,17 +21407,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -21449,17 +21449,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Lucas Halter",
-      "posicao": "Zagueiro",
-      "clube": "VIT",
-      "pontos": 1.5
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
       "clube": "GRE",
       "pontos": 3.9
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Lucas Halter",
+      "posicao": "Zagueiro",
+      "clube": "VIT",
+      "pontos": 1.5
     },
     {
       "time": "Paulo Virgili FC",
@@ -21519,13 +21519,6 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Cuiabano",
-      "posicao": "Lateral",
-      "clube": "BOT",
-      "pontos": 3.2
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
       "nome": "Reinaldo",
       "posicao": "Lateral",
       "clube": "MIR",
@@ -21533,10 +21526,10 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
+      "nome": "Cuiabano",
+      "posicao": "Lateral",
       "clube": "BOT",
-      "pontos": 0.0
+      "pontos": 3.2
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -21547,17 +21540,10 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 18.8
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
-      "nome": "Savarino",
-      "posicao": "Meia",
+      "nome": "Jair",
+      "posicao": "Zagueiro",
       "clube": "BOT",
-      "pontos": 19.3
+      "pontos": 0.0
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -21568,10 +21554,24 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Artur",
-      "posicao": "Atacante",
+      "nome": "Savarino",
+      "posicao": "Meia",
       "clube": "BOT",
-      "pontos": 5.7
+      "pontos": 19.3
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 18.8
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Ángel Romero",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -21582,10 +21582,10 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Ángel Romero",
+      "nome": "Artur",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "clube": "BOT",
+      "pontos": 5.7
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -21617,13 +21617,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Lucas Halter",
-      "posicao": "Zagueiro",
-      "clube": "VIT",
-      "pontos": 1.5
-    },
-    {
-      "time": "Luis lemes inter",
       "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
       "clube": "GRE",
@@ -21631,17 +21624,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
+      "nome": "Lucas Halter",
+      "posicao": "Zagueiro",
       "clube": "VIT",
-      "pontos": 18.1
-    },
-    {
-      "time": "Luis lemes inter",
-      "nome": "Lucas Lima",
-      "posicao": "Meia",
-      "clube": "SPT",
-      "pontos": 5.5
+      "pontos": 1.5
     },
     {
       "time": "Luis lemes inter",
@@ -21652,10 +21638,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Eduardo Sasha",
-      "posicao": "Atacante",
-      "clube": "RBB",
-      "pontos": 5.0
+      "nome": "Lucas Lima",
+      "posicao": "Meia",
+      "clube": "SPT",
+      "pontos": 5.5
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 18.1
     },
     {
       "time": "Luis lemes inter",
@@ -21663,6 +21656,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 0.0
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 5.0
     },
     {
       "time": "Luis lemes inter",
@@ -21715,13 +21715,6 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Everton Ribeiro",
-      "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 4.0
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -21736,6 +21729,13 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 4.0
+    },
+    {
+      "time": "emer jr fc",
       "nome": "Amuzu",
       "posicao": "Atacante",
       "clube": "GRE",
@@ -21743,17 +21743,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 2.1
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Everton",
       "posicao": "Atacante",
       "clube": "FLA",
       "pontos": 2.3
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 2.1
     },
     {
       "time": "emer jr fc",
@@ -21771,17 +21771,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Kaiki Bruno",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 7.9
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
       "pontos": 15.5
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Kaiki Bruno",
+      "posicao": "Lateral",
+      "clube": "CRU",
+      "pontos": 7.9
     },
     {
       "time": "Cril Futebol Club",
@@ -21855,17 +21855,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Enzo Díaz",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 1.5
-    },
-    {
-      "time": "ITAQUI F.C.",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 1.2
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Enzo Díaz",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 1.5
     },
     {
       "time": "ITAQUI F.C.",
@@ -21883,13 +21883,6 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Alisson",
-      "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 1.6
-    },
-    {
-      "time": "ITAQUI F.C.",
       "nome": "Lucas Romero",
       "posicao": "Meia",
       "clube": "CRU",
@@ -21904,10 +21897,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Calleri",
-      "posicao": "Atacante",
+      "nome": "Alisson",
+      "posicao": "Meia",
       "clube": "SAO",
-      "pontos": 3.7
+      "pontos": 1.6
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "ITAQUI F.C.",
@@ -21918,10 +21918,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Yuri Alberto",
+      "nome": "Calleri",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "clube": "SAO",
+      "pontos": 3.7
     },
     {
       "time": "ITAQUI F.C.",
@@ -21988,17 +21988,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 2.7
-    },
-    {
-      "time": "TORRESMO COM PINGA",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 2.7
     },
     {
       "time": "TORRESMO COM PINGA",
@@ -22037,16 +22037,16 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Jair",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "BOT",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Léo Ortiz",
+      "nome": "Jair",
       "posicao": "Zagueiro",
-      "clube": "FLA",
+      "clube": "BOT",
       "pontos": 0.0
     },
     {
@@ -22069,6 +22069,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 7.9
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 13.0
     },
     {
       "time": "Lá do Itaqui",
@@ -22086,13 +22093,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.0
-    },
-    {
-      "time": "Lá do Itaqui",
       "nome": "Renato Paiva",
       "posicao": "Técnico",
       "clube": "BOT",
@@ -22107,17 +22107,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Angileri",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 5.8
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.5
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Angileri",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 5.8
     },
     {
       "time": "FC Los Castilho",
@@ -22156,10 +22156,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Yuri Alberto",
+      "nome": "Enner Valencia",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 3.5
+      "clube": "INT",
+      "pontos": 3.9
     },
     {
       "time": "FC Los Castilho",
@@ -22170,10 +22170,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Enner Valencia",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 3.9
+      "clube": "COR",
+      "pontos": 3.5
     },
     {
       "time": "FC Los Castilho",
@@ -22226,17 +22226,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 5.5
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Matheuzinho",
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 18.1
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.5
     },
     {
       "time": "KillerColorado",
@@ -22275,13 +22275,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 20.2
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
@@ -22289,10 +22282,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Jemerson",
-      "posicao": "Zagueiro",
-      "clube": "GRE",
-      "pontos": 7.2
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 20.2
     },
     {
       "time": "Atlético Colorado 2021",
@@ -22303,10 +22296,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 19.3
+      "nome": "Jemerson",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 7.2
     },
     {
       "time": "Atlético Colorado 2021",
@@ -22324,6 +22317,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 19.3
+    },
+    {
+      "time": "Atlético Colorado 2021",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
@@ -22331,17 +22331,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Lucero",
-      "posicao": "Atacante",
-      "clube": "FOR",
-      "pontos": 1.1
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "Igor Jesus",
       "posicao": "Atacante",
       "clube": "BOT",
       "pontos": 13.0
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Lucero",
+      "posicao": "Atacante",
+      "clube": "FOR",
+      "pontos": 1.1
     },
     {
       "time": "Atlético Colorado 2021",
@@ -22408,10 +22408,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Guilherme",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 5.5
+      "clube": "COR",
+      "pontos": 2.7
     },
     {
       "time": "Time do S.A.P.O",
@@ -22422,10 +22422,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Memphis Depay",
+      "nome": "Guilherme",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 2.7
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "Time do S.A.P.O",
@@ -22443,17 +22443,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 15.5
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Cuiabano",
       "posicao": "Lateral",
       "clube": "BOT",
       "pontos": 3.2
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 15.5
     },
     {
       "time": "SISO FC25",
@@ -22499,17 +22499,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 2.7
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 3.5
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 2.7
     },
     {
       "time": "SISO FC25",
@@ -22557,10 +22557,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Alan Patrick",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
+      "clube": "FLA",
+      "pontos": 1.2
     },
     {
       "time": "FBC Colorado",
@@ -22571,10 +22571,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Arrascaeta",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 1.2
+      "clube": "INT",
+      "pontos": 8.2
     },
     {
       "time": "FBC Colorado",
@@ -22585,17 +22585,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Ferreira",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 12.4
-    },
-    {
-      "time": "FBC Colorado",
       "nome": "Cano",
       "posicao": "Atacante",
       "clube": "FLU",
       "pontos": 11.5
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Ferreira",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 12.4
     },
     {
       "time": "FBC Colorado",
@@ -22753,17 +22753,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 1.5
-    },
-    {
-      "time": "Real SCI",
       "nome": "Memphis Depay",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 21.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Enner Valencia",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 1.5
     },
     {
       "time": "Real SCI",
@@ -22781,17 +22781,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Ayrton Lucas",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 9.7
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 6.5
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Ayrton Lucas",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 9.7
     },
     {
       "time": "Gig@ntte",
@@ -22914,17 +22914,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 5.3
-    },
-    {
-      "time": "PraiaBravaFC",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 5.3
     },
     {
       "time": "PraiaBravaFC",
@@ -23033,13 +23033,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Diego",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 6.2
-    },
-    {
-      "time": "Gremiomaniasm",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -23047,10 +23040,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 2.3
+      "nome": "Diego",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 6.2
     },
     {
       "time": "Gremiomaniasm",
@@ -23061,10 +23054,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.0
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 2.3
     },
     {
       "time": "Gremiomaniasm",
@@ -23072,6 +23065,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 5.8
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 3.0
     },
     {
       "time": "Gremiomaniasm",
@@ -23117,13 +23117,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Ayrton Lucas",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 9.7
-    },
-    {
-      "time": "Sport Clube PAIM",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -23131,10 +23124,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Freytes",
-      "posicao": "Zagueiro",
-      "clube": "FLU",
-      "pontos": 1.9
+      "nome": "Ayrton Lucas",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 9.7
     },
     {
       "time": "Sport Clube PAIM",
@@ -23145,17 +23138,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.0
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 1.9
     },
     {
       "time": "Sport Clube PAIM",
@@ -23166,10 +23152,24 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Memphis Depay",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 3.0
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 8.2
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
+      "clube": "FLU",
+      "pontos": 11.5
     },
     {
       "time": "Sport Clube PAIM",
@@ -23180,10 +23180,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Cano",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 11.5
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "Sport Clube PAIM",
@@ -23215,6 +23215,13 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 2.3
+    },
+    {
+      "time": "PUXE FC",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -23222,10 +23229,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 2.3
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 8.2
     },
     {
       "time": "PUXE FC",
@@ -23243,17 +23250,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
-    },
-    {
-      "time": "PUXE FC",
-      "nome": "Cano",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 11.5
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "PUXE FC",
@@ -23264,10 +23264,10 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Yuri Alberto",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
+      "clube": "FLU",
+      "pontos": 11.5
     },
     {
       "time": "PUXE FC",
@@ -23299,17 +23299,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": -1.3
-    },
-    {
-      "time": "RS Expressões da Arte",
       "nome": "Gustavo Henrique",
       "posicao": "Zagueiro",
       "clube": "COR",
       "pontos": 3.8
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": -1.3
     },
     {
       "time": "RS Expressões da Arte",
@@ -23369,13 +23369,6 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Andrés Hurtado",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.3
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Aguirre",
       "posicao": "Lateral",
       "clube": "INT",
@@ -23383,10 +23376,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Danilo",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Andrés Hurtado",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.3
     },
     {
       "time": "ZIVI FC",
@@ -23397,10 +23390,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Marlon Freitas",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 2.2
+      "nome": "Danilo",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.0
     },
     {
       "time": "ZIVI FC",
@@ -23408,6 +23401,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 3.0
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Marlon Freitas",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 2.2
     },
     {
       "time": "ZIVI FC",
@@ -23453,17 +23453,17 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Léo Maná",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 2.6
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 6.5
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Léo Maná",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 2.6
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -23509,17 +23509,17 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -23670,17 +23670,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Ferreira",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 12.4
-    },
-    {
-      "time": "Rolo Compressor ZN",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 5.3
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Ferreira",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 12.4
     },
     {
       "time": "Rolo Compressor ZN",
@@ -23873,17 +23873,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "KING LEONN",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 6.5
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.0
     },
     {
       "time": "KING LEONN",
@@ -23901,10 +23901,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Jean Lucas",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "BAH",
-      "pontos": 0.0
+      "clube": "FLA",
+      "pontos": 1.2
     },
     {
       "time": "KING LEONN",
@@ -23915,10 +23915,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KING LEONN",
-      "nome": "Arrascaeta",
+      "nome": "Jean Lucas",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 1.2
+      "clube": "BAH",
+      "pontos": 0.0
     },
     {
       "time": "KING LEONN",
@@ -23957,13 +23957,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Ayrton Lucas",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 9.7
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -23971,10 +23964,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "David Duarte",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 4.4
+      "nome": "Ayrton Lucas",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 9.7
     },
     {
       "time": "Laranjja Mecannica",
@@ -23985,10 +23978,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
+      "nome": "David Duarte",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 4.4
     },
     {
       "time": "Laranjja Mecannica",
@@ -23999,10 +23992,24 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 8.2
+    },
+    {
+      "time": "Laranjja Mecannica",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 5.8
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 3.3
     },
     {
       "time": "Laranjja Mecannica",
@@ -24017,13 +24024,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 3.3
     },
     {
       "time": "Laranjja Mecannica",
@@ -24125,17 +24125,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Samuel Xavier",
       "posicao": "Lateral",
       "clube": "FLU",
       "pontos": 0.2
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.0
     },
     {
       "time": "Perronee F.C",
@@ -24265,17 +24265,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Pity10",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
-    },
-    {
-      "time": "Pity10",
       "nome": "Ferreira",
       "posicao": "Atacante",
       "clube": "SAO",
       "pontos": 12.4
+    },
+    {
+      "time": "Pity10",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "Pity10",
@@ -24293,17 +24293,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pra sempre imortal fc",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "pra sempre imortal fc",
       "nome": "Ayrton Lucas",
       "posicao": "Lateral",
       "clube": "FLA",
       "pontos": 9.7
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.0
     },
     {
       "time": "pra sempre imortal fc",
@@ -24377,17 +24377,17 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "RHANKA DENTY FC25",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 1.2
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.0
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -24461,13 +24461,6 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Ayrton Lucas",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 9.7
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Léo Maná",
       "posicao": "Lateral",
       "clube": "COR",
@@ -24475,10 +24468,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 2.3
+      "nome": "Ayrton Lucas",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 9.7
     },
     {
       "time": "TEAM LOPES 99",
@@ -24489,10 +24482,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.0
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 2.3
     },
     {
       "time": "TEAM LOPES 99",
@@ -24500,6 +24493,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 1.2
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 3.0
     },
     {
       "time": "TEAM LOPES 99",
@@ -24629,17 +24629,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Angileri",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 1.2
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Léo Maná",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 2.6
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Angileri",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 1.2
     },
     {
       "time": "cartola scheuer",
@@ -24748,17 +24748,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Jadson",
       "posicao": "Meia",
       "clube": "JUV",
       "pontos": 10.4
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -24811,13 +24811,6 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 5.2
-    },
-    {
-      "time": "DM Studio",
       "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
       "clube": "RBB",
@@ -24825,17 +24818,10 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 1.2
+      "pontos": 5.2
     },
     {
       "time": "DM Studio",
@@ -24846,10 +24832,17 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Erick Pulga",
-      "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 3.3
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
     },
     {
       "time": "DM Studio",
@@ -24857,6 +24850,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 3.3
     },
     {
       "time": "DM Studio",
@@ -24881,17 +24881,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 6.5
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 1.2
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 6.5
     },
     {
       "time": "lsauer fc",
@@ -24909,13 +24909,6 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 1.2
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
@@ -24930,10 +24923,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Erick Pulga",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "BAH",
-      "pontos": 3.3
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "lsauer fc",
@@ -24944,10 +24944,10 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Memphis Depay",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
+      "clube": "BAH",
+      "pontos": 3.3
     },
     {
       "time": "lsauer fc",
@@ -24979,17 +24979,17 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Gustavo Henrique",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 3.8
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Félix Torres",
       "posicao": "Zagueiro",
       "clube": "COR",
       "pontos": 2.3
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Gustavo Henrique",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 3.8
     },
     {
       "time": "VASCO MARTINS FC",
@@ -25000,13 +25000,6 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Fausto Vera",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 0.5
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
@@ -25014,10 +25007,17 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Hulk",
-      "posicao": "Atacante",
+      "nome": "Fausto Vera",
+      "posicao": "Meia",
       "clube": "CAM",
-      "pontos": 1.8
+      "pontos": 0.5
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Ferreira",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 12.4
     },
     {
       "time": "VASCO MARTINS FC",
@@ -25028,10 +25028,10 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Ferreira",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 12.4
+      "clube": "CAM",
+      "pontos": 1.8
     },
     {
       "time": "VASCO MARTINS FC",
@@ -25133,17 +25133,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 1.2
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.0
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -25168,17 +25168,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 5.2
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 5.8
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Gabriel Bontempo",
+      "posicao": "Meia",
+      "clube": "SAN",
+      "pontos": 5.2
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -25252,17 +25252,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
-    },
-    {
-      "time": "Profit Soccer",
       "nome": "Rivera",
       "posicao": "Meia",
       "clube": "SPT",
       "pontos": 3.2
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
     },
     {
       "time": "Profit Soccer",
@@ -25420,17 +25420,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 8.2
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
     },
     {
       "time": "TIGRE LEON",
@@ -25553,13 +25553,6 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Samuel Xavier",
-      "posicao": "Lateral",
-      "clube": "FLU",
-      "pontos": 0.2
-    },
-    {
-      "time": "seralex",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -25567,10 +25560,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 7.2
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 0.2
     },
     {
       "time": "seralex",
@@ -25581,17 +25574,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Lucas Ferreira",
-      "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 8.0
-    },
-    {
-      "time": "seralex",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 7.2
     },
     {
       "time": "seralex",
@@ -25602,10 +25588,24 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Yuri Alberto",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
+    },
+    {
+      "time": "seralex",
+      "nome": "Lucas Ferreira",
+      "posicao": "Meia",
+      "clube": "SAO",
+      "pontos": 8.0
+    },
+    {
+      "time": "seralex",
+      "nome": "Hulk",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
+      "clube": "CAM",
+      "pontos": 1.8
     },
     {
       "time": "seralex",
@@ -25616,10 +25616,10 @@ const escalacoesGerais = {
     },
     {
       "time": "seralex",
-      "nome": "Hulk",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 1.8
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "seralex",
@@ -25672,17 +25672,17 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Rubens",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 3.7
-    },
-    {
-      "time": "E.C. Bororé",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 5.8
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 3.7
     },
     {
       "time": "E.C. Bororé",
@@ -25735,17 +25735,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 2.3
-    },
-    {
-      "time": "MAFRA MARTINS FC",
       "nome": "Gustavo Henrique",
       "posicao": "Zagueiro",
       "clube": "COR",
       "pontos": 3.8
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 2.3
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -25777,17 +25777,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
-    },
-    {
-      "time": "MAFRA MARTINS FC",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -25903,13 +25903,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 5.2
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
       "clube": "GRE",
@@ -25917,10 +25910,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Villasanti",
-      "posicao": "Meia",
-      "clube": "GRE",
-      "pontos": 8.6
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 5.2
     },
     {
       "time": "Tatols Beants F.C",
@@ -25938,6 +25931,20 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
+      "nome": "Villasanti",
+      "posicao": "Meia",
+      "clube": "GRE",
+      "pontos": 8.6
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Ferreira",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 12.4
+    },
+    {
+      "time": "Tatols Beants F.C",
       "nome": "Cristian Olivera",
       "posicao": "Atacante",
       "clube": "GRE",
@@ -25949,13 +25956,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Ferreira",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 12.4
     },
     {
       "time": "Tatols Beants F.C",
@@ -26106,17 +26106,17 @@ const escalacoesGerais = {
     },
     {
       "time": "MauHumor F.C.",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
-    },
-    {
-      "time": "MauHumor F.C.",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 5.2
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "MauHumor F.C.",
@@ -26197,17 +26197,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Memphis Depay",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 21.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -26225,13 +26225,6 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
@@ -26239,10 +26232,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "David Duarte",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 4.4
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.0
     },
     {
       "time": "TATITTA FC",
@@ -26253,17 +26246,10 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "De la Cruz",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 2.1
+      "nome": "David Duarte",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 4.4
     },
     {
       "time": "TATITTA FC",
@@ -26274,10 +26260,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
+      "nome": "De la Cruz",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 2.1
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 8.2
     },
     {
       "time": "TATITTA FC",
@@ -26292,6 +26285,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "BAH",
       "pontos": 3.3
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "TATITTA FC",
@@ -26393,13 +26393,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Juninho Capixaba",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 10.0
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Samuel Xavier",
       "posicao": "Lateral",
       "clube": "FLU",
@@ -26407,10 +26400,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Pedro Henrique",
-      "posicao": "Zagueiro",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
       "clube": "RBB",
-      "pontos": 4.7
+      "pontos": 10.0
     },
     {
       "time": "Dom Camillo68",
@@ -26418,6 +26411,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "FLA",
       "pontos": 5.2
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 4.7
     },
     {
       "time": "Dom Camillo68",
@@ -26477,13 +26477,6 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Léo Maná",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 2.6
-    },
-    {
-      "time": "mercearia Estrela",
       "nome": "Angileri",
       "posicao": "Lateral",
       "clube": "COR",
@@ -26491,10 +26484,10 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Santiago Mingo",
-      "posicao": "Zagueiro",
-      "clube": "BAH",
-      "pontos": 7.3
+      "nome": "Léo Maná",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 2.6
     },
     {
       "time": "mercearia Estrela",
@@ -26502,6 +26495,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "BAH",
       "pontos": 4.4
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 7.3
     },
     {
       "time": "mercearia Estrela",
@@ -26533,17 +26533,17 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
-    },
-    {
-      "time": "mercearia Estrela",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "mercearia Estrela",
@@ -26596,17 +26596,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Breno Bidon",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 0.7
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 8.2
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Breno Bidon",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 0.7
     },
     {
       "time": "CosmoCity ZO",
@@ -26617,17 +26617,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Memphis Depay",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Ferreira",
       "posicao": "Atacante",
       "clube": "SAO",
       "pontos": 12.4
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "CosmoCity ZO",
@@ -26764,13 +26764,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.0
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Savarino",
       "posicao": "Meia",
       "clube": "BOT",
@@ -26778,10 +26771,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 11.3
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 3.0
     },
     {
       "time": "Grêmio imortal 37",
@@ -26799,6 +26792,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 11.3
+    },
+    {
+      "time": "Grêmio imortal 37",
       "nome": "Filipe Luís",
       "posicao": "Técnico",
       "clube": "FLA",
@@ -26813,17 +26813,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Andrés Hurtado",
-      "posicao": "Lateral",
-      "clube": "RBB",
-      "pontos": 7.3
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 6.5
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Andrés Hurtado",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 7.3
     },
     {
       "time": "SERGRILLO",
@@ -26897,17 +26897,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Angileri",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 1.2
-    },
-    {
-      "time": "Super Vasco f.c",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
       "pontos": 10.0
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Angileri",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 1.2
     },
     {
       "time": "Super Vasco f.c",
@@ -26995,13 +26995,6 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 5.2
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
       "nome": "Ignácio",
       "posicao": "Zagueiro",
       "clube": "FLU",
@@ -27009,10 +27002,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Rubens",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 3.7
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 5.2
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -27020,6 +27013,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLU",
       "pontos": 5.8
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 3.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -27198,13 +27198,6 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Eduardo Sasha",
-      "posicao": "Atacante",
-      "clube": "RBB",
-      "pontos": 11.3
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
       "nome": "Cano",
       "posicao": "Atacante",
       "clube": "FLU",
@@ -27216,6 +27209,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 11.3
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -27261,10 +27261,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Arias",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
+      "clube": "INT",
+      "pontos": 8.2
     },
     {
       "time": "Luis lemes inter",
@@ -27275,17 +27275,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Luis lemes inter",
-      "nome": "Batalla",
-      "posicao": "Atacante",
-      "clube": "JUV",
-      "pontos": 9.2
+      "clube": "FLU",
+      "pontos": 5.8
     },
     {
       "time": "Luis lemes inter",
@@ -27293,6 +27286,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Batalla",
+      "posicao": "Atacante",
+      "clube": "JUV",
+      "pontos": 9.2
     },
     {
       "time": "Luis lemes inter",
@@ -27331,17 +27331,17 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 2.3
-    },
-    {
-      "time": "emer jr fc",
       "nome": "Marllon",
       "posicao": "Zagueiro",
       "clube": "CEA",
       "pontos": -0.6
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 2.3
     },
     {
       "time": "emer jr fc",
@@ -27366,6 +27366,13 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
+      "nome": "Ferreira",
+      "posicao": "Atacante",
+      "clube": "SAO",
+      "pontos": 12.4
+    },
+    {
+      "time": "emer jr fc",
       "nome": "Tiquinho Soares",
       "posicao": "Atacante",
       "clube": "SAN",
@@ -27377,13 +27384,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
-    },
-    {
-      "time": "emer jr fc",
-      "nome": "Ferreira",
-      "posicao": "Atacante",
-      "clube": "SAO",
-      "pontos": 12.4
     },
     {
       "time": "emer jr fc",
@@ -27415,13 +27415,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 5.2
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Abner",
       "posicao": "Zagueiro",
       "clube": "JUV",
@@ -27429,10 +27422,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 1.2
+      "pontos": 5.2
     },
     {
       "time": "Cril Futebol Club",
@@ -27450,10 +27443,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Cano",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Michael",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 11.5
+      "clube": "FLA",
+      "pontos": 3.5
     },
     {
       "time": "Cril Futebol Club",
@@ -27464,10 +27464,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Michael",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 3.5
+      "clube": "FLU",
+      "pontos": 11.5
     },
     {
       "time": "Cril Futebol Club",
@@ -27485,13 +27485,6 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Enzo Díaz",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 3.1
-    },
-    {
-      "time": "ITAQUI F.C.",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -27499,10 +27492,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 0.0
+      "nome": "Enzo Díaz",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 3.1
     },
     {
       "time": "ITAQUI F.C.",
@@ -27513,10 +27506,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Lucas Romero",
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Alisson",
       "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 5.0
+      "clube": "SAO",
+      "pontos": -1.1
     },
     {
       "time": "ITAQUI F.C.",
@@ -27527,10 +27527,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Alisson",
+      "nome": "Lucas Romero",
       "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": -1.1
+      "clube": "CRU",
+      "pontos": 5.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 5.6
     },
     {
       "time": "ITAQUI F.C.",
@@ -27545,13 +27552,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "SAO",
       "pontos": 0.0
-    },
-    {
-      "time": "ITAQUI F.C.",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 5.6
     },
     {
       "time": "ITAQUI F.C.",
@@ -27737,17 +27737,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Angileri",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 1.2
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Léo Maná",
       "posicao": "Lateral",
       "clube": "COR",
       "pontos": 2.6
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Angileri",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 1.2
     },
     {
       "time": "FC Los Castilho",
@@ -27821,13 +27821,6 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Samuel Xavier",
-      "posicao": "Lateral",
-      "clube": "FLU",
-      "pontos": 0.2
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -27835,10 +27828,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Abner",
-      "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": 0.0
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 0.2
     },
     {
       "time": "KillerColorado",
@@ -27849,10 +27842,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Alan Patrick",
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 0.0
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Gustavo Scarpa",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
+      "clube": "CAM",
+      "pontos": -0.3
     },
     {
       "time": "KillerColorado",
@@ -27863,10 +27863,17 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Gustavo Scarpa",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": -0.3
+      "clube": "INT",
+      "pontos": 8.2
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Cano",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 11.5
     },
     {
       "time": "KillerColorado",
@@ -27881,13 +27888,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "COR",
       "pontos": 5.6
-    },
-    {
-      "time": "KillerColorado",
-      "nome": "Cano",
-      "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 11.5
     },
     {
       "time": "KillerColorado",
@@ -27933,17 +27933,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 5.8
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 1.2
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
     },
     {
       "time": "Atlético Colorado 2021",
@@ -27989,13 +27989,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Angileri",
-      "posicao": "Lateral",
-      "clube": "COR",
-      "pontos": 1.2
-    },
-    {
-      "time": "Time do S.A.P.O",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -28003,10 +27996,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
+      "nome": "Angileri",
+      "posicao": "Lateral",
       "clube": "COR",
-      "pontos": 2.3
+      "pontos": 1.2
     },
     {
       "time": "Time do S.A.P.O",
@@ -28017,17 +28010,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
-    },
-    {
-      "time": "Time do S.A.P.O",
-      "nome": "De la Cruz",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 2.1
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 2.3
     },
     {
       "time": "Time do S.A.P.O",
@@ -28038,10 +28024,24 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Memphis Depay",
+      "nome": "De la Cruz",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 2.1
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 8.2
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
+      "clube": "FLU",
+      "pontos": 11.5
     },
     {
       "time": "Time do S.A.P.O",
@@ -28052,10 +28052,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Cano",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 11.5
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "Time do S.A.P.O",
@@ -28087,13 +28087,6 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Ignácio",
-      "posicao": "Zagueiro",
-      "clube": "FLU",
-      "pontos": 6.4
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -28101,17 +28094,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 8.2
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Arias",
-      "posicao": "Meia",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
       "clube": "FLU",
-      "pontos": 5.8
+      "pontos": 6.4
     },
     {
       "time": "SISO FC25",
@@ -28122,10 +28108,24 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Memphis Depay",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 5.8
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 8.2
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Cano",
       "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": 21.7
+      "clube": "FLU",
+      "pontos": 11.5
     },
     {
       "time": "SISO FC25",
@@ -28136,10 +28136,10 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Cano",
+      "nome": "Memphis Depay",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 11.5
+      "clube": "COR",
+      "pontos": 21.7
     },
     {
       "time": "SISO FC25",
@@ -28159,17 +28159,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Nathan",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
-    },
-    {
-      "time": "FBC Colorado",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Nathan",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 0.2
     },
     {
       "time": "FBC Colorado",
@@ -28187,17 +28187,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FBC Colorado",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "FBC Colorado",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 19.2
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 0.6
     },
     {
       "time": "FBC Colorado",
@@ -28243,17 +28243,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "Texas Club 2025",
@@ -28327,17 +28327,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "Real SCI",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 10.9
     },
     {
       "time": "Real SCI",
@@ -28362,13 +28362,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Real SCI",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
@@ -28376,10 +28369,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Real SCI",
-      "nome": "Pedro Raul",
-      "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 2.9
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "Real SCI",
@@ -28387,6 +28380,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.9
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 2.9
     },
     {
       "time": "Real SCI",
@@ -28411,17 +28411,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 0.0
     },
     {
       "time": "Gig@ntte",
@@ -28439,10 +28439,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Arrascaeta",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Gig@ntte",
@@ -28453,17 +28453,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Alan Patrick",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "Gig@ntte",
-      "nome": "Estêvão",
+      "nome": "Enner Valencia",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "INT",
+      "pontos": 2.2
     },
     {
       "time": "Gig@ntte",
@@ -28474,10 +28474,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Gig@ntte",
-      "nome": "Enner Valencia",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "Gig@ntte",
@@ -28712,17 +28712,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Gremiomaniasm",
-      "nome": "Negueba",
-      "posicao": "Atacante",
-      "clube": "MIR",
-      "pontos": 1.4
-    },
-    {
-      "time": "Gremiomaniasm",
       "nome": "Kaio Jorge",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.9
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Negueba",
+      "posicao": "Atacante",
+      "clube": "MIR",
+      "pontos": 1.4
     },
     {
       "time": "Gremiomaniasm",
@@ -28782,17 +28782,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Sport Clube PAIM",
       "nome": "Savarino",
       "posicao": "Meia",
       "clube": "BOT",
       "pontos": 8.3
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Sport Clube PAIM",
@@ -28803,17 +28803,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Sport Clube PAIM",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "Sport Clube PAIM",
@@ -28859,13 +28859,6 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "PUXE FC",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
@@ -28880,6 +28873,13 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
+    },
+    {
+      "time": "PUXE FC",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
@@ -28887,17 +28887,17 @@ const escalacoesGerais = {
     },
     {
       "time": "PUXE FC",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "PUXE FC",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "PUXE FC",
@@ -28999,17 +28999,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Giay",
       "posicao": "Lateral",
       "clube": "PAL",
       "pontos": 5.0
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 1.3
     },
     {
       "time": "ZIVI FC",
@@ -29027,17 +29027,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
       "pontos": 4.7
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "ZIVI FC",
@@ -29055,17 +29055,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ZIVI FC",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "ZIVI FC",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 8.9
     },
     {
       "time": "ZIVI FC",
@@ -29083,17 +29083,17 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
       "pontos": 10.9
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 1.3
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -29132,17 +29132,17 @@ const escalacoesGerais = {
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 2.9
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "O clube do povo Itaqui/Rss",
@@ -29181,17 +29181,17 @@ const escalacoesGerais = {
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "F.C. Rei Das Copas",
       "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
       "clube": "PAL",
       "pontos": -0.4
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 8.2
     },
     {
       "time": "F.C. Rei Das Copas",
@@ -29363,6 +29363,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
@@ -29374,20 +29381,6 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 0.6
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
     },
     {
       "time": "Taura da Fronteira FCIII",
@@ -29405,6 +29398,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Taura da Fronteira FCIII",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
       "nome": "Thiago Carpini",
       "posicao": "Técnico",
       "clube": "VIT",
@@ -29419,17 +29419,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Eleis-Itaqui",
       "nome": "Nathan",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 0.2
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "Eleis-Itaqui",
@@ -29447,17 +29447,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Eleis-Itaqui",
       "nome": "Matheus Pereira",
       "posicao": "Meia",
       "clube": "CRU",
       "pontos": 9.6
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Eleis-Itaqui",
@@ -29587,13 +29587,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Laranjja Mecannica",
       "nome": "Giay",
       "posicao": "Lateral",
       "clube": "PAL",
@@ -29601,10 +29594,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "Laranjja Mecannica",
@@ -29615,17 +29608,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
       "clube": "INT",
-      "pontos": 3.6
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 0.6
+      "pontos": 1.2
     },
     {
       "time": "Laranjja Mecannica",
@@ -29636,10 +29622,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Laranjja Mecannica",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
+      "nome": "Danielzinho",
+      "posicao": "Meia",
+      "clube": "MIR",
+      "pontos": 0.6
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Bruno Tabata",
+      "posicao": "Meia",
       "clube": "INT",
-      "pontos": 2.2
+      "pontos": 3.6
     },
     {
       "time": "Laranjja Mecannica",
@@ -29654,6 +29647,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Enner Valencia",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 2.2
     },
     {
       "time": "Laranjja Mecannica",
@@ -29671,6 +29671,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 0.0
+    },
+    {
+      "time": "Fedato Futebol Clube",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -29678,10 +29685,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 17.2
     },
     {
       "time": "Fedato Futebol Clube",
@@ -29692,10 +29699,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "Fedato Futebol Clube",
@@ -29713,20 +29720,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Fedato Futebol Clube",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Fedato Futebol Clube",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
@@ -29738,6 +29731,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "Fedato Futebol Clube",
@@ -29783,17 +29783,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Erick Pulgar",
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 2.6
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Perronee F.C",
@@ -29811,17 +29811,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Perronee F.C",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Perronee F.C",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "Perronee F.C",
@@ -30007,6 +30007,13 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 1.3
+    },
+    {
+      "time": "RHANKA DENTY FC25",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
@@ -30014,10 +30021,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
       "clube": "INT",
-      "pontos": 1.3
+      "pontos": 17.2
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -30028,10 +30035,10 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -30049,20 +30056,6 @@ const escalacoesGerais = {
     },
     {
       "time": "RHANKA DENTY FC25",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "RHANKA DENTY FC25",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
@@ -30074,6 +30067,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "RHANKA DENTY FC25",
@@ -30119,17 +30119,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 0.6
     },
     {
       "time": "TEAM LOPES 99",
@@ -30147,17 +30147,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TEAM LOPES 99",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "TEAM LOPES 99",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "TEAM LOPES 99",
@@ -30175,17 +30175,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "pura bucha /botafogo",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
       "pontos": 9.8
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 1.3
     },
     {
       "time": "pura bucha /botafogo",
@@ -30203,17 +30203,17 @@ const escalacoesGerais = {
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Erick Pulgar",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 2.6
-    },
-    {
-      "time": "pura bucha /botafogo",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Erick Pulgar",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 2.6
     },
     {
       "time": "pura bucha /botafogo",
@@ -30259,13 +30259,6 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -30273,10 +30266,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "cartola scheuer",
@@ -30287,17 +30280,10 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "cartola scheuer",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
       "clube": "INT",
-      "pontos": 17.7
+      "pontos": 17.2
     },
     {
       "time": "cartola scheuer",
@@ -30308,6 +30294,20 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
+    },
+    {
+      "time": "cartola scheuer",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
@@ -30315,17 +30315,17 @@ const escalacoesGerais = {
     },
     {
       "time": "cartola scheuer",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "cartola scheuer",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 3.0
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "cartola scheuer",
@@ -30343,17 +30343,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -30399,17 +30399,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
@@ -30476,17 +30476,17 @@ const escalacoesGerais = {
     },
     {
       "time": "DM Studio",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "DM Studio",
       "nome": "Enner Valencia",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 2.2
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "DM Studio",
@@ -30511,17 +30511,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 10.9
     },
     {
       "time": "lsauer fc",
@@ -30546,17 +30546,17 @@ const escalacoesGerais = {
     },
     {
       "time": "lsauer fc",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "lsauer fc",
       "nome": "Felipe Anderson",
       "posicao": "Meia",
       "clube": "PAL",
       "pontos": -0.1
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "lsauer fc",
@@ -30595,13 +30595,6 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Diego",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 3.5
-    },
-    {
-      "time": "VASCO MARTINS FC",
       "nome": "Paulo Henrique",
       "posicao": "Lateral",
       "clube": "VAS",
@@ -30609,10 +30602,10 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Lucas Freitas",
-      "posicao": "Zagueiro",
-      "clube": "VAS",
-      "pontos": 2.5
+      "nome": "Diego",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 3.5
     },
     {
       "time": "VASCO MARTINS FC",
@@ -30623,10 +30616,10 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "nome": "Lucas Freitas",
+      "posicao": "Zagueiro",
+      "clube": "VAS",
+      "pontos": 2.5
     },
     {
       "time": "VASCO MARTINS FC",
@@ -30644,6 +30637,20 @@ const escalacoesGerais = {
     },
     {
       "time": "VASCO MARTINS FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Enner Valencia",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 2.2
+    },
+    {
+      "time": "VASCO MARTINS FC",
       "nome": "Vegetti",
       "posicao": "Atacante",
       "clube": "VAS",
@@ -30655,13 +30662,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
-    },
-    {
-      "time": "VASCO MARTINS FC",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
     },
     {
       "time": "VASCO MARTINS FC",
@@ -30819,17 +30819,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "BORGES ITAQUI F.C.",
@@ -30882,17 +30882,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Profit Soccer",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Profit Soccer",
       "nome": "Bruno Tabata",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 3.6
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "Profit Soccer",
@@ -30959,17 +30959,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Tabajara de Inhaua FC2",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Matheus Pereira",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 9.6
     },
     {
       "time": "Tabajara de Inhaua FC2",
@@ -31043,17 +31043,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 3.6
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Bruno Tabata",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 3.6
     },
     {
       "time": "TIGRE LEON",
@@ -31071,17 +31071,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TIGRE LEON",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "TIGRE LEON",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 8.9
     },
     {
       "time": "TIGRE LEON",
@@ -31127,17 +31127,17 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "De la Cruz",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 2.9
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "De la Cruz",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 2.9
     },
     {
       "time": "S.E.R. GRILLO",
@@ -31148,17 +31148,17 @@ const escalacoesGerais = {
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.4
-    },
-    {
-      "time": "S.E.R. GRILLO",
       "nome": "Pedro Henrique",
       "posicao": "Atacante",
       "clube": "CEA",
       "pontos": 9.1
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Igor Jesus",
+      "posicao": "Atacante",
+      "clube": "BOT",
+      "pontos": 13.4
     },
     {
       "time": "S.E.R. GRILLO",
@@ -31267,17 +31267,17 @@ const escalacoesGerais = {
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "E.C. Bororé",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 1.3
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "E.C. Bororé",
@@ -31351,13 +31351,6 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "MAFRA MARTINS FC",
       "nome": "Paulo Henrique",
       "posicao": "Lateral",
       "clube": "VAS",
@@ -31365,10 +31358,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
       "clube": "INT",
-      "pontos": 1.2
+      "pontos": 1.3
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -31379,10 +31372,10 @@ const escalacoesGerais = {
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
       "clube": "INT",
-      "pontos": 17.7
+      "pontos": 1.2
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -31397,6 +31390,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 2.6
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "MAFRA MARTINS FC",
@@ -31484,17 +31484,17 @@ const escalacoesGerais = {
     },
     {
       "time": "BordonFC",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "BordonFC",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 15.9
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Kaio Jorge",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 8.9
     },
     {
       "time": "BordonFC",
@@ -31533,13 +31533,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "Tatols Beants F.C",
       "nome": "Vitão",
       "posicao": "Zagueiro",
       "clube": "INT",
@@ -31547,17 +31540,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "pontos": 8.2
     },
     {
       "time": "Tatols Beants F.C",
@@ -31568,9 +31554,30 @@ const escalacoesGerais = {
     },
     {
       "time": "Tatols Beants F.C",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
+    },
+    {
+      "time": "Tatols Beants F.C",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
+      "pontos": 8.9
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Kaio Jorge",
+      "posicao": "Atacante",
+      "clube": "CRU",
       "pontos": 8.9
     },
     {
@@ -31579,13 +31586,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
     },
     {
       "time": "Tatols Beants F.C",
@@ -31659,17 +31659,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FIGUEIRA DA ILHA",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 4.3
     },
     {
       "time": "FIGUEIRA DA ILHA",
@@ -31820,17 +31820,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vascão f.c",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
       "nome": "Kaio Jorge",
       "posicao": "Atacante",
       "clube": "CRU",
       "pontos": 8.9
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "A Lenda Super Vascão f.c",
@@ -31855,17 +31855,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TATITTA FC",
-      "nome": "Rafael Ramos",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 2.4
-    },
-    {
-      "time": "TATITTA FC",
       "nome": "Matheus Bahia",
       "posicao": "Lateral",
       "clube": "CEA",
       "pontos": 13.5
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Rafael Ramos",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 2.4
     },
     {
       "time": "TATITTA FC",
@@ -31939,13 +31939,6 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -31953,10 +31946,10 @@ const escalacoesGerais = {
     },
     {
       "time": "HS SPORTS F.C",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 0.0
     },
     {
       "time": "HS SPORTS F.C",
@@ -31964,6 +31957,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "CRU",
       "pontos": 5.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 8.2
     },
     {
       "time": "HS SPORTS F.C",
@@ -32023,13 +32023,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Dom Camillo68",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
@@ -32037,10 +32030,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Villalba",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 1.3
     },
     {
       "time": "Dom Camillo68",
@@ -32051,10 +32044,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Alan Patrick",
+      "nome": "Villalba",
+      "posicao": "Zagueiro",
+      "clube": "CRU",
+      "pontos": 5.5
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Lucas Ferreira",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "SAO",
+      "pontos": 1.1
     },
     {
       "time": "Dom Camillo68",
@@ -32065,10 +32065,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Lucas Ferreira",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 1.1
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Dom Camillo68",
@@ -32142,17 +32142,17 @@ const escalacoesGerais = {
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Arias",
-      "posicao": "Meia",
-      "clube": "FLU",
-      "pontos": 3.9
-    },
-    {
-      "time": "mercearia Estrela",
       "nome": "Edenílson",
       "posicao": "Meia",
       "clube": "GRE",
       "pontos": 2.2
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 3.9
     },
     {
       "time": "mercearia Estrela",
@@ -32247,17 +32247,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CosmoCity ZO",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "CosmoCity ZO",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 8.9
     },
     {
       "time": "CosmoCity ZO",
@@ -32275,16 +32275,16 @@ const escalacoesGerais = {
     },
     {
       "time": "clarinvalau fc",
-      "nome": "Piquerez",
+      "nome": "João Pedro",
       "posicao": "Lateral",
-      "clube": "PAL",
+      "clube": "GRE",
       "pontos": 0.0
     },
     {
       "time": "clarinvalau fc",
-      "nome": "João Pedro",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "GRE",
+      "clube": "PAL",
       "pontos": 0.0
     },
     {
@@ -32408,13 +32408,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Grêmio imortal 37",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Grêmio imortal 37",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
@@ -32425,6 +32418,13 @@ const escalacoesGerais = {
       "nome": "Kaio Jorge",
       "posicao": "Atacante",
       "clube": "CRU",
+      "pontos": 8.9
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
       "pontos": 8.9
     },
     {
@@ -32471,17 +32471,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SERGRILLO",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "SERGRILLO",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 0.6
     },
     {
       "time": "SERGRILLO",
@@ -32541,13 +32541,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Super Vasco f.c",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
@@ -32555,10 +32548,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 17.2
     },
     {
       "time": "Super Vasco f.c",
@@ -32566,6 +32559,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 0.6
     },
     {
       "time": "Super Vasco f.c",
@@ -32611,13 +32611,6 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -32625,10 +32618,10 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -32636,6 +32629,13 @@ const escalacoesGerais = {
       "posicao": "Zagueiro",
       "clube": "CRU",
       "pontos": 5.5
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 8.2
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -32660,17 +32660,17 @@ const escalacoesGerais = {
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "A Lenda Super Vasco F.c",
       "nome": "Guilherme",
       "posicao": "Atacante",
       "clube": "SAN",
       "pontos": 3.0
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 8.9
     },
     {
       "time": "A Lenda Super Vasco F.c",
@@ -32695,17 +32695,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Marlon",
       "posicao": "Lateral",
       "clube": "GRE",
       "pontos": -0.9
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "Paulo Virgili FC",
@@ -32723,17 +32723,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
-    },
-    {
-      "time": "Paulo Virgili FC",
       "nome": "Jadson",
       "posicao": "Meia",
       "clube": "JUV",
       "pontos": 0.4
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Savarino",
+      "posicao": "Meia",
+      "clube": "BOT",
+      "pontos": 8.3
     },
     {
       "time": "Paulo Virgili FC",
@@ -32793,17 +32793,17 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Félix Torres",
-      "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 0.0
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
       "nome": "Abner",
       "posicao": "Zagueiro",
       "clube": "JUV",
       "pontos": -0.5
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Félix Torres",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 0.0
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -32814,13 +32814,6 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -32828,10 +32821,10 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": -0.3
+      "nome": "Gerson",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 3.2
     },
     {
       "time": "CALOMBO ITAQUI RS",
@@ -32849,6 +32842,13 @@ const escalacoesGerais = {
     },
     {
       "time": "CALOMBO ITAQUI RS",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": -0.3
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
       "nome": "Fábio Matias",
       "posicao": "Técnico",
       "clube": "JUV",
@@ -32863,17 +32863,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Claudinho",
-      "posicao": "Lateral",
-      "clube": "VIT",
-      "pontos": 3.5
-    },
-    {
-      "time": "Luis lemes inter",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
       "pontos": 0.0
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Claudinho",
+      "posicao": "Lateral",
+      "clube": "VIT",
+      "pontos": 3.5
     },
     {
       "time": "Luis lemes inter",
@@ -32912,17 +32912,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Luis lemes inter",
       "nome": "Hulk",
       "posicao": "Atacante",
       "clube": "CAM",
       "pontos": 15.9
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "Luis lemes inter",
@@ -32996,6 +32996,13 @@ const escalacoesGerais = {
     },
     {
       "time": "emer jr fc",
+      "nome": "Gabriel Veron",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.7
+    },
+    {
+      "time": "emer jr fc",
       "nome": "Cristian Olivera",
       "posicao": "Atacante",
       "clube": "GRE",
@@ -33007,13 +33014,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
-    },
-    {
-      "time": "emer jr fc",
-      "nome": "Gabriel Veron",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.7
     },
     {
       "time": "emer jr fc",
@@ -33066,17 +33066,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Emiliano Martínez",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 0.0
-    },
-    {
-      "time": "Cril Futebol Club",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
       "pontos": 17.7
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Emiliano Martínez",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 0.0
     },
     {
       "time": "Cril Futebol Club",
@@ -33115,13 +33115,6 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Enzo Díaz",
-      "posicao": "Lateral",
-      "clube": "SAO",
-      "pontos": 1.1
-    },
-    {
-      "time": "ITAQUI F.C.",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
@@ -33129,10 +33122,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Arboleda",
-      "posicao": "Zagueiro",
+      "nome": "Enzo Díaz",
+      "posicao": "Lateral",
       "clube": "SAO",
-      "pontos": 0.0
+      "pontos": 1.1
     },
     {
       "time": "ITAQUI F.C.",
@@ -33143,17 +33136,17 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
+      "nome": "Arboleda",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
       "nome": "Alisson",
       "posicao": "Meia",
       "clube": "SAO",
       "pontos": 2.2
-    },
-    {
-      "time": "ITAQUI F.C.",
-      "nome": "Lucas Romero",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 7.2
     },
     {
       "time": "ITAQUI F.C.",
@@ -33164,10 +33157,10 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
-      "nome": "Michael",
-      "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 0.0
+      "nome": "Lucas Romero",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 7.2
     },
     {
       "time": "ITAQUI F.C.",
@@ -33181,6 +33174,13 @@ const escalacoesGerais = {
       "nome": "Calleri",
       "posicao": "Atacante",
       "clube": "SAO",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Michael",
+      "posicao": "Atacante",
+      "clube": "FLA",
       "pontos": 0.0
     },
     {
@@ -33227,17 +33227,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "TORRESMO COM PINGA",
       "nome": "Matheuzinho",
       "posicao": "Meia",
       "clube": "VIT",
       "pontos": 0.6
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "TORRESMO COM PINGA",
@@ -33255,17 +33255,17 @@ const escalacoesGerais = {
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "TORRESMO COM PINGA",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
       "pontos": 4.3
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 8.9
     },
     {
       "time": "TORRESMO COM PINGA",
@@ -33283,13 +33283,6 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "Lá do Itaqui",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -33297,10 +33290,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 10.9
     },
     {
       "time": "Lá do Itaqui",
@@ -33311,10 +33304,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "nome": "Luisão",
+      "posicao": "Zagueiro",
+      "clube": "SAN",
+      "pontos": 5.5
     },
     {
       "time": "Lá do Itaqui",
@@ -33322,6 +33315,13 @@ const escalacoesGerais = {
       "posicao": "Meia",
       "clube": "FLA",
       "pontos": 19.2
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Lá do Itaqui",
@@ -33367,17 +33367,17 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Nathan",
       "posicao": "Lateral",
       "clube": "INT",
       "pontos": 0.2
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 1.3
     },
     {
       "time": "FC Los Castilho",
@@ -33402,13 +33402,6 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
-    },
-    {
-      "time": "FC Los Castilho",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
@@ -33416,10 +33409,10 @@ const escalacoesGerais = {
     },
     {
       "time": "FC Los Castilho",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
+      "nome": "Felipe Anderson",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": -0.1
     },
     {
       "time": "FC Los Castilho",
@@ -33427,6 +33420,13 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Hulk",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 15.9
     },
     {
       "time": "FC Los Castilho",
@@ -33451,13 +33451,6 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
@@ -33465,10 +33458,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 9.8
     },
     {
       "time": "KillerColorado",
@@ -33479,10 +33472,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 17.2
     },
     {
       "time": "KillerColorado",
@@ -33500,10 +33493,10 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "nome": "Felipe Anderson",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": -0.1
     },
     {
       "time": "KillerColorado",
@@ -33521,6 +33514,13 @@ const escalacoesGerais = {
     },
     {
       "time": "KillerColorado",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 8.9
+    },
+    {
+      "time": "KillerColorado",
       "nome": "Roger Machado",
       "posicao": "Técnico",
       "clube": "INT",
@@ -33535,17 +33535,17 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "Atlético Colorado 2021",
       "nome": "Marlon",
       "posicao": "Lateral",
       "clube": "GRE",
       "pontos": -0.9
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 10.9
     },
     {
       "time": "Atlético Colorado 2021",
@@ -33563,10 +33563,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Alan Patrick",
+      "nome": "Matheus Pereira",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "CRU",
+      "pontos": 9.6
     },
     {
       "time": "Atlético Colorado 2021",
@@ -33577,23 +33577,23 @@ const escalacoesGerais = {
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Matheus Pereira",
+      "nome": "Alan Patrick",
       "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "INT",
+      "pontos": 17.7
     },
     {
       "time": "Atlético Colorado 2021",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
+      "pontos": 8.9
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Kaio Jorge",
+      "posicao": "Atacante",
+      "clube": "CRU",
       "pontos": 8.9
     },
     {
@@ -33633,6 +33633,13 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 17.2
+    },
+    {
+      "time": "Time do S.A.P.O",
       "nome": "Vitão",
       "posicao": "Zagueiro",
       "clube": "INT",
@@ -33640,10 +33647,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 19.2
     },
     {
       "time": "Time do S.A.P.O",
@@ -33661,17 +33668,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Time do S.A.P.O",
-      "nome": "Kaio Jorge",
+      "nome": "Facundo Torres",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "PAL",
+      "pontos": -0.3
     },
     {
       "time": "Time do S.A.P.O",
@@ -33682,10 +33682,10 @@ const escalacoesGerais = {
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Facundo Torres",
+      "nome": "Kaio Jorge",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": -0.3
+      "clube": "CRU",
+      "pontos": 8.9
     },
     {
       "time": "Time do S.A.P.O",
@@ -33717,13 +33717,6 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "SISO FC25",
       "nome": "Luisão",
       "posicao": "Zagueiro",
       "clube": "SAN",
@@ -33731,10 +33724,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Arrascaeta",
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 17.2
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Matheuzinho",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
+      "clube": "VIT",
+      "pontos": 0.6
     },
     {
       "time": "SISO FC25",
@@ -33745,10 +33745,17 @@ const escalacoesGerais = {
     },
     {
       "time": "SISO FC25",
-      "nome": "Matheuzinho",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "FLA",
+      "pontos": 19.2
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Guilherme",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 3.0
     },
     {
       "time": "SISO FC25",
@@ -33763,13 +33770,6 @@ const escalacoesGerais = {
       "posicao": "Atacante",
       "clube": "INT",
       "pontos": 8.9
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
     },
     {
       "time": "SISO FC25",
@@ -33782,3397 +33782,3397 @@ const escalacoesGerais = {
   "Rodada 7": [
     {
       "time": "FBC Colorado",
-      "nome": "Ronaldo",
+      "nome": "Weverton",
       "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
+      "clube": "PAL",
+      "pontos": 10.2
     },
     {
       "time": "FBC Colorado",
-      "nome": "Nathan",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "FBC Colorado",
-      "nome": "Bernabéi",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "FBC Colorado",
-      "nome": "Luisão",
+      "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
+      "clube": "PAL",
+      "pontos": 6.7
     },
     {
       "time": "FBC Colorado",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "FBC Colorado",
-      "nome": "Matheuzinho",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "FBC Colorado",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "FBC Colorado",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "FBC Colorado",
-      "nome": "Guilherme",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Everton",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 3.8
     },
     {
       "time": "FBC Colorado",
-      "nome": "Kaio Jorge",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "PAL",
+      "pontos": 6.1
     },
     {
       "time": "FBC Colorado",
-      "nome": "Wesley",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "FBC Colorado",
-      "nome": "Léo Condé",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "CEA",
-      "pontos": 5.1
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Gabriel Brazão",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 4.2
+      "clube": "CEA",
+      "pontos": 9.9
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Escobar",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Texas Club 2025",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Texas Club 2025",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 8.2
+      "pontos": 1.2
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "Texas Club 2025",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
       "pontos": 3.6
     },
     {
       "time": "Texas Club 2025",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Texas Club 2025",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Texas Club 2025",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
-    },
-    {
-      "time": "Texas Club 2025",
       "nome": "Léo Condé",
       "posicao": "Técnico",
       "clube": "CEA",
-      "pontos": 5.1
+      "pontos": 10.26
     },
     {
       "time": "Real SCI",
       "nome": "Weverton",
       "posicao": "Goleiro",
       "clube": "PAL",
-      "pontos": 2.9
+      "pontos": 10.2
     },
     {
       "time": "Real SCI",
-      "nome": "Wesley",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Real SCI",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Pedro Raul",
-      "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 2.9
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Real SCI",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "Gig@ntte",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "Gig@ntte",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
-      "pontos": 0.0
+      "pontos": 10.4
     },
     {
-      "time": "Gig@ntte",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Gig@ntte",
+      "time": "Real SCI",
       "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
       "clube": "PAL",
-      "pontos": -0.4
+      "pontos": 6.7
     },
     {
-      "time": "Gig@ntte",
-      "nome": "Victor Gabriel",
+      "time": "Real SCI",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Gig@ntte",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Gig@ntte",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Gig@ntte",
-      "nome": "Alan Patrick",
+      "nome": "Rubens",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "CAM",
+      "pontos": 11.7
     },
     {
       "time": "Gig@ntte",
-      "nome": "Wesley",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "Gig@ntte",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "Gig@ntte",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
-    },
-    {
-      "time": "Gig@ntte",
-      "nome": "Roger Machado",
+      "nome": "Fernando Seabra",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "RBB",
+      "pontos": 7.71
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Anthoni",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "CEA",
+      "pontos": 9.9
     },
     {
       "time": "PraiaBravaFC",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
-      "pontos": 1.3
+      "pontos": 3.1
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Piquerez",
+      "nome": "Wesley",
       "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
-    },
-    {
-      "time": "PraiaBravaFC",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLA",
+      "pontos": 0.9
     },
     {
       "time": "PraiaBravaFC",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 8.2
+      "pontos": 1.2
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "PraiaBravaFC",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
     },
     {
       "time": "PraiaBravaFC",
       "nome": "Richard Ríos",
       "posicao": "Meia",
       "clube": "PAL",
-      "pontos": 5.4
+      "pontos": 6.4
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Wesley",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
       "time": "PraiaBravaFC",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "PraiaBravaFC",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Anthoni",
+      "nome": "Hugo Souza",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "COR",
+      "pontos": 0.6
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Bernabéi",
+      "nome": "Samuel Xavier",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "FLU",
+      "pontos": 4.5
     },
     {
       "time": "OlhaEleAiF.C!",
-      "nome": "Rafael Ramos",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Cristaldo",
+      "posicao": "Meia",
+      "clube": "GRE",
+      "pontos": 2.5
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 13.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Diego",
       "posicao": "Lateral",
       "clube": "CEA",
-      "pontos": 2.4
+      "pontos": 7.7
     },
     {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Vitão",
+      "time": "Gremiomaniasm",
+      "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "GRE",
+      "pontos": 9.0
     },
     {
-      "time": "OlhaEleAiF.C!",
+      "time": "Gremiomaniasm",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Ganso",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.3
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Sport Clube PAIM",
       "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
       "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "OlhaEleAiF.C!",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Gilberto",
-      "posicao": "Lateral",
-      "clube": "BAH",
-      "pontos": 6.2
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Gustavo Gómez",
-      "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Negueba",
-      "posicao": "Atacante",
-      "clube": "MIR",
-      "pontos": 1.4
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Gremiomaniasm",
-      "nome": "Leonardo Jardim",
-      "posicao": "Técnico",
-      "clube": "CRU",
-      "pontos": 7.87
+      "pontos": 6.7
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "João Paulo",
-      "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 0.0
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Matheuzinho",
+      "nome": "Rubens",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
-    },
-    {
-      "time": "Sport Clube PAIM",
-      "nome": "Hulk",
-      "posicao": "Atacante",
       "clube": "CAM",
-      "pontos": 15.9
+      "pontos": 11.7
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Wesley",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "Sport Clube PAIM",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "Sport Clube PAIM",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "PUXE FC",
-      "nome": "Anthoni",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
     },
     {
       "time": "PUXE FC",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
-      "pontos": 9.8
+      "pontos": 6.7
     },
     {
       "time": "PUXE FC",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "PUXE FC",
-      "nome": "Léo Ortiz",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "PUXE FC",
-      "nome": "Vitão",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "PUXE FC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "PUXE FC",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
       "time": "PUXE FC",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "PUXE FC",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
     },
     {
       "time": "PUXE FC",
-      "nome": "Guilherme",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "PUXE FC",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "PUXE FC",
-      "nome": "Roger Machado",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Weverton",
+      "nome": "Cleiton",
       "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
       "clube": "PAL",
-      "pontos": 2.9
+      "pontos": 10.4
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Bernabéi",
+      "nome": "Diego",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "CEA",
+      "pontos": 7.7
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Fagner",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 7.0
-    },
-    {
-      "time": "RS Expressões da Arte",
-      "nome": "Victor Gabriel",
+      "nome": "Junior Alonso",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "CAM",
+      "pontos": 5.7
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Vitão",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Arrascaeta",
+      "nome": "Richard Ríos",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "RS Expressões da Arte",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "PAL",
+      "pontos": 6.4
     },
     {
       "time": "RS Expressões da Arte",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
-      "pontos": 17.7
+      "pontos": 5.0
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Bruno Henrique",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "FLA",
-      "pontos": 0.7
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Deyverson",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "FOR",
-      "pontos": 0.8
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Enner Valencia",
+      "nome": "Estêvão",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "PAL",
+      "pontos": 6.1
     },
     {
       "time": "RS Expressões da Arte",
-      "nome": "Thiago Carpini",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "ZIVI FC",
-      "nome": "Rochet",
+      "nome": "Rossi",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": 0.0
+      "clube": "FLA",
+      "pontos": 15.4
     },
     {
       "time": "ZIVI FC",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "ZIVI FC",
-      "nome": "Giay",
+      "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Léo Pereira",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.2
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
       "pontos": 5.0
     },
     {
       "time": "ZIVI FC",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "ZIVI FC",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "ZIVI FC",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "ZIVI FC",
-      "nome": "Gustavo Scarpa",
-      "posicao": "Meia",
-      "clube": "CAM",
-      "pontos": 4.7
-    },
-    {
-      "time": "ZIVI FC",
-      "nome": "Fernando",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 0.0
-    },
-    {
-      "time": "ZIVI FC",
-      "nome": "Hulk",
+      "nome": "Everton",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
+      "clube": "FLA",
+      "pontos": 3.8
     },
     {
       "time": "ZIVI FC",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
-      "pontos": 8.9
+      "pontos": 10.3
     },
     {
       "time": "ZIVI FC",
-      "nome": "Estêvão",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "ZIVI FC",
-      "nome": "Roger Machado",
+      "nome": "Abel Ferreira",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "PAL",
+      "pontos": 8.5
     },
     {
       "time": "O clube do povo Itaqui/Rss",
       "nome": "Weverton",
       "posicao": "Goleiro",
       "clube": "PAL",
-      "pontos": 2.9
+      "pontos": 10.2
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Wesley",
+      "nome": "Escobar",
       "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "O clube do povo Itaqui/Rss",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
       "clube": "SAN",
-      "pontos": 5.5
+      "pontos": 6.7
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
     },
     {
       "time": "O clube do povo Itaqui/Rss",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Richard Ríos",
+      "nome": "Gustavo Scarpa",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 5.4
+      "clube": "CAM",
+      "pontos": 12.5
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Guilherme",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "O clube do povo Itaqui/Rss",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
-      "pontos": 2.9
+      "pontos": 0.6
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Wesley",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "O clube do povo Itaqui/Rss",
-      "nome": "Roger Machado",
+      "nome": "Rafael Guanaes",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "MIR",
+      "pontos": 3.45
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Caíque França",
+      "nome": "Fábio",
       "posicao": "Goleiro",
-      "clube": "SPT",
-      "pontos": 6.3
+      "clube": "FLU",
+      "pontos": 4.2
     },
     {
       "time": "F.C. Rei Das Copas",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
-      "pontos": 0.0
+      "pontos": 10.4
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Escobar",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Léo Ortiz",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Gustavo Gómez",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 1.4
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
       "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "F.C. Rei Das Copas",
-      "nome": "Gabriel Bontempo",
-      "posicao": "Meia",
-      "clube": "SAN",
-      "pontos": 0.0
-    },
-    {
-      "time": "F.C. Rei Das Copas",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 6.4
     },
     {
       "time": "F.C. Rei Das Copas",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
-      "pontos": 3.9
+      "pontos": 14.5
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Guilherme",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Kaio Jorge",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "F.C. Rei Das Copas",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "F.C. Rei Das Copas",
-      "nome": "Pepa",
+      "nome": "Fábio Matias",
       "posicao": "Técnico",
-      "clube": "SPT",
-      "pontos": 5.58
+      "clube": "JUV",
+      "pontos": 3.49
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Ronaldo",
+      "nome": "Walter",
       "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Reinaldo",
-      "posicao": "Lateral",
       "clube": "MIR",
-      "pontos": 11.5
+      "pontos": 2.9
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Bernabéi",
+      "nome": "Andrés Hurtado",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 4.7
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "nome": "Giay",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 12.5
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Léo Ortiz",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Zé Ivaldo",
+      "posicao": "Zagueiro",
+      "clube": "SAN",
+      "pontos": 6.1
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 8.2
+      "pontos": 12.0
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
+      "nome": "Soteldo",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 1.4
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
       "pontos": 0.6
     },
     {
       "time": "Rolo Compressor ZN",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Rolo Compressor ZN",
-      "nome": "Thiago Carpini",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Ronaldo",
+      "nome": "Gabriel Brazão",
       "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
+      "clube": "SAN",
+      "pontos": 1.6
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Giay",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 5.0
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Bernabéi",
+      "nome": "Escobar",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "SAN",
+      "pontos": 6.7
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Victor Gabriel",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Vitão",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Taura da Fronteira FCIII",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Matheuzinho",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "Taura da Fronteira FCIII",
       "nome": "Eduardo Sasha",
       "posicao": "Atacante",
       "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
       "pontos": 12.2
     },
     {
       "time": "Taura da Fronteira FCIII",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Taura da Fronteira FCIII",
-      "nome": "Thiago Carpini",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Marcão",
+      "nome": "Fábio",
       "posicao": "Goleiro",
-      "clube": "JUV",
-      "pontos": 0.0
+      "clube": "FLU",
+      "pontos": 4.2
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Nathan",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Eleis-Itaqui",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 10.4
     },
     {
       "time": "Eleis-Itaqui",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Nathan",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
-      "time": "KING LEONN",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Léo Ortiz",
+      "time": "Eleis-Itaqui",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
-      "time": "KING LEONN",
-      "nome": "Victor Gabriel",
+      "time": "Eleis-Itaqui",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
-      "time": "KING LEONN",
-      "nome": "Matheuzinho",
+      "time": "Eleis-Itaqui",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "VIT",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
       "pontos": 0.6
     },
     {
-      "time": "KING LEONN",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Igor Jesus",
+      "time": "Eleis-Itaqui",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.4
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "KING LEONN",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Giay",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 5.0
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Gustavo Gómez",
-      "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
+      "clube": "GRE",
       "pontos": 3.6
     },
     {
-      "time": "Laranjja Mecannica",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 0.6
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Enner Valencia",
+      "time": "Eleis-Itaqui",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "Laranjja Mecannica",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Laranjja Mecannica",
-      "nome": "Roger Machado",
+      "time": "Eleis-Itaqui",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
-      "time": "Fedato Futebol Clube",
-      "nome": "Alex Muralha",
+      "time": "KING LEONN",
+      "nome": "Fábio",
       "posicao": "Goleiro",
-      "clube": "MIR",
-      "pontos": 4.8
+      "clube": "FLU",
+      "pontos": 4.2
     },
     {
-      "time": "Fedato Futebol Clube",
-      "nome": "Piquerez",
+      "time": "KING LEONN",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
-      "time": "Fedato Futebol Clube",
+      "time": "KING LEONN",
       "nome": "Bernabéi",
       "posicao": "Lateral",
       "clube": "INT",
-      "pontos": 1.3
+      "pontos": 3.1
     },
     {
-      "time": "Fedato Futebol Clube",
-      "nome": "Victor Gabriel",
+      "time": "KING LEONN",
+      "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.7
     },
     {
-      "time": "Fedato Futebol Clube",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Fedato Futebol Clube",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Weverton",
-      "posicao": "Goleiro",
-      "clube": "PAL",
-      "pontos": 2.9
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Matheus Bahia",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 13.5
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Vitão",
+      "time": "KING LEONN",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "INT",
+      "clube": "FLA",
       "pontos": 1.2
     },
     {
-      "time": "Perronee F.C",
-      "nome": "Junior Alonso",
-      "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 3.2
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Erick Pulgar",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 2.6
-    },
-    {
-      "time": "Perronee F.C",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Perronee F.C",
+      "time": "KING LEONN",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
-      "time": "Perronee F.C",
-      "nome": "Enner Valencia",
+      "time": "KING LEONN",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
-      "time": "Perronee F.C",
+      "time": "KING LEONN",
       "nome": "Wesley",
       "posicao": "Atacante",
       "clube": "INT",
-      "pontos": 8.9
+      "pontos": 10.3
     },
     {
-      "time": "Perronee F.C",
-      "nome": "Estêvão",
+      "time": "KING LEONN",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "Perronee F.C",
-      "nome": "Roger Machado",
+      "time": "KING LEONN",
+      "nome": "Fernando Seabra",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "RBB",
+      "pontos": 7.71
     },
     {
-      "time": "Pity10",
-      "nome": "Fernando Miguel",
+      "time": "Laranjja Mecannica",
+      "nome": "Alex Muralha",
       "posicao": "Goleiro",
-      "clube": "CEA",
-      "pontos": 2.9
+      "clube": "MIR",
+      "pontos": 0.0
     },
     {
-      "time": "Pity10",
+      "time": "Laranjja Mecannica",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 3.1
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Wanderson",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 3.8
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 10.3
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Marcão",
+      "posicao": "Goleiro",
+      "clube": "JUV",
+      "pontos": 6.8
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Fedato Futebol Clube",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
-      "pontos": 0.0
+      "pontos": 10.4
     },
     {
-      "time": "Pity10",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Pity10",
-      "nome": "Gustavo Gómez",
+      "time": "Fedato Futebol Clube",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": -0.4
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
-      "time": "Pity10",
-      "nome": "Léo Ortiz",
+      "time": "Fedato Futebol Clube",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
-      "time": "Pity10",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Pity10",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "Pity10",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "Pity10",
-      "nome": "Flaco López",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 5.3
-    },
-    {
-      "time": "Pity10",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Pity10",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Pity10",
-      "nome": "Thiago Carpini",
-      "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Giay",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 5.0
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "pra sempre imortal fc",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
-    },
-    {
-      "time": "pra sempre imortal fc",
+      "time": "Fedato Futebol Clube",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
-      "time": "pra sempre imortal fc",
-      "nome": "Guilherme",
+      "time": "Fedato Futebol Clube",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
-      "time": "pra sempre imortal fc",
-      "nome": "Kaio Jorge",
+      "time": "Fedato Futebol Clube",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "pra sempre imortal fc",
+      "time": "Fedato Futebol Clube",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
-      "time": "pra sempre imortal fc",
-      "nome": "Roger Machado",
+      "time": "Fedato Futebol Clube",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "João Paulo",
+      "time": "Perronee F.C",
+      "nome": "Cleiton",
       "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 0.0
+      "clube": "RBB",
+      "pontos": 8.9
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Bernabéi",
+      "time": "Perronee F.C",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Wesley",
+      "time": "Perronee F.C",
+      "nome": "Piquerez",
       "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Léo Pereira",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 10.9
+      "pontos": 0.2
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Victor Gabriel",
+      "time": "Perronee F.C",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "RHANKA DENTY FC25",
+      "time": "Perronee F.C",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Alan Patrick",
+      "time": "Perronee F.C",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Matheuzinho",
+      "time": "Perronee F.C",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Wesley",
+      "time": "Perronee F.C",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "COR",
+      "pontos": 24.1
     },
     {
-      "time": "RHANKA DENTY FC25",
+      "time": "Perronee F.C",
+      "nome": "Lucas Barbosa",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 3.9
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Pity10",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "Pity10",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Pity10",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "Pity10",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "Pity10",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Pity10",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Canobbio",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 6.3
+    },
+    {
+      "time": "Pity10",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "RHANKA DENTY FC25",
-      "nome": "Roger Machado",
+      "time": "Pity10",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
-      "time": "TEAM LOPES 99",
+      "time": "pra sempre imortal fc",
       "nome": "Fernando Miguel",
       "posicao": "Goleiro",
       "clube": "CEA",
-      "pontos": 2.9
+      "pontos": 9.9
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Bernabéi",
+      "time": "pra sempre imortal fc",
+      "nome": "Samuel Xavier",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "FLU",
+      "pontos": 4.5
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Ayrton Lucas",
+      "time": "pra sempre imortal fc",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 7.2
+      "pontos": 1.2
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Jair",
+      "time": "pra sempre imortal fc",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 7.3
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "TEAM LOPES 99",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "TEAM LOPES 99",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "TEAM LOPES 99",
+      "time": "pra sempre imortal fc",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Guilherme",
+      "time": "pra sempre imortal fc",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "COR",
+      "pontos": 24.1
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Kaio Jorge",
+      "time": "pra sempre imortal fc",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Wesley",
+      "time": "pra sempre imortal fc",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "TEAM LOPES 99",
-      "nome": "Roger Machado",
+      "time": "pra sempre imortal fc",
+      "nome": "Fernando Seabra",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "RBB",
+      "pontos": 7.71
     },
     {
-      "time": "pura bucha /botafogo",
+      "time": "RHANKA DENTY FC25",
       "nome": "Weverton",
       "posicao": "Goleiro",
       "clube": "PAL",
-      "pontos": 2.9
+      "pontos": 10.2
     },
     {
-      "time": "pura bucha /botafogo",
-      "nome": "Bernabéi",
+      "time": "RHANKA DENTY FC25",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
-      "time": "pura bucha /botafogo",
-      "nome": "Escobar",
+      "time": "RHANKA DENTY FC25",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "pura bucha /botafogo",
-      "nome": "Gustavo Gómez",
-      "posicao": "Zagueiro",
       "clube": "PAL",
-      "pontos": -0.4
+      "pontos": 10.4
     },
     {
-      "time": "pura bucha /botafogo",
-      "nome": "Junior Alonso",
+      "time": "RHANKA DENTY FC25",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "CAM",
-      "pontos": 3.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
-      "time": "pura bucha /botafogo",
-      "nome": "Erick Pulgar",
+      "time": "RHANKA DENTY FC25",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 2.6
+      "pontos": 12.0
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Marcos Felipe",
+      "posicao": "Goleiro",
+      "clube": "BAH",
+      "pontos": 10.2
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Alan Patrick",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Giay",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 12.5
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Jean Lucas",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "BAH",
+      "pontos": 2.0
     },
     {
       "time": "pura bucha /botafogo",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Wesley",
+      "nome": "Everton",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 3.8
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
     },
     {
       "time": "pura bucha /botafogo",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "pura bucha /botafogo",
-      "nome": "Thiago Carpini",
+      "nome": "Fábio Matias",
       "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
+      "clube": "JUV",
+      "pontos": 3.49
     },
     {
       "time": "cartola scheuer",
-      "nome": "Bruno Ferreira",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
       "clube": "CEA",
-      "pontos": 0.0
+      "pontos": 9.9
     },
     {
       "time": "cartola scheuer",
-      "nome": "Escobar",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "cartola scheuer",
-      "nome": "Bernabéi",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "cartola scheuer",
-      "nome": "Léo Ortiz",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "cartola scheuer",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "cartola scheuer",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "cartola scheuer",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "cartola scheuer",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "cartola scheuer",
-      "nome": "Guilherme",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "cartola scheuer",
-      "nome": "Wesley",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "cartola scheuer",
-      "nome": "Estêvão",
+      "nome": "Everaldo",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "FLU",
+      "pontos": 12.2
     },
     {
       "time": "cartola scheuer",
-      "nome": "Thiago Carpini",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Ronaldo",
+      "nome": "Marcos Felipe",
       "posicao": "Goleiro",
       "clube": "BAH",
-      "pontos": 0.0
+      "pontos": 10.2
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Escobar",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Bernabéi",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 8.2
+      "pontos": 1.2
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Matheuzinho",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Wesley",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "COR",
+      "pontos": 24.1
     },
     {
       "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Estêvão",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Analove10 ITAQUI GRANDE!!",
-      "nome": "Thiago Carpini",
-      "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Ronaldo",
-      "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 8.2
+      "pontos": 2.7
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "DM Studio",
+      "nome": "Tiago Volpi",
+      "posicao": "Goleiro",
+      "clube": "GRE",
+      "pontos": 7.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 3.4
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 13.7
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Rossi",
+      "posicao": "Goleiro",
+      "clube": "FLA",
+      "pontos": 15.4
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 0.9
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "lsauer fc",
       "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
       "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "DM Studio",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "lsauer fc",
-      "nome": "Weverton",
-      "posicao": "Goleiro",
-      "clube": "PAL",
-      "pontos": 2.9
-    },
-    {
-      "time": "lsauer fc",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "lsauer fc",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "lsauer fc",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "lsauer fc",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "lsauer fc",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "pontos": 6.7
     },
     {
       "time": "lsauer fc",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "lsauer fc",
-      "nome": "Felipe Anderson",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "lsauer fc",
-      "nome": "Kaio Jorge",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "lsauer fc",
-      "nome": "Wesley",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
       "time": "lsauer fc",
-      "nome": "Estêvão",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "lsauer fc",
-      "nome": "Roger Machado",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Léo Jardim",
+      "nome": "Fábio",
       "posicao": "Goleiro",
-      "clube": "VAS",
-      "pontos": 2.9
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "VASCO MARTINS FC",
       "nome": "Paulo Henrique",
       "posicao": "Lateral",
       "clube": "VAS",
-      "pontos": 6.2
+      "pontos": 3.7
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Diego",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 3.5
-    },
-    {
-      "time": "VASCO MARTINS FC",
-      "nome": "João Victor",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "VAS",
-      "pontos": 0.5
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Lucas Freitas",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "VAS",
-      "pontos": 2.5
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Alan Patrick",
+      "nome": "Luis Mandaca",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "JUV",
+      "pontos": 2.6
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Philippe Coutinho",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "VAS",
-      "pontos": 4.0
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Emiliano Martínez",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 0.0
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Enner Valencia",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "BAH",
+      "pontos": 8.6
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Estêvão",
+      "nome": "Cristian Olivera",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "GRE",
+      "pontos": 13.9
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Vegetti",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "VAS",
-      "pontos": 1.0
+      "clube": "COR",
+      "pontos": 24.1
     },
     {
       "time": "VASCO MARTINS FC",
-      "nome": "Fábio Carille",
+      "nome": "Fernando Seabra",
       "posicao": "Técnico",
-      "clube": "OUT",
-      "pontos": 3.54
+      "clube": "RBB",
+      "pontos": 7.71
     },
     {
       "time": "KP JUV.",
-      "nome": "Rossi",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 7.6
+      "pontos": 1.2
     },
     {
       "time": "KP JUV.",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "KP JUV.",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "KP JUV.",
-      "nome": "Gustavo Gómez",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "KP JUV.",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "KP JUV.",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "KP JUV.",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "KP JUV.",
-      "nome": "Felipe Anderson",
+      "nome": "Rubens",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "clube": "CAM",
+      "pontos": 11.7
     },
     {
       "time": "KP JUV.",
-      "nome": "Guilherme",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "KP JUV.",
-      "nome": "Estêvão",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
       "time": "KP JUV.",
-      "nome": "Wesley",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "KP JUV.",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "BORGES ITAQUI F.C.",
-      "nome": "Gabriel Brazão",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "SAN",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 9.0
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
       "pontos": 4.2
     },
     {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
+      "time": "TIGRE LEON",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
-      "pontos": 9.8
+      "pontos": 6.7
     },
     {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Jonathan Jesus",
+      "time": "TIGRE LEON",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 6.2
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Victor Gabriel",
+      "time": "TIGRE LEON",
+      "nome": "Santiago Mingo",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "BORGES ITAQUI F.C.",
-      "nome": "Léo Condé",
-      "posicao": "Técnico",
-      "clube": "CEA",
-      "pontos": 5.1
-    },
-    {
-      "time": "Profit Soccer",
-      "nome": "Ronaldo",
-      "posicao": "Goleiro",
       "clube": "BAH",
-      "pontos": 0.0
+      "pontos": 7.0
     },
     {
-      "time": "Profit Soccer",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
+      "time": "TIGRE LEON",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 8.7
     },
     {
-      "time": "Profit Soccer",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Profit Soccer",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Profit Soccer",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 7.3
-    },
-    {
-      "time": "Profit Soccer",
+      "time": "TIGRE LEON",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
-      "time": "Profit Soccer",
-      "nome": "Bruno Tabata",
+      "time": "TIGRE LEON",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 3.6
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
-      "time": "Profit Soccer",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Profit Soccer",
-      "nome": "Wesley",
+      "time": "TIGRE LEON",
+      "nome": "Erick Pulga",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "BAH",
+      "pontos": 8.6
     },
     {
-      "time": "Profit Soccer",
-      "nome": "Guilherme",
+      "time": "TIGRE LEON",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "Profit Soccer",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Profit Soccer",
-      "nome": "Leonardo Jardim",
-      "posicao": "Técnico",
-      "clube": "CRU",
-      "pontos": 7.87
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Giay",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 5.0
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Tabajara de Inhaua FC2",
+      "time": "TIGRE LEON",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
-      "time": "Tabajara de Inhaua FC2",
-      "nome": "Léo Condé",
+      "time": "TIGRE LEON",
+      "nome": "Fernando Seabra",
       "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
       "clube": "CEA",
-      "pontos": 5.1
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Nathan",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 3.6
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "TIGRE LEON",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "pontos": 12.2
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Giay",
-      "posicao": "Lateral",
-      "clube": "PAL",
+      "nome": "Guzmán Rodríguez",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
       "pontos": 5.0
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "S.E.R. GRILLO",
-      "nome": "Victor Gabriel",
+      "nome": "Marllon",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "CEA",
+      "pontos": 15.2
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "S.E.R. GRILLO",
-      "nome": "Lucas Romero",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 7.2
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "S.E.R. GRILLO",
       "nome": "Alan Patrick",
       "posicao": "Meia",
       "clube": "INT",
-      "pontos": 17.7
+      "pontos": 5.0
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "De la Cruz",
+      "nome": "Martinelli",
       "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 2.9
+      "clube": "FLU",
+      "pontos": -0.9
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Wesley",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Enner Valencia",
       "posicao": "Atacante",
       "clube": "INT",
-      "pontos": 8.9
+      "pontos": 1.1
     },
     {
       "time": "S.E.R. GRILLO",
       "nome": "Pedro Henrique",
       "posicao": "Atacante",
       "clube": "CEA",
-      "pontos": 9.1
+      "pontos": 10.8
     },
     {
       "time": "S.E.R. GRILLO",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.4
-    },
-    {
-      "time": "S.E.R. GRILLO",
-      "nome": "Leonardo Jardim",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "CRU",
-      "pontos": 7.87
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "seralex",
       "nome": "Anthoni",
       "posicao": "Goleiro",
       "clube": "INT",
-      "pontos": -1.0
+      "pontos": 2.5
     },
     {
       "time": "seralex",
-      "nome": "Nathan",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "seralex",
-      "nome": "Bernabéi",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "seralex",
-      "nome": "Vitão",
+      "nome": "Willian Machado",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "CEA",
+      "pontos": 6.3
     },
     {
       "time": "seralex",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "seralex",
-      "nome": "Savarino",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "seralex",
-      "nome": "Bruno Tabata",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "seralex",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "seralex",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
       "pontos": 3.6
     },
     {
       "time": "seralex",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "seralex",
-      "nome": "Hulk",
+      "nome": "Everaldo",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
+      "clube": "FLU",
+      "pontos": 12.2
     },
     {
       "time": "seralex",
-      "nome": "Guilherme",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "seralex",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "seralex",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Bruno Ferreira",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
       "clube": "CEA",
-      "pontos": 0.0
+      "pontos": 9.9
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Escobar",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Victor Gabriel",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Léo Ortiz",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Edenílson",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "GRE",
-      "pontos": 2.2
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "E.C. Bororé",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Wesley",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "E.C. Bororé",
-      "nome": "Estêvão",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "E.C. Bororé",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "E.C. Bororé",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Anthoni",
-      "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Paulo Henrique",
-      "posicao": "Lateral",
-      "clube": "VAS",
-      "pontos": 6.2
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Zé Ivaldo",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 2.2
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Erick Pulgar",
-      "posicao": "Meia",
       "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Léo Jardim",
+      "posicao": "Goleiro",
+      "clube": "VAS",
+      "pontos": 0.3
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Andrés Hurtado",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 4.7
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Luis Mandaca",
+      "posicao": "Meia",
+      "clube": "JUV",
       "pontos": 2.6
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
       "pontos": 0.6
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Guilherme",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "COR",
+      "pontos": 24.1
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Enner Valencia",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "MAFRA MARTINS FC",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "MAFRA MARTINS FC",
-      "nome": "Thiago Carpini",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "BordonFC",
-      "nome": "Ronaldo",
+      "nome": "Marcão",
       "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
+      "clube": "JUV",
+      "pontos": 6.8
     },
     {
       "time": "BordonFC",
-      "nome": "Escobar",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "BordonFC",
-      "nome": "Wesley",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "BordonFC",
-      "nome": "Villalba",
+      "nome": "Bruno Fuchs",
       "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
+      "clube": "PAL",
+      "pontos": 10.3
     },
     {
       "time": "BordonFC",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "BordonFC",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "BordonFC",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 0.6
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "BordonFC",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "BordonFC",
-      "nome": "Hulk",
-      "posicao": "Atacante",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
       "clube": "CAM",
-      "pontos": 15.9
+      "pontos": 12.5
     },
     {
       "time": "BordonFC",
-      "nome": "Wesley",
+      "nome": "Cristian Olivera",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "GRE",
+      "pontos": 13.9
     },
     {
       "time": "BordonFC",
-      "nome": "Kaio Jorge",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "BordonFC",
-      "nome": "Roger Machado",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Rochet",
+      "nome": "Anthoni",
       "posicao": "Goleiro",
       "clube": "INT",
-      "pontos": 0.0
+      "pontos": 2.5
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Marlon",
+      "nome": "Luciano Juba",
       "posicao": "Lateral",
+      "clube": "BAH",
+      "pontos": 6.4
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
       "clube": "GRE",
-      "pontos": -0.9
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Fagner",
-      "posicao": "Lateral",
-      "clube": "CRU",
-      "pontos": 7.0
+      "pontos": 9.0
     },
     {
       "time": "Tatols Beants F.C",
       "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
       "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
       "pontos": 1.2
     },
     {
@@ -37180,1582 +37180,1582 @@ const escalacoesGerais = {
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Villasanti",
+      "nome": "Arias",
       "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
       "clube": "GRE",
-      "pontos": -0.3
+      "pontos": 13.9
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Estêvão",
+      "nome": "Everaldo",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "FLU",
+      "pontos": 12.2
     },
     {
       "time": "Tatols Beants F.C",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Tatols Beants F.C",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Rossi",
-      "posicao": "Goleiro",
-      "clube": "FLA",
-      "pontos": 7.6
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 3.6
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "FIGUEIRA DA ILHA",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Rossi",
-      "posicao": "Goleiro",
-      "clube": "FLA",
-      "pontos": 7.6
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Ayrton Lucas",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 7.2
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "MauHumor F.C.",
-      "nome": "Thiago Carpini",
-      "posicao": "Técnico",
-      "clube": "VIT",
-      "pontos": 3.65
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Robert",
-      "posicao": "Goleiro",
-      "clube": "CAM",
-      "pontos": 0.0
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "A Lenda Super Vascão f.c",
-      "nome": "Pepa",
-      "posicao": "Técnico",
-      "clube": "SPT",
-      "pontos": 5.58
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Rossi",
-      "posicao": "Goleiro",
-      "clube": "FLA",
-      "pontos": 7.6
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Matheus Bahia",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 13.5
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Rafael Ramos",
-      "posicao": "Lateral",
-      "clube": "CEA",
-      "pontos": 2.4
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Gerson",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 3.2
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Danielzinho",
-      "posicao": "Meia",
-      "clube": "MIR",
-      "pontos": 0.6
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Bruno Tabata",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 3.6
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Enner Valencia",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Wanderson",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 0.9
-    },
-    {
-      "time": "TATITTA FC",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Ronaldo",
-      "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Villalba",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "HS SPORTS F.C",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "HS SPORTS F.C",
       "nome": "Léo Condé",
       "posicao": "Técnico",
       "clube": "CEA",
-      "pontos": 5.1
+      "pontos": 10.26
     },
     {
-      "time": "Dom Camillo68",
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "MauHumor F.C.",
       "nome": "Weverton",
       "posicao": "Goleiro",
       "clube": "PAL",
-      "pontos": 2.9
+      "pontos": 10.2
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Fabiano Souza",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 4.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 1.2
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 2.0
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 8.7
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Lucas Barbosa",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 3.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
+      "clube": "INT",
+      "pontos": 2.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 5.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Bernabéi",
+      "nome": "Rossi",
+      "posicao": "Goleiro",
+      "clube": "FLA",
+      "pontos": 15.4
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "Dom Camillo68",
       "nome": "Juninho Capixaba",
       "posicao": "Lateral",
       "clube": "RBB",
-      "pontos": 5.5
+      "pontos": 10.1
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Villalba",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Gustavo Gómez",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "PAL",
-      "pontos": -0.4
-    },
-    {
-      "time": "Dom Camillo68",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Dom Camillo68",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Lucas Ferreira",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "SAO",
-      "pontos": 1.1
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Guilherme",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Cristian Olivera",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "GRE",
+      "pontos": 13.9
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Kaio Jorge",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Estêvão",
+      "nome": "Pedro Henrique",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "CEA",
+      "pontos": 10.8
     },
     {
       "time": "Dom Camillo68",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Anthoni",
+      "nome": "Fábio",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "FLU",
+      "pontos": 4.2
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Bernabéi",
+      "nome": "Matheus Bahia",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "CEA",
+      "pontos": 12.2
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Marlon",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "GRE",
-      "pontos": -0.9
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Vitão",
+      "nome": "Marllon",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "CEA",
+      "pontos": 15.2
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Léo Ortiz",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Gabriel",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 6.0
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "mercearia Estrela",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "mercearia Estrela",
-      "nome": "Edenílson",
-      "posicao": "Meia",
-      "clube": "GRE",
-      "pontos": 2.2
+      "pontos": 12.0
     },
     {
       "time": "mercearia Estrela",
       "nome": "Arias",
       "posicao": "Meia",
       "clube": "FLU",
-      "pontos": 3.9
+      "pontos": 14.5
     },
     {
       "time": "mercearia Estrela",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
-    },
-    {
-      "time": "mercearia Estrela",
-      "nome": "Cristian Olivera",
-      "posicao": "Atacante",
-      "clube": "GRE",
-      "pontos": 2.9
-    },
-    {
-      "time": "mercearia Estrela",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "mercearia Estrela",
-      "nome": "Luis Zubeldía",
-      "posicao": "Técnico",
-      "clube": "SAO",
-      "pontos": 2.82
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Gabriel Brazão",
-      "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 4.2
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Escobar",
-      "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Jonathan Jesus",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 6.2
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "CosmoCity ZO",
-      "nome": "Rafael Guanaes",
-      "posicao": "Técnico",
-      "clube": "MIR",
-      "pontos": 4.28
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Fábio",
-      "posicao": "Goleiro",
-      "clube": "FLU",
-      "pontos": 4.5
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "João Pedro",
-      "posicao": "Lateral",
-      "clube": "GRE",
-      "pontos": 0.0
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Piquerez",
-      "posicao": "Lateral",
-      "clube": "PAL",
-      "pontos": 0.0
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Villalba",
-      "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "clarinvalau fc",
-      "nome": "Edenílson",
-      "posicao": "Meia",
-      "clube": "GRE",
-      "pontos": 2.2
-    },
-    {
-      "time": "clarinvalau fc",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
-      "pontos": 2.9
+      "pontos": 0.6
     },
     {
-      "time": "clarinvalau fc",
+      "time": "mercearia Estrela",
       "nome": "Gilberto",
       "posicao": "Atacante",
       "clube": "JUV",
-      "pontos": 6.1
+      "pontos": 1.9
     },
     {
-      "time": "clarinvalau fc",
-      "nome": "Estêvão",
+      "time": "mercearia Estrela",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "clarinvalau fc",
-      "nome": "Rafael Guanaes",
+      "time": "mercearia Estrela",
+      "nome": "Fábio Matias",
       "posicao": "Técnico",
-      "clube": "MIR",
-      "pontos": 4.28
+      "clube": "JUV",
+      "pontos": 3.49
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Anthoni",
+      "time": "CosmoCity ZO",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "CEA",
+      "pontos": 9.9
     },
     {
-      "time": "Grêmio imortal 37",
+      "time": "CosmoCity ZO",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "CosmoCity ZO",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
-      "pontos": 9.8
+      "pontos": 6.7
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "Grêmio imortal 37",
-      "nome": "Vitão",
+      "time": "CosmoCity ZO",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Victor Gabriel",
+      "time": "CosmoCity ZO",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Matheus Pereira",
+      "time": "CosmoCity ZO",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
+      "clube": "FLA",
+      "pontos": 12.0
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Alan Patrick",
+      "time": "CosmoCity ZO",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Felipe Anderson",
+      "time": "CosmoCity ZO",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Kaio Jorge",
+      "time": "CosmoCity ZO",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Wesley",
+      "time": "CosmoCity ZO",
+      "nome": "Braithwaite",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "GRE",
+      "pontos": 3.6
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Guilherme",
+      "time": "CosmoCity ZO",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
-      "time": "Grêmio imortal 37",
-      "nome": "Roger Machado",
+      "time": "CosmoCity ZO",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Cássio",
-      "posicao": "Goleiro",
-      "clube": "CRU",
-      "pontos": 11.5
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Claudinho",
-      "posicao": "Lateral",
-      "clube": "VIT",
-      "pontos": 3.5
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Jair",
-      "posicao": "Zagueiro",
-      "clube": "BOT",
-      "pontos": 7.3
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "SERGRILLO",
-      "nome": "Fernando Sobral",
-      "posicao": "Meia",
       "clube": "CEA",
-      "pontos": 4.0
+      "pontos": 10.26
     },
     {
-      "time": "SERGRILLO",
-      "nome": "Matheuzinho",
+      "time": "clarinvalau fc",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Alan Ruschel",
+      "posicao": "Lateral",
+      "clube": "JUV",
+      "pontos": 2.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "VIT",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
       "pontos": 0.6
     },
     {
-      "time": "SERGRILLO",
-      "nome": "Enner Valencia",
+      "time": "clarinvalau fc",
+      "nome": "Keno",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "FLU",
+      "pontos": 0.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "SERGRILLO",
-      "nome": "Wesley",
-      "posicao": "Atacante",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Paulo Henrique",
+      "posicao": "Lateral",
+      "clube": "VAS",
+      "pontos": 3.7
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Willian Machado",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 6.3
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "De la Cruz",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 2.4
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
       "clube": "INT",
-      "pontos": 8.9
+      "pontos": 5.0
     },
     {
       "time": "SERGRILLO",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
-      "pontos": 2.9
+      "pontos": 0.6
     },
     {
       "time": "SERGRILLO",
-      "nome": "Roger Machado",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 10.3
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Gabriel Brazão",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 4.2
-    },
-    {
-      "time": "Super Vasco f.c",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "CEA",
+      "pontos": 9.9
     },
     {
       "time": "Super Vasco f.c",
       "nome": "Piquerez",
       "posicao": "Lateral",
       "clube": "PAL",
-      "pontos": 0.0
+      "pontos": 10.4
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Léo Ortiz",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Super Vasco f.c",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Super Vasco f.c",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Super Vasco f.c",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Guilherme",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "Super Vasco f.c",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Wesley",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "Super Vasco f.c",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Marcão",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "JUV",
-      "pontos": 0.0
+      "clube": "CEA",
+      "pontos": 9.9
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Escobar",
+      "nome": "Marlon",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "GRE",
+      "pontos": 8.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Léo Ortiz",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Villalba",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Alan Patrick",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "A Lenda Super Vasco F.c",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Bruno Tabata",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 3.6
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Guilherme",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "FLA",
+      "pontos": 2.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Wesley",
+      "nome": "Everaldo",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLU",
+      "pontos": 12.2
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Estêvão",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "A Lenda Super Vasco F.c",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Paulo Virgili FC",
       "nome": "Fernando Miguel",
       "posicao": "Goleiro",
       "clube": "CEA",
-      "pontos": 2.9
+      "pontos": 9.9
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Marlon",
+      "nome": "Matheus Bahia",
       "posicao": "Lateral",
-      "clube": "GRE",
-      "pontos": -0.9
+      "clube": "CEA",
+      "pontos": 12.2
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Escobar",
+      "nome": "Samuel Xavier",
       "posicao": "Lateral",
-      "clube": "SAN",
-      "pontos": 9.8
+      "clube": "FLU",
+      "pontos": 4.5
     },
     {
       "time": "Paulo Virgili FC",
       "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
       "clube": "GRE",
-      "pontos": 5.9
+      "pontos": 9.0
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Villalba",
+      "nome": "Cacá",
       "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
+      "clube": "COR",
+      "pontos": 0.0
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Savarino",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Jadson",
+      "nome": "Carrillo",
       "posicao": "Meia",
-      "clube": "JUV",
-      "pontos": 0.4
+      "clube": "COR",
+      "pontos": 0.9
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Villasanti",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "GRE",
-      "pontos": -0.3
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Kaio Jorge",
+      "nome": "Pedro Raul",
       "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
+      "clube": "CEA",
+      "pontos": 0.6
     },
     {
       "time": "Paulo Virgili FC",
       "nome": "Cristian Olivera",
       "posicao": "Atacante",
       "clube": "GRE",
-      "pontos": 2.9
+      "pontos": 13.9
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Igor Jesus",
+      "nome": "Yuri Alberto",
       "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.4
+      "clube": "COR",
+      "pontos": 24.1
     },
     {
       "time": "Paulo Virgili FC",
-      "nome": "Mano Menezes",
+      "nome": "Fábio Matias",
       "posicao": "Técnico",
-      "clube": "GRE",
-      "pontos": 4.19
+      "clube": "JUV",
+      "pontos": 3.49
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Gustavo",
+      "nome": "Anthoni",
       "posicao": "Goleiro",
-      "clube": "JUV",
-      "pontos": 3.7
+      "clube": "INT",
+      "pontos": 2.5
     },
     {
       "time": "CALOMBO ITAQUI RS",
       "nome": "Wesley",
       "posicao": "Lateral",
       "clube": "FLA",
-      "pontos": 10.9
+      "pontos": 0.9
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Aguirre",
+      "nome": "Gabriel Fuentes",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.0
+      "clube": "FLU",
+      "pontos": 7.5
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Abner",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "JUV",
-      "pontos": -0.5
+      "clube": "FLA",
+      "pontos": 1.2
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Félix Torres",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "COR",
-      "pontos": 0.0
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Savarino",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "CALOMBO ITAQUI RS",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Gerson",
+      "nome": "Erick Pulgar",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 3.2
+      "pontos": 3.0
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Yuri Alberto",
-      "posicao": "Atacante",
-      "clube": "COR",
-      "pontos": -0.3
-    },
-    {
-      "time": "CALOMBO ITAQUI RS",
-      "nome": "Eduardo Sasha",
+      "nome": "Lucas Barbosa",
       "posicao": "Atacante",
       "clube": "RBB",
-      "pontos": 12.2
+      "pontos": 3.9
     },
     {
       "time": "CALOMBO ITAQUI RS",
-      "nome": "Cano",
+      "nome": "Cuello",
       "posicao": "Atacante",
-      "clube": "FLU",
-      "pontos": 1.2
+      "clube": "CAM",
+      "pontos": 3.4
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
     },
     {
       "time": "CALOMBO ITAQUI RS",
       "nome": "Fábio Matias",
       "posicao": "Técnico",
       "clube": "JUV",
-      "pontos": 4.13
+      "pontos": 3.49
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Anthoni",
+      "nome": "Fernando Miguel",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "CEA",
+      "pontos": 9.9
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Claudinho",
+      "nome": "Matheus Bahia",
       "posicao": "Lateral",
-      "clube": "VIT",
-      "pontos": 3.5
+      "clube": "CEA",
+      "pontos": 12.2
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Natanael",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "CAM",
-      "pontos": 0.0
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Vitão",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Léo Ortiz",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Luis lemes inter",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
-    },
-    {
-      "time": "Luis lemes inter",
-      "nome": "Gerson",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 3.2
+      "pontos": 12.0
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Hulk",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Everton",
       "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
+      "clube": "FLA",
+      "pontos": 3.8
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Estêvão",
+      "nome": "Eduardo Sasha",
       "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Guilherme",
+      "nome": "Pedro Henrique",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "clube": "CEA",
+      "pontos": 10.8
     },
     {
       "time": "Luis lemes inter",
-      "nome": "Abel Ferreira",
+      "nome": "Fernando Seabra",
       "posicao": "Técnico",
-      "clube": "PAL",
-      "pontos": 3.06
+      "clube": "RBB",
+      "pontos": 7.71
     },
     {
       "time": "emer jr fc",
-      "nome": "Tiago Volpi",
+      "nome": "Cleiton",
       "posicao": "Goleiro",
-      "clube": "GRE",
-      "pontos": 2.1
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Cuiabano",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 2.0
     },
     {
       "time": "emer jr fc",
       "nome": "Marlon",
       "posicao": "Lateral",
       "clube": "GRE",
-      "pontos": -0.9
-    },
-    {
-      "time": "emer jr fc",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "emer jr fc",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "pontos": 8.7
     },
     {
       "time": "emer jr fc",
       "nome": "Wagner Leonardo",
       "posicao": "Zagueiro",
       "clube": "GRE",
-      "pontos": 5.9
+      "pontos": 9.0
     },
     {
       "time": "emer jr fc",
-      "nome": "Alan Patrick",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Rubens",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "emer jr fc",
       "nome": "Gustavo Scarpa",
       "posicao": "Meia",
       "clube": "CAM",
-      "pontos": 4.7
+      "pontos": 12.5
     },
     {
       "time": "emer jr fc",
-      "nome": "Erick Pulgar",
-      "posicao": "Meia",
+      "nome": "Everton",
+      "posicao": "Atacante",
       "clube": "FLA",
-      "pontos": 2.6
-    },
-    {
-      "time": "emer jr fc",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "emer jr fc",
-      "nome": "Gabriel Veron",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.7
+      "pontos": 3.8
     },
     {
       "time": "emer jr fc",
       "nome": "Cristian Olivera",
       "posicao": "Atacante",
       "clube": "GRE",
-      "pontos": 2.9
+      "pontos": 13.9
     },
     {
       "time": "emer jr fc",
-      "nome": "Mano Menezes",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "GRE",
-      "pontos": 4.19
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Anthoni",
+      "nome": "Weverton",
       "posicao": "Goleiro",
-      "clube": "INT",
-      "pontos": -1.0
+      "clube": "PAL",
+      "pontos": 10.2
     },
     {
       "time": "Cril Futebol Club",
       "nome": "Marlon",
       "posicao": "Lateral",
       "clube": "GRE",
-      "pontos": -0.9
+      "pontos": 8.7
     },
     {
       "time": "Cril Futebol Club",
       "nome": "Matheus Bahia",
       "posicao": "Lateral",
       "clube": "CEA",
-      "pontos": 13.5
+      "pontos": 12.2
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Vitão",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Léo Ortiz",
+      "nome": "Pedro Henrique",
       "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
+      "clube": "RBB",
+      "pontos": 12.0
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Alan Patrick",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Emiliano Martínez",
+      "nome": "Jhon Jhon",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 0.0
+      "clube": "RBB",
+      "pontos": 5.8
     },
     {
       "time": "Cril Futebol Club",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Cril Futebol Club",
-      "nome": "Igor Jesus",
-      "posicao": "Atacante",
-      "clube": "BOT",
-      "pontos": 13.4
-    },
-    {
-      "time": "Cril Futebol Club",
-      "nome": "Cristian Olivera",
-      "posicao": "Atacante",
-      "clube": "GRE",
-      "pontos": 2.9
+      "pontos": 12.0
     },
     {
       "time": "Cril Futebol Club",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "Cril Futebol Club",
-      "nome": "Renato Paiva",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Léo Condé",
       "posicao": "Técnico",
-      "clube": "BOT",
-      "pontos": 8.65
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "ITAQUI F.C.",
       "nome": "Cássio",
       "posicao": "Goleiro",
       "clube": "CRU",
-      "pontos": 11.5
+      "pontos": 2.9
     },
     {
       "time": "ITAQUI F.C.",
       "nome": "Natanael",
       "posicao": "Lateral",
       "clube": "CAM",
-      "pontos": 0.0
+      "pontos": 14.4
     },
     {
       "time": "ITAQUI F.C.",
       "nome": "Enzo Díaz",
       "posicao": "Lateral",
       "clube": "SAO",
-      "pontos": 1.1
+      "pontos": 0.0
     },
     {
       "time": "ITAQUI F.C.",
@@ -38769,35 +38769,42 @@ const escalacoesGerais = {
       "nome": "Abner",
       "posicao": "Zagueiro",
       "clube": "JUV",
-      "pontos": -0.5
-    },
-    {
-      "time": "ITAQUI F.C.",
-      "nome": "Lucas Romero",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 7.2
-    },
-    {
-      "time": "ITAQUI F.C.",
-      "nome": "Raniele",
-      "posicao": "Meia",
-      "clube": "COR",
-      "pontos": 2.5
+      "pontos": 0.0
     },
     {
       "time": "ITAQUI F.C.",
       "nome": "Alisson",
       "posicao": "Meia",
       "clube": "SAO",
-      "pontos": 2.2
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Lucas Romero",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 6.9
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Raniele",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 7.3
     },
     {
       "time": "ITAQUI F.C.",
       "nome": "Yuri Alberto",
       "posicao": "Atacante",
       "clube": "COR",
-      "pontos": -0.3
+      "pontos": 24.1
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Michael",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 1.5
     },
     {
       "time": "ITAQUI F.C.",
@@ -38808,9 +38815,5632 @@ const escalacoesGerais = {
     },
     {
       "time": "ITAQUI F.C.",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Willian Machado",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 6.3
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
+      "clube": "INT",
+      "pontos": 2.5
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Diego",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 7.7
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Willian Machado",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 6.3
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Luis Mandaca",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 2.6
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 8.6
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Tiago Volpi",
+      "posicao": "Goleiro",
+      "clube": "GRE",
+      "pontos": 7.6
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 3.4
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Marcos Felipe",
+      "posicao": "Goleiro",
+      "clube": "BAH",
+      "pontos": 10.2
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Léo Pereira",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.2
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    }
+  ],
+  "Rodada 8": [
+    {
+      "time": "FBC Colorado",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 3.8
+    },
+    {
+      "time": "FBC Colorado",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Texas Club 2025",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Real SCI",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Gig@ntte",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 3.1
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 0.9
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "PraiaBravaFC",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Hugo Souza",
+      "posicao": "Goleiro",
+      "clube": "COR",
+      "pontos": 0.6
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Cristaldo",
+      "posicao": "Meia",
+      "clube": "GRE",
+      "pontos": 2.5
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 13.7
+    },
+    {
+      "time": "OlhaEleAiF.C!",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Diego",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 7.7
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 9.0
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Ganso",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 2.3
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Gremiomaniasm",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Sport Clube PAIM",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "PUXE FC",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Diego",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 7.7
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 5.7
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "RS Expressões da Arte",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Rossi",
+      "posicao": "Goleiro",
+      "clube": "FLA",
+      "pontos": 15.4
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Léo Pereira",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.2
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 3.8
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 10.3
+    },
+    {
+      "time": "ZIVI FC",
+      "nome": "Abel Ferreira",
+      "posicao": "Técnico",
+      "clube": "PAL",
+      "pontos": 8.5
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "O clube do povo Itaqui/Rss",
+      "nome": "Rafael Guanaes",
+      "posicao": "Técnico",
+      "clube": "MIR",
+      "pontos": 3.45
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Matheuzinho",
+      "posicao": "Meia",
+      "clube": "VIT",
+      "pontos": 1.4
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "F.C. Rei Das Copas",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Walter",
+      "posicao": "Goleiro",
+      "clube": "MIR",
+      "pontos": 2.9
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Giay",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 12.5
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Andrés Hurtado",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 4.7
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Zé Ivaldo",
+      "posicao": "Zagueiro",
+      "clube": "SAN",
+      "pontos": 6.1
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Soteldo",
+      "posicao": "Atacante",
+      "clube": "SAN",
+      "pontos": 1.4
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Rolo Compressor ZN",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Gabriel Brazão",
+      "posicao": "Goleiro",
+      "clube": "SAN",
+      "pontos": 1.6
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Taura da Fronteira FCIII",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Eleis-Itaqui",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 3.1
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 10.3
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "KING LEONN",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Alex Muralha",
+      "posicao": "Goleiro",
+      "clube": "MIR",
+      "pontos": 0.0
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Bernabéi",
+      "posicao": "Lateral",
+      "clube": "INT",
+      "pontos": 3.1
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Wanderson",
+      "posicao": "Atacante",
+      "clube": "CRU",
+      "pontos": 3.8
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 10.3
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Laranjja Mecannica",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Marcão",
+      "posicao": "Goleiro",
+      "clube": "JUV",
+      "pontos": 6.8
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Fedato Futebol Clube",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Léo Pereira",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 0.2
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Lucas Barbosa",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 3.9
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Perronee F.C",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Pity10",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "Pity10",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Pity10",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "Pity10",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "Pity10",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Pity10",
+      "nome": "Canobbio",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 6.3
+    },
+    {
+      "time": "Pity10",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Pity10",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Pity10",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "pra sempre imortal fc",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "RHANKA DENTY FC25",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Marcos Felipe",
+      "posicao": "Goleiro",
+      "clube": "BAH",
+      "pontos": 10.2
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "TEAM LOPES 99",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Giay",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 12.5
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Jean Lucas",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 2.0
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 3.8
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "pura bucha /botafogo",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "cartola scheuer",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Marcos Felipe",
+      "posicao": "Goleiro",
+      "clube": "BAH",
+      "pontos": 10.2
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Analove10 ITAQUI GRANDE!!",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Tiago Volpi",
+      "posicao": "Goleiro",
+      "clube": "GRE",
+      "pontos": 7.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Matheuzinho",
+      "posicao": "Lateral",
+      "clube": "COR",
+      "pontos": 3.4
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Memphis Depay",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 13.7
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "DM Studio",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Rossi",
+      "posicao": "Goleiro",
+      "clube": "FLA",
+      "pontos": 15.4
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 0.9
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "lsauer fc",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Paulo Henrique",
+      "posicao": "Lateral",
+      "clube": "VAS",
+      "pontos": 3.7
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Luis Mandaca",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 2.6
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 8.6
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "VASCO MARTINS FC",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "KP JUV.",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 9.0
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "BORGES ITAQUI F.C.",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Profit Soccer",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Tabajara de Inhaua FC2",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Santiago Mingo",
+      "posicao": "Zagueiro",
+      "clube": "BAH",
+      "pontos": 7.0
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 8.7
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 8.6
+    },
+    {
+      "time": "TIGRE LEON",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Guzmán Rodríguez",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 5.0
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Martinelli",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": -0.9
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Pedro Henrique",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 10.8
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Enner Valencia",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 1.1
+    },
+    {
+      "time": "S.E.R. GRILLO",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "seralex",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
+      "clube": "INT",
+      "pontos": 2.5
+    },
+    {
+      "time": "seralex",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "seralex",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "seralex",
+      "nome": "Willian Machado",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 6.3
+    },
+    {
+      "time": "seralex",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "seralex",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "seralex",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "seralex",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "seralex",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "seralex",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "seralex",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "seralex",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "E.C. Bororé",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Léo Jardim",
+      "posicao": "Goleiro",
+      "clube": "VAS",
+      "pontos": 0.3
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Andrés Hurtado",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 4.7
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Luis Mandaca",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 2.6
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "MAFRA MARTINS FC",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Marcão",
+      "posicao": "Goleiro",
+      "clube": "JUV",
+      "pontos": 6.8
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Bruno Fuchs",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 10.3
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "BordonFC",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
+      "clube": "INT",
+      "pontos": 2.5
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Luciano Juba",
+      "posicao": "Lateral",
+      "clube": "BAH",
+      "pontos": 6.4
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 9.0
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "Tatols Beants F.C",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "FIGUEIRA DA ILHA",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "MauHumor F.C.",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "A Lenda Super Vascão f.c",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Fabiano Souza",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 4.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Vitão",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 1.2
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Victor Gabriel",
+      "posicao": "Zagueiro",
+      "clube": "INT",
+      "pontos": 2.0
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Everton Ribeiro",
+      "posicao": "Meia",
+      "clube": "BAH",
+      "pontos": 8.7
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Lucas Barbosa",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 3.9
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "TATITTA FC",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
+      "clube": "INT",
+      "pontos": 2.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Junior Alonso",
+      "posicao": "Zagueiro",
+      "clube": "CAM",
+      "pontos": 5.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "HS SPORTS F.C",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Rossi",
+      "posicao": "Goleiro",
+      "clube": "FLA",
+      "pontos": 15.4
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Pedro Henrique",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 10.8
+    },
+    {
+      "time": "Dom Camillo68",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Fábio",
+      "posicao": "Goleiro",
+      "clube": "FLU",
+      "pontos": 4.2
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Gabriel",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 6.0
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Gilberto",
+      "posicao": "Atacante",
+      "clube": "JUV",
+      "pontos": 1.9
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "mercearia Estrela",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Escobar",
+      "posicao": "Lateral",
+      "clube": "SAN",
+      "pontos": 6.7
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "CosmoCity ZO",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Alan Ruschel",
+      "posicao": "Lateral",
+      "clube": "JUV",
+      "pontos": 2.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gustavo Gómez",
+      "posicao": "Zagueiro",
+      "clube": "PAL",
+      "pontos": 6.7
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Keno",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 0.0
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "clarinvalau fc",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Braithwaite",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 3.6
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Grêmio imortal 37",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Paulo Henrique",
+      "posicao": "Lateral",
+      "clube": "VAS",
+      "pontos": 3.7
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Willian Machado",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 6.3
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "De la Cruz",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 2.4
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Alan Patrick",
+      "posicao": "Meia",
+      "clube": "INT",
+      "pontos": 5.0
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Wesley",
+      "posicao": "Atacante",
+      "clube": "INT",
+      "pontos": 10.3
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "SERGRILLO",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Super Vasco f.c",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "A Lenda Super Vasco F.c",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 9.0
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Cacá",
+      "posicao": "Zagueiro",
+      "clube": "COR",
+      "pontos": 0.0
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Carrillo",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 0.9
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Paulo Virgili FC",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
+      "clube": "INT",
+      "pontos": 2.5
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Wesley",
+      "posicao": "Lateral",
+      "clube": "FLA",
+      "pontos": 0.9
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Gabriel Fuentes",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 7.5
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Léo Ortiz",
+      "posicao": "Zagueiro",
+      "clube": "FLA",
+      "pontos": 1.2
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Erick Pulgar",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 3.0
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Lucas Barbosa",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 3.9
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Cuello",
+      "posicao": "Atacante",
+      "clube": "CAM",
+      "pontos": 3.4
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "CALOMBO ITAQUI RS",
+      "nome": "Fábio Matias",
+      "posicao": "Técnico",
+      "clube": "JUV",
+      "pontos": 3.49
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Fernando Miguel",
+      "posicao": "Goleiro",
+      "clube": "CEA",
+      "pontos": 9.9
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 3.8
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Pedro Henrique",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 10.8
+    },
+    {
+      "time": "Luis lemes inter",
+      "nome": "Fernando Seabra",
+      "posicao": "Técnico",
+      "clube": "RBB",
+      "pontos": 7.71
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Cleiton",
+      "posicao": "Goleiro",
+      "clube": "RBB",
+      "pontos": 8.9
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Cuiabano",
+      "posicao": "Lateral",
+      "clube": "BOT",
+      "pontos": 2.0
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Marllon",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 15.2
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Wagner Leonardo",
+      "posicao": "Zagueiro",
+      "clube": "GRE",
+      "pontos": 9.0
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Rubens",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Everton",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 3.8
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "emer jr fc",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Matheus Bahia",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 12.2
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Marlon",
+      "posicao": "Lateral",
+      "clube": "GRE",
+      "pontos": 8.7
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Pedro Henrique",
+      "posicao": "Zagueiro",
+      "clube": "RBB",
+      "pontos": 12.0
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Cristian Olivera",
+      "posicao": "Atacante",
+      "clube": "GRE",
+      "pontos": 13.9
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Estêvão",
+      "posicao": "Atacante",
+      "clube": "PAL",
+      "pontos": 6.1
+    },
+    {
+      "time": "Cril Futebol Club",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Cássio",
+      "posicao": "Goleiro",
+      "clube": "CRU",
+      "pontos": 2.9
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Enzo Díaz",
+      "posicao": "Lateral",
+      "clube": "SAO",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Natanael",
+      "posicao": "Lateral",
+      "clube": "CAM",
+      "pontos": 14.4
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Arboleda",
+      "posicao": "Zagueiro",
+      "clube": "SAO",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Abner",
+      "posicao": "Zagueiro",
+      "clube": "JUV",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Alisson",
+      "posicao": "Meia",
+      "clube": "SAO",
+      "pontos": 0.0
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Lucas Romero",
+      "posicao": "Meia",
+      "clube": "CRU",
+      "pontos": 6.9
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Raniele",
+      "posicao": "Meia",
+      "clube": "COR",
+      "pontos": 7.3
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "ITAQUI F.C.",
       "nome": "Michael",
       "posicao": "Atacante",
       "clube": "FLA",
+      "pontos": 1.5
+    },
+    {
+      "time": "ITAQUI F.C.",
+      "nome": "Calleri",
+      "posicao": "Atacante",
+      "clube": "SAO",
       "pontos": 0.0
     },
     {
@@ -38818,595 +44448,595 @@ const escalacoesGerais = {
       "nome": "Fernando Seabra",
       "posicao": "Técnico",
       "clube": "RBB",
-      "pontos": 6.7
+      "pontos": 7.71
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "João Paulo",
+      "nome": "Weverton",
       "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 0.0
+      "clube": "PAL",
+      "pontos": 10.2
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Wesley",
+      "nome": "Piquerez",
       "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
+      "clube": "PAL",
+      "pontos": 10.4
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Luisão",
+      "nome": "Freytes",
       "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
+      "clube": "FLU",
+      "pontos": 2.7
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Matheuzinho",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "TORRESMO COM PINGA",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Alan Patrick",
+      "nome": "Gustavo Scarpa",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "CAM",
+      "pontos": 12.5
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Wesley",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "TORRESMO COM PINGA",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "TORRESMO COM PINGA",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "TORRESMO COM PINGA",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "TORRESMO COM PINGA",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Lá do Itaqui",
       "nome": "Weverton",
       "posicao": "Goleiro",
       "clube": "PAL",
-      "pontos": 2.9
+      "pontos": 10.2
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Lá do Itaqui",
-      "nome": "Wesley",
-      "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Richard Ríos",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": 5.4
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Pedro Raul",
-      "posicao": "Atacante",
-      "clube": "CEA",
-      "pontos": 2.9
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Lá do Itaqui",
-      "nome": "Abel Ferreira",
-      "posicao": "Técnico",
-      "clube": "PAL",
-      "pontos": 3.06
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Ronaldo",
-      "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Nathan",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 0.2
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Léo Ortiz",
-      "posicao": "Zagueiro",
-      "clube": "FLA",
-      "pontos": 8.2
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Vitão",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Felipe Anderson",
-      "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Arrascaeta",
-      "posicao": "Meia",
-      "clube": "FLA",
-      "pontos": 19.2
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Hulk",
-      "posicao": "Atacante",
-      "clube": "CAM",
-      "pontos": 15.9
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": 4.3
-    },
-    {
-      "time": "FC Los Castilho",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
-    },
-    {
-      "time": "KillerColorado",
-      "nome": "Ronaldo",
-      "posicao": "Goleiro",
-      "clube": "BAH",
-      "pontos": 0.0
-    },
-    {
-      "time": "KillerColorado",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
-      "pontos": 9.8
+      "pontos": 6.7
     },
     {
-      "time": "KillerColorado",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "KillerColorado",
-      "nome": "Victor Gabriel",
+      "time": "Lá do Itaqui",
+      "nome": "Willian Machado",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "CEA",
+      "pontos": 6.3
     },
     {
-      "time": "KillerColorado",
-      "nome": "Villalba",
+      "time": "Lá do Itaqui",
+      "nome": "Léo Ortiz",
       "posicao": "Zagueiro",
-      "clube": "CRU",
-      "pontos": 5.5
+      "clube": "FLA",
+      "pontos": 1.2
     },
     {
-      "time": "KillerColorado",
-      "nome": "Felipe Anderson",
+      "time": "Lá do Itaqui",
+      "nome": "Arrascaeta",
       "posicao": "Meia",
-      "clube": "PAL",
-      "pontos": -0.1
+      "clube": "FLA",
+      "pontos": 12.0
     },
     {
-      "time": "KillerColorado",
-      "nome": "Alan Patrick",
+      "time": "Lá do Itaqui",
+      "nome": "Arias",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
-      "time": "KillerColorado",
-      "nome": "Matheuzinho",
+      "time": "Lá do Itaqui",
+      "nome": "Gustavo Scarpa",
       "posicao": "Meia",
-      "clube": "VIT",
-      "pontos": 0.6
+      "clube": "CAM",
+      "pontos": 12.5
     },
     {
-      "time": "KillerColorado",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "KillerColorado",
+      "time": "Lá do Itaqui",
       "nome": "Pedro Raul",
       "posicao": "Atacante",
       "clube": "CEA",
-      "pontos": 2.9
+      "pontos": 0.6
     },
     {
-      "time": "KillerColorado",
-      "nome": "Enner Valencia",
+      "time": "Lá do Itaqui",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 2.2
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Lá do Itaqui",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Samuel Xavier",
+      "posicao": "Lateral",
+      "clube": "FLU",
+      "pontos": 4.5
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Richard Ríos",
+      "posicao": "Meia",
+      "clube": "PAL",
+      "pontos": 6.4
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
+      "pontos": 0.6
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "FC Los Castilho",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "KillerColorado",
-      "nome": "Roger Machado",
-      "posicao": "Técnico",
+      "nome": "Anthoni",
+      "posicao": "Goleiro",
       "clube": "INT",
-      "pontos": 7.41
+      "pontos": 2.5
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Diego",
+      "posicao": "Lateral",
+      "clube": "CEA",
+      "pontos": 7.7
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Willian Machado",
+      "posicao": "Zagueiro",
+      "clube": "CEA",
+      "pontos": 6.3
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Luis Mandaca",
+      "posicao": "Meia",
+      "clube": "JUV",
+      "pontos": 2.6
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Erick Pulga",
+      "posicao": "Atacante",
+      "clube": "BAH",
+      "pontos": 8.6
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Everaldo",
+      "posicao": "Atacante",
+      "clube": "FLU",
+      "pontos": 12.2
+    },
+    {
+      "time": "KillerColorado",
+      "nome": "Léo Condé",
+      "posicao": "Técnico",
+      "clube": "CEA",
+      "pontos": 10.26
     },
     {
       "time": "Atlético Colorado 2021",
       "nome": "Tiago Volpi",
       "posicao": "Goleiro",
       "clube": "GRE",
-      "pontos": 2.1
+      "pontos": 7.6
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Wesley",
+      "nome": "Matheuzinho",
       "posicao": "Lateral",
-      "clube": "FLA",
-      "pontos": 10.9
+      "clube": "COR",
+      "pontos": 3.4
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Marlon",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "GRE",
-      "pontos": -0.9
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Luisão",
+      "nome": "Gustavo Gómez",
       "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Matheus Pereira",
-      "posicao": "Meia",
-      "clube": "CRU",
-      "pontos": 9.6
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Wesley",
-      "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
-    },
-    {
-      "time": "Atlético Colorado 2021",
-      "nome": "Estêvão",
-      "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.7
     },
     {
       "time": "Atlético Colorado 2021",
-      "nome": "Roger Machado",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Jhon Jhon",
+      "posicao": "Meia",
+      "clube": "RBB",
+      "pontos": 5.8
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Arrascaeta",
+      "posicao": "Meia",
+      "clube": "FLA",
+      "pontos": 12.0
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Yuri Alberto",
+      "posicao": "Atacante",
+      "clube": "COR",
+      "pontos": 24.1
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Pedro",
+      "posicao": "Atacante",
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Atlético Colorado 2021",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Ronaldo",
+      "nome": "Marcos Felipe",
       "posicao": "Goleiro",
       "clube": "BAH",
-      "pontos": 0.0
+      "pontos": 10.2
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Bernabéi",
+      "nome": "Juninho Capixaba",
       "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
+      "clube": "RBB",
+      "pontos": 10.1
     },
     {
       "time": "Time do S.A.P.O",
       "nome": "Escobar",
       "posicao": "Lateral",
       "clube": "SAN",
-      "pontos": 9.8
+      "pontos": 6.7
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Vitão",
+      "nome": "Léo Pereira",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 1.2
+      "clube": "FLA",
+      "pontos": 0.2
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Victor Gabriel",
+      "nome": "Ignácio",
       "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
+      "clube": "FLU",
+      "pontos": 4.7
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Alan Patrick",
+      "nome": "Rubens",
       "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
+      "clube": "CAM",
+      "pontos": 11.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "Time do S.A.P.O",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "Time do S.A.P.O",
-      "nome": "Savarino",
-      "posicao": "Meia",
-      "clube": "BOT",
-      "pontos": 8.3
-    },
-    {
-      "time": "Time do S.A.P.O",
-      "nome": "Guilherme",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
-    },
-    {
-      "time": "Time do S.A.P.O",
-      "nome": "Kaio Jorge",
-      "posicao": "Atacante",
-      "clube": "CRU",
-      "pontos": 8.9
-    },
-    {
-      "time": "Time do S.A.P.O",
-      "nome": "Facundo Torres",
-      "posicao": "Atacante",
-      "clube": "PAL",
-      "pontos": -0.3
-    },
-    {
-      "time": "Time do S.A.P.O",
-      "nome": "Abel Ferreira",
-      "posicao": "Técnico",
-      "clube": "PAL",
-      "pontos": 3.06
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "João Paulo",
-      "posicao": "Goleiro",
-      "clube": "SAN",
-      "pontos": 0.0
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Bernabéi",
-      "posicao": "Lateral",
-      "clube": "INT",
-      "pontos": 1.3
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Wesley",
-      "posicao": "Lateral",
       "clube": "FLA",
-      "pontos": 10.9
+      "pontos": 2.7
     },
     {
-      "time": "SISO FC25",
-      "nome": "Luisão",
-      "posicao": "Zagueiro",
-      "clube": "SAN",
-      "pontos": 5.5
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Victor Gabriel",
-      "posicao": "Zagueiro",
-      "clube": "INT",
-      "pontos": 17.2
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Alan Patrick",
-      "posicao": "Meia",
-      "clube": "INT",
-      "pontos": 17.7
-    },
-    {
-      "time": "SISO FC25",
-      "nome": "Matheuzinho",
-      "posicao": "Meia",
-      "clube": "VIT",
+      "time": "Time do S.A.P.O",
+      "nome": "Pedro Raul",
+      "posicao": "Atacante",
+      "clube": "CEA",
       "pontos": 0.6
     },
     {
+      "time": "Time do S.A.P.O",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
+    },
+    {
+      "time": "Time do S.A.P.O",
+      "nome": "Renato Gaúcho",
+      "posicao": "Técnico",
+      "clube": "FLU",
+      "pontos": 7.74
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Weverton",
+      "posicao": "Goleiro",
+      "clube": "PAL",
+      "pontos": 10.2
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Piquerez",
+      "posicao": "Lateral",
+      "clube": "PAL",
+      "pontos": 10.4
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Juninho Capixaba",
+      "posicao": "Lateral",
+      "clube": "RBB",
+      "pontos": 10.1
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Freytes",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 2.7
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Ignácio",
+      "posicao": "Zagueiro",
+      "clube": "FLU",
+      "pontos": 4.7
+    },
+    {
       "time": "SISO FC25",
       "nome": "Arrascaeta",
       "posicao": "Meia",
       "clube": "FLA",
-      "pontos": 19.2
+      "pontos": 12.0
     },
     {
       "time": "SISO FC25",
-      "nome": "Guilherme",
-      "posicao": "Atacante",
-      "clube": "SAN",
-      "pontos": 3.0
+      "nome": "Arias",
+      "posicao": "Meia",
+      "clube": "FLU",
+      "pontos": 14.5
     },
     {
       "time": "SISO FC25",
-      "nome": "Wesley",
+      "nome": "Gustavo Scarpa",
+      "posicao": "Meia",
+      "clube": "CAM",
+      "pontos": 12.5
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Pedro",
       "posicao": "Atacante",
-      "clube": "INT",
-      "pontos": 8.9
+      "clube": "FLA",
+      "pontos": 2.7
+    },
+    {
+      "time": "SISO FC25",
+      "nome": "Eduardo Sasha",
+      "posicao": "Atacante",
+      "clube": "RBB",
+      "pontos": 1.7
     },
     {
       "time": "SISO FC25",
       "nome": "Estêvão",
       "posicao": "Atacante",
       "clube": "PAL",
-      "pontos": 4.3
+      "pontos": 6.1
     },
     {
       "time": "SISO FC25",
-      "nome": "Roger Machado",
+      "nome": "Renato Gaúcho",
       "posicao": "Técnico",
-      "clube": "INT",
-      "pontos": 7.41
+      "clube": "FLU",
+      "pontos": 7.74
     }
   ]
 };

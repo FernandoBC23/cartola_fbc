@@ -718,5 +718,125 @@ const resultadosFase1 = [
       "nome": "SERGRILLO",
       "pontos": 69.60986328125
     }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "TIGRE LEON",
+      "pontos": 100.16015625
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": 141.41015625
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "Dom Camillo68",
+      "pontos": 119.89013671875
+    },
+    "visitante": {
+      "nome": "Super Vasco f.c",
+      "pontos": 96.39013671875
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": 87.7099609375
+    },
+    "visitante": {
+      "nome": "cartola scheuer",
+      "pontos": 95.7900390625
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": 113.490234375
+    },
+    "visitante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": 98.7900390625
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": 127.759765625
+    },
+    "visitante": {
+      "nome": "KP JUV.",
+      "pontos": 85.68994140625
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": 98.18994140625
+    },
+    "visitante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": 111.85986328125
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": 86.08984375
+    },
+    "visitante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": 102.2001953125
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": 104.31005859375
+    },
+    "visitante": {
+      "nome": "DM Studio",
+      "pontos": 133.8095703125
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": 105.7099609375
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": 98.7099609375
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 7,
+    "mandante": {
+      "nome": "SERGRILLO",
+      "pontos": 92.35986328125
+    },
+    "visitante": {
+      "nome": "seralex",
+      "pontos": 99.2900390625
+    }
   }
 ];
