@@ -1,25 +1,37 @@
 import streamlit as st
 import pandas as pd
+import os
 
 st.set_page_config(page_title="Cadastro de Confrontos", layout="centered")
 st.title("📋 Cadastro Rápido de Confrontos por Rodada")
+
+# Função para carregar confrontos de um arquivo CSV
+def carregar_confrontos_csv(arquivo="confrontos_serie_A.csv"):
+    try:
+        if os.path.exists(arquivo):
+            df = pd.read_csv(arquivo)
+            if {"Rodada", "Confronto", "Time A", "Time B"}.issubset(df.columns):
+                return df[["Rodada", "Confronto", "Time A", "Time B"]].values.tolist()
+    except Exception as e:
+        st.warning(f"Erro ao carregar confrontos salvos: {e}")
+    return []
 
 # Função para carregar times do Excel
 def carregar_times_excel(arquivo="times.xlsx"):
     try:
         df_times = pd.read_excel(arquivo, sheet_name="Times")
         return sorted(df_times["Nome"].dropna().unique().tolist())
-    except Exception as e:
+    except Exception:
         st.warning("Arquivo de times não encontrado ou com erro. Adicione manualmente.")
         return []
 
 # Inicializar session_state
 if "confrontos" not in st.session_state:
-    st.session_state.confrontos = []
+    st.session_state.confrontos = carregar_confrontos_csv()
+if "confrontos_por_rodada" not in st.session_state:
+    st.session_state.confrontos_por_rodada = len(st.session_state.confrontos)
 if "times" not in st.session_state:
     st.session_state.times = carregar_times_excel()
-if "confrontos_por_rodada" not in st.session_state:
-    st.session_state.confrontos_por_rodada = 0
 
 # Adicionar novo time
 with st.expander("➕ Cadastrar novo time"):
@@ -41,10 +53,8 @@ if rodada_atual > 19:
 else:
     st.subheader(f"🕹️ Rodada {rodada_atual} - Confronto {confronto_atual}")
 
-    # Entrada dos times
     col1, col2 = st.columns(2)
 
-    # Inicializar seleções se ainda não estiverem definidas
     if "select_time_a" not in st.session_state:
         st.session_state.select_time_a = ""
     if "select_time_b" not in st.session_state:
@@ -59,8 +69,7 @@ else:
             "Time B", options=[""] + st.session_state.times, index=0
         )
 
-
-    # Botão para salvar
+    # Botão para salvar confronto
     if st.button("Salvar Confronto"):
         time_a = st.session_state.select_time_a
         time_b = st.session_state.select_time_b
@@ -74,16 +83,13 @@ else:
             st.session_state.confrontos_por_rodada += 1
             st.success(f"Confronto salvo: {time_a} x {time_b} (Rodada {rodada_atual})")
 
-            # resetar seleções após salvar
+            # Resetar seleções
             st.session_state.select_time_a = ""
             st.session_state.select_time_b = ""
 
-
-# Exibir tabela de confrontos
+# Exibir confrontos
 if st.session_state.confrontos:
     df = pd.DataFrame(st.session_state.confrontos, columns=["Rodada", "Confronto", "Time A", "Time B"])
-
-    # Gerar IDs dos times
     todos_times = pd.unique(df[["Time A", "Time B"]].values.ravel())
     id_times = {time: idx + 1 for idx, time in enumerate(sorted(todos_times))}
     df["ID A"] = df["Time A"].map(id_times)
@@ -92,6 +98,5 @@ if st.session_state.confrontos:
     st.subheader("📊 Tabela de Confrontos Cadastrados")
     st.dataframe(df)
 
-    # Botão de download CSV
     csv = df.to_csv(index=False).encode('utf-8')
     st.download_button("⬇️ Baixar confrontos em CSV", csv, "confrontos.csv", "text/csv")

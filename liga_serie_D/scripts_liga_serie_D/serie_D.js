@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
     return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 1;
   })();
 
-  const RODADA_MAXIMA = 6;
+  const RODADA_MAXIMA = 8;
 
   const painelGrupos = document.getElementById("painel-grupos");
 

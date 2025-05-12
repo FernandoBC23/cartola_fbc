@@ -838,5 +838,125 @@ const resultadosFase1 = [
       "nome": "seralex",
       "pontos": 99.2900390625
     }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Dom Camillo68",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "Super Vasco f.c",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "KP JUV.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "cartola scheuer",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "DM Studio",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "SERGRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 8,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": null
+    }
   }
 ];

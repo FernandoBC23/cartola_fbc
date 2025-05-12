@@ -838,5 +838,125 @@ const resultadosFase1 = [
       "nome": "JV5 Tricolor Gaúcho",
       "pontos": 120.83984375
     }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "FC Los Castilho",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "MauHumor F.C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 8,
+    "mandante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": null
+    }
   }
 ];
