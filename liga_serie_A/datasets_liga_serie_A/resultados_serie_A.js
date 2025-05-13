@@ -844,11 +844,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "FBC Colorado",
-      "pontos": null
+      "pontos": 122.83984375
     },
     "visitante": {
       "nome": "Atlético Colorado 2021",
-      "pontos": null
+      "pontos": 115.89990234375
     }
   },
   {
@@ -856,11 +856,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "E.C. Bororé",
-      "pontos": null
+      "pontos": 83.68994140625
     },
     "visitante": {
       "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
+      "pontos": 80.89013671875
     }
   },
   {
@@ -868,11 +868,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "seralex",
-      "pontos": null
+      "pontos": 136.9404296875
     },
     "visitante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 118.4501953125
     }
   },
   {
@@ -880,11 +880,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "SISO FC25",
-      "pontos": null
+      "pontos": 96.0498046875
     },
     "visitante": {
       "nome": "TIGRE LEON",
-      "pontos": null
+      "pontos": 117.5498046875
     }
   },
   {
@@ -892,11 +892,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "Grêmio imortal 37",
-      "pontos": null
+      "pontos": 131.349609375
     },
     "visitante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
+      "pontos": 135.1904296875
     }
   },
   {
@@ -904,11 +904,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "Tatols Beants F.C",
-      "pontos": null
+      "pontos": 97.39013671875
     },
     "visitante": {
       "nome": "Eleis-Itaqui",
-      "pontos": null
+      "pontos": 102.83984375
     }
   },
   {
@@ -916,11 +916,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "Rolo Compressor ZN",
-      "pontos": null
+      "pontos": 94.7998046875
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 109.14990234375
     }
   },
   {
@@ -928,11 +928,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "cartola scheuer",
-      "pontos": null
+      "pontos": 99.4501953125
     },
     "visitante": {
       "nome": "OlhaEleAiF.C!",
-      "pontos": null
+      "pontos": 82.7001953125
     }
   },
   {
@@ -940,11 +940,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "Gremiomaniasm",
-      "pontos": null
+      "pontos": 73.509765625
     },
     "visitante": {
       "nome": "Time do S.A.P.O",
-      "pontos": null
+      "pontos": 89.25
     }
   },
   {
@@ -952,11 +952,11 @@ const resultadosFase1 = [
     "rodada": 8,
     "mandante": {
       "nome": "Fedato Futebol Clube",
-      "pontos": null
+      "pontos": 98.490234375
     },
     "visitante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
+      "pontos": 135.490234375
     }
   },
   {

@@ -605,8 +605,8 @@ const rodadasLocalData = [
     "Horário": "21:30",
     "Local": "Morumbis",
     "Clube Casa": "SAO",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 0.0,
+    "Placar Visitante": 0.0,
     "Clube Visitante": "FOR"
   },
   {
@@ -615,8 +615,8 @@ const rodadasLocalData = [
     "Horário": "18:30",
     "Local": "Maracanã",
     "Clube Casa": "FLU",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 2.0,
+    "Placar Visitante": 1.0,
     "Clube Visitante": "SPT"
   },
   {
@@ -625,8 +625,8 @@ const rodadasLocalData = [
     "Horário": "18:30",
     "Local": "Neo Química Arena",
     "Clube Casa": "COR",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 4.0,
+    "Placar Visitante": 2.0,
     "Clube Visitante": "INT"
   },
   {
@@ -635,8 +635,8 @@ const rodadasLocalData = [
     "Horário": "18:30",
     "Local": "Presidente Vargas (CE)",
     "Clube Casa": "CEA",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 1.0,
+    "Placar Visitante": 0.0,
     "Clube Visitante": "VIT"
   },
   {
@@ -645,8 +645,8 @@ const rodadasLocalData = [
     "Horário": "21:00",
     "Local": "Casa de Apostas Arena Fonte Nova",
     "Clube Casa": "BAH",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 1.0,
+    "Placar Visitante": 0.0,
     "Clube Visitante": "BOT"
   },
   {
@@ -655,8 +655,8 @@ const rodadasLocalData = [
     "Horário": "16:00",
     "Local": "Mané Garrincha",
     "Clube Casa": "VAS",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 0.0,
+    "Placar Visitante": 1.0,
     "Clube Visitante": "PAL"
   },
   {
@@ -665,8 +665,8 @@ const rodadasLocalData = [
     "Horário": "16:00",
     "Local": "Arena do Grêmio",
     "Clube Casa": "GRE",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 1.0,
+    "Placar Visitante": 0.0,
     "Clube Visitante": "SAN"
   },
   {
@@ -675,8 +675,8 @@ const rodadasLocalData = [
     "Horário": "18:30",
     "Local": "Mineirão",
     "Clube Casa": "CRU",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 2.0,
+    "Placar Visitante": 1.0,
     "Clube Visitante": "FLA"
   },
   {
@@ -685,8 +685,8 @@ const rodadasLocalData = [
     "Horário": "19:00",
     "Local": "Cícero de Souza Marques",
     "Clube Casa": "RBB",
-    "Placar Casa": NaN,
-    "Placar Visitante": NaN,
+    "Placar Casa": 1.0,
+    "Placar Visitante": 0.0,
     "Clube Visitante": "MIR"
   },
   {
@@ -695,8 +695,208 @@ const rodadasLocalData = [
     "Horário": "20:00",
     "Local": "Alfredo Jaconi",
     "Clube Casa": "JUV",
+    "Placar Casa": 0.0,
+    "Placar Visitante": 1.0,
+    "Clube Visitante": "CAM"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-10",
+    "Horário": "16:00",
+    "Local": "Presidente Vargas (CE)",
+    "Clube Casa": "FOR",
+    "Placar Casa": 5.0,
+    "Placar Visitante": 0.0,
+    "Clube Visitante": "JUV"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-10",
+    "Horário": "18:30",
+    "Local": "Maião",
+    "Clube Casa": "MIR",
+    "Placar Casa": 2.0,
+    "Placar Visitante": 1.0,
+    "Clube Visitante": "COR"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-10",
+    "Horário": "18:30",
+    "Local": "Arena do Grêmio",
+    "Clube Casa": "GRE",
+    "Placar Casa": 1.0,
+    "Placar Visitante": 1.0,
+    "Clube Visitante": "RBB"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-10",
+    "Horário": "18:30",
+    "Local": "Barradão",
+    "Clube Casa": "VIT",
+    "Placar Casa": 2.0,
+    "Placar Visitante": 1.0,
+    "Clube Visitante": "VAS"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-10",
+    "Horário": "21:00",
+    "Local": "Maracanã",
+    "Clube Casa": "FLA",
+    "Placar Casa": 1.0,
+    "Placar Visitante": 0.0,
+    "Clube Visitante": "BAH"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-11",
+    "Horário": "16:00",
+    "Local": "Ilha do Retiro",
+    "Clube Casa": "SPT",
+    "Placar Casa": 0.0,
+    "Placar Visitante": 4.0,
+    "Clube Visitante": "CRU"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-11",
+    "Horário": "17:30",
+    "Local": "Arena Barueri",
+    "Clube Casa": "PAL",
+    "Placar Casa": 1.0,
+    "Placar Visitante": 0.0,
+    "Clube Visitante": "SAO"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-11",
+    "Horário": "17:30",
+    "Local": "Arena MRV",
+    "Clube Casa": "CAM",
+    "Placar Casa": 3.0,
+    "Placar Visitante": 2.0,
+    "Clube Visitante": "FLU"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-11",
+    "Horário": "20:00",
+    "Local": "Nilton Santos (Engenhão)",
+    "Clube Casa": "BOT",
+    "Placar Casa": 4.0,
+    "Placar Visitante": 0.0,
+    "Clube Visitante": "INT"
+  },
+  {
+    "Rodada": 8,
+    "Data": "2025-05-12",
+    "Horário": "20:00",
+    "Local": "Allianz Parque",
+    "Clube Casa": "SAN",
+    "Placar Casa": 0.0,
+    "Placar Visitante": 0.0,
+    "Clube Visitante": "CEA"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-17",
+    "Horário": "16:00",
+    "Local": "Castelão (CE)",
+    "Clube Casa": "CEA",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "SPT"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-17",
+    "Horário": "18:30",
+    "Local": "São Januário",
+    "Clube Casa": "VAS",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "FOR"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-17",
+    "Horário": "21:00",
+    "Local": "Morumbis",
+    "Clube Casa": "SAO",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "GRE"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "16:00",
+    "Local": "Neo Química Arena",
+    "Clube Casa": "COR",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "SAN"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "16:00",
+    "Local": "Casa de Apostas Arena Fonte Nova",
+    "Clube Casa": "BAH",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "VIT"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "16:00",
+    "Local": "Alfredo Jaconi",
+    "Clube Casa": "JUV",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "FLU"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "18:30",
+    "Local": "Maracanã",
+    "Clube Casa": "FLA",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "BOT"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "18:30",
+    "Local": "Cícero de Souza Marques",
+    "Clube Casa": "RBB",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "PAL"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "20:30",
+    "Local": "Mineirão",
+    "Clube Casa": "CRU",
     "Placar Casa": NaN,
     "Placar Visitante": NaN,
     "Clube Visitante": "CAM"
+  },
+  {
+    "Rodada": 9,
+    "Data": "2025-05-18",
+    "Horário": "20:30",
+    "Local": "Beira-Rio",
+    "Clube Casa": "INT",
+    "Placar Casa": NaN,
+    "Placar Visitante": NaN,
+    "Clube Visitante": "MIR"
   }
 ];

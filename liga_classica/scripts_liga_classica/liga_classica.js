@@ -144,7 +144,11 @@ function exibirClassificacaoPor(tipo, chave) {
   const rodadaAtual = obterRodadaAtual();
 
   const infoDiv = document.getElementById("info-atualizacao");
-  const dataAtualizacao = "06/05/2025"; // pode ser dinâmico no futuro
+  
+  // const dataAtualizacao = "13/05/2025"; // pode ser dinâmico no futuro
+  const hoje = new Date();
+  const dataAtualizacao = hoje.toLocaleDateString("pt-BR");
+
   infoDiv.innerHTML = `📅 Rodada Atual: <strong>${rodadaAtual}</strong> &nbsp;&nbsp; ⏱️ Última atualização: <strong>${dataAtualizacao}</strong>`;
 
 
