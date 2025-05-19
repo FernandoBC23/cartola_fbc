@@ -40,9 +40,7 @@ window.addEventListener('DOMContentLoaded', () => {
       "E.C. Bororé": "../imagens/2_ec_borore.png", 
       "BORGES ITAQUI F.C.": "../imagens/2_borges_itaqui_fc.png", 
       "TIGRE LEON": "../imagens/2_tigre_leon.png",
-
-      "Rolo Compressor ZN": "../imagens/2_rolo_compressor_zn.png", 
-
+      "Rolo Compressor ZN": "../imagens/2_rolo_compressor_zn.png",
       "FBC Colorado": "../imagens/2_fbc_colorado.png", 
       "seralex": "../imagens/2_seralex.png", 
 

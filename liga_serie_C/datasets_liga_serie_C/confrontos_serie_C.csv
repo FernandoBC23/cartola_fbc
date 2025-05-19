@@ -79,3 +79,53 @@ Rodada,Confronto,Time A,Time B,ID A,ID B
 8,8,Tatols Beants F.C,S.E.R. GRILLO,15,10
 8,9,Fedato Futebol Clube,SERGRILLO,5,11
 8,10,Texas Club 2025,Cril Futebol Club,16,2
+9,1,Fedato Futebol Clube,TIGRE LEON,5,14
+9,2,pura bucha /botafogo,Dom Camillo68,19,4
+9,3,lsauer fc,KP JUV.,18,8
+9,4,BORGES CLIMA FUT F.C,Super Vasco f.c,1,12
+9,5,cartola scheuer,ITAQUI F. C.,17,7
+9,6,Noah A 10,DM Studio,9,3
+9,7,TEAM LOPES 99,Tatols Beants F.C,13,15
+9,8,HS SPORTS F.C,SERGRILLO,6,11
+9,9,S.E.R. GRILLO,Cril Futebol Club,10,2
+9,10,Texas Club 2025,seralex,16,20
+10,1,HS SPORTS F.C,TIGRE LEON,6,14
+10,2,KP JUV.,Dom Camillo68,8,4
+10,3,BORGES CLIMA FUT F.C,pura bucha /botafogo,1,19
+10,4,lsauer fc,ITAQUI F. C.,18,7
+10,5,DM Studio,Super Vasco f.c,3,12
+10,6,cartola scheuer,Tatols Beants F.C,17,15
+10,7,Noah A 10,SERGRILLO,9,11
+10,8,TEAM LOPES 99,Cril Futebol Club,13,2
+10,9,seralex,S.E.R. GRILLO,20,10
+10,10,Texas Club 2025,Fedato Futebol Clube,16,5
+11,1,Noah A 10,TIGRE LEON,9,14
+11,2,Dom Camillo68,BORGES CLIMA FUT F.C,4,1
+11,3,ITAQUI F. C.,KP JUV.,7,8
+11,4,pura bucha /botafogo,DM Studio,19,3
+11,5,lsauer fc,Tatols Beants F.C,18,15
+11,6,Super Vasco f.c,SERGRILLO,12,11
+11,7,cartola scheuer,Cril Futebol Club,17,2
+11,8,seralex,TEAM LOPES 99,20,13
+11,9,HS SPORTS F.C,Texas Club 2025,6,16
+11,10,S.E.R. GRILLO,Fedato Futebol Clube,10,5
+12,1,Super Vasco f.c,TIGRE LEON,12,14
+12,2,ITAQUI F. C.,Dom Camillo68,7,4
+12,3,BORGES CLIMA FUT F.C,DM Studio,1,3
+12,4,Tatols Beants F.C,KP JUV.,15,8
+12,5,SERGRILLO,pura bucha /botafogo,11,19
+12,6,lsauer fc,Cril Futebol Club,18,2
+12,7,seralex,cartola scheuer,20,17
+12,8,Noah A 10,Texas Club 2025,9,16
+12,9,TEAM LOPES 99,Fedato Futebol Clube,13,5
+12,10,S.E.R. GRILLO,HS SPORTS F.C,10,6
+13,1,pura bucha /botafogo,TIGRE LEON,19,14
+13,2,Dom Camillo68,DM Studio,4,3
+13,3,Tatols Beants F.C,ITAQUI F. C.,15,7
+13,4,BORGES CLIMA FUT F.C,SERGRILLO,1,11
+13,5,KP JUV.,Cril Futebol Club,8,2
+13,6,seralex,lsauer fc,20,18
+13,7,Texas Club 2025,Super Vasco f.c,16,12
+13,8,cartola scheuer,Fedato Futebol Clube,17,5
+13,9,Noah A 10,S.E.R. GRILLO,9,10
+13,10,HS SPORTS F.C,TEAM LOPES 99,6,13

@@ -1,7 +1,16 @@
 // liga_eliminacao.js
 
-let rodadaAtual = 1;
+let rodadaAtual = (() => {
+  const rodadasComPontuacao = Object.values(pontuacoesPorRodada)
+    .flatMap(p => Object.entries(p)
+      .filter(([_, pontos]) => typeof pontos === "number")
+      .map(([rodada]) => parseInt(rodada.replace("Rodada ", ""), 10))
+    );
+
+  return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 1;
+})();
 let totalRodadas = 1;
+
 
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -21,16 +30,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Atualiza UI com rodada atual
   function atualizarRodada(novaRodada) {
-    rodadaAtual = novaRodada;
+    rodadaAtual = novaRodada; // 👈 isso precisa estar aqui
     exibirPontuacoesRodada(rodadaAtual);
     exibirUltimoColocadoRodada(rodadaAtual);
     exibirResumoEliminacao(rodadaAtual);
 
-    // Atualiza títulos
     if (tituloRodadaTop) tituloRodadaTop.textContent = `Rodada ${rodadaAtual}`;
     if (tituloRodadaBottom) tituloRodadaBottom.textContent = `Rodada ${rodadaAtual}`;
 
-    // Ativa/desativa botões
     const desabilitarAnterior = rodadaAtual <= 1;
     const desabilitarProxima = rodadaAtual >= totalRodadas;
 
@@ -39,6 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (btnAnteriorBottom) btnAnteriorBottom.disabled = desabilitarAnterior;
     if (btnProximaBottom) btnProximaBottom.disabled = desabilitarProxima;
   }
+
 
   // Ações dos botões
   const configurarBotao = (botao, direcao) => {
@@ -124,51 +132,6 @@ function atualizarRodada() {
   }
 }
 
-// function exibirPontuacoesRodada(rodada) {
-//   const tbody = document.getElementById("classificacao-corpo");
-//   if (!tbody) return;
-
-//   tbody.innerHTML = "";
-//   const lista = [];
-
-//   for (const time in pontuacoesPorRodada) {
-//     const pontos = pontuacoesPorRodada[time][`Rodada ${rodada}`];
-//     if (typeof pontos === "number") {
-//       lista.push({ time, pontos });
-//     }
-//   }
-
-//   // Ordena por pontuação
-//   lista.sort((a, b) => b.pontos - a.pontos);
-
-//   // Identifica o eliminado com base na menor pontuação da rodada atual
-//   const menorPontuacao = lista.length > 0 ? lista[lista.length - 1].pontos : null;
-//   const eliminadoDaRodadaAtual = lista.find(item => item.pontos === menorPontuacao)?.time || null;
-
-//   lista.forEach((item, index) => {
-//     const escudo = escudosTimes[item.time] || "../imagens/default.png";
-//     const isEliminado = item.time === eliminadoDaRodadaAtual;
-
-//     const row = document.createElement("tr");
-//     row.innerHTML = `
-//       <td>${index + 1}</td>
-//       <td>
-//         <div class="time-info">
-//           <img src="${escudo}" class="escudo" alt="${item.time}" />
-//           ${item.time}
-//           ${isEliminado ? '<span class="eliminado-tag">Eliminado</span>' : ''}
-//         </div>
-//       </td>
-//       <td>${item.pontos.toFixed(2)}</td>
-//     `;
-
-//     if (isEliminado) {
-//       row.classList.add("eliminado-atual");
-//     }
-
-//     tbody.appendChild(row);
-//   });
-// }
 
 function exibirPontuacoesRodada(rodada) {
   const tbody = document.getElementById("classificacao-corpo");
@@ -256,64 +219,6 @@ function exibirUltimoColocadoRodada(rodadaAtual) {
   `;
 }
 
-
-// function exibirResumoEliminacao(rodadaAtual) {
-//   const container = document.getElementById("resumo-eliminacao");
-//   if (!container) return;
-
-//   const rodadaChave = `Rodada ${rodadaAtual}`;
-
-//   // 📊 Estatísticas da rodada
-//   const pontuacoesRodada = [];
-//   for (const time in pontuacoesPorRodada) {
-//     const pontos = pontuacoesPorRodada[time][rodadaChave];
-//     if (typeof pontos === "number") {
-//       pontuacoesRodada.push({ time, pontos });
-//     }
-//   }
-
-//   let estatisticasHTML = "";
-//   if (pontuacoesRodada.length > 0) {
-//     pontuacoesRodada.sort((a, b) => b.pontos - a.pontos);
-//     const maior = pontuacoesRodada[0];
-//     const menor = pontuacoesRodada[pontuacoesRodada.length - 1];
-//     const total = pontuacoesRodada.reduce((sum, obj) => sum + obj.pontos, 0);
-//     const media = (total / pontuacoesRodada.length).toFixed(2);
-
-//     estatisticasHTML = `
-//       <h3>📊 Resumo da Rodada ${rodadaAtual}</h3>
-//       <ul>
-//         <li><strong>✅ Maior pontuação:</strong> ${maior.time} com ${maior.pontos.toFixed(2)} pts</li>
-//         <li><strong>❌ Menor pontuação:</strong> ${menor.time} com ${menor.pontos.toFixed(2)} pts</li>
-//         <li><strong>📊 Média geral:</strong> ${media} pts</li>
-//       </ul>
-//     `;
-//   }
-
-//   // 🔥 Eliminações reais: menor pontuação de cada rodada com dados
-//   let eliminacoesHTML = `<h3>🔥 Eliminações</h3><ul>`;
-
-//   for (let i = 1; i <= rodadaAtual; i++) {
-//     const chaveRodada = `Rodada ${i}`;
-//     const pontuacoes = [];
-
-//     for (const time in pontuacoesPorRodada) {
-//       const pontos = pontuacoesPorRodada[time][chaveRodada];
-//       if (typeof pontos === "number") {
-//         pontuacoes.push({ time, pontos });
-//       }
-//     }
-
-//     if (pontuacoes.length > 0) {
-//       pontuacoes.sort((a, b) => a.pontos - b.pontos); // menor pontuação
-//       const eliminado = pontuacoes[0].time;
-//       eliminacoesHTML += `<li>❌ <strong>Rodada ${i}:</strong> ${eliminado}</li>`;
-//     }
-//   }
-
-//   eliminacoesHTML += `</ul>`;
-//   container.innerHTML = `${estatisticasHTML}${eliminacoesHTML}`;
-// }
 
 function exibirResumoEliminacao(rodadaAtual) {
   const container = document.getElementById("resumo-eliminacao");

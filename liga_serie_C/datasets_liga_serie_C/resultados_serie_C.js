@@ -958,5 +958,605 @@ const resultadosFase1 = [
       "nome": "Cril Futebol Club",
       "pontos": 90.5400390625
     }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Dom Camillo68",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "KP JUV.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Super Vasco f.c",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "cartola scheuer",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "DM Studio",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "SERGRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 9,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "seralex",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "KP JUV.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Dom Camillo68",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "DM Studio",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Super Vasco f.c",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "cartola scheuer",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "SERGRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 10,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "Dom Camillo68",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "KP JUV.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "DM Studio",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "Super Vasco f.c",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "SERGRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "cartola scheuer",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 11,
+    "mandante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "Super Vasco f.c",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Dom Camillo68",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "DM Studio",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "KP JUV.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "SERGRILLO",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "cartola scheuer",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 12,
+    "mandante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "Dom Camillo68",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "DM Studio",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "ITAQUI F. C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "BORGES CLIMA FUT F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "SERGRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "KP JUV.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Cril Futebol Club",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Super Vasco f.c",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "cartola scheuer",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "S.E.R. GRILLO",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série C",
+    "rodada": 13,
+    "mandante": {
+      "nome": "HS SPORTS F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TEAM LOPES 99",
+      "pontos": null
+    }
   }
 ];

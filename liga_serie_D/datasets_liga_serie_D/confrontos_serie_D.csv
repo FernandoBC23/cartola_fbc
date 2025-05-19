@@ -79,3 +79,53 @@ Rodada,Confronto,Time A,Time B,ID A,ID B
 8,8,A Lenda Super Vasco F.c,Texas Club 2025,1,15
 8,9,Noah A 10,TATITTA FC,8,11
 8,10,VASCO MARTINS FC,FIGUEIRA DA ILHA,16,4
+9,1,TIGRE LEON,FIGUEIRA DA ILHA,12,4
+9,2,FC castelo Branco 2,Tatols Beants F.C,3,14
+9,3,lsauer fc,FC Los Castilho,17,2
+9,4,seralex,RHANKA DENTY FC25,20,9
+9,5,pra sempre imortal fc,Santo Ângelo United,18,10
+9,6,MauHumor F.C.,pura bucha /botafogo,7,19
+9,7,Texas Club 2025,Tabajara de Inhaua FC2,15,13
+9,8,TATITTA FC,Fedato Futebol Clube,11,5
+9,9,VASCO MARTINS FC,A Lenda Super Vasco F.c,16,1
+9,10,JV5 Tricolor Gaúcho,Noah A 10,6,8
+10,1,A Lenda Super Vasco F.c,TIGRE LEON,1,12
+10,2,Tatols Beants F.C,lsauer fc,14,17
+10,3,seralex,FC castelo Branco 2,20,3
+10,4,FC Los Castilho,pra sempre imortal fc,2,18
+10,5,pura bucha /botafogo,RHANKA DENTY FC25,19,9
+10,6,Texas Club 2025,Santo Ângelo United,15,10
+10,7,MauHumor F.C.,TATITTA FC,7,11
+10,8,VASCO MARTINS FC,Tabajara de Inhaua FC2,16,13
+10,9,Fedato Futebol Clube,JV5 Tricolor Gaúcho,5,6
+10,10,FIGUEIRA DA ILHA,Noah A 10,4,8
+11,1,TIGRE LEON,Tabajara de Inhaua FC2,12,13
+11,2,Tatols Beants F.C,seralex,14,20
+11,3,pra sempre imortal fc,lsauer fc,18,17
+11,4,FC castelo Branco 2,pura bucha /botafogo,3,19
+11,5,Texas Club 2025,FC Los Castilho,15,2
+11,6,RHANKA DENTY FC25,TATITTA FC,9,11
+11,7,Santo Ângelo United,VASCO MARTINS FC,10,16
+11,8,JV5 Tricolor Gaúcho,MauHumor F.C.,6,7
+11,9,Fedato Futebol Clube,FIGUEIRA DA ILHA,5,4
+11,10,Noah A 10,A Lenda Super Vasco F.c,8,1
+12,1,Santo Ângelo United,TIGRE LEON,10,12
+12,2,Tatols Beants F.C,pra sempre imortal fc,14,18
+12,3,seralex,pura bucha /botafogo,20,19
+12,4,Texas Club 2025,lsauer fc,15,17
+12,5,TATITTA FC,FC castelo Branco 2,11,3
+12,6,FC Los Castilho,VASCO MARTINS FC,2,16
+12,7,RHANKA DENTY FC25,JV5 Tricolor Gaúcho,9,6
+12,8,FIGUEIRA DA ILHA,MauHumor F.C.,4,7
+12,9,Noah A 10,Tabajara de Inhaua FC2,8,13
+12,10,Fedato Futebol Clube,A Lenda Super Vasco F.c,5,1
+13,1,TIGRE LEON,FC Los Castilho,12,2
+13,2,pura bucha /botafogo,Tatols Beants F.C,19,14
+13,3,Texas Club 2025,pra sempre imortal fc,15,18
+13,4,TATITTA FC,seralex,11,20
+13,5,lsauer fc,VASCO MARTINS FC,17,16
+13,6,JV5 Tricolor Gaúcho,FC castelo Branco 2,6,3
+13,7,RHANKA DENTY FC25,FIGUEIRA DA ILHA,9,4
+13,8,Noah A 10,Santo Ângelo United,8,10
+13,9,MauHumor F.C.,A Lenda Super Vasco F.c,7,1
+13,10,Tabajara de Inhaua FC2,Fedato Futebol Clube,13,5
