@@ -212,104 +212,104 @@ const resultadosFase2 = [
     "rodada": 9,
     "mandante": {
       "nome": "Dom Camillo68",
-      "pontos": null
+      "pontos": 68.35009765625
     },
     "visitante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
+      "pontos": 74.31982421875
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo I",
     "rodada": 9,
     "mandante": {
       "nome": "Super Vasco f.c",
-      "pontos": null
+      "pontos": 73.75
     },
     "visitante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 69.14990234375
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo J",
     "rodada": 9,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
+      "pontos": 56.8701171875
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 83.89990234375
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo J",
     "rodada": 9,
     "mandante": {
       "nome": "TEAM LOPES 99",
-      "pontos": null
+      "pontos": 78.31982421875
     },
     "visitante": {
       "nome": "pura bucha /botafogo",
-      "pontos": null
+      "pontos": 81.7001953125
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo K",
     "rodada": 9,
     "mandante": {
       "nome": "Real SCI",
-      "pontos": null
+      "pontos": 60.570068359375
     },
     "visitante": {
       "nome": "KING LEONN",
-      "pontos": null
+      "pontos": 60.419921875
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo K",
     "rodada": 9,
     "mandante": {
       "nome": "Laranjja Mecannica",
-      "pontos": null
+      "pontos": 54.719970703125
     },
     "visitante": {
       "nome": "Lá do Itaqui",
-      "pontos": null
+      "pontos": 75.22021484375
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "grupo": "Grupo L",
     "rodada": 9,
     "mandante": {
       "nome": "TORRESMO COM PINGA",
-      "pontos": null
+      "pontos": 74.25
     },
     "visitante": {
       "nome": "Gig@ntte",
-      "pontos": null
+      "pontos": 65.419921875
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo L",
     "rodada": 9,
     "mandante": {
       "nome": "KillerColorado",
-      "pontos": null
+      "pontos": 74.35009765625
     },
     "visitante": {
       "nome": "Gremiomaniasm",
-      "pontos": null
+      "pontos": 64.0
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "grupo": "Grupo I",
