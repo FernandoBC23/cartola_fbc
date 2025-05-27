@@ -193,6 +193,32 @@ function exibirPontuacoesRodada(rodada) {
 }
 
 
+// function exibirUltimoColocadoRodada(rodadaAtual) {
+//   const avisoContainer = document.getElementById("aviso-eliminado");
+//   if (!avisoContainer) return;
+
+//   const pontuacoesRodada = [];
+
+//   for (const time in pontuacoesPorRodada) {
+//     const pontos = pontuacoesPorRodada[time][`Rodada ${rodadaAtual}`];
+//     if (typeof pontos === "number") {
+//       pontuacoesRodada.push({ time, pontos });
+//     }
+//   }
+
+//   if (pontuacoesRodada.length === 0) {
+//     avisoContainer.innerHTML = "";
+//     return;
+//   }
+
+//   pontuacoesRodada.sort((a, b) => a.pontos - b.pontos);
+//   const ultimo = pontuacoesRodada[0];
+
+//   avisoContainer.innerHTML = `
+//     ❌ <strong>Último colocado da Rodada ${rodadaAtual}:</strong> ${ultimo.time} com ${ultimo.pontos.toFixed(2)} pontos. (Eliminado)
+//   `;
+// }
+
 function exibirUltimoColocadoRodada(rodadaAtual) {
   const avisoContainer = document.getElementById("aviso-eliminado");
   if (!avisoContainer) return;
@@ -212,12 +238,27 @@ function exibirUltimoColocadoRodada(rodadaAtual) {
   }
 
   pontuacoesRodada.sort((a, b) => a.pontos - b.pontos);
-  const ultimo = pontuacoesRodada[0];
 
-  avisoContainer.innerHTML = `
-    ❌ <strong>Último colocado da Rodada ${rodadaAtual}:</strong> ${ultimo.time} com ${ultimo.pontos.toFixed(2)} pontos. (Eliminado)
-  `;
+  // Rodadas 1–9: elimina 1; Rodadas 10–18: elimina 2; Rodada 19: final
+  if (rodadaAtual <= 9) {
+    const eliminado = pontuacoesRodada[0];
+    avisoContainer.innerHTML = `
+      ❌ <strong>Último colocado da Rodada ${rodadaAtual}:</strong> ${eliminado.time} com ${eliminado.pontos.toFixed(2)} pontos. (Eliminado)
+    `;
+  } else if (rodadaAtual <= 18) {
+    const elim1 = pontuacoesRodada[0];
+    const elim2 = pontuacoesRodada[1];
+    avisoContainer.innerHTML = `
+      ❌ <strong>Dois últimos colocados da Rodada ${rodadaAtual}:</strong><br>
+      ${elim1.time} com ${elim1.pontos.toFixed(2)} pts<br>
+      ${elim2.time} com ${elim2.pontos.toFixed(2)} pts<br>
+      (Ambos Eliminados)
+    `;
+  } else {
+    avisoContainer.innerHTML = `🏆 <strong>Rodada Final:</strong> Sem eliminações — disputa entre os 5 melhores.`;
+  }
 }
+
 
 
 function exibirResumoEliminacao(rodadaAtual) {
