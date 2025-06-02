@@ -3,7 +3,7 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Anthoni",
     "Posição": "Goleiro",
     "Clube": "INT",
-    "Quantidade": 48
+    "Quantidade": 52
   },
   {
     "Nome": "Weverton",
@@ -21,7 +21,7 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Léo Ortiz",
     "Posição": "Zagueiro",
     "Clube": "FLA",
-    "Quantidade": 135
+    "Quantidade": 161
   },
   {
     "Nome": "Pedro Henrique",
@@ -45,7 +45,7 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Juninho Capixaba",
     "Posição": "Lateral",
     "Clube": "RBB",
-    "Quantidade": 118
+    "Quantidade": 119
   },
   {
     "Nome": "Bernabéi",
@@ -57,13 +57,19 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Escobar",
     "Posição": "Lateral",
     "Clube": "SAN",
-    "Quantidade": 42
+    "Quantidade": 52
   },
   {
     "Nome": "Wesley",
     "Posição": "Lateral",
     "Clube": "FLA",
-    "Quantidade": 34
+    "Quantidade": 37
+  },
+  {
+    "Nome": "Arrascaeta",
+    "Posição": "Meia",
+    "Clube": "FLA",
+    "Quantidade": 158
   },
   {
     "Nome": "Arias",
@@ -72,28 +78,22 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Quantidade": 157
   },
   {
-    "Nome": "Arrascaeta",
-    "Posição": "Meia",
-    "Clube": "FLA",
-    "Quantidade": 131
-  },
-  {
     "Nome": "Alan Patrick",
     "Posição": "Meia",
     "Clube": "INT",
-    "Quantidade": 99
+    "Quantidade": 126
   },
   {
     "Nome": "Jhon Jhon",
     "Posição": "Meia",
     "Clube": "RBB",
-    "Quantidade": 58
+    "Quantidade": 59
   },
   {
     "Nome": "Rubens",
     "Posição": "Meia",
     "Clube": "CAM",
-    "Quantidade": 52
+    "Quantidade": 53
   },
   {
     "Nome": "Yuri Alberto",
@@ -105,24 +105,24 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Hulk",
     "Posição": "Atacante",
     "Clube": "CAM",
-    "Quantidade": 68
+    "Quantidade": 70
+  },
+  {
+    "Nome": "Vegetti",
+    "Posição": "Atacante",
+    "Clube": "VAS",
+    "Quantidade": 64
+  },
+  {
+    "Nome": "Wesley",
+    "Posição": "Atacante",
+    "Clube": "INT",
+    "Quantidade": 59
   },
   {
     "Nome": "Igor Jesus",
     "Posição": "Atacante",
     "Clube": "BOT",
     "Quantidade": 55
-  },
-  {
-    "Nome": "Eduardo Sasha",
-    "Posição": "Atacante",
-    "Clube": "RBB",
-    "Quantidade": 53
-  },
-  {
-    "Nome": "Estêvão",
-    "Posição": "Atacante",
-    "Clube": "PAL",
-    "Quantidade": 53
   }
 ];

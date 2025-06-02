@@ -6,21 +6,21 @@ const classificacaoFase2 = {
       "pontos": 12,
       "vitorias": 4,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 922.1806640625,
-      "cartolaSofrido": 360.16064453125,
-      "saldoCartola": 562.02001953125
+      "derrotas": 1,
+      "totalCartola": 1027.720703125,
+      "cartolaSofrido": 478.470703125,
+      "saldoCartola": 549.25
     },
     {
       "posicao": 2,
       "nome": "Super Vasco f.c",
-      "pontos": 6,
-      "vitorias": 2,
+      "pontos": 9,
+      "vitorias": 3,
       "empates": 0,
       "derrotas": 2,
-      "totalCartola": 874.800048828125,
-      "cartolaSofrido": 348.55029296875,
-      "saldoCartola": 526.249755859375
+      "totalCartola": 999.270263671875,
+      "cartolaSofrido": 472.47021484375,
+      "saldoCartola": 526.800048828125
     },
     {
       "posicao": 3,
@@ -28,34 +28,34 @@ const classificacaoFase2 = {
       "pontos": 6,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 2,
-      "totalCartola": 866.66015625,
-      "cartolaSofrido": 341.1396484375,
-      "saldoCartola": 525.5205078125
+      "derrotas": 3,
+      "totalCartola": 990.580078125,
+      "cartolaSofrido": 465.60986328125,
+      "saldoCartola": 524.97021484375
     },
     {
       "posicao": 4,
       "nome": "lsauer fc",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 3,
+      "vitorias": 1,
       "empates": 0,
       "derrotas": 4,
-      "totalCartola": 846.0302734375,
-      "cartolaSofrido": 393.33056640625,
-      "saldoCartola": 452.69970703125
+      "totalCartola": 964.34033203125,
+      "cartolaSofrido": 498.87060546875,
+      "saldoCartola": 465.4697265625
     }
   ],
   "Grupo J": [
     {
       "posicao": 1,
       "nome": "Texas Club 2025",
-      "pontos": 9,
-      "vitorias": 3,
+      "pontos": 12,
+      "vitorias": 4,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 867.0595703125,
-      "cartolaSofrido": 315.23974609375,
-      "saldoCartola": 551.81982421875
+      "totalCartola": 977.5693359375,
+      "cartolaSofrido": 387.39990234375,
+      "saldoCartola": 590.16943359375
     },
     {
       "posicao": 2,
@@ -63,91 +63,91 @@ const classificacaoFase2 = {
       "pontos": 6,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 2,
-      "totalCartola": 917.83984375,
-      "cartolaSofrido": 389.5703125,
-      "saldoCartola": 528.26953125
+      "derrotas": 3,
+      "totalCartola": 1002.580078125,
+      "cartolaSofrido": 505.34033203125,
+      "saldoCartola": 497.23974609375
     },
     {
       "posicao": 3,
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": 6,
+      "vitorias": 2,
+      "empates": 0,
+      "derrotas": 3,
+      "totalCartola": 998.211181640625,
+      "cartolaSofrido": 475.50048828125,
+      "saldoCartola": 522.710693359375
+    },
+    {
+      "posicao": 4,
       "nome": "pura bucha /botafogo",
       "pontos": 6,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 2,
-      "totalCartola": 792.4794921875,
-      "cartolaSofrido": 355.429931640625,
-      "saldoCartola": 437.049560546875
-    },
-    {
-      "posicao": 4,
-      "nome": "Tabajara de Inhaua FC2",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
       "derrotas": 3,
-      "totalCartola": 882.441162109375,
-      "cartolaSofrido": 390.76025390625,
-      "saldoCartola": 491.680908203125
+      "totalCartola": 864.6396484375,
+      "cartolaSofrido": 465.939697265625,
+      "saldoCartola": 398.699951171875
     }
   ],
   "Grupo K": [
     {
       "posicao": 1,
       "nome": "Real SCI",
-      "pontos": 9,
-      "vitorias": 3,
+      "pontos": 12,
+      "vitorias": 4,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 865.869873046875,
-      "cartolaSofrido": 294.0296630859375,
-      "saldoCartola": 571.8402099609375
+      "totalCartola": 970.340087890625,
+      "cartolaSofrido": 370.0394287109375,
+      "saldoCartola": 600.3006591796875
     },
     {
       "posicao": 2,
+      "nome": "KING LEONN",
+      "pontos": 6,
+      "vitorias": 2,
+      "empates": 0,
+      "derrotas": 3,
+      "totalCartola": 880.900390625,
+      "cartolaSofrido": 367.220703125,
+      "saldoCartola": 513.6796875
+    },
+    {
+      "posicao": 3,
       "nome": "Lá do Itaqui",
       "pontos": 6,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 2,
-      "totalCartola": 832.8006591796875,
-      "cartolaSofrido": 297.880126953125,
-      "saldoCartola": 534.9205322265625
+      "derrotas": 3,
+      "totalCartola": 873.7305908203125,
+      "cartolaSofrido": 377.790283203125,
+      "saldoCartola": 495.9403076171875
     },
     {
-      "posicao": 3,
+      "posicao": 4,
       "nome": "Laranjja Mecannica",
       "pontos": 6,
       "vitorias": 2,
       "empates": 0,
-      "derrotas": 2,
-      "totalCartola": 747.300048828125,
-      "cartolaSofrido": 312.1005859375,
-      "saldoCartola": 435.199462890625
-    },
-    {
-      "posicao": 4,
-      "nome": "KING LEONN",
-      "pontos": 3,
-      "vitorias": 1,
-      "empates": 0,
       "derrotas": 3,
-      "totalCartola": 800.990234375,
-      "cartolaSofrido": 326.290771484375,
-      "saldoCartola": 474.699462890625
+      "totalCartola": 823.309814453125,
+      "cartolaSofrido": 416.57080078125,
+      "saldoCartola": 406.739013671875
     }
   ],
   "Grupo L": [
     {
       "posicao": 1,
       "nome": "TORRESMO COM PINGA",
-      "pontos": 12,
-      "vitorias": 4,
+      "pontos": 15,
+      "vitorias": 5,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 865.30029296875,
-      "cartolaSofrido": 301.8203125,
-      "saldoCartola": 563.47998046875
+      "totalCartola": 985.5703125,
+      "cartolaSofrido": 378.400390625,
+      "saldoCartola": 607.169921875
     },
     {
       "posicao": 2,
@@ -155,21 +155,21 @@ const classificacaoFase2 = {
       "pontos": 9,
       "vitorias": 3,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 795.849853515625,
-      "cartolaSofrido": 314.979736328125,
-      "saldoCartola": 480.8701171875
+      "derrotas": 2,
+      "totalCartola": 872.429931640625,
+      "cartolaSofrido": 435.249755859375,
+      "saldoCartola": 437.18017578125
     },
     {
       "posicao": 3,
       "nome": "Gig@ntte",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 3,
-      "totalCartola": 812.879150390625,
-      "cartolaSofrido": 310.53955078125,
-      "saldoCartola": 502.339599609375
+      "totalCartola": 915.739013671875,
+      "cartolaSofrido": 408.349609375,
+      "saldoCartola": 507.389404296875
     },
     {
       "posicao": 4,
@@ -177,10 +177,10 @@ const classificacaoFase2 = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 4,
-      "totalCartola": 785.239501953125,
-      "cartolaSofrido": 342.759765625,
-      "saldoCartola": 442.479736328125
+      "derrotas": 5,
+      "totalCartola": 883.049560546875,
+      "cartolaSofrido": 445.61962890625,
+      "saldoCartola": 437.429931640625
     }
   ]
 };

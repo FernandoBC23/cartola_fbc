@@ -11,18 +11,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Real SCI",
-      "Nome": "William",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 19.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Real SCI",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 7.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Real SCI",
+      "Nome": "William",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 19.3
     },
     {
       "Rodada": 1,
@@ -51,14 +51,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Real SCI",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 4.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Real SCI",
       "Nome": "Yago Pikachu",
       "Posição": "Meia",
       "Clube": "FOR",
@@ -67,10 +59,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Real SCI",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 5.6
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.5
     },
     {
       "Rodada": 1,
@@ -79,6 +71,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Real SCI",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 5.6
     },
     {
       "Rodada": 1,
@@ -107,18 +107,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Gig@ntte",
       "Nome": "William",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 19.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -203,18 +203,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "William",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 19.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -235,18 +235,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Hugo Moura",
-      "Posição": "Meia",
-      "Clube": "VAS",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Matheus Fernandes",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Hugo Moura",
+      "Posição": "Meia",
+      "Clube": "VAS",
+      "Pontos": 3.3
     },
     {
       "Rodada": 1,
@@ -259,10 +259,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Estêvão",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 2.9
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -275,10 +275,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Gabriel",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "PAL",
+      "Pontos": 2.9
     },
     {
       "Rodada": 1,
@@ -299,14 +299,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Andrés Hurtado",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 4.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "William",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -315,10 +307,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Abner",
-      "Posição": "Zagueiro",
-      "Clube": "JUV",
-      "Pontos": 13.0
+      "Nome": "Andrés Hurtado",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 4.6
     },
     {
       "Rodada": 1,
@@ -331,18 +323,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Matheus Henrique",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": -1.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.5
+      "Nome": "Abner",
+      "Posição": "Zagueiro",
+      "Clube": "JUV",
+      "Pontos": 13.0
     },
     {
       "Rodada": 1,
@@ -355,10 +339,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Matheus Henrique",
+      "Posição": "Meia",
       "Clube": "CRU",
-      "Pontos": 8.8
+      "Pontos": -1.9
     },
     {
       "Rodada": 1,
@@ -367,6 +359,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 6.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -411,18 +411,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Titi",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 8.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Abner",
       "Posição": "Zagueiro",
       "Clube": "JUV",
       "Pontos": 13.0
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Titi",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 8.5
     },
     {
       "Rodada": 1,
@@ -523,6 +523,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Yago Pikachu",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 5.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Matheus Henrique",
       "Posição": "Meia",
       "Clube": "CRU",
@@ -539,18 +547,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Yago Pikachu",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 5.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Gabriel",
+      "Nome": "Rony",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "CAM",
+      "Pontos": 11.5
     },
     {
       "Rodada": 1,
@@ -563,10 +563,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Rony",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 11.5
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -587,18 +587,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "PUXE FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "PUXE FC",
       "Nome": "William",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 19.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -619,18 +619,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "PUXE FC",
-      "Nome": "Jadson",
-      "Posição": "Meia",
-      "Clube": "JUV",
-      "Pontos": 0.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "PUXE FC",
       "Nome": "Matheus Fernandes",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Jadson",
+      "Posição": "Meia",
+      "Clube": "JUV",
+      "Pontos": 0.1
     },
     {
       "Rodada": 1,
@@ -683,6 +683,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
+      "Clube": "SAO",
+      "Pontos": 7.7
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -691,10 +699,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Enzo Díaz",
-      "Posição": "Lateral",
-      "Clube": "SAO",
-      "Pontos": 7.7
+      "Nome": "Villalba",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 0.0
     },
     {
       "Rodada": 1,
@@ -707,10 +715,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Villalba",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 0.0
+      "Nome": "Gabriel Menino",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.5
     },
     {
       "Rodada": 1,
@@ -731,10 +739,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Gabriel Menino",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.5
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 2.9
     },
     {
       "Rodada": 1,
@@ -743,14 +751,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 2.9
     },
     {
       "Rodada": 1,
@@ -795,14 +795,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Sabino",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 7.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Abner",
       "Posição": "Zagueiro",
       "Clube": "JUV",
@@ -811,18 +803,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Walace",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": -0.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "ZIVI FC",
-      "Nome": "Fernando",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 1.2
+      "Nome": "Sabino",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 7.3
     },
     {
       "Rodada": 1,
@@ -835,10 +819,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
+      "Nome": "Fernando",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Walace",
+      "Posição": "Meia",
       "Clube": "CRU",
-      "Pontos": 8.8
+      "Pontos": -0.1
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Arezo",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 9.2
     },
     {
       "Rodada": 1,
@@ -851,10 +851,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Arezo",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 9.2
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -907,14 +907,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Lucas Sasha",
       "Posição": "Meia",
       "Clube": "FOR",
@@ -931,6 +923,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
@@ -939,18 +939,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Ademir",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 7.0
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Ademir",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 4.7
     },
     {
       "Rodada": 1,
@@ -1067,14 +1067,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Enzo Díaz",
-      "Posição": "Lateral",
-      "Clube": "SAO",
-      "Pontos": 7.7
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -1083,10 +1075,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
       "Clube": "SAO",
-      "Pontos": 6.6
+      "Pontos": 7.7
     },
     {
       "Rodada": 1,
@@ -1099,10 +1091,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Alisson",
-      "Posição": "Meia",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
       "Clube": "SAO",
-      "Pontos": 1.4
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -1123,10 +1115,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Pedro Raul",
+      "Nome": "Alisson",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 1.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Cuello",
       "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 9.1
+      "Clube": "CAM",
+      "Pontos": 6.4
     },
     {
       "Rodada": 1,
@@ -1139,10 +1139,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Cuello",
+      "Nome": "Pedro Raul",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.4
+      "Clube": "CEA",
+      "Pontos": 9.1
     },
     {
       "Rodada": 1,
@@ -1163,6 +1163,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Mayke",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -1171,10 +1179,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -1187,9 +1195,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
       "Pontos": 6.6
     },
     {
@@ -1211,22 +1219,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Emmanuel Martínez",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 6.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
@@ -1239,6 +1231,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 6.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -1259,18 +1259,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Mayke",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 8.1
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -1291,10 +1291,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Raphael Veiga",
+      "Nome": "Alisson",
       "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 6.4
+      "Clube": "SAO",
+      "Pontos": 1.4
     },
     {
       "Rodada": 1,
@@ -1307,18 +1307,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Alisson",
+      "Nome": "Raphael Veiga",
       "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 1.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Arezo",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 9.2
+      "Clube": "PAL",
+      "Pontos": 6.4
     },
     {
       "Rodada": 1,
@@ -1335,6 +1327,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Arezo",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 9.2
     },
     {
       "Rodada": 1,
@@ -1387,14 +1387,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "KING LEONN",
-      "Nome": "Matheus Fernandes",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "KING LEONN",
       "Nome": "Hugo Moura",
       "Posição": "Meia",
       "Clube": "VAS",
@@ -1407,6 +1399,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "JUV",
       "Pontos": 0.1
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Matheus Fernandes",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 1.3
     },
     {
       "Rodada": 1,
@@ -1451,14 +1451,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -1467,10 +1459,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 6.6
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -1483,9 +1475,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Emmanuel Martínez",
-      "Posição": "Meia",
-      "Clube": "FOR",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
       "Pontos": 6.6
     },
     {
@@ -1507,10 +1499,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -1527,6 +1519,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 2.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -1563,18 +1563,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Arboleda",
       "Posição": "Zagueiro",
       "Clube": "SAO",
       "Pontos": 6.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 1,
@@ -1611,18 +1611,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 7.0
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Lucho Rodríguez",
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 7.0
     },
     {
       "Rodada": 1,
@@ -1659,18 +1659,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 6.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 0.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -1699,10 +1699,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Ferreira",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 4.2
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -1715,10 +1715,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Gabriel",
+      "Nome": "Ferreira",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "SAO",
+      "Pontos": 4.2
     },
     {
       "Rodada": 1,
@@ -1779,14 +1779,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Pity10",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 4.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Pity10",
       "Nome": "Hugo Moura",
       "Posição": "Meia",
       "Clube": "VAS",
@@ -1795,10 +1787,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Pity10",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.5
     },
     {
       "Rodada": 1,
@@ -1807,6 +1799,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 2.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Pity10",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -1891,6 +1891,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 5.2
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
@@ -1903,14 +1911,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 14.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 5.2
     },
     {
       "Rodada": 1,
@@ -1947,18 +1947,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Sabino",
       "Posição": "Zagueiro",
       "Clube": "SAO",
       "Pontos": 7.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 1,
@@ -1987,18 +1987,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -2027,14 +2027,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Igor Serrote",
-      "Posição": "Lateral",
-      "Clube": "GRE",
-      "Pontos": 0.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -2043,10 +2035,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Gamarra",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 3.2
+      "Nome": "Igor Serrote",
+      "Posição": "Lateral",
+      "Clube": "GRE",
+      "Pontos": 0.9
     },
     {
       "Rodada": 1,
@@ -2059,10 +2051,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Gamarra",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.5
     },
     {
       "Rodada": 1,
@@ -2075,10 +2083,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 4.5
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -2095,14 +2103,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 9.2
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -2163,18 +2163,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Alisson",
       "Posição": "Meia",
       "Clube": "SAO",
       "Pontos": 1.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
     },
     {
       "Rodada": 1,
@@ -2219,14 +2219,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -2235,10 +2227,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.6
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -2251,18 +2243,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.5
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 1,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Emmanuel Martínez",
+      "Nome": "Richard Ríos",
       "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 6.6
+      "Clube": "PAL",
+      "Pontos": 3.5
     },
     {
       "Rodada": 1,
@@ -2275,10 +2267,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Luciano",
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 6.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 1.5
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -2291,10 +2291,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Gabriel",
+      "Nome": "Luciano",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "SAO",
+      "Pontos": 1.5
     },
     {
       "Rodada": 1,
@@ -2315,18 +2315,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Igor Vinícius",
       "Posição": "Lateral",
       "Clube": "SAO",
       "Pontos": 6.7
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -2467,18 +2467,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "DM Studio",
-      "Nome": "Luiz Araújo",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 5.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "DM Studio",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "DM Studio",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 5.1
     },
     {
       "Rodada": 1,
@@ -2507,6 +2507,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "lsauer fc",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "lsauer fc",
       "Nome": "Igor Vinícius",
       "Posição": "Lateral",
       "Clube": "SAO",
@@ -2515,10 +2523,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "lsauer fc",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -2531,10 +2539,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "lsauer fc",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 6.6
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
     },
     {
       "Rodada": 1,
@@ -2555,10 +2563,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "lsauer fc",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 5.2
     },
     {
       "Rodada": 1,
@@ -2575,14 +2583,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 1.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "lsauer fc",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 5.2
     },
     {
       "Rodada": 1,
@@ -2643,14 +2643,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Alan Franco",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 1.0
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Paulinho",
       "Posição": "Meia",
       "Clube": "VAS",
@@ -2659,10 +2651,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Dudu",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 13.9
+      "Nome": "Alan Franco",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 1.0
     },
     {
       "Rodada": 1,
@@ -2671,6 +2663,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 14.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Dudu",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 13.9
     },
     {
       "Rodada": 1,
@@ -2731,18 +2731,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "KP JUV.",
-      "Nome": "Matheus Henrique",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": -1.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "KP JUV.",
       "Nome": "Jadson",
       "Posição": "Meia",
       "Clube": "JUV",
       "Pontos": 0.1
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Matheus Henrique",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": -1.9
     },
     {
       "Rodada": 1,
@@ -2795,14 +2795,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Igor Vinícius",
       "Posição": "Lateral",
       "Clube": "SAO",
@@ -2811,10 +2803,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.6
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -2827,18 +2819,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Luis Mandaca",
-      "Posição": "Meia",
-      "Clube": "JUV",
-      "Pontos": 4.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 1,
@@ -2851,10 +2835,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Michael",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 6.4
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Luis Mandaca",
+      "Posição": "Meia",
+      "Clube": "JUV",
+      "Pontos": 4.1
     },
     {
       "Rodada": 1,
@@ -2875,6 +2867,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Michael",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 6.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Leonardo Jardim",
       "Posição": "Técnico",
       "Clube": "CRU",
@@ -2891,18 +2891,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 5.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
       "Pontos": 5.0
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.1
     },
     {
       "Rodada": 1,
@@ -2919,14 +2919,6 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "CRU",
       "Pontos": 3.2
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Profit Soccer",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 4.5
     },
     {
       "Rodada": 1,
@@ -2947,10 +2939,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Gabriel",
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Lucho Rodríguez",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "BAH",
+      "Pontos": 6.1
     },
     {
       "Rodada": 1,
@@ -2963,10 +2963,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Lucho Rodríguez",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 6.1
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -2987,14 +2987,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 5.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -3003,10 +2995,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Gamarra",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 3.2
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.1
     },
     {
       "Rodada": 1,
@@ -3019,18 +3011,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Matheus Henrique",
-      "Posição": "Meia",
+      "Nome": "Gamarra",
+      "Posição": "Zagueiro",
       "Clube": "CRU",
-      "Pontos": -1.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
+      "Pontos": 3.2
     },
     {
       "Rodada": 1,
@@ -3043,10 +3027,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Matheus Henrique",
+      "Posição": "Meia",
       "Clube": "CRU",
-      "Pontos": 5.6
+      "Pontos": -1.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Lucho Rodríguez",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 6.1
     },
     {
       "Rodada": 1,
@@ -3059,10 +3059,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Lucho Rodríguez",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 6.1
+      "Clube": "CRU",
+      "Pontos": 5.6
     },
     {
       "Rodada": 1,
@@ -3211,6 +3211,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Alisson",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 1.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Fernando",
       "Posição": "Meia",
       "Clube": "INT",
@@ -3223,14 +3231,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Alisson",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 1.4
     },
     {
       "Rodada": 1,
@@ -3291,14 +3291,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "seralex",
-      "Nome": "Gamarra",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 3.2
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "seralex",
       "Nome": "Alan Franco",
       "Posição": "Zagueiro",
       "Clube": "SAO",
@@ -3307,10 +3299,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "seralex",
-      "Nome": "Alisson",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 1.4
+      "Nome": "Gamarra",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 3.2
     },
     {
       "Rodada": 1,
@@ -3331,10 +3323,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "seralex",
-      "Nome": "Gabriel",
+      "Nome": "Alisson",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 1.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "seralex",
+      "Nome": "Luciano",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "SAO",
+      "Pontos": 1.5
     },
     {
       "Rodada": 1,
@@ -3347,10 +3347,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "seralex",
-      "Nome": "Luciano",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 1.5
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -3403,18 +3403,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Emmanuel Martínez",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 6.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Matheus Henrique",
       "Posição": "Meia",
       "Clube": "CRU",
       "Pontos": -1.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -3467,14 +3467,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -3483,10 +3475,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 6.6
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -3499,10 +3491,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 6.6
     },
     {
       "Rodada": 1,
@@ -3515,10 +3507,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Texas Club 2025",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Texas Club 2025",
       "Nome": "Matheus Henrique",
       "Posição": "Meia",
       "Clube": "CRU",
       "Pontos": -1.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -3535,14 +3543,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 5.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Texas Club 2025",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -3659,18 +3659,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BordonFC",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 5.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "BordonFC",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 7.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "BordonFC",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.1
     },
     {
       "Rodada": 1,
@@ -3687,6 +3687,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 0.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "BordonFC",
+      "Nome": "Jadson",
+      "Posição": "Meia",
+      "Clube": "JUV",
+      "Pontos": 0.1
     },
     {
       "Rodada": 1,
@@ -3707,18 +3715,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BordonFC",
-      "Nome": "Jadson",
-      "Posição": "Meia",
-      "Clube": "JUV",
-      "Pontos": 0.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "BordonFC",
-      "Nome": "Gabriel",
+      "Nome": "Ademir",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Clube": "BAH",
+      "Pontos": 4.7
     },
     {
       "Rodada": 1,
@@ -3731,10 +3731,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "BordonFC",
-      "Nome": "Ademir",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 4.7
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -3755,14 +3755,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Igor Serrote",
-      "Posição": "Lateral",
-      "Clube": "GRE",
-      "Pontos": 0.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -3771,10 +3763,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.6
+      "Nome": "Igor Serrote",
+      "Posição": "Lateral",
+      "Clube": "GRE",
+      "Pontos": 0.9
     },
     {
       "Rodada": 1,
@@ -3787,10 +3779,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 1,
@@ -3811,10 +3803,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
     },
     {
       "Rodada": 1,
@@ -3835,6 +3827,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Luis Zubeldía",
       "Posição": "Técnico",
       "Clube": "SAO",
@@ -3851,14 +3851,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Mayke",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -3867,10 +3859,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Micael",
-      "Posição": "Zagueiro",
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
       "Clube": "PAL",
-      "Pontos": 4.7
+      "Pontos": 5.8
     },
     {
       "Rodada": 1,
@@ -3883,10 +3875,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
+      "Nome": "Micael",
+      "Posição": "Zagueiro",
       "Clube": "PAL",
-      "Pontos": 3.5
+      "Pontos": 4.7
     },
     {
       "Rodada": 1,
@@ -3907,10 +3899,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Marinho",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 5.2
+      "Clube": "PAL",
+      "Pontos": 2.9
     },
     {
       "Rodada": 1,
@@ -3923,10 +3923,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Estêvão",
+      "Nome": "Marinho",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 2.9
+      "Clube": "FOR",
+      "Pontos": 5.2
     },
     {
       "Rodada": 1,
@@ -3963,14 +3963,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Micael",
       "Posição": "Zagueiro",
       "Clube": "PAL",
@@ -3979,10 +3971,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.5
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 1,
@@ -4003,6 +3995,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "MauHumor F.C.",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "MauHumor F.C.",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
@@ -4011,18 +4011,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -4099,18 +4099,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 2.7
     },
     {
       "Rodada": 1,
@@ -4171,18 +4171,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Jadson",
-      "Posição": "Meia",
-      "Clube": "JUV",
-      "Pontos": 0.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Richard Ríos",
       "Posição": "Meia",
       "Clube": "PAL",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Jadson",
+      "Posição": "Meia",
+      "Clube": "JUV",
+      "Pontos": 0.1
     },
     {
       "Rodada": 1,
@@ -4267,14 +4267,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Matheus Henrique",
       "Posição": "Meia",
       "Clube": "CRU",
@@ -4291,10 +4283,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 3.5
     },
     {
       "Rodada": 1,
@@ -4303,6 +4295,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -4331,6 +4331,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FBC Colorado",
+      "Nome": "Renê",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 5.0
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "FBC Colorado",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -4339,10 +4347,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Renê",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 5.0
+      "Nome": "Sabino",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 7.3
     },
     {
       "Rodada": 1,
@@ -4355,10 +4363,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Sabino",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 7.3
+      "Nome": "Jadson",
+      "Posição": "Meia",
+      "Clube": "JUV",
+      "Pontos": 0.1
     },
     {
       "Rodada": 1,
@@ -4375,14 +4383,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "PAL",
       "Pontos": 3.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "FBC Colorado",
-      "Nome": "Jadson",
-      "Posição": "Meia",
-      "Clube": "JUV",
-      "Pontos": 0.1
     },
     {
       "Rodada": 1,
@@ -4459,18 +4459,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Jadson",
-      "Posição": "Meia",
-      "Clube": "JUV",
-      "Pontos": 0.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Jadson",
+      "Posição": "Meia",
+      "Clube": "JUV",
+      "Pontos": 0.1
     },
     {
       "Rodada": 1,
@@ -4483,18 +4483,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Cristian Olivera",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 1.3
     },
     {
       "Rodada": 1,
@@ -4651,18 +4651,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Matheus Henrique",
       "Posição": "Meia",
       "Clube": "CRU",
       "Pontos": -1.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 3.3
     },
     {
       "Rodada": 1,
@@ -4683,18 +4683,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 1.5
     },
     {
       "Rodada": 1,
@@ -4715,18 +4715,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 5.1
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Cédric Soares",
       "Posição": "Lateral",
       "Clube": "SAO",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.1
     },
     {
       "Rodada": 1,
@@ -4843,6 +4843,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Matheus Henrique",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": -1.9
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
@@ -4859,18 +4867,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Matheus Henrique",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": -1.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Kaio Jorge",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
-      "Pontos": 5.6
+      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -4883,10 +4883,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Gabriel",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
-      "Pontos": 8.8
+      "Pontos": 5.6
     },
     {
       "Rodada": 1,
@@ -4907,18 +4907,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "SERGRILLO",
-      "Nome": "William",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 19.3
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Enzo Díaz",
       "Posição": "Lateral",
       "Clube": "SAO",
       "Pontos": 7.7
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "William",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 19.3
     },
     {
       "Rodada": 1,
@@ -4939,14 +4939,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 1.0
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Marlon Freitas",
       "Posição": "Meia",
       "Clube": "BOT",
@@ -4955,10 +4947,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "SERGRILLO",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "SERGRILLO",
       "Nome": "Richard Ríos",
       "Posição": "Meia",
       "Clube": "PAL",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 2.7
     },
     {
       "Rodada": 1,
@@ -4975,14 +4983,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 2.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "SERGRILLO",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 2.7
     },
     {
       "Rodada": 1,
@@ -5067,18 +5067,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Gabriel",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 5.6
     },
     {
       "Rodada": 1,
@@ -5139,18 +5139,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 4.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.5
     },
     {
       "Rodada": 1,
@@ -5163,18 +5163,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Lucho Rodríguez",
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 1.5
     },
     {
       "Rodada": 1,
@@ -5195,14 +5195,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Igor Serrote",
       "Posição": "Lateral",
       "Clube": "GRE",
@@ -5211,10 +5203,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 4.2
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.4
     },
     {
       "Rodada": 1,
@@ -5227,10 +5219,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Sérgio Oliveira",
-      "Posição": "Meia",
-      "Clube": "SPT",
-      "Pontos": 5.0
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 4.2
     },
     {
       "Rodada": 1,
@@ -5247,6 +5239,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Sérgio Oliveira",
+      "Posição": "Meia",
+      "Clube": "SPT",
+      "Pontos": 5.0
     },
     {
       "Rodada": 1,
@@ -5403,18 +5403,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Fabrício Bruno",
       "Posição": "Zagueiro",
       "Clube": "CRU",
       "Pontos": 1.4
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 0.0
     },
     {
       "Rodada": 1,
@@ -5443,6 +5443,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Luis lemes inter",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.8
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Luis lemes inter",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -5455,14 +5463,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": -2.7
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Luis lemes inter",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.8
     },
     {
       "Rodada": 1,
@@ -5523,17 +5523,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "emer jr fc",
-      "Nome": "Alisson",
+      "Nome": "Matheus Pereira",
       "Posição": "Meia",
-      "Clube": "SAO",
+      "Clube": "CRU",
       "Pontos": 1.4
     },
     {
       "Rodada": 1,
       "Time Cartola": "emer jr fc",
-      "Nome": "Matheus Pereira",
+      "Nome": "Alisson",
       "Posição": "Meia",
-      "Clube": "CRU",
+      "Clube": "SAO",
       "Pontos": 1.4
     },
     {
@@ -5547,18 +5547,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "emer jr fc",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 2.9
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "emer jr fc",
       "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 2.9
     },
     {
       "Rodada": 1,
@@ -5635,17 +5635,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Yuri Alberto",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "COR",
+      "Clube": "PAL",
       "Pontos": 2.9
     },
     {
       "Rodada": 1,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Estêvão",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "PAL",
+      "Clube": "COR",
       "Pontos": 2.9
     },
     {
@@ -5675,14 +5675,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Andrés Hurtado",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 4.6
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -5691,10 +5683,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 6.6
+      "Nome": "Andrés Hurtado",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 4.6
     },
     {
       "Rodada": 1,
@@ -5707,10 +5699,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Jhon Jhon",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 6.6
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Everton Ribeiro",
       "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.3
+      "Clube": "BAH",
+      "Pontos": -0.6
     },
     {
       "Rodada": 1,
@@ -5723,10 +5723,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 1,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Everton Ribeiro",
+      "Nome": "Jhon Jhon",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": -0.6
+      "Clube": "RBB",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 1,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 1.5
     },
     {
       "Rodada": 1,
@@ -5743,14 +5751,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 6.2
-    },
-    {
-      "Rodada": 1,
-      "Time Cartola": "Santo Ângelo United",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 1.5
     },
     {
       "Rodada": 1,
@@ -5773,18 +5773,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Real SCI",
-      "Nome": "Matheuzinho",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 8.7
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Real SCI",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Real SCI",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.7
     },
     {
       "Rodada": 2,
@@ -5829,18 +5829,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Real SCI",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Real SCI",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Real SCI",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -5869,14 +5869,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Vitinho",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -5885,10 +5877,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
+      "Nome": "Vitinho",
+      "Posição": "Lateral",
       "Clube": "BOT",
-      "Pontos": 7.8
+      "Pontos": 5.0
     },
     {
       "Rodada": 2,
@@ -5901,10 +5893,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 7.8
     },
     {
       "Rodada": 2,
@@ -5925,10 +5917,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Hulk",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 3.6
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -5941,10 +5941,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Igor Jesus",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "CAM",
+      "Pontos": 3.6
     },
     {
       "Rodada": 2,
@@ -5981,14 +5981,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Rogel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 6.2
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -5997,18 +5989,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.8
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "PraiaBravaFC",
-      "Nome": "Gabriel Bontempo",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
+      "Nome": "Rogel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 6.2
     },
     {
       "Rodada": 2,
@@ -6021,10 +6005,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 11.8
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 3.8
     },
     {
       "Rodada": 2,
@@ -6033,6 +6025,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 10.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 11.8
     },
     {
       "Rodada": 2,
@@ -6061,18 +6061,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Renê",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 14.5
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Renê",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 2.4
     },
     {
       "Rodada": 2,
@@ -6117,10 +6117,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Yuri Alberto",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -6133,10 +6133,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Igor Jesus",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -6157,18 +6157,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Reinaldo",
       "Posição": "Lateral",
       "Clube": "MIR",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 14.5
     },
     {
       "Rodada": 2,
@@ -6197,18 +6197,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Bruno Henrique",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 0.9
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -6253,18 +6253,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Aguirre",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Aguirre",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 7.4
     },
     {
       "Rodada": 2,
@@ -6285,6 +6285,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Lucas Evangelista",
       "Posição": "Meia",
       "Clube": "PAL",
@@ -6301,18 +6309,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Igor Jesus",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "CAM",
+      "Pontos": 3.6
     },
     {
       "Rodada": 2,
@@ -6325,10 +6325,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Hulk",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 3.6
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -6365,14 +6365,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PUXE FC",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "PUXE FC",
       "Nome": "Lyanco",
       "Posição": "Zagueiro",
       "Clube": "CAM",
@@ -6381,10 +6373,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PUXE FC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.8
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 2,
@@ -6405,10 +6397,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PUXE FC",
-      "Nome": "Yuri Alberto",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Pedro Raul",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "CEA",
+      "Pontos": 13.6
     },
     {
       "Rodada": 2,
@@ -6421,10 +6421,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "PUXE FC",
-      "Nome": "Pedro Raul",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 13.6
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -6461,14 +6461,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 9.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Alexander Barboza",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -6477,10 +6469,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 3.6
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 9.5
     },
     {
       "Rodada": 2,
@@ -6501,10 +6493,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Bruno Henrique",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -6517,10 +6517,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Igor Jesus",
+      "Nome": "Bruno Henrique",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -6573,14 +6573,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Emiliano Martínez",
       "Posição": "Meia",
       "Clube": "PAL",
@@ -6597,6 +6589,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "ZIVI FC",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "ZIVI FC",
       "Nome": "Bruno Henrique",
       "Posição": "Atacante",
       "Clube": "FLA",
@@ -6605,18 +6605,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 11.8
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Carbonero",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 1.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 11.8
     },
     {
       "Rodada": 2,
@@ -6701,18 +6701,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -6733,18 +6733,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 8.2
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.4
     },
     {
       "Rodada": 2,
@@ -6765,10 +6765,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Lucas Evangelista",
+      "Nome": "Emmanuel Martínez",
       "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 1.2
+      "Clube": "FOR",
+      "Pontos": 8.2
     },
     {
       "Rodada": 2,
@@ -6781,18 +6781,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Emmanuel Martínez",
+      "Nome": "Lucas Evangelista",
       "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 8.2
+      "Clube": "PAL",
+      "Pontos": 1.2
     },
     {
       "Rodada": 2,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Yuri Alberto",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "PAL",
+      "Pontos": 1.5
     },
     {
       "Rodada": 2,
@@ -6805,10 +6805,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Estêvão",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 1.5
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -6829,14 +6829,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Vitinho",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -6845,10 +6837,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Alexander Barboza",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 8.2
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 1.3
     },
     {
       "Rodada": 2,
@@ -6861,18 +6853,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Lucas Mugni",
-      "Posição": "Meia",
-      "Clube": "CEA",
-      "Pontos": 2.3
+      "Nome": "Alexander Barboza",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 2,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Gregore",
+      "Nome": "Lucas Mugni",
       "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 0.2
+      "Clube": "CEA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 2,
@@ -6885,10 +6877,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Nome": "Gregore",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 0.2
     },
     {
       "Rodada": 2,
@@ -6897,6 +6889,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": 13.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -7077,18 +7077,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 7.5
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.6
     },
     {
       "Rodada": 2,
@@ -7117,18 +7117,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "KING LEONN",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "KING LEONN",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 14.5
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.4
     },
     {
       "Rodada": 2,
@@ -7173,18 +7173,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "KING LEONN",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "KING LEONN",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -7213,14 +7213,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Vitinho",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -7229,10 +7221,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Alexander Barboza",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 8.2
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.4
     },
     {
       "Rodada": 2,
@@ -7245,10 +7237,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Gregore",
-      "Posição": "Meia",
+      "Nome": "Alexander Barboza",
+      "Posição": "Zagueiro",
       "Clube": "BOT",
-      "Pontos": 0.2
+      "Pontos": 8.2
     },
     {
       "Rodada": 2,
@@ -7269,10 +7261,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Nome": "Gregore",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 0.2
     },
     {
       "Rodada": 2,
@@ -7293,6 +7285,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Renato Paiva",
       "Posição": "Técnico",
       "Clube": "BOT",
@@ -7309,18 +7309,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Aguirre",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 7.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
       "Pontos": 9.4
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Aguirre",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 7.4
     },
     {
       "Rodada": 2,
@@ -7349,18 +7349,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -7373,18 +7373,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -7421,14 +7421,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Kuscevic",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 2.1
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Alexander Barboza",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -7437,10 +7429,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 9.2
+      "Nome": "Kuscevic",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 2.1
     },
     {
       "Rodada": 2,
@@ -7449,6 +7441,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "COR",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 9.2
     },
     {
       "Rodada": 2,
@@ -7501,14 +7501,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Pity10",
-      "Nome": "Renê",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Pity10",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
@@ -7517,10 +7509,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Pity10",
-      "Nome": "Léo Pereira",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Renê",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 2.4
     },
     {
       "Rodada": 2,
@@ -7533,10 +7525,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Pity10",
-      "Nome": "Arias",
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Pity10",
+      "Nome": "Gregore",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Clube": "BOT",
+      "Pontos": 0.2
     },
     {
       "Rodada": 2,
@@ -7549,10 +7549,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Pity10",
-      "Nome": "Gregore",
+      "Nome": "Arias",
       "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Pity10",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
       "Clube": "BOT",
-      "Pontos": 0.2
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -7573,14 +7581,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Pity10",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Pity10",
       "Nome": "Renato Gaúcho",
       "Posição": "Técnico",
       "Clube": "FLU",
@@ -7597,14 +7597,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Vitinho",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -7613,10 +7605,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 3.1
+      "Nome": "Vitinho",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 5.0
     },
     {
       "Rodada": 2,
@@ -7629,10 +7621,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Gabriel Bontempo",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 3.1
     },
     {
       "Rodada": 2,
@@ -7653,6 +7645,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -7665,14 +7673,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 7.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -7733,14 +7733,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Igor Coronado",
       "Posição": "Meia",
       "Clube": "COR",
@@ -7749,10 +7741,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -7761,6 +7753,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -7805,18 +7805,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 7.8
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 7.8
     },
     {
       "Rodada": 2,
@@ -7925,14 +7925,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -7941,10 +7933,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -7953,6 +7945,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 11.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -7981,14 +7981,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -7997,10 +7989,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 7.8
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 1.3
     },
     {
       "Rodada": 2,
@@ -8013,10 +8005,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Savarino",
-      "Posição": "Meia",
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
       "Clube": "BOT",
-      "Pontos": 2.8
+      "Pontos": 7.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -8029,10 +8029,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Arias",
+      "Nome": "Savarino",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Clube": "BOT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -8049,14 +8057,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "cartola scheuer",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -8109,10 +8109,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Gregore",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 0.2
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -8125,10 +8125,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Arias",
+      "Nome": "Gregore",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Clube": "BOT",
+      "Pontos": 0.2
     },
     {
       "Rodada": 2,
@@ -8141,18 +8141,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 7.5
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -8205,6 +8205,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "DM Studio",
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "DM Studio",
       "Nome": "Carrillo",
       "Posição": "Meia",
       "Clube": "COR",
@@ -8221,10 +8229,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "DM Studio",
-      "Nome": "Gabriel Bontempo",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -8233,14 +8241,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "DM Studio",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -8269,18 +8269,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "lsauer fc",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "lsauer fc",
       "Nome": "Vitinho",
       "Posição": "Lateral",
       "Clube": "BOT",
       "Pontos": 5.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 1.3
     },
     {
       "Rodada": 2,
@@ -8301,6 +8301,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "lsauer fc",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "lsauer fc",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
@@ -8317,18 +8325,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "lsauer fc",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "lsauer fc",
-      "Nome": "Igor Jesus",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "PAL",
+      "Pontos": 1.5
     },
     {
       "Rodada": 2,
@@ -8341,10 +8341,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "lsauer fc",
-      "Nome": "Estêvão",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 1.5
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -8429,18 +8429,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Canobbio",
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -8477,14 +8477,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "KP JUV.",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 9.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "KP JUV.",
       "Nome": "Jair",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -8493,10 +8485,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "KP JUV.",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
       "Clube": "INT",
-      "Pontos": 9.2
+      "Pontos": 9.5
     },
     {
       "Rodada": 2,
@@ -8505,6 +8497,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 9.2
     },
     {
       "Rodada": 2,
@@ -8669,6 +8669,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Profit Soccer",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Profit Soccer",
       "Nome": "Alexander Barboza",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -8677,10 +8685,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 2,
@@ -8697,14 +8705,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Profit Soccer",
-      "Nome": "Lucas Mugni",
-      "Posição": "Meia",
-      "Clube": "CEA",
-      "Pontos": 2.3
     },
     {
       "Rodada": 2,
@@ -8781,17 +8781,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Igor Coronado",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "COR",
+      "Clube": "FLU",
       "Pontos": 2.0
     },
     {
       "Rodada": 2,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Arias",
+      "Nome": "Igor Coronado",
       "Posição": "Meia",
-      "Clube": "FLU",
+      "Clube": "COR",
       "Pontos": 2.0
     },
     {
@@ -8845,14 +8845,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Renê",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -8861,10 +8853,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
+      "Nome": "Renê",
+      "Posição": "Lateral",
       "Clube": "FLU",
-      "Pontos": 1.2
+      "Pontos": 2.4
     },
     {
       "Rodada": 2,
@@ -8877,18 +8869,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 2.0
+      "Pontos": 1.2
     },
     {
       "Rodada": 2,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Gabriel Bontempo",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -8901,10 +8893,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
       "Clube": "SAN",
-      "Pontos": 7.5
+      "Pontos": 6.0
     },
     {
       "Rodada": 2,
@@ -8925,6 +8917,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TIGRE LEON",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 7.5
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "TIGRE LEON",
       "Nome": "Renato Paiva",
       "Posição": "Técnico",
       "Clube": "BOT",
@@ -8941,18 +8941,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Alex Telles",
       "Posição": "Lateral",
       "Clube": "BOT",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 14.5
     },
     {
       "Rodada": 2,
@@ -8973,14 +8973,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Rollheiser",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Marlon Freitas",
       "Posição": "Meia",
       "Clube": "BOT",
@@ -8997,10 +8989,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Yuri Alberto",
+      "Nome": "Rollheiser",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 5.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Tiquinho Soares",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "SAN",
+      "Pontos": 5.0
     },
     {
       "Rodada": 2,
@@ -9013,10 +9013,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Tiquinho Soares",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 5.0
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -9165,10 +9165,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Savarino",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 2.8
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -9181,18 +9181,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Arias",
+      "Nome": "Savarino",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Clube": "BOT",
+      "Pontos": 2.8
     },
     {
       "Rodada": 2,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Yuri Alberto",
+      "Nome": "Bruno Henrique",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -9205,10 +9205,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Bruno Henrique",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -9245,6 +9245,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Texas Club 2025",
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 3.1
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Texas Club 2025",
       "Nome": "Jair",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -9253,10 +9261,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 3.1
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -9277,10 +9285,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -9297,14 +9305,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Texas Club 2025",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -9357,10 +9357,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Gabriel Menino",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 0.5
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -9373,18 +9373,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Arias",
+      "Nome": "Gabriel Menino",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Canobbio",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 1.7
+      "Clube": "CAM",
+      "Pontos": 0.5
     },
     {
       "Rodada": 2,
@@ -9393,6 +9385,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": 13.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Canobbio",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 1.7
     },
     {
       "Rodada": 2,
@@ -9421,14 +9421,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "BordonFC",
-      "Nome": "Vitinho",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "BordonFC",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -9437,10 +9429,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "BordonFC",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 3.1
+      "Nome": "Vitinho",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 5.0
     },
     {
       "Rodada": 2,
@@ -9453,18 +9445,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "BordonFC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "BordonFC",
-      "Nome": "Marlon Freitas",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 0.0
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 3.1
     },
     {
       "Rodada": 2,
@@ -9477,10 +9461,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "BordonFC",
-      "Nome": "Bruno Henrique",
+      "Nome": "Marlon Freitas",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "BordonFC",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "BordonFC",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -9493,10 +9493,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "BordonFC",
-      "Nome": "Igor Jesus",
+      "Nome": "Bruno Henrique",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -9549,18 +9549,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 9.2
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Patrick de Paula",
       "Posição": "Meia",
       "Clube": "BOT",
       "Pontos": 0.2
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 9.2
     },
     {
       "Rodada": 2,
@@ -9613,18 +9613,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Matheuzinho",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 8.7
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Matheus Bidu",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 7.4
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.7
     },
     {
       "Rodada": 2,
@@ -9645,10 +9645,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Arias",
+      "Nome": "Breno Bidon",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Clube": "COR",
+      "Pontos": 4.1
     },
     {
       "Rodada": 2,
@@ -9661,10 +9661,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Breno Bidon",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 4.1
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -9677,18 +9677,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 18.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 18.4
     },
     {
       "Rodada": 2,
@@ -9901,18 +9901,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Renê",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 14.5
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Renê",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 2.4
     },
     {
       "Rodada": 2,
@@ -9933,14 +9933,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Jadson",
       "Posição": "Meia",
       "Clube": "JUV",
@@ -9957,10 +9949,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 3.6
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -9977,6 +9969,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 3.6
     },
     {
       "Rodada": 2,
@@ -10013,14 +10013,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 7.8
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -10029,18 +10021,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 3.6
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 7.8
     },
     {
       "Rodada": 2,
@@ -10053,10 +10037,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Bruno Henrique",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -10069,10 +10069,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Yuri Alberto",
+      "Nome": "Bruno Henrique",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -10133,18 +10133,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.6
     },
     {
       "Rodada": 2,
@@ -10205,6 +10205,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Dom Camillo68",
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 3.1
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Dom Camillo68",
       "Nome": "Wagner Leonardo",
       "Posição": "Zagueiro",
       "Clube": "GRE",
@@ -10213,10 +10221,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 3.1
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 6.0
     },
     {
       "Rodada": 2,
@@ -10237,10 +10245,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Gabriel Bontempo",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -10257,14 +10265,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Dom Camillo68",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -10301,18 +10301,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Wagner Leonardo",
       "Posição": "Zagueiro",
       "Clube": "GRE",
       "Pontos": -0.3
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 2,
@@ -10325,6 +10325,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "mercearia Estrela",
+      "Nome": "Patrick de Paula",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 0.2
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "mercearia Estrela",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
@@ -10333,10 +10341,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Patrick de Paula",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 0.2
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 3.6
     },
     {
       "Rodada": 2,
@@ -10353,14 +10361,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 1.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "mercearia Estrela",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 3.6
     },
     {
       "Rodada": 2,
@@ -10573,18 +10573,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Vitinho",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Matheuzinho",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 8.7
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Vitinho",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 5.0
     },
     {
       "Rodada": 2,
@@ -10605,14 +10605,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Igor Coronado",
       "Posição": "Meia",
       "Clube": "COR",
@@ -10629,10 +10621,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Bruno Henrique",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 10.0
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -10645,10 +10645,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Igor Jesus",
+      "Nome": "Bruno Henrique",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "FLA",
+      "Pontos": 10.0
     },
     {
       "Rodada": 2,
@@ -10669,18 +10669,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 7.4
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 14.5
     },
     {
       "Rodada": 2,
@@ -10709,18 +10709,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Gregore",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 0.2
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Martinelli",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Gregore",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 0.2
     },
     {
       "Rodada": 2,
@@ -10829,18 +10829,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 18.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 18.4
     },
     {
       "Rodada": 2,
@@ -10917,18 +10917,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -10957,18 +10957,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Lucas Ramon",
-      "Posição": "Lateral",
-      "Clube": "MIR",
-      "Pontos": 11.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 6.4
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Lucas Ramon",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 11.0
     },
     {
       "Rodada": 2,
@@ -10989,10 +10989,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Patrick de Paula",
+      "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 0.2
+      "Clube": "SAN",
+      "Pontos": 6.0
     },
     {
       "Rodada": 2,
@@ -11005,18 +11005,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Gabriel Bontempo",
+      "Nome": "Patrick de Paula",
       "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
       "Clube": "BOT",
-      "Pontos": 10.6
+      "Pontos": 0.2
     },
     {
       "Rodada": 2,
@@ -11033,6 +11025,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -11085,18 +11085,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Erick Pulgar",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.4
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Martinelli",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Erick Pulgar",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.4
     },
     {
       "Rodada": 2,
@@ -11181,14 +11181,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": -0.3
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Patrick de Paula",
       "Posição": "Meia",
       "Clube": "BOT",
@@ -11201,6 +11193,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 2.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": -0.3
     },
     {
       "Rodada": 2,
@@ -11245,18 +11245,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "emer jr fc",
-      "Nome": "Gilberto",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 6.5
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "emer jr fc",
       "Nome": "Igor Serrote",
       "Posição": "Lateral",
       "Clube": "GRE",
       "Pontos": 0.7
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Gilberto",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 6.5
     },
     {
       "Rodada": 2,
@@ -11277,18 +11277,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "emer jr fc",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 3.9
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "emer jr fc",
       "Nome": "Villasanti",
       "Posição": "Meia",
       "Clube": "GRE",
       "Pontos": 5.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 3.9
     },
     {
       "Rodada": 2,
@@ -11357,14 +11357,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Alexander Barboza",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -11373,10 +11365,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.0
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 2,
@@ -11397,10 +11389,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 11.8
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.0
     },
     {
       "Rodada": 2,
@@ -11417,6 +11409,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 12.8
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 11.8
     },
     {
       "Rodada": 2,
@@ -11437,14 +11437,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Guilherme Arana",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 7.7
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Alex Telles",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -11453,10 +11445,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Guilherme Arana",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 7.7
     },
     {
       "Rodada": 2,
@@ -11469,18 +11461,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 9.2
-    },
-    {
-      "Rodada": 2,
-      "Time Cartola": "Santo Ângelo United",
-      "Nome": "Gabriel Bontempo",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 6.0
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 2,
@@ -11493,10 +11477,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Yuri Alberto",
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 6.0
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 9.2
+    },
+    {
+      "Rodada": 2,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 12.8
+      "Clube": "BOT",
+      "Pontos": 10.6
     },
     {
       "Rodada": 2,
@@ -11509,10 +11509,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 2,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Igor Jesus",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 10.6
+      "Clube": "COR",
+      "Pontos": 12.8
     },
     {
       "Rodada": 2,
@@ -11591,10 +11591,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Real SCI",
-      "Nome": "Hulk",
+      "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -11607,10 +11607,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Real SCI",
-      "Nome": "Rony",
+      "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 6.9
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -11663,18 +11663,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 4.2
     },
     {
       "Rodada": 3,
@@ -11759,18 +11759,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Jean Lucas",
       "Posição": "Meia",
       "Clube": "BAH",
       "Pontos": 5.3
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -11783,10 +11783,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Rony",
+      "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 6.9
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -11799,10 +11799,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Hulk",
+      "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -11839,18 +11839,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Junior Alonso",
       "Posição": "Zagueiro",
       "Clube": "CAM",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
     },
     {
       "Rodada": 3,
@@ -11879,14 +11879,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -11899,6 +11891,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -11935,6 +11935,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Gremiomaniasm",
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Gremiomaniasm",
       "Nome": "Kanu",
       "Posição": "Zagueiro",
       "Clube": "BAH",
@@ -11943,10 +11951,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
       "Clube": "CAM",
-      "Pontos": 0.8
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -11963,14 +11971,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Gremiomaniasm",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -12047,10 +12047,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Philippe Coutinho",
+      "Nome": "Jean Lucas",
       "Posição": "Meia",
-      "Clube": "VAS",
-      "Pontos": 7.0
+      "Clube": "BAH",
+      "Pontos": 5.3
     },
     {
       "Rodada": 3,
@@ -12063,10 +12063,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Jean Lucas",
+      "Nome": "Philippe Coutinho",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 5.3
+      "Clube": "VAS",
+      "Pontos": 7.0
     },
     {
       "Rodada": 3,
@@ -12127,14 +12127,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "PUXE FC",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "PUXE FC",
       "Nome": "Junior Alonso",
       "Posição": "Zagueiro",
       "Clube": "CAM",
@@ -12143,10 +12135,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "PUXE FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -12167,10 +12159,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "PUXE FC",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -12179,6 +12171,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -12207,6 +12207,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 17.3
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -12215,10 +12223,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 17.3
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 0.8
     },
     {
       "Rodada": 3,
@@ -12231,10 +12239,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 0.8
+      "Nome": "De la Cruz",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 4.1
     },
     {
       "Rodada": 3,
@@ -12255,18 +12263,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "De la Cruz",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 4.1
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Vegetti",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -12279,10 +12279,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Hulk",
+      "Nome": "Vegetti",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -12303,18 +12303,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Vitinho",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
       "Pontos": 2.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Vitinho",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -12367,18 +12367,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Ferreira",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Cano",
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Ferreira",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 15.7
     },
     {
       "Rodada": 3,
@@ -12415,14 +12415,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -12431,10 +12423,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Gustavo Scarpa",
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -12447,10 +12447,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Arias",
+      "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Clube": "CAM",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -12467,14 +12475,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 5.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -12495,18 +12495,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Ewerthon",
       "Posição": "Lateral",
       "Clube": "JUV",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.0
     },
     {
       "Rodada": 3,
@@ -12527,10 +12527,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Gustavo Scarpa",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -12543,18 +12543,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Arias",
+      "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -12575,6 +12567,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Fábio Matias",
       "Posição": "Técnico",
       "Clube": "JUV",
@@ -12591,18 +12591,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 6.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
       "Pontos": 5.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 6.2
     },
     {
       "Rodada": 3,
@@ -12623,14 +12623,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 2.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -12647,10 +12639,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": -0.1
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 2.2
     },
     {
       "Rodada": 3,
@@ -12666,6 +12658,14 @@ const escalacoesSerieA = {
       "Nome": "Gabriel Taliari",
       "Posição": "Atacante",
       "Clube": "JUV",
+      "Pontos": -0.1
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
       "Pontos": -0.1
     },
     {
@@ -12719,10 +12719,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Emmanuel Martínez",
+      "Nome": "Jean Lucas",
       "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": -0.8
+      "Clube": "BAH",
+      "Pontos": 5.3
     },
     {
       "Rodada": 3,
@@ -12735,10 +12735,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Jean Lucas",
+      "Nome": "Emmanuel Martínez",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 5.3
+      "Clube": "FOR",
+      "Pontos": -0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -12759,14 +12767,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Cuca",
       "Posição": "Técnico",
       "Clube": "CAM",
@@ -12783,14 +12783,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Guilherme Arana",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -12799,10 +12791,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Alan Franco",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 0.0
+      "Nome": "Guilherme Arana",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.5
     },
     {
       "Rodada": 3,
@@ -12815,10 +12807,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Emmanuel Martínez",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": -0.8
+      "Nome": "Alan Franco",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 0.0
     },
     {
       "Rodada": 3,
@@ -12839,10 +12831,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Luciano",
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": -0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 0.7
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -12855,10 +12855,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Hulk",
+      "Nome": "Luciano",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
+      "Clube": "SAO",
+      "Pontos": 0.7
     },
     {
       "Rodada": 3,
@@ -12919,18 +12919,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "KING LEONN",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "KING LEONN",
       "Nome": "Jean Lucas",
       "Posição": "Meia",
       "Clube": "BAH",
       "Pontos": 5.3
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13007,10 +13007,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Jean Lucas",
+      "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 5.3
+      "Clube": "CAM",
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13023,18 +13023,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Gustavo Scarpa",
+      "Nome": "Jean Lucas",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
+      "Clube": "BAH",
+      "Pontos": 5.3
     },
     {
       "Rodada": 3,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Vegetti",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -13047,10 +13047,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Hulk",
+      "Nome": "Vegetti",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -13103,14 +13103,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -13127,6 +13119,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -13135,18 +13135,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 6.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -13199,18 +13199,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Jean Lucas",
       "Posição": "Meia",
       "Clube": "BAH",
       "Pontos": 5.3
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13223,10 +13223,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Hulk",
+      "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -13239,10 +13239,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Rony",
+      "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 6.9
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -13263,6 +13263,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Pity10",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Pity10",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -13271,10 +13279,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Pity10",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.0
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -13287,10 +13295,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Pity10",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 1.5
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13311,18 +13319,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Pity10",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Pity10",
-      "Nome": "Erick Pulga",
+      "Nome": "Ferreira",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 14.4
+      "Clube": "SAO",
+      "Pontos": 15.7
     },
     {
       "Rodada": 3,
@@ -13335,10 +13335,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Pity10",
-      "Nome": "Ferreira",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 15.7
+      "Clube": "BAH",
+      "Pontos": 14.4
     },
     {
       "Rodada": 3,
@@ -13359,18 +13359,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Lucas Piton",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 4.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.4
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Lucas Piton",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 4.0
     },
     {
       "Rodada": 3,
@@ -13387,14 +13387,6 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "BAH",
       "Pontos": 1.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13415,10 +13407,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Hulk",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -13431,10 +13431,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Rony",
+      "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 6.9
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -13455,14 +13455,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -13471,10 +13463,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.5
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.4
     },
     {
       "Rodada": 3,
@@ -13487,10 +13479,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
     },
     {
       "Rodada": 3,
@@ -13499,6 +13491,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 4.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13519,18 +13519,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -13607,18 +13607,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -13647,18 +13647,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Lucas Piton",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 4.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
       "Pontos": 2.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Lucas Piton",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 4.0
     },
     {
       "Rodada": 3,
@@ -13687,18 +13687,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 2.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "De la Cruz",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 4.1
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 2.2
     },
     {
       "Rodada": 3,
@@ -13711,18 +13711,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 14.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 14.4
     },
     {
       "Rodada": 3,
@@ -13759,18 +13759,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
     },
     {
       "Rodada": 3,
@@ -13783,14 +13783,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -13799,10 +13791,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -13819,6 +13811,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 6.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -13879,18 +13879,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Everton Ribeiro",
       "Posição": "Meia",
       "Clube": "BAH",
       "Pontos": 0.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -13903,18 +13903,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Ferreira",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Ferreira",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 15.7
     },
     {
       "Rodada": 3,
@@ -13935,18 +13935,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "DM Studio",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "DM Studio",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
       "Pontos": 2.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "DM Studio",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.4
     },
     {
       "Rodada": 3,
@@ -13967,18 +13967,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "DM Studio",
-      "Nome": "Jean Lucas",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 5.3
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "DM Studio",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "DM Studio",
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 5.3
     },
     {
       "Rodada": 3,
@@ -13991,18 +13991,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "DM Studio",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "DM Studio",
       "Nome": "Erick Pulga",
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 14.4
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "DM Studio",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -14087,10 +14087,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "lsauer fc",
-      "Nome": "Vegetti",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
+      "Clube": "BAH",
+      "Pontos": 14.4
     },
     {
       "Rodada": 3,
@@ -14103,10 +14103,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "lsauer fc",
-      "Nome": "Erick Pulga",
+      "Nome": "Vegetti",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 14.4
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -14167,18 +14167,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Philippe Coutinho",
       "Posição": "Meia",
       "Clube": "VAS",
       "Pontos": 7.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -14263,6 +14263,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "KP JUV.",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "KP JUV.",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -14271,10 +14279,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "KP JUV.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -14291,14 +14299,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 14.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "KP JUV.",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -14359,18 +14359,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -14447,18 +14447,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 4.2
     },
     {
       "Rodada": 3,
@@ -14511,14 +14511,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Paulo Henrique",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 13.3
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -14527,10 +14519,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 0.8
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 13.3
     },
     {
       "Rodada": 3,
@@ -14543,10 +14535,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
       "Clube": "CAM",
-      "Pontos": 2.8
+      "Pontos": 0.8
     },
     {
       "Rodada": 3,
@@ -14559,10 +14551,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Philippe Coutinho",
       "Posição": "Meia",
       "Clube": "VAS",
       "Pontos": 7.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -14579,14 +14587,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 1.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -14639,6 +14639,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TIGRE LEON",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 4.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "TIGRE LEON",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -14655,14 +14663,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -14671,18 +14671,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 14.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 14.4
     },
     {
       "Rodada": 3,
@@ -14703,18 +14703,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Santiago Arias",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 4.4
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Santiago Arias",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 1.2
     },
     {
       "Rodada": 3,
@@ -14735,18 +14735,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Martinelli",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 1.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "De la Cruz",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 4.1
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Martinelli",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 1.7
     },
     {
       "Rodada": 3,
@@ -14815,18 +14815,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "seralex",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "seralex",
       "Nome": "Junior Alonso",
       "Posição": "Zagueiro",
       "Clube": "CAM",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "seralex",
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -14855,10 +14855,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "seralex",
-      "Nome": "Rony",
+      "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 6.9
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -14871,10 +14871,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "seralex",
-      "Nome": "Hulk",
+      "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -14911,14 +14911,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -14927,10 +14919,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
     },
     {
       "Rodada": 3,
@@ -14943,6 +14935,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "E.C. Bororé",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "E.C. Bororé",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -14951,18 +14951,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -15007,18 +15007,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
     },
     {
       "Rodada": 3,
@@ -15047,18 +15047,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -15087,14 +15087,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Lucas Piton",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 4.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -15103,10 +15095,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "João Victor",
-      "Posição": "Zagueiro",
+      "Nome": "Lucas Piton",
+      "Posição": "Lateral",
       "Clube": "VAS",
-      "Pontos": 3.8
+      "Pontos": 4.0
     },
     {
       "Rodada": 3,
@@ -15119,10 +15111,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Philippe Coutinho",
-      "Posição": "Meia",
+      "Nome": "João Victor",
+      "Posição": "Zagueiro",
       "Clube": "VAS",
-      "Pontos": 7.0
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 0.9
     },
     {
       "Rodada": 3,
@@ -15135,10 +15135,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Everton Ribeiro",
+      "Nome": "Philippe Coutinho",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 0.9
+      "Clube": "VAS",
+      "Pontos": 7.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -15155,14 +15163,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -15183,14 +15183,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "BordonFC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "BordonFC",
       "Nome": "Paulo Henrique",
       "Posição": "Lateral",
       "Clube": "VAS",
@@ -15199,10 +15191,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "BordonFC",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.4
     },
     {
       "Rodada": 3,
@@ -15215,10 +15207,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "BordonFC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.5
     },
     {
       "Rodada": 3,
@@ -15239,10 +15231,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "BordonFC",
-      "Nome": "Cuello",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.1
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -15263,6 +15255,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "BordonFC",
+      "Nome": "Cuello",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "BordonFC",
       "Nome": "Fábio Matias",
       "Posição": "Técnico",
       "Clube": "JUV",
@@ -15279,14 +15279,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -15295,10 +15287,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "João Victor",
-      "Posição": "Zagueiro",
-      "Clube": "VAS",
-      "Pontos": 3.8
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 5.2
     },
     {
       "Rodada": 3,
@@ -15311,10 +15303,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Nome": "João Victor",
+      "Posição": "Zagueiro",
+      "Clube": "VAS",
+      "Pontos": 3.8
     },
     {
       "Rodada": 3,
@@ -15335,10 +15327,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Vegetti",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Ferreira",
       "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
+      "Clube": "SAO",
+      "Pontos": 15.7
     },
     {
       "Rodada": 3,
@@ -15351,10 +15351,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Ferreira",
+      "Nome": "Vegetti",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 15.7
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -15375,14 +15375,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -15391,10 +15383,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 1.5
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.0
     },
     {
       "Rodada": 3,
@@ -15403,6 +15395,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -15527,18 +15527,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -15567,14 +15567,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -15583,10 +15575,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
       "Clube": "CAM",
-      "Pontos": 0.8
+      "Pontos": 2.0
     },
     {
       "Rodada": 3,
@@ -15599,10 +15591,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Everton Ribeiro",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 0.9
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 0.8
     },
     {
       "Rodada": 3,
@@ -15615,10 +15607,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -15635,14 +15643,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 1.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 6.9
     },
     {
       "Rodada": 3,
@@ -15679,6 +15679,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TATITTA FC",
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "TATITTA FC",
       "Nome": "Santiago Mingo",
       "Posição": "Zagueiro",
       "Clube": "BAH",
@@ -15687,10 +15695,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 1.5
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -15711,18 +15719,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "TATITTA FC",
-      "Nome": "Hulk",
+      "Nome": "Pablo",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
+      "Clube": "SPT",
+      "Pontos": 1.2
     },
     {
       "Rodada": 3,
@@ -15735,10 +15735,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Pablo",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "SPT",
-      "Pontos": 1.2
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -15823,18 +15823,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": -0.1
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": -0.1
     },
     {
       "Rodada": 3,
@@ -15887,6 +15887,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "FBC Colorado",
+      "Nome": "Philippe Coutinho",
+      "Posição": "Meia",
+      "Clube": "VAS",
+      "Pontos": 7.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "FBC Colorado",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -15903,22 +15911,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Philippe Coutinho",
-      "Posição": "Meia",
-      "Clube": "VAS",
-      "Pontos": 7.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "FBC Colorado",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
@@ -15931,6 +15923,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 6.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
     },
     {
       "Rodada": 3,
@@ -15983,14 +15983,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Emmanuel Martínez",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": -0.8
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Martinelli",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -15999,10 +15991,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Dom Camillo68",
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": -0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Dom Camillo68",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 16.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 6.4
     },
     {
       "Rodada": 3,
@@ -16023,14 +16031,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Rogério Ceni",
       "Posição": "Técnico",
       "Clube": "BAH",
@@ -16047,14 +16047,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Guilherme Arana",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -16063,10 +16055,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Adriano Martins",
-      "Posição": "Zagueiro",
-      "Clube": "JUV",
-      "Pontos": 0.0
+      "Nome": "Guilherme Arana",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.5
     },
     {
       "Rodada": 3,
@@ -16079,18 +16071,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Felipe Anderson",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "mercearia Estrela",
-      "Nome": "Gabriel Menino",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 1.2
+      "Nome": "Adriano Martins",
+      "Posição": "Zagueiro",
+      "Clube": "JUV",
+      "Pontos": 0.0
     },
     {
       "Rodada": 3,
@@ -16103,10 +16087,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Rony",
-      "Posição": "Atacante",
+      "Nome": "Gabriel Menino",
+      "Posição": "Meia",
       "Clube": "CAM",
-      "Pontos": 6.9
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Felipe Anderson",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 5.0
     },
     {
       "Rodada": 3,
@@ -16127,6 +16119,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "mercearia Estrela",
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 6.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "mercearia Estrela",
       "Nome": "Fábio Matias",
       "Posição": "Técnico",
       "Clube": "JUV",
@@ -16143,14 +16143,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Lucas Piton",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 4.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -16159,10 +16151,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 0.8
+      "Nome": "Lucas Piton",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 4.0
     },
     {
       "Rodada": 3,
@@ -16171,6 +16163,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "BAH",
       "Pontos": 1.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 0.8
     },
     {
       "Rodada": 3,
@@ -16199,18 +16199,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Gabriel Taliari",
-      "Posição": "Atacante",
-      "Clube": "JUV",
-      "Pontos": -0.1
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Vegetti",
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Gabriel Taliari",
+      "Posição": "Atacante",
+      "Clube": "JUV",
+      "Pontos": -0.1
     },
     {
       "Rodada": 3,
@@ -16239,18 +16239,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 6.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 5.2
     },
     {
       "Rodada": 3,
@@ -16267,6 +16267,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "JUV",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 2.5
     },
     {
       "Rodada": 3,
@@ -16287,22 +16295,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "clarinvalau fc",
-      "Nome": "Gabriel",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Bruno Henrique",
       "Posição": "Atacante",
       "Clube": "FLA",
@@ -16315,6 +16307,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 14.4
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Gabriel",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 0.0
     },
     {
       "Rodada": 3,
@@ -16335,18 +16335,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Paulo Henrique",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 13.3
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.4
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 13.3
     },
     {
       "Rodada": 3,
@@ -16367,10 +16367,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Gustavo Scarpa",
+      "Nome": "Hugo Moura",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.8
+      "Clube": "VAS",
+      "Pontos": -3.4
     },
     {
       "Rodada": 3,
@@ -16383,18 +16383,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Hugo Moura",
+      "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
-      "Clube": "VAS",
-      "Pontos": -3.4
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 2.8
     },
     {
       "Rodada": 3,
@@ -16415,6 +16407,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Fábio Matias",
       "Posição": "Técnico",
       "Clube": "JUV",
@@ -16431,14 +16431,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 17.3
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -16447,10 +16439,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Abner",
-      "Posição": "Zagueiro",
-      "Clube": "JUV",
-      "Pontos": 3.0
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 17.3
     },
     {
       "Rodada": 3,
@@ -16463,10 +16455,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Martinelli",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 1.7
+      "Nome": "Abner",
+      "Posição": "Zagueiro",
+      "Clube": "JUV",
+      "Pontos": 3.0
     },
     {
       "Rodada": 3,
@@ -16487,6 +16479,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "SERGRILLO",
+      "Nome": "Martinelli",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Cuello",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "SERGRILLO",
       "Nome": "Cano",
       "Posição": "Atacante",
       "Clube": "FLU",
@@ -16499,14 +16507,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "JUV",
       "Pontos": -0.1
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "SERGRILLO",
-      "Nome": "Cuello",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 5.1
     },
     {
       "Rodada": 3,
@@ -16559,14 +16559,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -16583,10 +16575,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
+      "Nome": "Rubens",
+      "Posição": "Meia",
       "Clube": "CAM",
-      "Pontos": 5.5
+      "Pontos": 4.2
     },
     {
       "Rodada": 3,
@@ -16607,6 +16599,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Super Vasco f.c",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Super Vasco f.c",
       "Nome": "Rogério Ceni",
       "Posição": "Técnico",
       "Clube": "BAH",
@@ -16623,14 +16623,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -16639,10 +16631,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
       "Clube": "CAM",
-      "Pontos": 0.8
+      "Pontos": 2.0
     },
     {
       "Rodada": 3,
@@ -16655,10 +16647,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Rubens",
-      "Posição": "Meia",
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
       "Clube": "CAM",
-      "Pontos": 4.2
+      "Pontos": 0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -16671,10 +16671,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Arias",
+      "Nome": "Rubens",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
+      "Clube": "CAM",
+      "Pontos": 4.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.2
     },
     {
       "Rodada": 3,
@@ -16695,14 +16703,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Rogério Ceni",
       "Posição": "Técnico",
       "Clube": "BAH",
@@ -16719,18 +16719,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Paulo Henrique",
       "Posição": "Lateral",
       "Clube": "VAS",
       "Pontos": 13.3
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.0
     },
     {
       "Rodada": 3,
@@ -16751,18 +16751,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Thaciano",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Thaciano",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 0.0
     },
     {
       "Rodada": 3,
@@ -16815,14 +16815,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -16831,10 +16823,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
       "Clube": "BAH",
-      "Pontos": 1.5
+      "Pontos": 5.2
     },
     {
       "Rodada": 3,
@@ -16843,6 +16835,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "BAH",
       "Pontos": 0.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -16871,18 +16871,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Cano",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 1.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Canobbio",
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 1.6
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Cano",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 1.7
     },
     {
       "Rodada": 3,
@@ -16911,18 +16911,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Santiago Arias",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
       "Pontos": 5.2
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Santiago Arias",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 1.2
     },
     {
       "Rodada": 3,
@@ -16943,14 +16943,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Everton Ribeiro",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 0.9
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -16967,10 +16959,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
       "Clube": "BAH",
-      "Pontos": 14.4
+      "Pontos": 0.9
     },
     {
       "Rodada": 3,
@@ -16979,6 +16971,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "JUV",
       "Pontos": -0.1
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 14.4
     },
     {
       "Rodada": 3,
@@ -17007,14 +17007,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "emer jr fc",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 17.3
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "emer jr fc",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -17023,10 +17015,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "emer jr fc",
-      "Nome": "Kanu",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 1.5
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 17.3
     },
     {
       "Rodada": 3,
@@ -17035,6 +17027,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "CAM",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Kanu",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 1.5
     },
     {
       "Rodada": 3,
@@ -17063,6 +17063,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "emer jr fc",
+      "Nome": "Cano",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "emer jr fc",
       "Nome": "Vitinho",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -17075,14 +17083,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 5.5
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "emer jr fc",
-      "Nome": "Cano",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 1.7
     },
     {
       "Rodada": 3,
@@ -17103,18 +17103,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Guilherme Arana",
       "Posição": "Lateral",
       "Clube": "CAM",
       "Pontos": 2.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 5.2
     },
     {
       "Rodada": 3,
@@ -17135,10 +17135,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Thaciano",
+      "Nome": "Everton Ribeiro",
       "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.0
+      "Clube": "BAH",
+      "Pontos": 0.9
     },
     {
       "Rodada": 3,
@@ -17151,10 +17151,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Everton Ribeiro",
+      "Nome": "Thaciano",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 0.9
+      "Clube": "SAN",
+      "Pontos": 0.0
     },
     {
       "Rodada": 3,
@@ -17215,14 +17215,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Junior Alonso",
       "Posição": "Zagueiro",
       "Clube": "CAM",
@@ -17231,18 +17223,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 3,
-      "Time Cartola": "Santo Ângelo United",
-      "Nome": "Everton Ribeiro",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 0.9
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": 4.7
     },
     {
       "Rodada": 3,
@@ -17255,10 +17239,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 3,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
       "Clube": "BAH",
-      "Pontos": 14.4
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 10.0
     },
     {
       "Rodada": 3,
@@ -17275,6 +17267,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 3,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 14.4
     },
     {
       "Rodada": 3,
@@ -17353,18 +17353,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Real SCI",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Real SCI",
       "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Real SCI",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -17409,17 +17409,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Jonathan Jesus",
+      "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
-      "Clube": "CRU",
+      "Clube": "FLA",
       "Pontos": 0.0
     },
     {
       "Rodada": 4,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Léo Ortiz",
+      "Nome": "Jonathan Jesus",
       "Posição": "Zagueiro",
-      "Clube": "FLA",
+      "Clube": "CRU",
       "Pontos": 0.0
     },
     {
@@ -17433,6 +17433,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gig@ntte",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.4
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Gig@ntte",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -17441,10 +17449,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Matheus Pereira",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 4.4
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -17465,14 +17473,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Rafael Guanaes",
       "Posição": "Técnico",
       "Clube": "MIR",
@@ -17489,18 +17489,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 7.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 10.7
     },
     {
       "Rodada": 4,
@@ -17521,18 +17521,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 18.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -17545,18 +17545,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 3.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 3.9
     },
     {
       "Rodada": 4,
@@ -17585,6 +17585,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Lucas Halter",
       "Posição": "Zagueiro",
       "Clube": "VIT",
@@ -17601,26 +17609,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Gerson",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 5.5
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -17633,10 +17625,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Arrascaeta",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 18.8
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -17649,18 +17649,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 3.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Igor Jesus",
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 13.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 3.9
     },
     {
       "Rodada": 4,
@@ -17713,14 +17713,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
@@ -17729,10 +17721,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gremiomaniasm",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Gremiomaniasm",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 7.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 2.1
     },
     {
       "Rodada": 4,
@@ -17753,14 +17761,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 2.1
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Pepa",
       "Posição": "Técnico",
       "Clube": "SPT",
@@ -17777,14 +17777,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 20.2
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -17793,10 +17785,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 20.2
     },
     {
       "Rodada": 4,
@@ -17805,6 +17797,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "BOT",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -17841,18 +17841,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Everton",
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -17889,17 +17889,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "PUXE FC",
-      "Nome": "Jonathan Jesus",
+      "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
-      "Clube": "CRU",
+      "Clube": "FLA",
       "Pontos": 0.0
     },
     {
       "Rodada": 4,
       "Time Cartola": "PUXE FC",
-      "Nome": "Léo Ortiz",
+      "Nome": "Jonathan Jesus",
       "Posição": "Zagueiro",
-      "Clube": "FLA",
+      "Clube": "CRU",
       "Pontos": 0.0
     },
     {
@@ -17913,18 +17913,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "PUXE FC",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "PUXE FC",
       "Nome": "Matheus Pereira",
       "Posição": "Meia",
       "Clube": "CRU",
       "Pontos": 4.4
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -17969,18 +17969,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Mancuso",
-      "Posição": "Lateral",
-      "Clube": "FOR",
-      "Pontos": 1.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 7.1
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Mancuso",
+      "Posição": "Lateral",
+      "Clube": "FOR",
+      "Pontos": 1.7
     },
     {
       "Rodada": 4,
@@ -18001,14 +18001,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Savarino",
       "Posição": "Meia",
       "Clube": "BOT",
@@ -18025,10 +18017,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Everton",
-      "Posição": "Atacante",
+      "Nome": "Gerson",
+      "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 2.3
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -18037,6 +18029,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -18065,14 +18065,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Andrés Hurtado",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 12.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -18081,10 +18073,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Léo Pereira",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.5
+      "Nome": "Andrés Hurtado",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 12.5
     },
     {
       "Rodada": 4,
@@ -18097,10 +18089,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Marlon Freitas",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 1.2
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -18113,6 +18105,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "ZIVI FC",
+      "Nome": "Marlon Freitas",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "ZIVI FC",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -18121,10 +18121,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Yuri Alberto",
+      "Nome": "Calleri",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
+      "Clube": "SAO",
+      "Pontos": 3.7
     },
     {
       "Rodada": 4,
@@ -18137,10 +18137,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Calleri",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 3.7
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -18161,18 +18161,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 15.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 15.5
     },
     {
       "Rodada": 4,
@@ -18257,18 +18257,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "William",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 7.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "William",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 9.7
     },
     {
       "Rodada": 4,
@@ -18289,18 +18289,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Emiliano Martínez",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 2.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 18.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Emiliano Martínez",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 2.0
     },
     {
       "Rodada": 4,
@@ -18313,18 +18313,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -18369,6 +18369,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Jair",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -18377,10 +18385,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 19.3
     },
     {
       "Rodada": 4,
@@ -18401,10 +18409,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 19.3
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 3.9
     },
     {
       "Rodada": 4,
@@ -18413,14 +18421,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 3.9
     },
     {
       "Rodada": 4,
@@ -18481,18 +18481,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 18.1
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 11.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 18.1
     },
     {
       "Rodada": 4,
@@ -18577,18 +18577,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Erick Pulgar",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 8.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 18.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Erick Pulgar",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 8.7
     },
     {
       "Rodada": 4,
@@ -18609,18 +18609,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -18641,14 +18641,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KING LEONN",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 7.1
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "KING LEONN",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
@@ -18657,10 +18649,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KING LEONN",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 7.1
     },
     {
       "Rodada": 4,
@@ -18673,10 +18665,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KING LEONN",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 18.8
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -18697,10 +18689,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KING LEONN",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 5.5
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -18709,6 +18701,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -18737,18 +18737,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Angileri",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 7.1
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 5.8
     },
     {
       "Rodada": 4,
@@ -18769,10 +18769,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Alan Patrick",
+      "Nome": "Matheus Pereira",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 5.5
+      "Clube": "CRU",
+      "Pontos": 4.4
     },
     {
       "Rodada": 4,
@@ -18785,17 +18785,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Matheus Pereira",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 4.4
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
+      "Clube": "INT",
       "Pontos": 5.5
     },
     {
@@ -18813,6 +18805,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -18865,18 +18865,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Villasanti",
-      "Posição": "Meia",
-      "Clube": "GRE",
-      "Pontos": 4.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 11.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Villasanti",
+      "Posição": "Meia",
+      "Clube": "GRE",
+      "Pontos": 4.9
     },
     {
       "Rodada": 4,
@@ -18929,14 +18929,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Kaiki Bruno",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -18945,10 +18937,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 0.0
+      "Nome": "Kaiki Bruno",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -18961,10 +18953,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Arrascaeta",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Eric Ramires",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
+      "Clube": "RBB",
+      "Pontos": 3.0
     },
     {
       "Rodada": 4,
@@ -18977,10 +18977,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Eric Ramires",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 3.0
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -19025,18 +19025,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Pity10",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Pity10",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 15.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Pity10",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 10.7
     },
     {
       "Rodada": 4,
@@ -19057,10 +19057,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Pity10",
-      "Nome": "Arrascaeta",
+      "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 18.8
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -19073,18 +19073,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Pity10",
-      "Nome": "Gerson",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Pity10",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -19093,6 +19085,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Pity10",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -19161,6 +19161,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -19169,10 +19177,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 5.5
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -19189,14 +19197,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 5.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -19249,10 +19249,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Gerson",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 7.9
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -19265,18 +19265,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Arrascaeta",
+      "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 5.5
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -19293,6 +19285,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -19369,6 +19369,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
@@ -19381,14 +19389,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -19425,18 +19425,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Gustavo Mancha",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Jair",
       "Posição": "Zagueiro",
       "Clube": "BOT",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Gustavo Mancha",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 0.5
     },
     {
       "Rodada": 4,
@@ -19465,14 +19465,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 3.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
@@ -19485,6 +19477,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 3.9
     },
     {
       "Rodada": 4,
@@ -19505,18 +19505,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 15.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 15.5
     },
     {
       "Rodada": 4,
@@ -19561,10 +19561,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Everton",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -19577,10 +19577,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Yuri Alberto",
+      "Nome": "Everton",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -19601,18 +19601,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Angileri",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 20.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 5.8
     },
     {
       "Rodada": 4,
@@ -19633,10 +19633,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Arrascaeta",
+      "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 18.8
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -19649,18 +19649,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Gerson",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -19681,6 +19673,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Filipe Luís",
       "Posição": "Técnico",
       "Clube": "FLA",
@@ -19697,6 +19697,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "DM Studio",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 20.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "DM Studio",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
@@ -19705,10 +19713,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "DM Studio",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 20.2
+      "Nome": "Félix Torres",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 3.4
     },
     {
       "Rodada": 4,
@@ -19721,10 +19729,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "DM Studio",
-      "Nome": "Félix Torres",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 3.4
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -19745,22 +19753,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "DM Studio",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "DM Studio",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "DM Studio",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
@@ -19773,6 +19765,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "DM Studio",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.7
     },
     {
       "Rodada": 4,
@@ -19825,10 +19825,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "lsauer fc",
-      "Nome": "Matheuzinho",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 18.1
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -19841,18 +19841,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "lsauer fc",
-      "Nome": "Arrascaeta",
+      "Nome": "Matheuzinho",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "lsauer fc",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
+      "Clube": "VIT",
+      "Pontos": 18.1
     },
     {
       "Rodada": 4,
@@ -19873,6 +19865,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "lsauer fc",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "lsauer fc",
       "Nome": "Rafael Guanaes",
       "Posição": "Técnico",
       "Clube": "MIR",
@@ -19889,14 +19889,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Matheuzinho",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -19905,10 +19897,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Félix Torres",
-      "Posição": "Zagueiro",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
       "Clube": "COR",
-      "Pontos": 3.4
+      "Pontos": 4.7
     },
     {
       "Rodada": 4,
@@ -19921,10 +19913,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
+      "Nome": "Félix Torres",
+      "Posição": "Zagueiro",
       "Clube": "COR",
-      "Pontos": 1.2
+      "Pontos": 3.4
     },
     {
       "Rodada": 4,
@@ -19945,10 +19937,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Ángel Romero",
-      "Posição": "Atacante",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
       "Clube": "COR",
-      "Pontos": 3.5
+      "Pontos": 1.2
     },
     {
       "Rodada": 4,
@@ -19957,6 +19949,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 3.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Ángel Romero",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -19985,14 +19985,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KP JUV.",
-      "Nome": "Kaiki Bruno",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "KP JUV.",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -20001,10 +19993,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KP JUV.",
-      "Nome": "João Victor",
-      "Posição": "Zagueiro",
-      "Clube": "MIR",
-      "Pontos": 0.6
+      "Nome": "Kaiki Bruno",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -20017,10 +20009,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KP JUV.",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 5.5
+      "Nome": "João Victor",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 0.6
     },
     {
       "Rodada": 4,
@@ -20041,10 +20033,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "KP JUV.",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -20053,6 +20045,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -20081,14 +20081,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -20097,10 +20089,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 10.7
     },
     {
       "Rodada": 4,
@@ -20113,10 +20105,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 10.0
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -20129,6 +20121,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 10.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -20137,18 +20137,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Everton",
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -20305,10 +20305,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Gabriel",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "MIR",
-      "Pontos": 1.0
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -20321,10 +20321,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Arrascaeta",
+      "Nome": "Gabriel",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -20345,14 +20353,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Filipe Luís",
       "Posição": "Técnico",
       "Clube": "FLA",
@@ -20369,14 +20369,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 7.1
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -20385,10 +20377,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Jonathan Jesus",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 0.0
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 7.1
     },
     {
       "Rodada": 4,
@@ -20397,6 +20389,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "MIR",
       "Pontos": 0.6
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Jonathan Jesus",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -20465,14 +20465,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Kaiki Bruno",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -20481,10 +20473,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 0.0
+      "Nome": "Kaiki Bruno",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -20497,18 +20489,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Fernando",
-      "Posição": "Meia",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
       "Clube": "INT",
-      "Pontos": -0.3
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -20521,10 +20505,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Dudu",
+      "Nome": "Fernando",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": -0.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Tiquinho Soares",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 0.0
+      "Clube": "SAN",
+      "Pontos": 2.1
     },
     {
       "Rodada": 4,
@@ -20537,10 +20537,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Tiquinho Soares",
+      "Nome": "Dudu",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 2.1
+      "Clube": "CRU",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -20577,17 +20577,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "seralex",
-      "Nome": "Léo Ortiz",
+      "Nome": "Jonathan Jesus",
       "Posição": "Zagueiro",
-      "Clube": "FLA",
+      "Clube": "CRU",
       "Pontos": 0.0
     },
     {
       "Rodada": 4,
       "Time Cartola": "seralex",
-      "Nome": "Jonathan Jesus",
+      "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
-      "Clube": "CRU",
+      "Clube": "FLA",
       "Pontos": 0.0
     },
     {
@@ -20673,14 +20673,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Jair",
       "Posição": "Zagueiro",
       "Clube": "BOT",
@@ -20689,10 +20681,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Neymar",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.5
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -20709,6 +20701,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Neymar",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 0.5
     },
     {
       "Rodada": 4,
@@ -20753,14 +20753,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 15.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
@@ -20769,10 +20761,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
       "Clube": "FLA",
-      "Pontos": 0.0
+      "Pontos": 15.5
     },
     {
       "Rodada": 4,
@@ -20785,10 +20777,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Rubens",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Neymar",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 10.0
+      "Clube": "SAN",
+      "Pontos": 0.5
     },
     {
       "Rodada": 4,
@@ -20801,10 +20801,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Neymar",
+      "Nome": "Rubens",
       "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.5
+      "Clube": "CAM",
+      "Pontos": 10.0
     },
     {
       "Rodada": 4,
@@ -20849,18 +20849,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "William",
-      "Posição": "Lateral",
-      "Clube": "CRU",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Vitinho",
       "Posição": "Lateral",
       "Clube": "BOT",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "William",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 9.7
     },
     {
       "Rodada": 4,
@@ -20889,18 +20889,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Carrillo",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 7.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Carrillo",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 1.2
     },
     {
       "Rodada": 4,
@@ -20961,14 +20961,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BordonFC",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "BordonFC",
       "Nome": "Rogel",
       "Posição": "Zagueiro",
       "Clube": "INT",
@@ -20977,10 +20969,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BordonFC",
-      "Nome": "Danielzinho",
-      "Posição": "Meia",
-      "Clube": "MIR",
-      "Pontos": 9.0
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -20993,6 +20985,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BordonFC",
+      "Nome": "Danielzinho",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 9.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "BordonFC",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -21001,18 +21001,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "BordonFC",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "BordonFC",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "BordonFC",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -21105,18 +21105,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -21169,18 +21169,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Matheus Pereira",
       "Posição": "Meia",
       "Clube": "CRU",
       "Pontos": 4.4
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -21233,6 +21233,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MauHumor F.C.",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 20.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "MauHumor F.C.",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -21241,10 +21249,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 20.2
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -21257,10 +21265,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 19.3
     },
     {
       "Rodada": 4,
@@ -21281,10 +21289,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 19.3
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -21305,14 +21313,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Filipe Luís",
       "Posição": "Técnico",
       "Clube": "FLA",
@@ -21329,18 +21329,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 15.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Matheuzinho",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 4.7
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 15.5
     },
     {
       "Rodada": 4,
@@ -21425,18 +21425,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 7.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 10.7
     },
     {
       "Rodada": 4,
@@ -21481,14 +21481,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Enner Valencia",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -21501,6 +21493,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -21537,17 +21537,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Jair",
+      "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
-      "Clube": "BOT",
+      "Clube": "FLA",
       "Pontos": 0.0
     },
     {
       "Rodada": 4,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Léo Ortiz",
+      "Nome": "Jair",
       "Posição": "Zagueiro",
-      "Clube": "FLA",
+      "Clube": "BOT",
       "Pontos": 0.0
     },
     {
@@ -21585,18 +21585,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Igor Jesus",
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 13.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -21657,14 +21657,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Neymar",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Danielzinho",
       "Posição": "Meia",
       "Clube": "MIR",
@@ -21673,10 +21665,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
+      "Nome": "Neymar",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 0.5
     },
     {
       "Rodada": 4,
@@ -21693,6 +21685,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 13.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -21729,18 +21729,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Jemerson",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": 7.2
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Gustavo Gómez",
       "Posição": "Zagueiro",
       "Clube": "PAL",
       "Pontos": 3.7
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Jemerson",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 7.2
     },
     {
       "Rodada": 4,
@@ -21753,18 +21753,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 18.1
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 11.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 18.1
     },
     {
       "Rodada": 4,
@@ -21809,18 +21809,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 4.2
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "JP Chermont",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.2
     },
     {
       "Rodada": 4,
@@ -21841,10 +21841,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Arrascaeta",
+      "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
+      "Clube": "SAN",
+      "Pontos": 11.8
     },
     {
       "Rodada": 4,
@@ -21857,18 +21857,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Gabriel Bontempo",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 11.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "mercearia Estrela",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 5.5
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -21889,6 +21881,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "mercearia Estrela",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "mercearia Estrela",
       "Nome": "César Sampaio",
       "Posição": "Técnico",
       "Clube": "SAN",
@@ -21905,18 +21905,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Angileri",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 7.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 5.8
     },
     {
       "Rodada": 4,
@@ -21937,14 +21937,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Emmanuel Martínez",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -21961,10 +21953,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.3
+      "Nome": "Emmanuel Martínez",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 1.3
     },
     {
       "Rodada": 4,
@@ -21981,6 +21973,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -22017,14 +22017,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "David Luiz",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Jemerson",
       "Posição": "Zagueiro",
       "Clube": "GRE",
@@ -22033,10 +22025,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Erick Pulgar",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 8.7
+      "Nome": "David Luiz",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 2.3
     },
     {
       "Rodada": 4,
@@ -22049,18 +22041,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Gerson",
+      "Nome": "Erick Pulgar",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 7.9
+      "Pontos": 8.7
     },
     {
       "Rodada": 4,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 2.1
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 7.9
     },
     {
       "Rodada": 4,
@@ -22077,6 +22069,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 5.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 2.1
     },
     {
       "Rodada": 4,
@@ -22113,14 +22113,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Jemerson",
       "Posição": "Zagueiro",
       "Clube": "GRE",
@@ -22129,18 +22121,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Savarino",
-      "Posição": "Meia",
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
       "Clube": "BOT",
-      "Pontos": 19.3
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -22153,10 +22137,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 5.5
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
     },
     {
       "Rodada": 4,
@@ -22165,6 +22157,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 13.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -22193,18 +22193,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Matheuzinho",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 7.1
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 4.7
     },
     {
       "Rodada": 4,
@@ -22257,18 +22257,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Enner Valencia",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 3.9
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -22321,6 +22321,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Super Vasco f.c",
+      "Nome": "Neymar",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Super Vasco f.c",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -22337,10 +22345,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Neymar",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.5
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.7
     },
     {
       "Rodada": 4,
@@ -22357,14 +22365,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 13.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Super Vasco f.c",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 2.7
     },
     {
       "Rodada": 4,
@@ -22401,14 +22401,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Félix Torres",
       "Posição": "Zagueiro",
       "Clube": "COR",
@@ -22417,18 +22409,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 18.8
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -22441,10 +22425,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.0
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 10.0
     },
     {
       "Rodada": 4,
@@ -22461,6 +22453,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -22521,6 +22521,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Allan",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": -0.6
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Matheus Pereira",
       "Posição": "Meia",
       "Clube": "CRU",
@@ -22529,10 +22537,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Allan",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": -0.6
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -22549,14 +22557,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 2.1
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -22593,18 +22593,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Chico",
       "Posição": "Zagueiro",
       "Clube": "SPT",
       "Pontos": 4.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -22641,18 +22641,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Ángel Romero",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Everton",
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Ángel Romero",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 3.5
     },
     {
       "Rodada": 4,
@@ -22705,18 +22705,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Lucas Lima",
-      "Posição": "Meia",
-      "Clube": "SPT",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
       "Pontos": 18.1
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Lucas Lima",
+      "Posição": "Meia",
+      "Clube": "SPT",
+      "Pontos": 5.5
     },
     {
       "Rodada": 4,
@@ -22769,14 +22769,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "emer jr fc",
-      "Nome": "Caio Paulista",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 3.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "emer jr fc",
       "Nome": "João Pedro",
       "Posição": "Lateral",
       "Clube": "GRE",
@@ -22785,10 +22777,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "emer jr fc",
-      "Nome": "Wagner Leonardo",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": 3.9
+      "Nome": "Caio Paulista",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 3.7
     },
     {
       "Rodada": 4,
@@ -22797,6 +22789,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "SAN",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 3.9
     },
     {
       "Rodada": 4,
@@ -22825,14 +22825,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "emer jr fc",
-      "Nome": "Amuzu",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 4.2
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "emer jr fc",
       "Nome": "Erick Pulga",
       "Posição": "Atacante",
       "Clube": "BAH",
@@ -22845,6 +22837,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Amuzu",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 4.2
     },
     {
       "Rodada": 4,
@@ -22881,14 +22881,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Léo Pereira",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -22897,18 +22889,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 18.8
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Cril Futebol Club",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 19.3
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -22921,10 +22905,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Gabriel",
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 18.8
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Erick",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 0.0
+      "Clube": "VIT",
+      "Pontos": 5.2
     },
     {
       "Rodada": 4,
@@ -22937,10 +22937,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Erick",
+      "Nome": "Gabriel",
       "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 5.2
+      "Clube": "CRU",
+      "Pontos": 0.0
     },
     {
       "Rodada": 4,
@@ -22961,18 +22961,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Matheuzinho",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
       "Pontos": 3.2
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 4.7
     },
     {
       "Rodada": 4,
@@ -23017,6 +23017,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 4,
       "Time Cartola": "Santo Ângelo United",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.0
+    },
+    {
+      "Rodada": 4,
+      "Time Cartola": "Santo Ângelo United",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
@@ -23029,14 +23037,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 3.9
-    },
-    {
-      "Rodada": 4,
-      "Time Cartola": "Santo Ângelo United",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.0
     },
     {
       "Rodada": 4,
@@ -23091,14 +23091,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Real SCI",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Real SCI",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -23111,6 +23103,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 8.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Real SCI",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -23171,14 +23171,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Gig@ntte",
       "Nome": "David Duarte",
       "Posição": "Zagueiro",
       "Clube": "BAH",
@@ -23187,18 +23179,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Gig@ntte",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -23211,6 +23195,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Gig@ntte",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Gig@ntte",
       "Nome": "Erick Pulga",
       "Posição": "Atacante",
       "Clube": "BAH",
@@ -23219,18 +23219,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -23443,18 +23443,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Diego",
       "Posição": "Lateral",
       "Clube": "CEA",
       "Pontos": 6.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -23603,18 +23603,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 21.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -23635,18 +23635,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "PUXE FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "PUXE FC",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -23675,18 +23675,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "PUXE FC",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "PUXE FC",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 3.0
     },
     {
       "Rodada": 5,
@@ -23763,14 +23763,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Everton Ribeiro",
       "Posição": "Meia",
       "Clube": "BAH",
@@ -23787,6 +23779,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Canobbio",
       "Posição": "Atacante",
       "Clube": "FLU",
@@ -23795,18 +23795,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Ferreira",
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -23843,18 +23843,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Léo Pereira",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Danilo",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.2
     },
     {
       "Rodada": 5,
@@ -23891,18 +23891,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Calleri",
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -23923,14 +23923,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Léo Maná",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 2.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -23939,10 +23931,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 1.9
+      "Nome": "Léo Maná",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 2.6
     },
     {
       "Rodada": 5,
@@ -23955,18 +23947,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 5.8
+      "Pontos": 1.9
     },
     {
       "Rodada": 5,
@@ -23979,10 +23963,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Memphis Depay",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "SAN",
+      "Pontos": 11.3
     },
     {
       "Rodada": 5,
@@ -23995,10 +23995,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Guilherme",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 11.3
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -24019,14 +24019,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Gilberto",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Samuel Xavier",
       "Posição": "Lateral",
       "Clube": "FLU",
@@ -24035,10 +24027,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Félix Torres",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 2.3
+      "Nome": "Gilberto",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -24051,10 +24043,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Nome": "Félix Torres",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 2.3
     },
     {
       "Rodada": 5,
@@ -24075,6 +24067,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 21.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Cano",
       "Posição": "Atacante",
       "Clube": "FLU",
@@ -24087,14 +24095,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 3.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -24171,18 +24171,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.3
     },
     {
       "Rodada": 5,
@@ -24227,18 +24227,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Félix Torres",
       "Posição": "Zagueiro",
       "Clube": "COR",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 4.7
     },
     {
       "Rodada": 5,
@@ -24267,18 +24267,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Ferreira",
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -24339,18 +24339,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 9.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "De la Cruz",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 2.1
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 9.0
     },
     {
       "Rodada": 5,
@@ -24371,18 +24371,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -24419,14 +24419,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KING LEONN",
-      "Nome": "David Duarte",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 4.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "KING LEONN",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -24435,10 +24427,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KING LEONN",
-      "Nome": "De la Cruz",
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 4.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 2.1
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -24451,10 +24451,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KING LEONN",
-      "Nome": "Arrascaeta",
+      "Nome": "De la Cruz",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 1.2
+      "Pontos": 2.1
     },
     {
       "Rodada": 5,
@@ -24499,18 +24499,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Ayrton Lucas",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 9.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -24555,14 +24555,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
@@ -24575,6 +24567,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 3.3
     },
     {
       "Rodada": 5,
@@ -24611,6 +24611,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -24619,10 +24627,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 1.9
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 5,
@@ -24643,18 +24651,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Cano",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -24667,10 +24667,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Memphis Depay",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -24691,14 +24691,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Samuel Xavier",
       "Posição": "Lateral",
       "Clube": "FLU",
@@ -24707,10 +24699,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": -1.3
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -24719,6 +24711,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "COR",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": -1.3
     },
     {
       "Rodada": 5,
@@ -24747,14 +24747,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Erick Pulga",
       "Posição": "Atacante",
       "Clube": "BAH",
@@ -24767,6 +24759,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -24803,14 +24803,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Pity10",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Pity10",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -24819,10 +24811,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Pity10",
-      "Nome": "Arrascaeta",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Pity10",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Clube": "INT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 5,
@@ -24835,10 +24835,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Pity10",
-      "Nome": "Alan Patrick",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Pity10",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -24855,14 +24863,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 11.5
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Pity10",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -24883,18 +24883,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Ayrton Lucas",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Ayrton Lucas",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 9.7
     },
     {
       "Rodada": 5,
@@ -24915,6 +24915,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Monsalve",
+      "Posição": "Meia",
+      "Clube": "GRE",
+      "Pontos": 2.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -24931,18 +24939,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Monsalve",
-      "Posição": "Meia",
-      "Clube": "GRE",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Yuri Alberto",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -24955,10 +24955,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Cano",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -25091,6 +25091,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Félix Torres",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 2.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -25099,10 +25107,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Félix Torres",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 2.3
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -25123,18 +25131,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Cano",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -25147,10 +25147,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Memphis Depay",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -25187,14 +25187,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Félix Torres",
       "Posição": "Zagueiro",
       "Clube": "COR",
@@ -25203,18 +25195,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 5.8
+      "Pontos": 6.4
     },
     {
       "Rodada": 5,
@@ -25227,10 +25211,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 5,
@@ -25247,6 +25239,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -25307,18 +25307,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 5,
@@ -25331,18 +25331,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 21.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -25419,18 +25419,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 3.3
     },
     {
       "Rodada": 5,
@@ -25459,14 +25459,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "DM Studio",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "DM Studio",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
@@ -25475,10 +25467,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "DM Studio",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -25491,10 +25483,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "DM Studio",
-      "Nome": "Villasanti",
-      "Posição": "Meia",
-      "Clube": "GRE",
-      "Pontos": 8.6
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -25511,6 +25503,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "DM Studio",
+      "Nome": "Villasanti",
+      "Posição": "Meia",
+      "Clube": "GRE",
+      "Pontos": 8.6
     },
     {
       "Rodada": 5,
@@ -25651,14 +25651,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Caio Paulista",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 6.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -25667,10 +25659,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Félix Torres",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 2.3
+      "Nome": "Caio Paulista",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 6.2
     },
     {
       "Rodada": 5,
@@ -25683,18 +25675,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Philippe Coutinho",
-      "Posição": "Meia",
-      "Clube": "VAS",
-      "Pontos": 1.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
+      "Nome": "Félix Torres",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 2.3
     },
     {
       "Rodada": 5,
@@ -25707,6 +25691,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Philippe Coutinho",
+      "Posição": "Meia",
+      "Clube": "VAS",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Cuello",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -25715,18 +25715,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Ferreira",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 12.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 1.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Ferreira",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 12.4
     },
     {
       "Rodada": 5,
@@ -25763,14 +25763,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KP JUV.",
-      "Nome": "David Duarte",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 4.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "KP JUV.",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -25779,18 +25771,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KP JUV.",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "KP JUV.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 4.4
     },
     {
       "Rodada": 5,
@@ -25803,10 +25787,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KP JUV.",
-      "Nome": "Memphis Depay",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "BAH",
+      "Pontos": 3.3
     },
     {
       "Rodada": 5,
@@ -25819,10 +25819,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "KP JUV.",
-      "Nome": "Erick Pulga",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 3.3
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -25843,14 +25843,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Angileri",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -25859,10 +25851,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Ferraresi",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": -0.3
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -25875,18 +25867,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Nome": "Ferraresi",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": -0.3
     },
     {
       "Rodada": 5,
@@ -25899,10 +25883,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Erick Pulga",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 3.3
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -25915,10 +25915,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Yuri Alberto",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
+      "Clube": "BAH",
+      "Pontos": 3.3
     },
     {
       "Rodada": 5,
@@ -25971,18 +25971,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Rivera",
       "Posição": "Meia",
       "Clube": "SPT",
       "Pontos": 3.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -26035,18 +26035,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Ayrton Lucas",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 9.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -26067,14 +26067,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -26091,10 +26083,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Yuri Alberto",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
-      "Pontos": 5.6
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -26107,10 +26107,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Memphis Depay",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
-      "Pontos": 21.7
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -26147,18 +26147,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "David Duarte",
       "Posição": "Zagueiro",
       "Clube": "BAH",
       "Pontos": 4.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -26227,18 +26227,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Ewerthon",
-      "Posição": "Lateral",
-      "Clube": "JUV",
-      "Pontos": 8.5
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Ewerthon",
+      "Posição": "Lateral",
+      "Clube": "JUV",
+      "Pontos": 8.5
     },
     {
       "Rodada": 5,
@@ -26339,18 +26339,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "seralex",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "seralex",
       "Nome": "Junior Alonso",
       "Posição": "Zagueiro",
       "Clube": "CAM",
       "Pontos": 7.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "seralex",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -26363,14 +26363,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "seralex",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "seralex",
       "Nome": "Lucas Ferreira",
       "Posição": "Meia",
       "Clube": "SAO",
@@ -26379,10 +26371,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "seralex",
-      "Nome": "Hulk",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "seralex",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 1.8
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -26395,10 +26395,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "seralex",
-      "Nome": "Yuri Alberto",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
+      "Clube": "CAM",
+      "Pontos": 1.8
     },
     {
       "Rodada": 5,
@@ -26435,6 +26435,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "E.C. Bororé",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "E.C. Bororé",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -26443,10 +26451,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 5.2
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -26467,18 +26475,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "E.C. Bororé",
-      "Nome": "Memphis Depay",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -26491,10 +26491,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Cano",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -26531,14 +26531,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -26547,10 +26539,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 1.2
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -26571,10 +26563,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Cano",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -26587,10 +26587,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Memphis Depay",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -26643,18 +26643,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": -0.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Carrillo",
       "Posição": "Meia",
       "Clube": "COR",
       "Pontos": 2.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": -0.3
     },
     {
       "Rodada": 5,
@@ -26667,18 +26667,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 1.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -26707,18 +26707,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BordonFC",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 11.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "BordonFC",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 2.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "BordonFC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 11.4
     },
     {
       "Rodada": 5,
@@ -26739,14 +26739,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BordonFC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "BordonFC",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -26763,10 +26755,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BordonFC",
-      "Nome": "Memphis Depay",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "BordonFC",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "BAH",
+      "Pontos": 3.3
     },
     {
       "Rodada": 5,
@@ -26779,10 +26779,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "BordonFC",
-      "Nome": "Erick Pulga",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 3.3
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -26803,14 +26803,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Ayrton Lucas",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
@@ -26819,10 +26811,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Wagner Leonardo",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": -0.3
+      "Nome": "Ayrton Lucas",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 9.7
     },
     {
       "Rodada": 5,
@@ -26835,10 +26827,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": -0.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Villasanti",
+      "Posição": "Meia",
+      "Clube": "GRE",
+      "Pontos": 8.6
     },
     {
       "Rodada": 5,
@@ -26851,10 +26859,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Villasanti",
-      "Posição": "Meia",
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
       "Clube": "GRE",
-      "Pontos": 8.6
+      "Pontos": 14.9
     },
     {
       "Rodada": 5,
@@ -26875,14 +26883,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Cristian Olivera",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 14.9
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Renato Gaúcho",
       "Posição": "Técnico",
       "Clube": "FLU",
@@ -26899,18 +26899,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 0.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 0.2
     },
     {
       "Rodada": 5,
@@ -26963,18 +26963,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Ferreira",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 12.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Ferreira",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 12.4
     },
     {
       "Rodada": 5,
@@ -27011,14 +27011,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Freytes",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -27027,18 +27019,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "MauHumor F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -27051,10 +27035,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Pedro Raul",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 5.2
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -27071,6 +27063,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Pedro Raul",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -27187,14 +27187,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
@@ -27203,10 +27195,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -27215,6 +27207,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "BAH",
       "Pontos": 4.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -27283,14 +27283,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Angileri",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -27299,10 +27291,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "David Duarte",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 4.4
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -27315,6 +27307,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "HS SPORTS F.C",
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 4.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
@@ -27323,18 +27323,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -27379,18 +27379,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -27411,14 +27411,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -27435,10 +27427,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Cano",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -27455,6 +27447,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Cano",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -27611,18 +27611,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 5,
@@ -27699,10 +27699,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Arias",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
+      "Clube": "INT",
+      "Pontos": 8.2
     },
     {
       "Rodada": 5,
@@ -27715,18 +27715,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Alan Patrick",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 8.2
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Cano",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 21.7
     },
     {
       "Rodada": 5,
@@ -27739,10 +27739,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Memphis Depay",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 21.7
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -27763,14 +27763,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "João Pedro",
       "Posição": "Lateral",
       "Clube": "GRE",
@@ -27779,10 +27771,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Jemerson",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": 3.0
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -27795,17 +27787,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Erick Pulgar",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "clarinvalau fc",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
+      "Nome": "Jemerson",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
       "Pontos": 3.0
     },
     {
@@ -27819,10 +27803,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 11.3
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Erick Pulgar",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 4.7
     },
     {
       "Rodada": 5,
@@ -27843,6 +27835,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "clarinvalau fc",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 11.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "clarinvalau fc",
       "Nome": "Filipe Luís",
       "Posição": "Técnico",
       "Clube": "FLA",
@@ -27859,14 +27859,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 11.4
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -27875,10 +27867,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 0.8
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 11.4
     },
     {
       "Rodada": 5,
@@ -27891,17 +27883,17 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 0.8
     },
     {
       "Rodada": 5,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Savarino",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "BOT",
+      "Clube": "FLA",
       "Pontos": 1.2
     },
     {
@@ -27915,6 +27907,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
@@ -27923,18 +27923,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 2.3
     },
     {
       "Rodada": 5,
@@ -27971,18 +27971,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 1.9
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Ferraresi",
       "Posição": "Zagueiro",
       "Clube": "SAO",
       "Pontos": -0.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 1.9
     },
     {
       "Rodada": 5,
@@ -28051,14 +28051,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
@@ -28067,10 +28059,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.2
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 5,
@@ -28079,6 +28071,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "COR",
       "Pontos": 2.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.2
     },
     {
       "Rodada": 5,
@@ -28147,18 +28147,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Angileri",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -28187,18 +28187,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 3.7
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -28243,18 +28243,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "João Pedro",
-      "Posição": "Lateral",
-      "Clube": "GRE",
-      "Pontos": 3.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 8.3
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "João Pedro",
+      "Posição": "Lateral",
+      "Clube": "GRE",
+      "Pontos": 3.2
     },
     {
       "Rodada": 5,
@@ -28275,10 +28275,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Allan",
+      "Nome": "Matheus Pereira",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Clube": "CRU",
+      "Pontos": 8.6
     },
     {
       "Rodada": 5,
@@ -28291,18 +28291,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Matheus Pereira",
+      "Nome": "Allan",
       "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 8.6
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 5,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Igor Jesus",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 2.3
+      "Clube": "GRE",
+      "Pontos": 2.4
     },
     {
       "Rodada": 5,
@@ -28315,10 +28315,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Braithwaite",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 2.4
+      "Clube": "BOT",
+      "Pontos": 2.3
     },
     {
       "Rodada": 5,
@@ -28339,14 +28339,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Aguirre",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -28355,10 +28347,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Félix Torres",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 2.3
+      "Nome": "Aguirre",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.2
     },
     {
       "Rodada": 5,
@@ -28371,10 +28363,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Nome": "Félix Torres",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 2.3
     },
     {
       "Rodada": 5,
@@ -28395,10 +28387,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Cano",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 11.5
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -28411,10 +28411,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Yuri Alberto",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
+      "Clube": "FLU",
+      "Pontos": 11.5
     },
     {
       "Rodada": 5,
@@ -28435,18 +28435,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Ayrton Lucas",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Gilberto",
       "Posição": "Lateral",
       "Clube": "BAH",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Ayrton Lucas",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 9.7
     },
     {
       "Rodada": 5,
@@ -28467,18 +28467,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.8
     },
     {
       "Rodada": 5,
@@ -28491,18 +28491,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Batalla",
-      "Posição": "Atacante",
-      "Clube": "JUV",
-      "Pontos": 9.2
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Batalla",
+      "Posição": "Atacante",
+      "Clube": "JUV",
+      "Pontos": 9.2
     },
     {
       "Rodada": 5,
@@ -28563,6 +28563,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "emer jr fc",
+      "Nome": "Danielzinho",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "emer jr fc",
       "Nome": "Lucas Silva",
       "Posição": "Meia",
       "Clube": "CRU",
@@ -28579,10 +28587,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "emer jr fc",
-      "Nome": "Danielzinho",
-      "Posição": "Meia",
-      "Clube": "MIR",
-      "Pontos": 2.9
+      "Nome": "Ferreira",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 12.4
     },
     {
       "Rodada": 5,
@@ -28599,14 +28607,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "emer jr fc",
-      "Nome": "Ferreira",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 12.4
     },
     {
       "Rodada": 5,
@@ -28691,18 +28691,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Michael",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 5.6
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Michael",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 3.5
     },
     {
       "Rodada": 5,
@@ -28723,18 +28723,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Gilberto",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 5.6
-    },
-    {
-      "Rodada": 5,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Angileri",
       "Posição": "Lateral",
       "Clube": "COR",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 5,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Gilberto",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -28779,10 +28779,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Ferreira",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 12.4
+      "Clube": "COR",
+      "Pontos": 5.6
     },
     {
       "Rodada": 5,
@@ -28795,10 +28795,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 5,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Yuri Alberto",
+      "Nome": "Ferreira",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 5.6
+      "Clube": "SAO",
+      "Pontos": 12.4
     },
     {
       "Rodada": 5,
@@ -28821,18 +28821,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Real SCI",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Real SCI",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 10.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Real SCI",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -28853,18 +28853,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Real SCI",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Real SCI",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
       "Pontos": 0.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Real SCI",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -28885,18 +28885,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Real SCI",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Real SCI",
       "Nome": "Pedro Raul",
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": 2.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Real SCI",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -28917,18 +28917,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -28957,14 +28957,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -28973,10 +28965,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
       "Clube": "INT",
-      "Pontos": 2.2
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -28985,6 +28977,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -29109,14 +29109,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Rafael Ramos",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -29125,10 +29117,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": -0.4
+      "Nome": "Rafael Ramos",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 2.4
     },
     {
       "Rodada": 6,
@@ -29141,18 +29133,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 3.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": -0.4
     },
     {
       "Rodada": 6,
@@ -29165,6 +29149,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -29173,18 +29173,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Enner Valencia",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 2.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -29261,6 +29261,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Gremiomaniasm",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Gremiomaniasm",
       "Nome": "Negueba",
       "Posição": "Atacante",
       "Clube": "MIR",
@@ -29272,14 +29280,6 @@ const escalacoesSerieA = {
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Gremiomaniasm",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
       "Pontos": 8.9
     },
     {
@@ -29333,18 +29333,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
       "Pontos": 0.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -29397,14 +29397,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "PUXE FC",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 9.8
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "PUXE FC",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -29413,10 +29405,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "PUXE FC",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 8.2
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 9.8
     },
     {
       "Rodada": 6,
@@ -29429,10 +29421,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "PUXE FC",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 19.2
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -29445,10 +29445,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "PUXE FC",
-      "Nome": "Alan Patrick",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -29469,14 +29477,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "PUXE FC",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "PUXE FC",
       "Nome": "Roger Machado",
       "Posição": "Técnico",
       "Clube": "INT",
@@ -29493,18 +29493,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Fagner",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 7.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -29557,18 +29557,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 0.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Deyverson",
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 0.7
     },
     {
       "Rodada": 6,
@@ -29589,14 +29589,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Giay",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -29605,10 +29597,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 17.2
+      "Nome": "Giay",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 5.0
     },
     {
       "Rodada": 6,
@@ -29621,10 +29613,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Fernando",
-      "Posição": "Meia",
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
       "Clube": "INT",
-      "Pontos": 0.0
+      "Pontos": 17.2
     },
     {
       "Rodada": 6,
@@ -29645,6 +29637,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "ZIVI FC",
+      "Nome": "Fernando",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 15.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "ZIVI FC",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -29657,14 +29665,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "ZIVI FC",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 15.9
     },
     {
       "Rodada": 6,
@@ -29685,18 +29685,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 10.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 10.9
     },
     {
       "Rodada": 6,
@@ -29725,18 +29725,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 5.4
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 5.4
     },
     {
       "Rodada": 6,
@@ -29837,14 +29837,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
@@ -29857,6 +29849,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -29877,14 +29877,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Reinaldo",
       "Posição": "Lateral",
       "Clube": "MIR",
@@ -29893,10 +29885,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 8.2
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -29909,10 +29901,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Gerson",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 3.2
+      "Pontos": 8.2
     },
     {
       "Rodada": 6,
@@ -29933,6 +29925,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Enner Valencia",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -29944,14 +29952,6 @@ const escalacoesSerieA = {
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
       "Pontos": 8.9
     },
     {
@@ -29989,18 +29989,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 1.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Victor Gabriel",
       "Posição": "Zagueiro",
       "Clube": "INT",
       "Pontos": 17.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 1.2
     },
     {
       "Rodada": 6,
@@ -30029,10 +30029,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Guilherme",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -30045,10 +30045,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Kaio Jorge",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -30085,6 +30085,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 17.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -30093,10 +30101,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 17.2
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -30117,10 +30125,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -30129,14 +30137,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -30197,18 +30197,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "KING LEONN",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "KING LEONN",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
       "Pontos": 0.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -30261,14 +30261,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 9.8
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Giay",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -30277,10 +30269,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 1.2
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 9.8
     },
     {
       "Rodada": 6,
@@ -30293,18 +30285,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Bruno Tabata",
-      "Posição": "Meia",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
       "Clube": "INT",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Danielzinho",
-      "Posição": "Meia",
-      "Clube": "MIR",
-      "Pontos": 0.6
+      "Pontos": 1.2
     },
     {
       "Rodada": 6,
@@ -30317,6 +30301,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Danielzinho",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 0.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Bruno Tabata",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -30325,18 +30325,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 2.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -30373,18 +30373,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Luisão",
-      "Posição": "Zagueiro",
-      "Clube": "SAN",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Victor Gabriel",
       "Posição": "Zagueiro",
       "Clube": "INT",
       "Pontos": 17.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Luisão",
+      "Posição": "Zagueiro",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 6,
@@ -30397,6 +30397,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
@@ -30405,10 +30413,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -30425,14 +30433,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -30453,14 +30453,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 13.5
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -30469,10 +30461,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 3.2
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 13.5
     },
     {
       "Rodada": 6,
@@ -30485,18 +30477,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Perronee F.C",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 3.2
     },
     {
       "Rodada": 6,
@@ -30509,10 +30493,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -30533,6 +30525,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Perronee F.C",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Perronee F.C",
       "Nome": "Roger Machado",
       "Posição": "Técnico",
       "Clube": "INT",
@@ -30549,14 +30549,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Pity10",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Pity10",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -30565,10 +30557,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Pity10",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
       "Clube": "PAL",
-      "Pontos": -0.4
+      "Pontos": 0.0
     },
     {
       "Rodada": 6,
@@ -30581,10 +30573,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Pity10",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": -0.4
     },
     {
       "Rodada": 6,
@@ -30597,6 +30589,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Pity10",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Pity10",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
@@ -30605,10 +30605,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Pity10",
-      "Nome": "Flaco López",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 5.3
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -30621,10 +30621,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Pity10",
-      "Nome": "Guilherme",
+      "Nome": "Flaco López",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "PAL",
+      "Pontos": 5.3
     },
     {
       "Rodada": 6,
@@ -30645,18 +30645,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Giay",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 10.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Giay",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 5.0
     },
     {
       "Rodada": 6,
@@ -30701,18 +30701,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -30757,14 +30757,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Luisão",
-      "Posição": "Zagueiro",
-      "Clube": "SAN",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Victor Gabriel",
       "Posição": "Zagueiro",
       "Clube": "INT",
@@ -30773,18 +30765,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Luisão",
+      "Posição": "Zagueiro",
+      "Clube": "SAN",
+      "Pontos": 5.5
     },
     {
       "Rodada": 6,
@@ -30797,6 +30781,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 0.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -30805,18 +30805,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -30837,18 +30837,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Ayrton Lucas",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 7.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Ayrton Lucas",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 7.2
     },
     {
       "Rodada": 6,
@@ -30869,18 +30869,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 0.6
     },
     {
       "Rodada": 6,
@@ -30893,18 +30893,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -30933,14 +30933,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 9.8
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -30949,10 +30941,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": -0.4
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 9.8
     },
     {
       "Rodada": 6,
@@ -30965,10 +30957,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Arrascaeta",
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": -0.4
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Erick Pulgar",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 19.2
+      "Pontos": 2.6
     },
     {
       "Rodada": 6,
@@ -30981,10 +30981,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Erick Pulgar",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 2.6
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -31001,14 +31009,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -31029,18 +31029,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 9.8
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -31061,18 +31061,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 0.6
     },
     {
       "Rodada": 6,
@@ -31141,6 +31141,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 17.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -31149,10 +31157,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 17.2
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -31173,22 +31181,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -31201,6 +31193,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -31221,14 +31221,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "DM Studio",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "DM Studio",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
@@ -31237,10 +31229,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "DM Studio",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 8.2
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -31253,10 +31245,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "DM Studio",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 6,
@@ -31277,10 +31269,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "DM Studio",
-      "Nome": "Guilherme",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "DM Studio",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "INT",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -31293,10 +31293,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "DM Studio",
-      "Nome": "Wesley",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 8.9
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -31333,14 +31333,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "lsauer fc",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 17.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "lsauer fc",
       "Nome": "Luisão",
       "Posição": "Zagueiro",
       "Clube": "SAN",
@@ -31349,10 +31341,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "lsauer fc",
-      "Nome": "Felipe Anderson",
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 17.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": -0.1
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -31365,10 +31365,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "lsauer fc",
-      "Nome": "Arrascaeta",
+      "Nome": "Felipe Anderson",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Clube": "PAL",
+      "Pontos": -0.1
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -31389,14 +31397,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "lsauer fc",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "lsauer fc",
       "Nome": "Roger Machado",
       "Posição": "Técnico",
       "Clube": "INT",
@@ -31413,14 +31413,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Diego",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Paulo Henrique",
       "Posição": "Lateral",
       "Clube": "VAS",
@@ -31429,10 +31421,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Lucas Freitas",
-      "Posição": "Zagueiro",
-      "Clube": "VAS",
-      "Pontos": 2.5
+      "Nome": "Diego",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 3.5
     },
     {
       "Rodada": 6,
@@ -31445,10 +31437,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Lucas Freitas",
+      "Posição": "Zagueiro",
+      "Clube": "VAS",
+      "Pontos": 2.5
     },
     {
       "Rodada": 6,
@@ -31461,10 +31453,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Emiliano Martínez",
       "Posição": "Meia",
       "Clube": "PAL",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Enner Valencia",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -31481,14 +31489,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Enner Valencia",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -31661,10 +31661,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Guilherme",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -31677,10 +31677,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Estêvão",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -31701,6 +31701,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Profit Soccer",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Profit Soccer",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -31709,10 +31717,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
+      "Nome": "Jair",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 7.3
     },
     {
       "Rodada": 6,
@@ -31725,10 +31733,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Jair",
-      "Posição": "Zagueiro",
-      "Clube": "BOT",
-      "Pontos": 7.3
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -31749,17 +31757,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Profit Soccer",
-      "Nome": "Wesley",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "INT",
+      "Clube": "CRU",
       "Pontos": 8.9
     },
     {
@@ -31773,9 +31773,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Kaio Jorge",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "CRU",
+      "Clube": "INT",
       "Pontos": 8.9
     },
     {
@@ -31797,6 +31797,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Giay",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 5.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -31805,10 +31813,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Giay",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 5.0
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 17.2
     },
     {
       "Rodada": 6,
@@ -31821,10 +31829,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 17.2
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -31841,14 +31849,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -31893,18 +31893,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Nathan",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 0.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -32045,18 +32045,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Pedro Henrique",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 9.1
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Pedro Henrique",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 9.1
     },
     {
       "Rodada": 6,
@@ -32117,14 +32117,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "seralex",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 8.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "seralex",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -32137,6 +32129,22 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "seralex",
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 8.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "seralex",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -32157,14 +32165,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "seralex",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "seralex",
       "Nome": "Roger Machado",
       "Posição": "Técnico",
       "Clube": "INT",
@@ -32181,18 +32181,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 9.8
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -32213,10 +32213,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Alan Patrick",
+      "Nome": "Edenílson",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Clube": "GRE",
+      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -32229,18 +32229,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Edenílson",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "GRE",
-      "Pontos": 2.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "E.C. Bororé",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -32257,6 +32249,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 8.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -32373,14 +32373,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Paulo Henrique",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 6.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -32389,10 +32381,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Zé Ivaldo",
-      "Posição": "Zagueiro",
-      "Clube": "SAN",
-      "Pontos": 2.2
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 6.2
     },
     {
       "Rodada": 6,
@@ -32401,6 +32393,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "INT",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Zé Ivaldo",
+      "Posição": "Zagueiro",
+      "Clube": "SAN",
+      "Pontos": 2.2
     },
     {
       "Rodada": 6,
@@ -32429,10 +32429,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Estêvão",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -32445,10 +32445,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Guilherme",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -32485,14 +32485,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "BordonFC",
-      "Nome": "Villalba",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "BordonFC",
       "Nome": "Victor Gabriel",
       "Posição": "Zagueiro",
       "Clube": "INT",
@@ -32501,18 +32493,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "BordonFC",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "BordonFC",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Nome": "Villalba",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 5.5
     },
     {
       "Rodada": 6,
@@ -32525,9 +32509,25 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "BordonFC",
-      "Nome": "Kaio Jorge",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "BordonFC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "BordonFC",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "CRU",
+      "Clube": "INT",
       "Pontos": 8.9
     },
     {
@@ -32541,9 +32541,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "BordonFC",
-      "Nome": "Wesley",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "INT",
+      "Clube": "CRU",
       "Pontos": 8.9
     },
     {
@@ -32581,14 +32581,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Vitão",
       "Posição": "Zagueiro",
       "Clube": "INT",
@@ -32597,18 +32589,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 19.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Pontos": 8.2
     },
     {
       "Rodada": 6,
@@ -32621,10 +32605,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Estêvão",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -32637,10 +32637,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Kaio Jorge",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -32701,14 +32701,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Bruno Tabata",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -32717,10 +32709,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Nome": "Bruno Tabata",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 3.6
     },
     {
       "Rodada": 6,
@@ -32737,6 +32729,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -32773,18 +32773,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Victor Gabriel",
       "Posição": "Zagueiro",
       "Clube": "INT",
       "Pontos": 17.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 6,
@@ -32797,18 +32797,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 0.6
     },
     {
       "Rodada": 6,
@@ -32981,14 +32981,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Bruno Tabata",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -33005,6 +32997,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "TATITTA FC",
+      "Nome": "Bruno Tabata",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "TATITTA FC",
       "Nome": "Enner Valencia",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -33017,14 +33025,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 0.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "TATITTA FC",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -33141,14 +33141,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Nathan",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -33157,10 +33149,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
       "Clube": "INT",
-      "Pontos": 17.2
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -33173,10 +33165,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 17.2
     },
     {
       "Rodada": 6,
@@ -33197,10 +33189,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Wesley",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Guilherme",
       "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 8.9
+      "Clube": "SAN",
+      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -33213,10 +33213,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Guilherme",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
+      "Clube": "INT",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -33237,18 +33237,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -33349,14 +33349,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Vitão",
       "Posição": "Zagueiro",
       "Clube": "INT",
@@ -33365,10 +33357,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Edenílson",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "GRE",
-      "Pontos": 2.2
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -33381,10 +33381,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Alan Patrick",
+      "Nome": "Edenílson",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Clube": "GRE",
+      "Pontos": 2.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 2.9
     },
     {
       "Rodada": 6,
@@ -33401,14 +33409,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "mercearia Estrela",
-      "Nome": "Cristian Olivera",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 2.9
     },
     {
       "Rodada": 6,
@@ -33493,18 +33493,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -33541,6 +33541,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "clarinvalau fc",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 1.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "clarinvalau fc",
       "Nome": "Villalba",
       "Posição": "Zagueiro",
       "Clube": "CRU",
@@ -33549,10 +33557,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
       "Clube": "INT",
-      "Pontos": 1.2
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -33573,10 +33581,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Pedro Raul",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 2.9
     },
     {
       "Rodada": 6,
@@ -33597,14 +33605,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Pedro Raul",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 2.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Rafael Guanaes",
       "Posição": "Técnico",
       "Clube": "MIR",
@@ -33621,6 +33621,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 9.8
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -33629,10 +33637,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 9.8
+      "Nome": "Victor Gabriel",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 17.2
     },
     {
       "Rodada": 6,
@@ -33645,10 +33653,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Victor Gabriel",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 17.2
+      "Nome": "Felipe Anderson",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": -0.1
     },
     {
       "Rodada": 6,
@@ -33669,22 +33677,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Felipe Anderson",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": -0.1
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -33697,6 +33689,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -33717,18 +33717,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 1.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Claudinho",
       "Posição": "Lateral",
       "Clube": "VIT",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 1.3
     },
     {
       "Rodada": 6,
@@ -33749,14 +33749,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
@@ -33765,10 +33757,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "SERGRILLO",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "SERGRILLO",
       "Nome": "Fernando Sobral",
       "Posição": "Meia",
       "Clube": "CEA",
       "Pontos": 4.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Pedro Raul",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 2.9
     },
     {
       "Rodada": 6,
@@ -33789,14 +33797,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Pedro Raul",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 2.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Roger Machado",
       "Posição": "Técnico",
       "Clube": "INT",
@@ -33813,18 +33813,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 1.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 0.0
     },
     {
       "Rodada": 6,
@@ -33845,14 +33845,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
@@ -33869,6 +33861,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Super Vasco f.c",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Super Vasco f.c",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
@@ -33881,14 +33889,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Super Vasco f.c",
-      "Nome": "Guilherme",
-      "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 3.0
     },
     {
       "Rodada": 6,
@@ -33909,14 +33909,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 9.8
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -33925,10 +33917,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Villalba",
-      "Posição": "Zagueiro",
-      "Clube": "CRU",
-      "Pontos": 5.5
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 9.8
     },
     {
       "Rodada": 6,
@@ -33941,18 +33933,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 17.7
+      "Nome": "Villalba",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 5.5
     },
     {
       "Rodada": 6,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Bruno Tabata",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
-      "Pontos": 3.6
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -33965,6 +33957,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Bruno Tabata",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Guilherme",
       "Posição": "Atacante",
       "Clube": "SAN",
@@ -33973,18 +33973,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 8.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -34005,18 +34005,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 9.8
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
       "Pontos": -0.9
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 9.8
     },
     {
       "Rodada": 6,
@@ -34037,14 +34037,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Savarino",
-      "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 8.3
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Jadson",
       "Posição": "Meia",
       "Clube": "JUV",
@@ -34053,10 +34045,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Savarino",
+      "Posição": "Meia",
+      "Clube": "BOT",
+      "Pontos": 8.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Villasanti",
       "Posição": "Meia",
       "Clube": "GRE",
       "Pontos": -0.3
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 13.4
     },
     {
       "Rodada": 6,
@@ -34077,14 +34085,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 13.4
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Mano Menezes",
       "Posição": "Técnico",
       "Clube": "GRE",
@@ -34101,18 +34101,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 10.9
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 10.9
     },
     {
       "Rodada": 6,
@@ -34133,10 +34133,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Savarino",
+      "Nome": "Gerson",
       "Posição": "Meia",
-      "Clube": "BOT",
-      "Pontos": 8.3
+      "Clube": "FLA",
+      "Pontos": 3.2
     },
     {
       "Rodada": 6,
@@ -34149,18 +34149,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Gerson",
+      "Nome": "Savarino",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 3.2
+      "Clube": "BOT",
+      "Pontos": 8.3
     },
     {
       "Rodada": 6,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Yuri Alberto",
+      "Nome": "Cano",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": -0.3
+      "Clube": "FLU",
+      "Pontos": 1.2
     },
     {
       "Rodada": 6,
@@ -34173,10 +34173,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Cano",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 1.2
+      "Clube": "COR",
+      "Pontos": -0.3
     },
     {
       "Rodada": 6,
@@ -34229,18 +34229,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 0.6
     },
     {
       "Rodada": 6,
@@ -34325,10 +34325,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "emer jr fc",
-      "Nome": "Erick Pulgar",
+      "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 2.6
+      "Clube": "CAM",
+      "Pontos": 4.7
     },
     {
       "Rodada": 6,
@@ -34341,10 +34341,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "emer jr fc",
-      "Nome": "Gustavo Scarpa",
+      "Nome": "Erick Pulgar",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.7
+      "Clube": "FLA",
+      "Pontos": 2.6
     },
     {
       "Rodada": 6,
@@ -34389,14 +34389,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 13.5
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
@@ -34405,10 +34397,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 1.2
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 13.5
     },
     {
       "Rodada": 6,
@@ -34421,18 +34413,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
       "Clube": "INT",
-      "Pontos": 17.7
+      "Pontos": 1.2
     },
     {
       "Rodada": 6,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Arrascaeta",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
+      "Clube": "INT",
+      "Pontos": 17.7
     },
     {
       "Rodada": 6,
@@ -34445,10 +34437,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -34457,6 +34449,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 13.4
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 6,
@@ -34525,14 +34525,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 19.2
-    },
-    {
-      "Rodada": 6,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -34541,10 +34533,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 6,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 8.9
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 19.2
     },
     {
       "Rodada": 6,
@@ -34553,6 +34545,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 6,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 8.9
     },
     {
       "Rodada": 6,
@@ -34719,18 +34719,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 11.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -34807,18 +34807,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 11.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Richard Ríos",
       "Posição": "Meia",
       "Clube": "PAL",
       "Pontos": 6.4
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 11.7
     },
     {
       "Rodada": 7,
@@ -34887,6 +34887,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 2.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -34895,10 +34903,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 2.7
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -34919,18 +34927,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "GRE",
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -34943,10 +34943,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Braithwaite",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.6
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -34967,14 +34967,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Diego",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -34983,10 +34975,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Wagner Leonardo",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": 9.0
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -34999,10 +34991,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 9.0
     },
     {
       "Rodada": 7,
@@ -35023,10 +35015,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Cristian Olivera",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
       "Clube": "GRE",
-      "Pontos": 13.9
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -35039,10 +35039,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Braithwaite",
+      "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
-      "Pontos": 3.6
+      "Pontos": 13.9
     },
     {
       "Rodada": 7,
@@ -35095,14 +35095,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -35119,10 +35111,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -35139,6 +35131,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -35159,14 +35159,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "PUXE FC",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 4.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "PUXE FC",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
@@ -35175,10 +35167,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "PUXE FC",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 12.0
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 4.5
     },
     {
       "Rodada": 7,
@@ -35191,17 +35183,9 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "PUXE FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "PUXE FC",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
       "Pontos": 12.0
     },
     {
@@ -35215,10 +35199,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "PUXE FC",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -35231,10 +35231,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "PUXE FC",
-      "Nome": "Pedro",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -35319,18 +35319,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 6.1
     },
     {
       "Rodada": 7,
@@ -35351,14 +35351,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -35367,10 +35359,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -35379,6 +35371,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 0.2
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 1.2
     },
     {
       "Rodada": 7,
@@ -35463,14 +35463,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -35479,18 +35471,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -35503,10 +35487,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Pedro Raul",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.6
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -35519,10 +35519,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Pedro Raul",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "CEA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 7,
@@ -35543,18 +35543,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 10.4
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -35583,18 +35583,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 6.4
     },
     {
       "Rodada": 7,
@@ -35695,18 +35695,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Pedro Raul",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.6
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Soteldo",
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 1.4
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Pedro Raul",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 7,
@@ -35847,14 +35847,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -35863,18 +35855,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -35887,10 +35871,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
       "Clube": "RBB",
-      "Pontos": 1.7
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Pedro Raul",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 0.6
     },
     {
       "Rodada": 7,
@@ -35903,10 +35903,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Pedro Raul",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.6
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -35991,18 +35991,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "KING LEONN",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 10.3
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "KING LEONN",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 10.3
     },
     {
       "Rodada": 7,
@@ -36055,10 +36055,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Arias",
+      "Nome": "Rubens",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
+      "Clube": "CAM",
+      "Pontos": 11.7
     },
     {
       "Rodada": 7,
@@ -36071,10 +36071,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Rubens",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 11.7
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Wanderson",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 3.8
     },
     {
       "Rodada": 7,
@@ -36091,14 +36099,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Wanderson",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 3.8
     },
     {
       "Rodada": 7,
@@ -36135,6 +36135,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -36143,10 +36151,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 12.0
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 11.7
     },
     {
       "Rodada": 7,
@@ -36167,10 +36175,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 11.7
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -36187,14 +36195,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 6.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Pedro",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -36327,14 +36327,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Pity10",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Pity10",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -36343,10 +36335,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Pity10",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -36367,6 +36359,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Pity10",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Pity10",
+      "Nome": "Canobbio",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 6.3
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Pity10",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
@@ -36379,14 +36387,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Pity10",
-      "Nome": "Canobbio",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 6.3
     },
     {
       "Rodada": 7,
@@ -36407,18 +36407,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Samuel Xavier",
       "Posição": "Lateral",
       "Clube": "FLU",
       "Pontos": 4.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -36439,14 +36439,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -36463,10 +36455,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Braithwaite",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.6
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -36475,6 +36467,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -36519,14 +36519,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Freytes",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -36535,18 +36527,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 12.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -36559,10 +36543,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Estêvão",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 12.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 6.1
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -36575,10 +36575,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Pedro",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
+      "Clube": "PAL",
+      "Pontos": 6.1
     },
     {
       "Rodada": 7,
@@ -36599,14 +36599,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 10.4
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -36615,10 +36607,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 10.4
     },
     {
       "Rodada": 7,
@@ -36627,6 +36619,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "RBB",
       "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -36663,18 +36663,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 24.1
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -36695,18 +36695,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Marlon",
-      "Posição": "Lateral",
-      "Clube": "GRE",
-      "Pontos": 8.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Giay",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 12.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Marlon",
+      "Posição": "Lateral",
+      "Clube": "GRE",
+      "Pontos": 8.7
     },
     {
       "Rodada": 7,
@@ -36727,14 +36727,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Jean Lucas",
       "Posição": "Meia",
       "Clube": "BAH",
@@ -36751,10 +36743,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Estêvão",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Everton",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 6.1
+      "Clube": "FLA",
+      "Pontos": 3.8
     },
     {
       "Rodada": 7,
@@ -36767,10 +36767,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Everton",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 3.8
+      "Clube": "PAL",
+      "Pontos": 6.1
     },
     {
       "Rodada": 7,
@@ -36823,18 +36823,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -36919,6 +36919,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -36931,14 +36939,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 5.8
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -37023,14 +37023,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "DM Studio",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "DM Studio",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
@@ -37039,10 +37031,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "DM Studio",
-      "Nome": "Braithwaite",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "DM Studio",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.6
+      "Clube": "COR",
+      "Pontos": 13.7
     },
     {
       "Rodada": 7,
@@ -37055,10 +37055,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "DM Studio",
-      "Nome": "Memphis Depay",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 13.7
+      "Clube": "GRE",
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -37079,18 +37079,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "lsauer fc",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 0.9
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "lsauer fc",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.1
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 0.9
     },
     {
       "Rodada": 7,
@@ -37111,18 +37111,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "lsauer fc",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "lsauer fc",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -37175,6 +37175,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 3.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -37183,10 +37191,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Paulo Henrique",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 3.7
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -37199,10 +37207,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
+      "Nome": "Arias",
+      "Posição": "Meia",
       "Clube": "FLU",
-      "Pontos": 4.7
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -37223,10 +37231,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 24.1
     },
     {
       "Rodada": 7,
@@ -37247,14 +37255,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 24.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Fernando Seabra",
       "Posição": "Técnico",
       "Clube": "RBB",
@@ -37271,14 +37271,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "KP JUV.",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 4.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "KP JUV.",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -37287,10 +37279,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "KP JUV.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 1.2
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": 4.5
     },
     {
       "Rodada": 7,
@@ -37303,18 +37295,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "KP JUV.",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 11.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "KP JUV.",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 12.0
+      "Pontos": 1.2
     },
     {
       "Rodada": 7,
@@ -37327,10 +37311,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "KP JUV.",
-      "Nome": "Pedro",
-      "Posição": "Atacante",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 2.7
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 11.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -37343,10 +37343,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "KP JUV.",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -37367,14 +37367,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Gabriel Fuentes",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": 7.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -37383,10 +37375,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
+      "Nome": "Gabriel Fuentes",
+      "Posição": "Lateral",
       "Clube": "FLU",
-      "Pontos": 2.7
+      "Pontos": 7.5
     },
     {
       "Rodada": 7,
@@ -37399,18 +37391,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -37423,10 +37407,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Braithwaite",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.6
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
     },
     {
       "Rodada": 7,
@@ -37435,6 +37427,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -37463,6 +37463,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Profit Soccer",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Profit Soccer",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -37471,10 +37479,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -37487,10 +37495,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
+      "Nome": "Arias",
+      "Posição": "Meia",
       "Clube": "FLU",
-      "Pontos": 4.7
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -37511,22 +37519,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Profit Soccer",
-      "Nome": "Pedro",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
@@ -37539,6 +37531,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLU",
       "Pontos": 12.2
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -37575,6 +37575,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Freytes",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -37583,10 +37591,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
+      "Nome": "Arias",
+      "Posição": "Meia",
       "Clube": "FLU",
-      "Pontos": 4.7
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -37607,18 +37615,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Pedro",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -37631,10 +37631,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -37687,18 +37687,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Everton Ribeiro",
       "Posição": "Meia",
       "Clube": "BAH",
       "Pontos": 8.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -37719,18 +37719,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 6.1
     },
     {
       "Rodada": 7,
@@ -37863,14 +37863,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "seralex",
-      "Nome": "Willian Machado",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 6.3
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "seralex",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -37879,10 +37871,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "seralex",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
+      "Nome": "Willian Machado",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 6.3
     },
     {
       "Rodada": 7,
@@ -37903,10 +37895,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "seralex",
-      "Nome": "Braithwaite",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "seralex",
+      "Nome": "Everaldo",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.6
+      "Clube": "FLU",
+      "Pontos": 12.2
     },
     {
       "Rodada": 7,
@@ -37919,10 +37919,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "seralex",
-      "Nome": "Everaldo",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 12.2
+      "Clube": "GRE",
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -37959,14 +37959,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Freytes",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Ignácio",
       "Posição": "Zagueiro",
       "Clube": "FLU",
@@ -37975,10 +37967,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
+      "Nome": "Freytes",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -37991,6 +37983,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "E.C. Bororé",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "E.C. Bororé",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -37999,10 +37999,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Pedro",
+      "Nome": "Everaldo",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
+      "Clube": "FLU",
+      "Pontos": 12.2
     },
     {
       "Rodada": 7,
@@ -38015,10 +38015,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Everaldo",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 12.2
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -38055,14 +38055,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -38071,10 +38063,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -38087,6 +38079,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Texas Club 2025",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Texas Club 2025",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -38095,10 +38095,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Everaldo",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 12.2
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -38111,10 +38111,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Pedro",
+      "Nome": "Everaldo",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
+      "Clube": "FLU",
+      "Pontos": 12.2
     },
     {
       "Rodada": 7,
@@ -38151,6 +38151,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -38159,10 +38167,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
+      "Nome": "Arias",
+      "Posição": "Meia",
       "Clube": "FLU",
-      "Pontos": 4.7
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -38183,18 +38191,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Yuri Alberto",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 24.1
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -38207,10 +38207,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "COR",
+      "Pontos": 24.1
     },
     {
       "Rodada": 7,
@@ -38247,14 +38247,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BordonFC",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "BordonFC",
       "Nome": "Bruno Fuchs",
       "Posição": "Zagueiro",
       "Clube": "PAL",
@@ -38263,10 +38255,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BordonFC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 12.5
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -38287,10 +38279,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BordonFC",
-      "Nome": "Everaldo",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 12.2
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 12.5
     },
     {
       "Rodada": 7,
@@ -38311,6 +38303,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "BordonFC",
+      "Nome": "Everaldo",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 12.2
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "BordonFC",
       "Nome": "Renato Gaúcho",
       "Posição": "Técnico",
       "Clube": "FLU",
@@ -38327,14 +38327,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 6.4
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -38343,10 +38335,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Wagner Leonardo",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": 9.0
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 6.4
     },
     {
       "Rodada": 7,
@@ -38359,10 +38351,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 9.0
     },
     {
       "Rodada": 7,
@@ -38383,10 +38375,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Cristian Olivera",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 13.9
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -38403,6 +38395,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 13.9
     },
     {
       "Rodada": 7,
@@ -38439,14 +38439,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -38455,18 +38447,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 11.7
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -38479,10 +38463,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Braithwaite",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.6
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 11.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -38491,6 +38483,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -38679,18 +38679,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Braithwaite",
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -38711,6 +38711,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TATITTA FC",
+      "Nome": "Fabiano Souza",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 4.9
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "TATITTA FC",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -38719,10 +38727,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Fabiano Souza",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 4.9
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 1.2
     },
     {
       "Rodada": 7,
@@ -38735,10 +38743,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 1.2
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 8.7
     },
     {
       "Rodada": 7,
@@ -38759,18 +38767,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Everton Ribeiro",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 8.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "TATITTA FC",
-      "Nome": "Braithwaite",
+      "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
-      "Pontos": 3.6
+      "Pontos": 13.9
     },
     {
       "Rodada": 7,
@@ -38783,10 +38783,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Cristian Olivera",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
       "Clube": "GRE",
-      "Pontos": 13.9
+      "Pontos": 3.6
     },
     {
       "Rodada": 7,
@@ -38847,18 +38847,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 12.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -38871,18 +38871,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Everaldo",
-      "Posição": "Atacante",
-      "Clube": "FLU",
-      "Pontos": 12.2
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Everaldo",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 12.2
     },
     {
       "Rodada": 7,
@@ -38935,10 +38935,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Jhon Jhon",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
+      "Clube": "FLU",
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -38951,18 +38951,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Arias",
+      "Nome": "Jhon Jhon",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "FBC Colorado",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 3.8
+      "Clube": "RBB",
+      "Pontos": 5.8
     },
     {
       "Rodada": 7,
@@ -38983,6 +38975,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "FBC Colorado",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "FBC Colorado",
       "Nome": "Renato Gaúcho",
       "Posição": "Técnico",
       "Clube": "FLU",
@@ -38999,18 +38999,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 10.4
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -39039,18 +39039,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
     },
     {
       "Rodada": 7,
@@ -39191,14 +39191,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -39207,10 +39199,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 12.0
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.7
     },
     {
       "Rodada": 7,
@@ -39223,10 +39215,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -39247,10 +39239,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Clube": "FLA",
+      "Pontos": 2.7
     },
     {
       "Rodada": 7,
@@ -39263,10 +39263,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Pedro",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.7
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -39303,18 +39303,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 15.2
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Gustavo Gómez",
       "Posição": "Zagueiro",
       "Clube": "PAL",
       "Pontos": 6.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 15.2
     },
     {
       "Rodada": 7,
@@ -39383,18 +39383,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
       "Pontos": 12.2
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -39415,18 +39415,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
     },
     {
       "Rodada": 7,
@@ -39479,14 +39479,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Paulo Henrique",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 3.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -39495,10 +39487,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 15.2
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 3.7
     },
     {
       "Rodada": 7,
@@ -39511,18 +39503,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "SERGRILLO",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 14.5
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 15.2
     },
     {
       "Rodada": 7,
@@ -39535,10 +39519,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 5.0
     },
     {
       "Rodada": 7,
@@ -39559,6 +39551,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "SERGRILLO",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "SERGRILLO",
       "Nome": "Léo Condé",
       "Posição": "Técnico",
       "Clube": "CEA",
@@ -39575,18 +39575,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 10.4
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -39671,18 +39671,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
       "Pontos": 8.7
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -39703,18 +39703,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
       "Pontos": 12.0
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
     },
     {
       "Rodada": 7,
@@ -39767,6 +39767,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 12.2
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Samuel Xavier",
       "Posição": "Lateral",
       "Clube": "FLU",
@@ -39775,10 +39783,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 12.2
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 9.0
     },
     {
       "Rodada": 7,
@@ -39791,10 +39799,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Wagner Leonardo",
-      "Posição": "Zagueiro",
-      "Clube": "GRE",
-      "Pontos": 9.0
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
     },
     {
       "Rodada": 7,
@@ -39815,10 +39823,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 5.8
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 13.9
     },
     {
       "Rodada": 7,
@@ -39827,14 +39835,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": 0.6
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Cristian Olivera",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 13.9
     },
     {
       "Rodada": 7,
@@ -39879,18 +39879,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 1.2
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -39959,14 +39959,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -39975,10 +39967,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
     },
     {
       "Rodada": 7,
@@ -39991,10 +39983,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Arias",
-      "Posição": "Meia",
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
       "Clube": "FLU",
-      "Pontos": 14.5
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -40015,10 +40007,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Pedro Henrique",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 14.5
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Everton",
       "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 10.8
+      "Clube": "FLA",
+      "Pontos": 3.8
     },
     {
       "Rodada": 7,
@@ -40031,10 +40031,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Everton",
+      "Nome": "Pedro Henrique",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 3.8
+      "Clube": "CEA",
+      "Pontos": 10.8
     },
     {
       "Rodada": 7,
@@ -40095,14 +40095,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "emer jr fc",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 12.5
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "emer jr fc",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -40111,10 +40103,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "emer jr fc",
-      "Nome": "Everton",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 3.8
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 12.5
     },
     {
       "Rodada": 7,
@@ -40123,6 +40115,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 13.9
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Everton",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 3.8
     },
     {
       "Rodada": 7,
@@ -40151,14 +40151,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 12.2
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
@@ -40167,10 +40159,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 12.0
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 12.2
     },
     {
       "Rodada": 7,
@@ -40183,10 +40175,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
       "Clube": "RBB",
-      "Pontos": 5.8
+      "Pontos": 12.0
     },
     {
       "Rodada": 7,
@@ -40199,6 +40191,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Cril Futebol Club",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Cril Futebol Club",
       "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -40207,10 +40207,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Yuri Alberto",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 24.1
+      "Clube": "PAL",
+      "Pontos": 6.1
     },
     {
       "Rodada": 7,
@@ -40223,10 +40223,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Estêvão",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 6.1
+      "Clube": "COR",
+      "Pontos": 24.1
     },
     {
       "Rodada": 7,
@@ -40247,6 +40247,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Santo Ângelo United",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.1
+    },
+    {
+      "Rodada": 7,
+      "Time Cartola": "Santo Ângelo United",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -40255,10 +40263,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.1
+      "Nome": "Ignácio",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 4.7
     },
     {
       "Rodada": 7,
@@ -40271,10 +40279,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Ignácio",
-      "Posição": "Zagueiro",
-      "Clube": "FLU",
-      "Pontos": 4.7
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 12.5
     },
     {
       "Rodada": 7,
@@ -40295,10 +40303,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 7,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 12.5
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -40315,14 +40323,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 3.6
-    },
-    {
-      "Rodada": 7,
-      "Time Cartola": "Santo Ângelo United",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 1.7
     },
     {
       "Rodada": 7,
@@ -40361,14 +40361,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Real SCI",
-      "Nome": "Junior Alonso",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 8.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Real SCI",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -40377,10 +40369,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Real SCI",
-      "Nome": "Rubens",
-      "Posição": "Meia",
+      "Nome": "Junior Alonso",
+      "Posição": "Zagueiro",
       "Clube": "CAM",
-      "Pontos": 9.0
+      "Pontos": 8.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Real SCI",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -40393,10 +40393,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Real SCI",
-      "Nome": "Arrascaeta",
+      "Nome": "Rubens",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "CAM",
+      "Pontos": 9.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Real SCI",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -40417,14 +40425,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Real SCI",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Real SCI",
       "Nome": "Filipe Luís",
       "Posição": "Técnico",
       "Clube": "FLA",
@@ -40441,18 +40441,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Tinga",
-      "Posição": "Lateral",
-      "Clube": "FOR",
-      "Pontos": 3.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Tinga",
+      "Posição": "Lateral",
+      "Clube": "FOR",
+      "Pontos": 3.7
     },
     {
       "Rodada": 8,
@@ -40553,14 +40553,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Kuscevic",
       "Posição": "Zagueiro",
       "Clube": "FOR",
@@ -40569,10 +40561,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -40589,6 +40581,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "PAL",
       "Pontos": 3.4
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
     },
     {
       "Rodada": 8,
@@ -40633,14 +40633,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Alex Sandro",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 5.9
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Alex Telles",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -40649,10 +40641,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
       "Clube": "FLA",
-      "Pontos": 10.7
+      "Pontos": 5.9
     },
     {
       "Rodada": 8,
@@ -40665,10 +40657,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Arrascaeta",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 12.0
+      "Pontos": 0.9
     },
     {
       "Rodada": 8,
@@ -40681,10 +40681,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Gerson",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 0.9
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -40729,14 +40729,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -40745,10 +40737,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Gustavo Mancha",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 8.0
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.7
     },
     {
       "Rodada": 8,
@@ -40761,18 +40753,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Gremiomaniasm",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
+      "Nome": "Gustavo Mancha",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -40785,10 +40769,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Rony",
-      "Posição": "Atacante",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
       "Clube": "CAM",
-      "Pontos": 1.7
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 8.6
     },
     {
       "Rodada": 8,
@@ -40801,10 +40801,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Braithwaite",
+      "Nome": "Rony",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 8.6
+      "Clube": "CAM",
+      "Pontos": 1.7
     },
     {
       "Rodada": 8,
@@ -40841,18 +40841,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": 9.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 10.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": 9.1
     },
     {
       "Rodada": 8,
@@ -40865,18 +40865,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Gabriel Bontempo",
       "Posição": "Meia",
       "Clube": "SAN",
       "Pontos": 1.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -40921,18 +40921,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "PUXE FC",
-      "Nome": "Cuiabano",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "PUXE FC",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Cuiabano",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 15.7
     },
     {
       "Rodada": 8,
@@ -40985,18 +40985,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "PUXE FC",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "PUXE FC",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 1.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -41073,18 +41073,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Bruno Henrique",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Lucca",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 4.7
     },
     {
       "Rodada": 8,
@@ -41113,18 +41113,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Alex Sandro",
       "Posição": "Lateral",
       "Clube": "FLA",
       "Pontos": 5.9
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 3.0
     },
     {
       "Rodada": 8,
@@ -41145,6 +41145,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "ZIVI FC",
+      "Nome": "Raniele",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "ZIVI FC",
       "Nome": "Richard Ríos",
       "Posição": "Meia",
       "Clube": "PAL",
@@ -41161,18 +41169,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Raniele",
-      "Posição": "Meia",
-      "Clube": "COR",
-      "Pontos": 1.6
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "ZIVI FC",
-      "Nome": "Kaio Jorge",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
+      "Clube": "COR",
+      "Pontos": 0.8
     },
     {
       "Rodada": 8,
@@ -41185,10 +41185,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Yuri Alberto",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 0.8
+      "Clube": "CRU",
+      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -41225,18 +41225,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "João Victor",
-      "Posição": "Zagueiro",
-      "Clube": "MIR",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "David Ricardo",
       "Posição": "Zagueiro",
       "Clube": "BOT",
       "Pontos": 5.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "João Victor",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 2.5
     },
     {
       "Rodada": 8,
@@ -41265,18 +41265,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 8.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -41305,6 +41305,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 9.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Giay",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -41313,10 +41321,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 9.7
+      "Nome": "Zé Ivaldo",
+      "Posição": "Zagueiro",
+      "Clube": "SAN",
+      "Pontos": 8.5
     },
     {
       "Rodada": 8,
@@ -41329,10 +41337,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Zé Ivaldo",
-      "Posição": "Zagueiro",
-      "Clube": "SAN",
-      "Pontos": 8.5
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -41353,22 +41361,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Braithwaite",
       "Posição": "Atacante",
       "Clube": "GRE",
@@ -41381,6 +41373,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "SAN",
       "Pontos": 4.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -41441,14 +41441,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Óscar Romero",
       "Posição": "Meia",
       "Clube": "INT",
@@ -41457,10 +41449,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -41469,6 +41461,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 8.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -41497,18 +41497,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -41529,6 +41529,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -41541,14 +41549,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CRU",
       "Pontos": 25.6
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -41657,18 +41657,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 2.4
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -41689,14 +41689,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KING LEONN",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "KING LEONN",
       "Nome": "Tinga",
       "Posição": "Lateral",
       "Clube": "FOR",
@@ -41705,10 +41697,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KING LEONN",
-      "Nome": "Kuscevic",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 7.7
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -41721,10 +41713,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KING LEONN",
-      "Nome": "Lucas Sasha",
-      "Posição": "Meia",
+      "Nome": "Kuscevic",
+      "Posição": "Zagueiro",
       "Clube": "FOR",
-      "Pontos": 11.3
+      "Pontos": 7.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -41737,10 +41737,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KING LEONN",
-      "Nome": "Arrascaeta",
+      "Nome": "Lucas Sasha",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "FOR",
+      "Pontos": 11.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -41761,14 +41769,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KING LEONN",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "KING LEONN",
       "Nome": "Juan Vojvoda",
       "Posição": "Técnico",
       "Clube": "FOR",
@@ -41785,18 +41785,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Tinga",
       "Posição": "Lateral",
       "Clube": "FOR",
       "Pontos": 3.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -41817,6 +41817,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Lucas Sasha",
       "Posição": "Meia",
       "Clube": "FOR",
@@ -41833,10 +41841,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -41857,14 +41865,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Juan Vojvoda",
       "Posição": "Técnico",
       "Clube": "FOR",
@@ -41881,14 +41881,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -41897,10 +41889,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
       "Clube": "FLA",
-      "Pontos": 10.7
+      "Pontos": 0.0
     },
     {
       "Rodada": 8,
@@ -41913,10 +41905,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 12.0
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -41937,6 +41929,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Fedato Futebol Clube",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -41949,14 +41957,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -41993,14 +41993,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": 9.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Léo Pereira",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -42009,10 +42001,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Erick Pulgar",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": 9.1
     },
     {
       "Rodada": 8,
@@ -42020,6 +42012,14 @@ const escalacoesSerieA = {
       "Nome": "Cristaldo",
       "Posição": "Meia",
       "Clube": "GRE",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Erick Pulgar",
+      "Posição": "Meia",
+      "Clube": "FLA",
       "Pontos": 0.0
     },
     {
@@ -42033,18 +42033,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 0.8
     },
     {
       "Rodada": 8,
@@ -42129,18 +42129,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Pity10",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Pity10",
       "Nome": "Igor Jesus",
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Pity10",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 1.5
     },
     {
       "Rodada": 8,
@@ -42225,6 +42225,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 8.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
@@ -42237,14 +42245,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -42265,14 +42265,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Cuiabano",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -42281,10 +42273,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 10.7
+      "Nome": "Cuiabano",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 15.7
     },
     {
       "Rodada": 8,
@@ -42297,18 +42289,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -42321,10 +42305,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Memphis Depay",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 2.4
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -42337,10 +42337,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Igor Jesus",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
+      "Clube": "COR",
+      "Pontos": 2.4
     },
     {
       "Rodada": 8,
@@ -42377,18 +42377,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Léo Pereira",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Gustavo Mancha",
       "Posição": "Zagueiro",
       "Clube": "FOR",
       "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.0
     },
     {
       "Rodada": 8,
@@ -42489,18 +42489,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
     },
     {
       "Rodada": 8,
@@ -42513,18 +42513,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 1.5
     },
     {
       "Rodada": 8,
@@ -42609,10 +42609,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Igor Jesus",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
+      "Clube": "COR",
+      "Pontos": 2.4
     },
     {
       "Rodada": 8,
@@ -42625,10 +42625,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Memphis Depay",
+      "Nome": "Igor Jesus",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 2.4
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -42665,14 +42665,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": 9.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -42681,10 +42673,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": 9.1
     },
     {
       "Rodada": 8,
@@ -42701,6 +42693,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 9.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -42745,18 +42745,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "DM Studio",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "DM Studio",
       "Nome": "Giay",
       "Posição": "Lateral",
       "Clube": "PAL",
       "Pontos": 7.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "DM Studio",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -42841,14 +42841,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "lsauer fc",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "lsauer fc",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -42857,10 +42849,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "lsauer fc",
-      "Nome": "Gustavo Mancha",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 8.0
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -42873,18 +42865,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "lsauer fc",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Nome": "Gustavo Mancha",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
       "Time Cartola": "lsauer fc",
-      "Nome": "Rubens",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 9.0
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -42897,10 +42889,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "lsauer fc",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 9.0
     },
     {
       "Rodada": 8,
@@ -42921,6 +42913,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "lsauer fc",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "lsauer fc",
       "Nome": "Juan Vojvoda",
       "Posição": "Técnico",
       "Clube": "FOR",
@@ -42937,14 +42937,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Bruno Pacheco",
-      "Posição": "Lateral",
-      "Clube": "FOR",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Reinaldo",
       "Posição": "Lateral",
       "Clube": "MIR",
@@ -42953,8 +42945,8 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "David Luiz",
-      "Posição": "Zagueiro",
+      "Nome": "Bruno Pacheco",
+      "Posição": "Lateral",
       "Clube": "FOR",
       "Pontos": 0.0
     },
@@ -42969,18 +42961,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Lucas Sasha",
-      "Posição": "Meia",
+      "Nome": "David Luiz",
+      "Posição": "Zagueiro",
       "Clube": "FOR",
-      "Pontos": 11.3
+      "Pontos": 0.0
     },
     {
       "Rodada": 8,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Arrascaeta",
+      "Nome": "Lucas Sasha",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "FOR",
+      "Pontos": 11.3
     },
     {
       "Rodada": 8,
@@ -42993,10 +42985,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 8.3
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -43005,6 +42997,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 26.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -43033,18 +43033,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KP JUV.",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "KP JUV.",
       "Nome": "Tinga",
       "Posição": "Lateral",
       "Clube": "FOR",
       "Pontos": 3.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -43097,18 +43097,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "KP JUV.",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "KP JUV.",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 8.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -43129,14 +43129,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -43145,10 +43137,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 10.7
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -43161,18 +43153,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Gabriel Bontempo",
-      "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -43185,10 +43169,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Memphis Depay",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Gabriel Bontempo",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 1.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
-      "Pontos": 2.4
+      "Pontos": 0.8
     },
     {
       "Rodada": 8,
@@ -43201,10 +43201,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Yuri Alberto",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
-      "Pontos": 0.8
+      "Pontos": 2.4
     },
     {
       "Rodada": 8,
@@ -43289,18 +43289,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -43321,14 +43321,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Escobar",
-      "Posição": "Lateral",
-      "Clube": "SAN",
-      "Pontos": 6.1
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -43337,10 +43329,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Gustavo Mancha",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 8.0
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 6.1
     },
     {
       "Rodada": 8,
@@ -43353,18 +43345,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Matheus Pereira",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 25.6
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 9.0
+      "Nome": "Gustavo Mancha",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -43377,10 +43361,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
+      "Nome": "Rubens",
+      "Posição": "Meia",
       "Clube": "CAM",
-      "Pontos": 8.3
+      "Pontos": 9.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 25.6
     },
     {
       "Rodada": 8,
@@ -43389,6 +43381,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 7.2
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -43449,10 +43449,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Richard Ríos",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.4
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -43465,18 +43465,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Arrascaeta",
+      "Nome": "Richard Ríos",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "PAL",
+      "Pontos": 3.4
     },
     {
       "Rodada": 8,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Hulk",
+      "Nome": "Marinho",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 8.3
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -43489,10 +43489,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Marinho",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
+      "Clube": "CAM",
+      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -43545,18 +43545,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Gerson",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 0.9
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
       "Pontos": -2.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 0.9
     },
     {
       "Rodada": 8,
@@ -43609,18 +43609,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "seralex",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "seralex",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
       "Pontos": 15.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "seralex",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 8,
@@ -43641,6 +43641,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "seralex",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "seralex",
       "Nome": "Pochettino",
       "Posição": "Meia",
       "Clube": "FOR",
@@ -43657,14 +43665,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "seralex",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "seralex",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -43673,18 +43673,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "seralex",
-      "Nome": "Lucero",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 26.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "seralex",
       "Nome": "Marinho",
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 7.2
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "seralex",
+      "Nome": "Lucero",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 26.5
     },
     {
       "Rodada": 8,
@@ -43769,18 +43769,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Memphis Depay",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Hulk",
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 8.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.4
     },
     {
       "Rodada": 8,
@@ -43865,18 +43865,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Memphis Depay",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 2.4
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -43913,14 +43913,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Kuscevic",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 7.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Junior Alonso",
       "Posição": "Zagueiro",
       "Clube": "CAM",
@@ -43929,10 +43921,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.0
+      "Nome": "Kuscevic",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 7.7
     },
     {
       "Rodada": 8,
@@ -43953,10 +43945,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Soteldo",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Lucero",
       "Posição": "Atacante",
-      "Clube": "SAN",
-      "Pontos": 4.5
+      "Clube": "FOR",
+      "Pontos": 26.5
     },
     {
       "Rodada": 8,
@@ -43969,10 +43969,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Lucero",
+      "Nome": "Soteldo",
       "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 26.5
+      "Clube": "SAN",
+      "Pontos": 4.5
     },
     {
       "Rodada": 8,
@@ -44025,6 +44025,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BordonFC",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "BordonFC",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -44041,22 +44049,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "BordonFC",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "BordonFC",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "BordonFC",
       "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
@@ -44069,6 +44061,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "BordonFC",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -44105,14 +44105,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Zé Ivaldo",
       "Posição": "Zagueiro",
       "Clube": "SAN",
@@ -44121,10 +44113,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Gerson",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 0.9
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -44137,6 +44129,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Felipe Anderson",
       "Posição": "Meia",
       "Clube": "PAL",
@@ -44145,18 +44145,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Breno Lopes",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 14.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Igor Jesus",
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Breno Lopes",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 14.2
     },
     {
       "Rodada": 8,
@@ -44201,6 +44201,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Kuscevic",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 7.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -44209,10 +44217,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Kuscevic",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 7.7
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -44233,10 +44241,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -44257,14 +44265,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Juan Vojvoda",
       "Posição": "Técnico",
       "Clube": "FOR",
@@ -44281,18 +44281,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Cuiabano",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Cuiabano",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 15.7
     },
     {
       "Rodada": 8,
@@ -44313,10 +44313,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Arrascaeta",
+      "Nome": "Matheus Pereira",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "CRU",
+      "Pontos": 25.6
     },
     {
       "Rodada": 8,
@@ -44329,18 +44329,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Matheus Pereira",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 25.6
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "MauHumor F.C.",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -44349,6 +44341,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -44377,14 +44377,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Cuiabano",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -44393,10 +44385,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "David Ricardo",
-      "Posição": "Zagueiro",
+      "Nome": "Cuiabano",
+      "Posição": "Lateral",
       "Clube": "BOT",
-      "Pontos": 5.3
+      "Pontos": 15.7
     },
     {
       "Rodada": 8,
@@ -44409,10 +44401,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Arrascaeta",
+      "Nome": "David Ricardo",
+      "Posição": "Zagueiro",
+      "Clube": "BOT",
+      "Pontos": 5.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Matheus Pereira",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "CRU",
+      "Pontos": 25.6
     },
     {
       "Rodada": 8,
@@ -44425,10 +44425,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Matheus Pereira",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
       "Clube": "CRU",
-      "Pontos": 25.6
+      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -44445,14 +44453,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 17.7
     },
     {
       "Rodada": 8,
@@ -44513,6 +44513,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "TATITTA FC",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "TATITTA FC",
       "Nome": "Richard Ríos",
       "Posição": "Meia",
       "Clube": "PAL",
@@ -44521,10 +44529,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.0
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 0.8
     },
     {
       "Rodada": 8,
@@ -44541,14 +44549,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 8.3
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "TATITTA FC",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 0.8
     },
     {
       "Rodada": 8,
@@ -44585,18 +44585,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Kuscevic",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 7.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 10.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Kuscevic",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 7.7
     },
     {
       "Rodada": 8,
@@ -44633,18 +44633,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Igor Jesus",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Igor Jesus",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -44721,18 +44721,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 1.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Igor Jesus",
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 1.5
     },
     {
       "Rodada": 8,
@@ -44817,10 +44817,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Memphis Depay",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 2.4
+      "Clube": "CAM",
+      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -44833,10 +44833,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Hulk",
+      "Nome": "Memphis Depay",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 8.3
+      "Clube": "COR",
+      "Pontos": 2.4
     },
     {
       "Rodada": 8,
@@ -44857,18 +44857,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Matheuzinho",
-      "Posição": "Lateral",
-      "Clube": "COR",
-      "Pontos": 3.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": 6.1
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 3.0
     },
     {
       "Rodada": 8,
@@ -44889,14 +44889,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Pochettino",
       "Posição": "Meia",
       "Clube": "FOR",
@@ -44913,10 +44905,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -44933,6 +44925,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 9.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -44969,14 +44969,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Gustavo Mancha",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 8.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -44985,10 +44977,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Rubens",
+      "Nome": "Gustavo Mancha",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 9.0
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -45001,10 +45001,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Arrascaeta",
+      "Nome": "Rubens",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
+      "Clube": "CAM",
+      "Pontos": 9.0
     },
     {
       "Rodada": 8,
@@ -45065,18 +45065,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Gustavo Gómez",
       "Posição": "Zagueiro",
       "Clube": "PAL",
       "Pontos": 9.1
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 4.7
     },
     {
       "Rodada": 8,
@@ -45201,6 +45201,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 8.3
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Breno Lopes",
       "Posição": "Atacante",
       "Clube": "FOR",
@@ -45213,14 +45221,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 7.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -45241,18 +45241,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Giay",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 7.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Igor Cariús",
       "Posição": "Lateral",
       "Clube": "SPT",
       "Pontos": 1.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Giay",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 7.7
     },
     {
       "Rodada": 8,
@@ -45281,18 +45281,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 3.4
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Lucas Mugni",
       "Posição": "Meia",
       "Clube": "CEA",
       "Pontos": -0.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 3.4
     },
     {
       "Rodada": 8,
@@ -45305,18 +45305,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Pedro Henrique",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 1.8
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 17.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Pedro Henrique",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 1.8
     },
     {
       "Rodada": 8,
@@ -45337,14 +45337,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Cuiabano",
       "Posição": "Lateral",
       "Clube": "BOT",
@@ -45353,10 +45345,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Gustavo Mancha",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 8.0
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 9.7
     },
     {
       "Rodada": 8,
@@ -45369,18 +45361,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 9.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Super Vasco f.c",
-      "Nome": "Matheus Pereira",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 25.6
+      "Nome": "Gustavo Mancha",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 8.0
     },
     {
       "Rodada": 8,
@@ -45393,10 +45377,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 25.6
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Rubens",
+      "Posição": "Meia",
       "Clube": "CAM",
-      "Pontos": 8.3
+      "Pontos": 9.0
     },
     {
       "Rodada": 8,
@@ -45405,6 +45397,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 8.3
     },
     {
       "Rodada": 8,
@@ -45449,14 +45449,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Gustavo Mancha",
       "Posição": "Zagueiro",
       "Clube": "FOR",
@@ -45465,18 +45457,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": -2.8
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -45489,10 +45473,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Marinho",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 7.2
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": -2.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -45509,6 +45501,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "FOR",
       "Pontos": 26.5
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Marinho",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 7.2
     },
     {
       "Rodada": 8,
@@ -45585,14 +45585,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Lucero",
-      "Posição": "Atacante",
-      "Clube": "FOR",
-      "Pontos": 26.5
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Pedro Henrique",
       "Posição": "Atacante",
       "Clube": "CEA",
@@ -45605,6 +45597,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BOT",
       "Pontos": 8.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Lucero",
+      "Posição": "Atacante",
+      "Clube": "FOR",
+      "Pontos": 26.5
     },
     {
       "Rodada": 8,
@@ -45625,18 +45625,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
       "Pontos": 8.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 2.7
     },
     {
       "Rodada": 8,
@@ -45657,10 +45657,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Arias",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.2
+      "Clube": "FLA",
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -45673,18 +45673,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Arrascaeta",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 12.0
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Artur",
-      "Posição": "Atacante",
-      "Clube": "BOT",
-      "Pontos": 14.8
+      "Clube": "FLU",
+      "Pontos": 2.2
     },
     {
       "Rodada": 8,
@@ -45705,6 +45697,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Artur",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 14.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Thiago Carpini",
       "Posição": "Técnico",
       "Clube": "VIT",
@@ -45721,18 +45721,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Cuiabano",
-      "Posição": "Lateral",
-      "Clube": "BOT",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Cuiabano",
+      "Posição": "Lateral",
+      "Clube": "BOT",
+      "Pontos": 15.7
     },
     {
       "Rodada": 8,
@@ -45753,18 +45753,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Eric Ramires",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 9.9
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Lucas Mugni",
       "Posição": "Meia",
       "Clube": "CEA",
       "Pontos": -0.8
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Eric Ramires",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 9.9
     },
     {
       "Rodada": 8,
@@ -45833,18 +45833,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "emer jr fc",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 10.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "emer jr fc",
       "Nome": "Cacá",
       "Posição": "Zagueiro",
       "Clube": "COR",
       "Pontos": 10.2
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 10.7
     },
     {
       "Rodada": 8,
@@ -45929,14 +45929,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Kuscevic",
-      "Posição": "Zagueiro",
-      "Clube": "FOR",
-      "Pontos": 7.7
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -45945,10 +45937,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Arrascaeta",
+      "Nome": "Kuscevic",
+      "Posição": "Zagueiro",
+      "Clube": "FOR",
+      "Pontos": 7.7
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 12.0
+      "Pontos": 0.9
     },
     {
       "Rodada": 8,
@@ -45961,10 +45961,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Gerson",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
       "Clube": "FLA",
-      "Pontos": 0.9
+      "Pontos": 12.0
     },
     {
       "Rodada": 8,
@@ -46049,14 +46049,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.2
-    },
-    {
-      "Rodada": 8,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Gerson",
       "Posição": "Meia",
       "Clube": "FLA",
@@ -46065,10 +46057,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Braithwaite",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.2
+    },
+    {
+      "Rodada": 8,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 8.6
+      "Clube": "BAH",
+      "Pontos": 6.2
     },
     {
       "Rodada": 8,
@@ -46081,10 +46081,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 8,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Erick Pulga",
+      "Nome": "Braithwaite",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 6.2
+      "Clube": "GRE",
+      "Pontos": 8.6
     },
     {
       "Rodada": 8,
@@ -46163,18 +46163,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Real SCI",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Real SCI",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Real SCI",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -46219,18 +46219,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 4.7
     },
     {
       "Rodada": 9,
@@ -46243,18 +46243,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 4.9
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -46267,18 +46267,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -46331,10 +46331,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Richard Ríos",
+      "Nome": "Gerson",
       "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 9,
@@ -46347,10 +46347,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Gerson",
+      "Nome": "Richard Ríos",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 0.0
+      "Clube": "PAL",
+      "Pontos": 4.3
     },
     {
       "Rodada": 9,
@@ -46363,18 +46363,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Pedro",
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 1.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 5.5
     },
     {
       "Rodada": 9,
@@ -46411,14 +46411,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 5.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "OlhaEleAiF.C!",
       "Nome": "Vitão",
       "Posição": "Zagueiro",
       "Clube": "INT",
@@ -46427,10 +46419,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "De la Cruz",
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 1.7
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -46443,10 +46443,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Alan Patrick",
+      "Nome": "De la Cruz",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
+      "Clube": "FLA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -46463,14 +46471,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 13.1
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "OlhaEleAiF.C!",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -46523,18 +46523,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Everton Ribeiro",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 3.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 3.4
     },
     {
       "Rodada": 9,
@@ -46587,18 +46587,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -46651,18 +46651,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -46683,18 +46683,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "PUXE FC",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 12.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "PUXE FC",
       "Nome": "Aguirre",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 4.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 12.2
     },
     {
       "Rodada": 9,
@@ -46715,18 +46715,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "PUXE FC",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "PUXE FC",
       "Nome": "Lucas Mugni",
       "Posição": "Meia",
       "Clube": "CEA",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -46747,18 +46747,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "PUXE FC",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "PUXE FC",
       "Nome": "Pedro",
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 1.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -46779,6 +46779,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Samuel Xavier",
+      "Posição": "Lateral",
+      "Clube": "FLU",
+      "Pontos": -1.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -46787,10 +46795,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Samuel Xavier",
-      "Posição": "Lateral",
-      "Clube": "FLU",
-      "Pontos": -1.4
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 7.4
     },
     {
       "Rodada": 9,
@@ -46803,10 +46811,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "André Ramalho",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 7.4
+      "Nome": "Martinelli",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 6.0
     },
     {
       "Rodada": 9,
@@ -46827,18 +46835,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Martinelli",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 6.0
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Yuri Alberto",
+      "Nome": "Pedro",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
+      "Clube": "FLA",
+      "Pontos": 1.4
     },
     {
       "Rodada": 9,
@@ -46851,10 +46851,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Pedro",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 1.4
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -46875,14 +46875,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 2.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Alex Sandro",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -46891,10 +46883,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Léo Pereira",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.0
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 2.2
     },
     {
       "Rodada": 9,
@@ -46907,10 +46899,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Richard Ríos",
-      "Posição": "Meia",
-      "Clube": "PAL",
-      "Pontos": 4.3
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.0
     },
     {
       "Rodada": 9,
@@ -46931,6 +46923,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "ZIVI FC",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 4.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "ZIVI FC",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
@@ -46943,14 +46951,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "ZIVI FC",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 5.5
     },
     {
       "Rodada": 9,
@@ -46971,14 +46971,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -46987,10 +46979,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 4.7
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -47003,18 +46995,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.9
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 4.7
     },
     {
       "Rodada": 9,
@@ -47027,6 +47011,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 4.9
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -47035,18 +47035,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.6
     },
     {
       "Rodada": 9,
@@ -47067,14 +47067,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -47083,10 +47075,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
       "Clube": "INT",
-      "Pontos": 4.7
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -47099,10 +47091,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
       "Clube": "INT",
-      "Pontos": 2.7
+      "Pontos": 4.7
     },
     {
       "Rodada": 9,
@@ -47123,6 +47115,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Michael",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Ricardo Mathias",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -47135,14 +47143,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Michael",
-      "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 0.0
     },
     {
       "Rodada": 9,
@@ -47163,18 +47163,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
       "Pontos": 8.2
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 0.8
     },
     {
       "Rodada": 9,
@@ -47195,6 +47195,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Cauly",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Lucas Mugni",
       "Posição": "Meia",
       "Clube": "CEA",
@@ -47211,18 +47219,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Cauly",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 1.0
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Yuri Alberto",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -47235,10 +47235,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Wesley",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -47259,14 +47259,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Kaiki Bruno",
       "Posição": "Lateral",
       "Clube": "CRU",
@@ -47275,10 +47267,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 5.5
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 0.8
     },
     {
       "Rodada": 9,
@@ -47291,10 +47283,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Arias",
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -47307,10 +47307,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Alan Patrick",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
+      "Clube": "FLU",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -47331,14 +47339,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Léo Condé",
       "Posição": "Técnico",
       "Clube": "CEA",
@@ -47355,14 +47355,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -47371,10 +47363,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Cacá",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 5.8
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -47387,18 +47379,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.9
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 5.8
     },
     {
       "Rodada": 9,
@@ -47411,6 +47395,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 4.9
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
@@ -47419,18 +47419,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Eleis-Itaqui",
       "Nome": "Pedro",
       "Posição": "Atacante",
       "Clube": "FLA",
       "Pontos": 1.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -47603,18 +47603,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Pedro Henrique",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Pedro Henrique",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -47675,10 +47675,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Alan Patrick",
+      "Nome": "Cauly",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
+      "Clube": "BAH",
+      "Pontos": 1.0
     },
     {
       "Rodada": 9,
@@ -47691,18 +47691,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Cauly",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 1.0
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -47711,6 +47703,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -47739,14 +47739,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Perronee F.C",
       "Nome": "Diego",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -47755,10 +47747,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -47771,10 +47763,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Everton Ribeiro",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 3.4
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -47795,10 +47787,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Yuri Alberto",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 3.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Luiz Araújo",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
+      "Clube": "FLA",
+      "Pontos": 2.6
     },
     {
       "Rodada": 9,
@@ -47811,10 +47811,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Luiz Araújo",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "FLA",
-      "Pontos": 2.6
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -47891,18 +47891,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Pity10",
-      "Nome": "Vegetti",
-      "Posição": "Atacante",
-      "Clube": "VAS",
-      "Pontos": 18.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Pity10",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Pity10",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 18.6
     },
     {
       "Rodada": 9,
@@ -47947,18 +47947,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Cacá",
       "Posição": "Zagueiro",
       "Clube": "COR",
       "Pontos": 5.8
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -48083,14 +48083,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
@@ -48103,6 +48095,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 3.6
     },
     {
       "Rodada": 9,
@@ -48123,18 +48123,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Wesley",
-      "Posição": "Lateral",
-      "Clube": "FLA",
-      "Pontos": 12.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 12.2
     },
     {
       "Rodada": 9,
@@ -48155,10 +48155,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Arias",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -48171,10 +48171,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Alan Patrick",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -48187,18 +48187,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TEAM LOPES 99",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "TEAM LOPES 99",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 3.6
     },
     {
       "Rodada": 9,
@@ -48219,6 +48219,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 0.8
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -48227,10 +48235,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 0.8
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 5.5
     },
     {
       "Rodada": 9,
@@ -48243,10 +48251,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 5.5
+      "Nome": "Cauly",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 1.0
     },
     {
       "Rodada": 9,
@@ -48267,10 +48275,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Cauly",
-      "Posição": "Meia",
-      "Clube": "BAH",
-      "Pontos": 1.0
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -48287,14 +48295,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 13.1
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -48331,18 +48331,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Ferraresi",
       "Posição": "Zagueiro",
       "Clube": "SAO",
       "Pontos": 4.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -48427,18 +48427,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Vitão",
-      "Posição": "Zagueiro",
-      "Clube": "INT",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Marllon",
       "Posição": "Zagueiro",
       "Clube": "CEA",
       "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 4.7
     },
     {
       "Rodada": 9,
@@ -48507,14 +48507,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "DM Studio",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "DM Studio",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -48523,10 +48515,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "DM Studio",
-      "Nome": "Cacá",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 5.8
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -48535,6 +48527,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "DM Studio",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 5.8
     },
     {
       "Rodada": 9,
@@ -48571,18 +48571,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "DM Studio",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "DM Studio",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "DM Studio",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 3.6
     },
     {
       "Rodada": 9,
@@ -48603,18 +48603,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "lsauer fc",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "lsauer fc",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -48659,6 +48659,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "lsauer fc",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "lsauer fc",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -48671,14 +48679,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 3.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "lsauer fc",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -48835,18 +48835,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "KP JUV.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "KP JUV.",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 4.9
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -48891,14 +48891,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Wesley",
       "Posição": "Lateral",
       "Clube": "FLA",
@@ -48907,10 +48899,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Ferraresi",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 4.6
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 0.8
     },
     {
       "Rodada": 9,
@@ -48923,10 +48915,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
+      "Nome": "Ferraresi",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 4.6
     },
     {
       "Rodada": 9,
@@ -48947,6 +48939,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Kaio Jorge",
       "Posição": "Atacante",
       "Clube": "CRU",
@@ -48959,14 +48967,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -49003,18 +49003,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Willian Machado",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 7.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 6.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Willian Machado",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 7.5
     },
     {
       "Rodada": 9,
@@ -49123,18 +49123,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Matheus Pereira",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 3.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 3.7
     },
     {
       "Rodada": 9,
@@ -49179,14 +49179,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
@@ -49195,10 +49187,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -49211,18 +49203,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "TIGRE LEON",
-      "Nome": "De la Cruz",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 1.7
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -49235,6 +49219,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TIGRE LEON",
+      "Nome": "De la Cruz",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "TIGRE LEON",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
@@ -49243,18 +49243,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "TIGRE LEON",
       "Nome": "Pedro Henrique",
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": 0.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -49275,18 +49275,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Aguirre",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 4.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Lucas Piton",
       "Posição": "Lateral",
       "Clube": "VAS",
       "Pontos": 12.1
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Aguirre",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 4.7
     },
     {
       "Rodada": 9,
@@ -49315,18 +49315,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Oscar",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 4.9
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Everton Ribeiro",
       "Posição": "Meia",
       "Clube": "BAH",
       "Pontos": 3.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 4.9
     },
     {
       "Rodada": 9,
@@ -49387,14 +49387,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "seralex",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "seralex",
       "Nome": "Willian Machado",
       "Posição": "Zagueiro",
       "Clube": "CEA",
@@ -49403,10 +49395,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "seralex",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -49419,6 +49411,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "seralex",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "seralex",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -49427,10 +49427,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "seralex",
-      "Nome": "Pedro Henrique",
+      "Nome": "Pedro Raul",
       "Posição": "Atacante",
       "Clube": "CEA",
-      "Pontos": 0.4
+      "Pontos": -0.7
     },
     {
       "Rodada": 9,
@@ -49443,10 +49443,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "seralex",
-      "Nome": "Pedro Raul",
+      "Nome": "Pedro Henrique",
       "Posição": "Atacante",
       "Clube": "CEA",
-      "Pontos": -0.7
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -49467,18 +49467,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Matheus Bahia",
       "Posição": "Lateral",
       "Clube": "CEA",
       "Pontos": 8.2
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -49499,10 +49499,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Alan Patrick",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -49515,18 +49515,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Arias",
+      "Nome": "Alan Patrick",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Yuri Alberto",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -49539,10 +49539,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Wesley",
+      "Nome": "Yuri Alberto",
       "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -49691,10 +49691,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Matheus Pereira",
+      "Nome": "Alisson",
       "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 3.7
+      "Clube": "SAO",
+      "Pontos": 2.5
     },
     {
       "Rodada": 9,
@@ -49707,10 +49707,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Alisson",
+      "Nome": "Matheus Pereira",
       "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 2.5
+      "Clube": "CRU",
+      "Pontos": 3.7
     },
     {
       "Rodada": 9,
@@ -49723,18 +49723,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Pedro Henrique",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Pedro Raul",
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": -0.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Pedro Henrique",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -49755,18 +49755,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "BordonFC",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "BordonFC",
       "Nome": "Escobar",
       "Posição": "Lateral",
       "Clube": "SAN",
       "Pontos": -1.8
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "BordonFC",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -49867,18 +49867,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 7.9
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Victor Gabriel",
       "Posição": "Zagueiro",
       "Clube": "INT",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 7.9
     },
     {
       "Rodada": 9,
@@ -49907,18 +49907,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 15.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 15.7
     },
     {
       "Rodada": 9,
@@ -49947,6 +49947,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -49955,10 +49963,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
+      "Nome": "Willian Machado",
+      "Posição": "Zagueiro",
       "Clube": "CEA",
-      "Pontos": 8.2
+      "Pontos": 7.5
     },
     {
       "Rodada": 9,
@@ -49971,10 +49979,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Willian Machado",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 7.5
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -49995,22 +50003,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Pedro Henrique",
       "Posição": "Atacante",
       "Clube": "CEA",
@@ -50023,6 +50015,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -50059,6 +50059,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "MauHumor F.C.",
+      "Nome": "Marllon",
+      "Posição": "Zagueiro",
+      "Clube": "CEA",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "MauHumor F.C.",
       "Nome": "Léo Ortiz",
       "Posição": "Zagueiro",
       "Clube": "FLA",
@@ -50067,10 +50075,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Marllon",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 5.5
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -50087,14 +50095,6 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "MauHumor F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -50139,14 +50139,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Piquerez",
       "Posição": "Lateral",
       "Clube": "PAL",
@@ -50155,10 +50147,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Willian Machado",
-      "Posição": "Zagueiro",
-      "Clube": "CEA",
-      "Pontos": 7.5
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -50171,18 +50163,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Lucas Mugni",
-      "Posição": "Meia",
+      "Nome": "Willian Machado",
+      "Posição": "Zagueiro",
       "Clube": "CEA",
-      "Pontos": 12.4
+      "Pontos": 7.5
     },
     {
       "Rodada": 9,
@@ -50195,10 +50179,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Estêvão",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 12.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 5.5
+      "Clube": "CAM",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -50211,10 +50211,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Hulk",
+      "Nome": "Estêvão",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 0.4
+      "Clube": "PAL",
+      "Pontos": 5.5
     },
     {
       "Rodada": 9,
@@ -50275,18 +50275,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Martinelli",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 6.0
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.3
     },
     {
       "Rodada": 9,
@@ -50331,18 +50331,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -50363,14 +50363,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
@@ -50387,10 +50379,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
     },
     {
       "Rodada": 9,
@@ -50407,6 +50399,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": 18.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -50491,18 +50491,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Pedro Henrique",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Pedro Henrique",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -50523,14 +50523,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Bernabéi",
-      "Posição": "Lateral",
-      "Clube": "INT",
-      "Pontos": 3.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -50539,10 +50531,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
+      "Nome": "Bernabéi",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.5
     },
     {
       "Rodada": 9,
@@ -50555,18 +50547,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Dom Camillo68",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 4.9
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -50579,6 +50563,22 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Dom Camillo68",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 4.9
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Dom Camillo68",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
@@ -50587,18 +50587,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 0.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -50619,18 +50619,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Fabiano Souza",
       "Posição": "Lateral",
       "Clube": "CEA",
       "Pontos": 7.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -50675,18 +50675,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Vitor Roque",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Yuri Alberto",
       "Posição": "Atacante",
       "Clube": "COR",
       "Pontos": 11.6
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Vitor Roque",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 0.0
     },
     {
       "Rodada": 9,
@@ -50715,14 +50715,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -50731,10 +50723,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Santiago Mingo",
-      "Posição": "Zagueiro",
-      "Clube": "BAH",
-      "Pontos": 0.2
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -50747,10 +50739,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
+      "Nome": "Santiago Mingo",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.2
     },
     {
       "Rodada": 9,
@@ -50767,6 +50759,22 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CEA",
       "Pontos": 12.4
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -50787,14 +50795,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Roger Machado",
       "Posição": "Técnico",
       "Clube": "INT",
@@ -50811,18 +50811,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Diego",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 12.9
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Diego",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 12.9
     },
     {
       "Rodada": 9,
@@ -50843,10 +50843,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Lucas Mugni",
+      "Nome": "Rollheiser",
       "Posição": "Meia",
-      "Clube": "CEA",
-      "Pontos": 12.4
+      "Clube": "SAN",
+      "Pontos": 0.2
     },
     {
       "Rodada": 9,
@@ -50859,18 +50859,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Rollheiser",
+      "Nome": "Lucas Mugni",
       "Posição": "Meia",
-      "Clube": "SAN",
-      "Pontos": 0.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "clarinvalau fc",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 15.7
+      "Clube": "CEA",
+      "Pontos": 12.4
     },
     {
       "Rodada": 9,
@@ -50887,6 +50879,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": -0.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 15.7
     },
     {
       "Rodada": 9,
@@ -50971,18 +50971,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Pedro Henrique",
-      "Posição": "Atacante",
-      "Clube": "CEA",
-      "Pontos": 0.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Pedro Raul",
       "Posição": "Atacante",
       "Clube": "CEA",
       "Pontos": -0.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Pedro Henrique",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 0.4
     },
     {
       "Rodada": 9,
@@ -51155,18 +51155,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Wesley",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -51227,18 +51227,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Lucas Mugni",
-      "Posição": "Meia",
-      "Clube": "CEA",
-      "Pontos": 12.4
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
       "Pontos": 2.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 12.4
     },
     {
       "Rodada": 9,
@@ -51251,18 +51251,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Ricardo Mathias",
       "Posição": "Atacante",
       "Clube": "INT",
       "Pontos": 13.1
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -51291,14 +51291,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -51307,10 +51299,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Cacá",
-      "Posição": "Zagueiro",
-      "Clube": "COR",
-      "Pontos": 5.8
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -51319,6 +51311,14 @@ const escalacoesSerieA = {
       "Posição": "Zagueiro",
       "Clube": "GRE",
       "Pontos": 0.9
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 5.8
     },
     {
       "Rodada": 9,
@@ -51403,14 +51403,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 6.5
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Gustavo Gómez",
       "Posição": "Zagueiro",
       "Clube": "PAL",
@@ -51419,18 +51411,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
       "Clube": "FLA",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 2.3
+      "Pontos": 6.5
     },
     {
       "Rodada": 9,
@@ -51443,10 +51427,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 3.2
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 2.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 0.0
     },
     {
       "Rodada": 9,
@@ -51467,6 +51459,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Thiago Carpini",
       "Posição": "Técnico",
       "Clube": "VIT",
@@ -51483,18 +51483,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Matheus Bahia",
-      "Posição": "Lateral",
-      "Clube": "CEA",
-      "Pontos": 8.2
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
       "Pontos": 3.5
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Matheus Bahia",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 8.2
     },
     {
       "Rodada": 9,
@@ -51515,14 +51515,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.3
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Alan Patrick",
       "Posição": "Meia",
       "Clube": "INT",
@@ -51539,10 +51531,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Wesley",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.3
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Erick Pulga",
       "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 5.7
+      "Clube": "BAH",
+      "Pontos": 15.7
     },
     {
       "Rodada": 9,
@@ -51555,10 +51555,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Erick Pulga",
+      "Nome": "Wesley",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 15.7
+      "Clube": "INT",
+      "Pontos": 5.7
     },
     {
       "Rodada": 9,
@@ -51603,18 +51603,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "emer jr fc",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "emer jr fc",
       "Nome": "Pochettino",
       "Posição": "Meia",
       "Clube": "FOR",
       "Pontos": 7.2
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -51731,18 +51731,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Yuri Alberto",
-      "Posição": "Atacante",
-      "Clube": "COR",
-      "Pontos": 11.6
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Erick Pulga",
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 15.7
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 11.6
     },
     {
       "Rodada": 9,
@@ -51803,14 +51803,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 9,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 2.7
-    },
-    {
-      "Rodada": 9,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Everton Ribeiro",
       "Posição": "Meia",
       "Clube": "BAH",
@@ -51823,6 +51815,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "JUV",
       "Pontos": 7.1
+    },
+    {
+      "Rodada": 9,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 2.7
     },
     {
       "Rodada": 9,
@@ -51901,14 +51901,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Real SCI",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Real SCI",
       "Nome": "Oscar",
       "Posição": "Meia",
       "Clube": "SAO",
@@ -51925,10 +51917,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Real SCI",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -51945,6 +51937,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Real SCI",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -51981,14 +51981,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Gig@ntte",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -51997,10 +51989,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Pochettino",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 3.6
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 2.5
     },
     {
       "Rodada": 10,
@@ -52013,18 +52005,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Arias",
+      "Nome": "Pochettino",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Clube": "FOR",
+      "Pontos": 3.6
     },
     {
       "Rodada": 10,
       "Time Cartola": "Gig@ntte",
-      "Nome": "Cristian Olivera",
-      "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.0
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -52045,6 +52037,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Gig@ntte",
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Gig@ntte",
       "Nome": "Fernando Seabra",
       "Posição": "Técnico",
       "Clube": "RBB",
@@ -52061,14 +52061,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": -1.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -52077,10 +52069,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": -1.0
     },
     {
       "Rodada": 10,
@@ -52093,10 +52085,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Lima",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.5
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -52109,6 +52101,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "PraiaBravaFC",
+      "Nome": "Lima",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "PraiaBravaFC",
       "Nome": "Rubens",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -52117,18 +52117,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "PraiaBravaFC",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 7.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "PraiaBravaFC",
       "Nome": "André Silva",
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": -0.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 7.6
     },
     {
       "Rodada": 10,
@@ -52285,18 +52285,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Gremiomaniasm",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Gremiomaniasm",
       "Nome": "Pochettino",
       "Posição": "Meia",
       "Clube": "FOR",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 2.4
     },
     {
       "Rodada": 10,
@@ -52349,18 +52349,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Enzo Díaz",
-      "Posição": "Lateral",
-      "Clube": "SAO",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
+      "Clube": "SAO",
+      "Pontos": 4.3
     },
     {
       "Rodada": 10,
@@ -52381,18 +52381,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Sport Clube PAIM",
-      "Nome": "Oscar",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Sport Clube PAIM",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -52541,18 +52541,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "RS Expressões da Arte",
-      "Nome": "Mancuso",
-      "Posição": "Lateral",
-      "Clube": "FOR",
-      "Pontos": 0.2
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "RS Expressões da Arte",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
       "Pontos": 5.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Mancuso",
+      "Posição": "Lateral",
+      "Clube": "FOR",
+      "Pontos": 0.2
     },
     {
       "Rodada": 10,
@@ -52653,18 +52653,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "ZIVI FC",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "ZIVI FC",
       "Nome": "Léo Pereira",
       "Posição": "Zagueiro",
       "Clube": "FLA",
       "Pontos": 9.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -52749,18 +52749,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Vitão",
       "Posição": "Zagueiro",
       "Clube": "INT",
       "Pontos": 0.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.0
     },
     {
       "Rodada": 10,
@@ -52773,14 +52773,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "O clube do povo Itaqui/Rss",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -52789,10 +52781,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "O clube do povo Itaqui/Rss",
-      "Nome": "Wesley",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 0.0
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 3.9
     },
     {
       "Rodada": 10,
@@ -52809,6 +52801,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "VAS",
       "Pontos": -2.8
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 0.0
     },
     {
       "Rodada": 10,
@@ -52845,18 +52845,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "F.C. Rei Das Copas",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "F.C. Rei Das Copas",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 2.5
     },
     {
       "Rodada": 10,
@@ -52925,18 +52925,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Luciano Juba",
-      "Posição": "Lateral",
-      "Clube": "BAH",
-      "Pontos": 1.1
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 1.1
     },
     {
       "Rodada": 10,
@@ -52981,6 +52981,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Lucas Barbosa",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 4.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Rolo Compressor ZN",
       "Nome": "Renato Kayzer",
       "Posição": "Atacante",
       "Clube": "VIT",
@@ -52993,14 +53001,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "BAH",
       "Pontos": 5.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Rolo Compressor ZN",
-      "Nome": "Lucas Barbosa",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -53037,14 +53037,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Alan Franco",
       "Posição": "Zagueiro",
       "Clube": "SAO",
@@ -53053,10 +53045,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -53069,10 +53061,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Taura da Fronteira FCIII",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -53089,14 +53097,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 9.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Taura da Fronteira FCIII",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -53149,10 +53149,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Matheuzinho",
+      "Nome": "Rubens",
       "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 2.4
+      "Clube": "CAM",
+      "Pontos": 3.9
     },
     {
       "Rodada": 10,
@@ -53165,18 +53165,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Rubens",
+      "Nome": "Matheuzinho",
       "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.9
+      "Clube": "VIT",
+      "Pontos": 2.4
     },
     {
       "Rodada": 10,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Renato Kayzer",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -53189,10 +53189,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Eleis-Itaqui",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Renato Kayzer",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -53269,6 +53269,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "KING LEONN",
+      "Nome": "Lucas Barbosa",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 4.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "KING LEONN",
       "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
@@ -53281,14 +53289,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 0.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "KING LEONN",
-      "Nome": "Lucas Barbosa",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -53349,18 +53349,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 5.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 5.3
     },
     {
       "Rodada": 10,
@@ -53373,18 +53373,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Laranjja Mecannica",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Laranjja Mecannica",
       "Nome": "Lucas Barbosa",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -53437,10 +53437,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Jhon Jhon",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -53453,10 +53453,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Arias",
+      "Nome": "Jhon Jhon",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Clube": "RBB",
+      "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -53473,14 +53481,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Fedato Futebol Clube",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -53533,10 +53533,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Arrascaeta",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 9.7
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -53549,18 +53549,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Perronee F.C",
-      "Nome": "Arias",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Perronee F.C",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 8.4
+      "Clube": "FLA",
+      "Pontos": 9.7
     },
     {
       "Rodada": 10,
@@ -53577,6 +53569,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CRU",
       "Pontos": 13.8
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 8.4
     },
     {
       "Rodada": 10,
@@ -53613,14 +53613,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Pity10",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Pity10",
       "Nome": "Ferraresi",
       "Posição": "Zagueiro",
       "Clube": "SAO",
@@ -53629,10 +53621,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Pity10",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -53653,10 +53645,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Pity10",
-      "Nome": "Renato Kayzer",
-      "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -53665,6 +53657,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Pity10",
+      "Nome": "Renato Kayzer",
+      "Posição": "Atacante",
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -53693,18 +53693,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Marlon",
-      "Posição": "Lateral",
-      "Clube": "GRE",
-      "Pontos": 5.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Marlon",
+      "Posição": "Lateral",
+      "Clube": "GRE",
+      "Pontos": 5.0
     },
     {
       "Rodada": 10,
@@ -53725,6 +53725,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "pra sempre imortal fc",
       "Nome": "Oscar",
       "Posição": "Meia",
       "Clube": "SAO",
@@ -53741,10 +53749,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -53753,14 +53761,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 9.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "pra sempre imortal fc",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -53805,18 +53805,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 9.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 9.6
     },
     {
       "Rodada": 10,
@@ -53829,14 +53829,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Oscar",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "RHANKA DENTY FC25",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
@@ -53845,10 +53837,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "RHANKA DENTY FC25",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -53857,6 +53849,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "CAM",
       "Pontos": 7.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -53981,18 +53981,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
       "Pontos": 5.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -54013,6 +54013,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 9.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -54029,10 +54037,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 9.7
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.6
     },
     {
       "Rodada": 10,
@@ -54053,14 +54061,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "pura bucha /botafogo",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "pura bucha /botafogo",
       "Nome": "Fernando Seabra",
       "Posição": "Técnico",
       "Clube": "RBB",
@@ -54077,18 +54077,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Enzo Díaz",
-      "Posição": "Lateral",
-      "Clube": "SAO",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
+      "Clube": "SAO",
+      "Pontos": 4.3
     },
     {
       "Rodada": 10,
@@ -54109,10 +54109,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Jhon Jhon",
+      "Nome": "Oscar",
       "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
+      "Clube": "SAO",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -54125,10 +54125,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Oscar",
+      "Nome": "Jhon Jhon",
       "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
+      "Clube": "RBB",
+      "Pontos": 11.5
     },
     {
       "Rodada": 10,
@@ -54141,18 +54141,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "cartola scheuer",
-      "Nome": "Lucas Barbosa",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 4.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "cartola scheuer",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Lucas Barbosa",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -54205,18 +54205,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Analove10 ITAQUI GRANDE!!",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 9.7
     },
     {
       "Rodada": 10,
@@ -54269,18 +54269,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "DM Studio",
-      "Nome": "Paulo Henrique",
-      "Posição": "Lateral",
-      "Clube": "VAS",
-      "Pontos": 5.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "DM Studio",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "DM Studio",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 5.9
     },
     {
       "Rodada": 10,
@@ -54301,10 +54301,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "DM Studio",
-      "Nome": "Arrascaeta",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 9.7
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -54317,10 +54317,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "DM Studio",
-      "Nome": "Arias",
+      "Nome": "Arrascaeta",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Clube": "FLA",
+      "Pontos": 9.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "DM Studio",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -54337,14 +54345,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 3.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "DM Studio",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -54421,10 +54421,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "lsauer fc",
-      "Nome": "André Silva",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": -0.1
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -54437,10 +54437,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "lsauer fc",
-      "Nome": "Eduardo Sasha",
+      "Nome": "André Silva",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Clube": "SAO",
+      "Pontos": -0.1
     },
     {
       "Rodada": 10,
@@ -54461,18 +54461,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Paulo Henrique",
       "Posição": "Lateral",
       "Clube": "VAS",
       "Pontos": 5.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -54493,6 +54493,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 9.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Lucas Romero",
       "Posição": "Meia",
       "Clube": "CRU",
@@ -54509,14 +54517,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Arrascaeta",
-      "Posição": "Meia",
-      "Clube": "FLA",
-      "Pontos": 9.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Lucas Barbosa",
       "Posição": "Atacante",
       "Clube": "RBB",
@@ -54525,18 +54525,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "VASCO MARTINS FC",
-      "Nome": "Kaio Jorge",
-      "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 13.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "VASCO MARTINS FC",
       "Nome": "Renato Kayzer",
       "Posição": "Atacante",
       "Clube": "VIT",
       "Pontos": 2.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -54573,18 +54573,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "KP JUV.",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "KP JUV.",
       "Nome": "Arboleda",
       "Posição": "Zagueiro",
       "Clube": "SAO",
       "Pontos": 2.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -54653,14 +54653,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "BORGES ITAQUI F.C.",
       "Nome": "Enzo Díaz",
       "Posição": "Lateral",
       "Clube": "SAO",
@@ -54669,10 +54661,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 9.6
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -54685,10 +54677,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 9.6
     },
     {
       "Rodada": 10,
@@ -54709,10 +54701,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Clube": "CAM",
+      "Pontos": 7.6
     },
     {
       "Rodada": 10,
@@ -54725,10 +54725,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BORGES ITAQUI F.C.",
-      "Nome": "Hulk",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 7.6
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -54765,14 +54765,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -54781,10 +54773,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 2.5
     },
     {
       "Rodada": 10,
@@ -54801,6 +54793,22 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -54821,14 +54829,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Profit Soccer",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Profit Soccer",
       "Nome": "Fernando Seabra",
       "Posição": "Técnico",
       "Clube": "RBB",
@@ -54845,18 +54845,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Enzo Díaz",
-      "Posição": "Lateral",
-      "Clube": "SAO",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
+      "Clube": "SAO",
+      "Pontos": 4.3
     },
     {
       "Rodada": 10,
@@ -54877,18 +54877,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Oscar",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
       "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -54901,18 +54901,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Tabajara de Inhaua FC2",
-      "Nome": "Renato Kayzer",
-      "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Tabajara de Inhaua FC2",
       "Nome": "André Silva",
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": -0.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Renato Kayzer",
+      "Posição": "Atacante",
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -54973,6 +54973,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TIGRE LEON",
+      "Nome": "Pochettino",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "TIGRE LEON",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -54989,10 +54997,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TIGRE LEON",
-      "Nome": "Pochettino",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 3.6
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 7.6
     },
     {
       "Rodada": 10,
@@ -55001,14 +55009,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 0.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "TIGRE LEON",
-      "Nome": "Hulk",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 7.6
     },
     {
       "Rodada": 10,
@@ -55069,6 +55069,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "S.E.R. GRILLO",
       "Nome": "Pochettino",
       "Posição": "Meia",
       "Clube": "FOR",
@@ -55085,10 +55093,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Oscar",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
+      "Nome": "Rony",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 2.2
     },
     {
       "Rodada": 10,
@@ -55097,14 +55105,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 1.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "S.E.R. GRILLO",
-      "Nome": "Rony",
-      "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 2.2
     },
     {
       "Rodada": 10,
@@ -55165,10 +55165,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "seralex",
-      "Nome": "Jhon Jhon",
+      "Nome": "Matheuzinho",
       "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
+      "Clube": "VIT",
+      "Pontos": 2.4
     },
     {
       "Rodada": 10,
@@ -55181,18 +55181,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "seralex",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "seralex",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "seralex",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
     },
     {
       "Rodada": 10,
@@ -55229,18 +55229,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "E.C. Bororé",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "E.C. Bororé",
       "Nome": "Enzo Díaz",
       "Posição": "Lateral",
       "Clube": "SAO",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -55341,14 +55341,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 9.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Texas Club 2025",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -55357,10 +55349,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Arias",
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 9.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Oscar",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Clube": "SAO",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -55373,10 +55373,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Texas Club 2025",
-      "Nome": "Oscar",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
+      "Clube": "FLU",
+      "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Lucas Barbosa",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -55393,14 +55401,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 9.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Texas Club 2025",
-      "Nome": "Lucas Barbosa",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -55453,6 +55453,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "MAFRA MARTINS FC",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
@@ -55469,18 +55477,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Renato Kayzer",
+      "Nome": "Chrystian Barletta",
       "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
+      "Clube": "SPT",
+      "Pontos": 9.7
     },
     {
       "Rodada": 10,
@@ -55493,10 +55493,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "MAFRA MARTINS FC",
-      "Nome": "Chrystian Barletta",
+      "Nome": "Renato Kayzer",
       "Posição": "Atacante",
-      "Clube": "SPT",
-      "Pontos": 9.7
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -55517,18 +55517,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BordonFC",
-      "Nome": "Jamerson",
-      "Posição": "Lateral",
-      "Clube": "VIT",
-      "Pontos": -0.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "BordonFC",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "BordonFC",
+      "Nome": "Jamerson",
+      "Posição": "Lateral",
+      "Clube": "VIT",
+      "Pontos": -0.3
     },
     {
       "Rodada": 10,
@@ -55549,14 +55549,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BordonFC",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "BordonFC",
       "Nome": "Gustavo Scarpa",
       "Posição": "Meia",
       "Clube": "CAM",
@@ -55573,10 +55565,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BordonFC",
-      "Nome": "Hulk",
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "BordonFC",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "CAM",
-      "Pontos": 7.6
+      "Clube": "CRU",
+      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -55589,10 +55589,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "BordonFC",
-      "Nome": "Kaio Jorge",
+      "Nome": "Hulk",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 13.8
+      "Clube": "CAM",
+      "Pontos": 7.6
     },
     {
       "Rodada": 10,
@@ -55629,6 +55629,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 4.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
@@ -55637,8 +55645,8 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Wagner Leonardo",
-      "Posição": "Zagueiro",
+      "Nome": "Villasanti",
+      "Posição": "Meia",
       "Clube": "GRE",
       "Pontos": 4.9
     },
@@ -55653,18 +55661,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Villasanti",
-      "Posição": "Meia",
-      "Clube": "GRE",
-      "Pontos": 4.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Tatols Beants F.C",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
       "Pontos": 2.4
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 8.4
     },
     {
       "Rodada": 10,
@@ -55681,14 +55689,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Tatols Beants F.C",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 8.4
     },
     {
       "Rodada": 10,
@@ -55741,18 +55741,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "FIGUEIRA DA ILHA",
-      "Nome": "Pochettino",
-      "Posição": "Meia",
-      "Clube": "FOR",
-      "Pontos": 3.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "FIGUEIRA DA ILHA",
       "Nome": "Oscar",
       "Posição": "Meia",
       "Clube": "SAO",
       "Pontos": 0.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Pochettino",
+      "Posição": "Meia",
+      "Clube": "FOR",
+      "Pontos": 3.6
     },
     {
       "Rodada": 10,
@@ -55821,18 +55821,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Arboleda",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": 2.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 2.5
     },
     {
       "Rodada": 10,
@@ -55845,18 +55845,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "MauHumor F.C.",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "MauHumor F.C.",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
     },
     {
       "Rodada": 10,
@@ -55941,18 +55941,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "A Lenda Super Vascão f.c",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "A Lenda Super Vascão f.c",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
     },
     {
       "Rodada": 10,
@@ -55997,14 +55997,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Piquerez",
-      "Posição": "Lateral",
-      "Clube": "PAL",
-      "Pontos": -1.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -56013,10 +56005,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": -1.0
     },
     {
       "Rodada": 10,
@@ -56029,10 +56021,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Martinelli",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 2.6
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -56053,6 +56045,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TATITTA FC",
+      "Nome": "Martinelli",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "TATITTA FC",
       "Nome": "Rony",
       "Posição": "Atacante",
       "Clube": "CAM",
@@ -56061,18 +56061,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "TATITTA FC",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "TATITTA FC",
       "Nome": "Cristian Olivera",
       "Posição": "Atacante",
       "Clube": "GRE",
       "Pontos": 3.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.6
     },
     {
       "Rodada": 10,
@@ -56093,14 +56093,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
@@ -56109,10 +56101,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Ferraresi",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": -1.1
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -56125,10 +56117,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Arias",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Nome": "Ferraresi",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": -1.1
     },
     {
       "Rodada": 10,
@@ -56137,6 +56129,14 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "CAM",
       "Pontos": 3.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -56157,18 +56157,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "HS SPORTS F.C",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "HS SPORTS F.C",
       "Nome": "Lucas Barbosa",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -56253,18 +56253,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "FBC Colorado",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 8.4
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "FBC Colorado",
       "Nome": "Estêvão",
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 4.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 8.4
     },
     {
       "Rodada": 10,
@@ -56349,18 +56349,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Dom Camillo68",
-      "Nome": "Renato Kayzer",
-      "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Dom Camillo68",
       "Nome": "Luciano",
       "Posição": "Atacante",
       "Clube": "SAO",
       "Pontos": 8.4
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Renato Kayzer",
+      "Posição": "Atacante",
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -56381,18 +56381,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Enzo Díaz",
-      "Posição": "Lateral",
-      "Clube": "SAO",
-      "Pontos": 4.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "mercearia Estrela",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
+      "Clube": "SAO",
+      "Pontos": 4.3
     },
     {
       "Rodada": 10,
@@ -56437,10 +56437,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "Lucas Barbosa",
+      "Nome": "André Silva",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 4.0
+      "Clube": "SAO",
+      "Pontos": -0.1
     },
     {
       "Rodada": 10,
@@ -56453,10 +56453,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "mercearia Estrela",
-      "Nome": "André Silva",
+      "Nome": "Lucas Barbosa",
       "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": -0.1
+      "Clube": "RBB",
+      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -56493,18 +56493,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Lyanco",
-      "Posição": "Zagueiro",
-      "Clube": "CAM",
-      "Pontos": 9.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 9.6
     },
     {
       "Rodada": 10,
@@ -56517,14 +56517,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Rubens",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 3.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "CosmoCity ZO",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -56533,10 +56525,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Eduardo Sasha",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 3.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Renato Kayzer",
       "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -56549,10 +56549,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CosmoCity ZO",
-      "Nome": "Renato Kayzer",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -56573,14 +56573,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "clarinvalau fc",
       "Nome": "Luciano Juba",
       "Posição": "Lateral",
       "Clube": "BAH",
@@ -56589,10 +56581,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Gustavo Gómez",
-      "Posição": "Zagueiro",
-      "Clube": "PAL",
-      "Pontos": -0.1
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -56605,18 +56597,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Alan Patrick",
-      "Posição": "Meia",
-      "Clube": "INT",
-      "Pontos": 0.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "clarinvalau fc",
-      "Nome": "Gabriel",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 1.7
+      "Nome": "Gustavo Gómez",
+      "Posição": "Zagueiro",
+      "Clube": "PAL",
+      "Pontos": -0.1
     },
     {
       "Rodada": 10,
@@ -56629,10 +56613,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
       "Clube": "RBB",
-      "Pontos": 0.8
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 5.0
     },
     {
       "Rodada": 10,
@@ -56645,10 +56645,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "clarinvalau fc",
-      "Nome": "Erick Pulga",
+      "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 5.0
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -56685,18 +56685,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Grêmio imortal 37",
-      "Nome": "Ferraresi",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": -1.1
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Grêmio imortal 37",
       "Nome": "Pedro Henrique",
       "Posição": "Zagueiro",
       "Clube": "RBB",
       "Pontos": 5.7
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Ferraresi",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": -1.1
     },
     {
       "Rodada": 10,
@@ -56765,6 +56765,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "SERGRILLO",
+      "Nome": "Natanael",
+      "Posição": "Lateral",
+      "Clube": "CAM",
+      "Pontos": 5.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "SERGRILLO",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
@@ -56773,10 +56781,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Natanael",
-      "Posição": "Lateral",
-      "Clube": "CAM",
-      "Pontos": 5.9
+      "Nome": "Ferraresi",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": -1.1
     },
     {
       "Rodada": 10,
@@ -56789,10 +56797,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Ferraresi",
-      "Posição": "Zagueiro",
-      "Clube": "SAO",
-      "Pontos": -1.1
+      "Nome": "Matheuzinho",
+      "Posição": "Meia",
+      "Clube": "VIT",
+      "Pontos": 2.4
     },
     {
       "Rodada": 10,
@@ -56813,22 +56821,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "SERGRILLO",
-      "Nome": "Matheuzinho",
-      "Posição": "Meia",
-      "Clube": "VIT",
-      "Pontos": 2.4
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "SERGRILLO",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "SERGRILLO",
       "Nome": "Erick Pulga",
       "Posição": "Atacante",
       "Clube": "BAH",
@@ -56841,6 +56833,14 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "PAL",
       "Pontos": 1.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
     },
     {
       "Rodada": 10,
@@ -56861,18 +56861,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Super Vasco f.c",
       "Nome": "Enzo Díaz",
       "Posição": "Lateral",
       "Clube": "SAO",
       "Pontos": 4.3
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -56893,10 +56893,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Arias",
+      "Nome": "Oscar",
       "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 3.1
+      "Clube": "SAO",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -56909,18 +56909,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Super Vasco f.c",
-      "Nome": "Oscar",
+      "Nome": "Arias",
       "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Super Vasco f.c",
-      "Nome": "Eduardo Sasha",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 0.8
+      "Clube": "FLU",
+      "Pontos": 3.1
     },
     {
       "Rodada": 10,
@@ -56941,6 +56933,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Super Vasco f.c",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.8
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Super Vasco f.c",
       "Nome": "Fernando Seabra",
       "Posição": "Técnico",
       "Clube": "RBB",
@@ -56989,6 +56989,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "A Lenda Super Vasco F.c",
       "Nome": "Oscar",
       "Posição": "Meia",
       "Clube": "SAO",
@@ -57005,10 +57013,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
-      "Clube": "RBB",
-      "Pontos": 11.5
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 8.4
     },
     {
       "Rodada": 10,
@@ -57017,14 +57025,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 4.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "A Lenda Super Vasco F.c",
-      "Nome": "Luciano",
-      "Posição": "Atacante",
-      "Clube": "SAO",
-      "Pontos": 8.4
     },
     {
       "Rodada": 10,
@@ -57053,14 +57053,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Marlon",
       "Posição": "Lateral",
       "Clube": "GRE",
@@ -57069,10 +57061,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
       "Clube": "RBB",
-      "Pontos": 5.7
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -57085,10 +57077,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Jhon Jhon",
-      "Posição": "Meia",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
       "Clube": "RBB",
-      "Pontos": 11.5
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -57101,10 +57093,26 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 11.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Pochettino",
       "Posição": "Meia",
       "Clube": "FOR",
       "Pontos": 3.6
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Lucas Barbosa",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 4.0
     },
     {
       "Rodada": 10,
@@ -57125,14 +57133,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Paulo Virgili FC",
-      "Nome": "Lucas Barbosa",
-      "Posição": "Atacante",
-      "Clube": "RBB",
-      "Pontos": 4.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Paulo Virgili FC",
       "Nome": "Fernando Diniz",
       "Posição": "Técnico",
       "Clube": "VAS",
@@ -57149,6 +57149,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Bernabéi",
       "Posição": "Lateral",
       "Clube": "INT",
@@ -57157,10 +57165,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 5.0
     },
     {
       "Rodada": 10,
@@ -57173,10 +57181,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Léo Ortiz",
-      "Posição": "Zagueiro",
-      "Clube": "FLA",
-      "Pontos": 5.0
+      "Nome": "Ganso",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 5.5
     },
     {
       "Rodada": 10,
@@ -57197,10 +57205,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Ganso",
-      "Posição": "Meia",
-      "Clube": "FLU",
-      "Pontos": 5.5
+      "Nome": "Ricardo Mathias",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 0.5
     },
     {
       "Rodada": 10,
@@ -57221,14 +57229,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "CALOMBO ITAQUI RS",
-      "Nome": "Ricardo Mathias",
-      "Posição": "Atacante",
-      "Clube": "INT",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "CALOMBO ITAQUI RS",
       "Nome": "Thiago Carpini",
       "Posição": "Técnico",
       "Clube": "VIT",
@@ -57245,18 +57245,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Luis lemes inter",
       "Nome": "Reinaldo",
       "Posição": "Lateral",
       "Clube": "MIR",
       "Pontos": 18.3
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -57285,6 +57285,14 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Luis lemes inter",
+      "Nome": "Christian",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Luis lemes inter",
       "Nome": "Arias",
       "Posição": "Meia",
       "Clube": "FLU",
@@ -57293,10 +57301,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Luis lemes inter",
-      "Nome": "Christian",
-      "Posição": "Meia",
-      "Clube": "CRU",
-      "Pontos": 0.1
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 5.0
     },
     {
       "Rodada": 10,
@@ -57313,14 +57321,6 @@ const escalacoesSerieA = {
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 5.1
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Luis lemes inter",
-      "Nome": "Erick Pulga",
-      "Posição": "Atacante",
-      "Clube": "BAH",
-      "Pontos": 5.0
     },
     {
       "Rodada": 10,
@@ -57357,18 +57357,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "emer jr fc",
-      "Nome": "Pedro Henrique",
-      "Posição": "Zagueiro",
-      "Clube": "RBB",
-      "Pontos": 5.7
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "emer jr fc",
       "Nome": "Wagner Leonardo",
       "Posição": "Zagueiro",
       "Clube": "GRE",
       "Pontos": 4.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 5.7
     },
     {
       "Rodada": 10,
@@ -57405,18 +57405,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "emer jr fc",
-      "Nome": "Estêvão",
-      "Posição": "Atacante",
-      "Clube": "PAL",
-      "Pontos": 4.6
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "emer jr fc",
       "Nome": "Eduardo Sasha",
       "Posição": "Atacante",
       "Clube": "RBB",
       "Pontos": 0.8
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": 4.6
     },
     {
       "Rodada": 10,
@@ -57437,18 +57437,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Jamerson",
-      "Posição": "Lateral",
-      "Clube": "VIT",
-      "Pontos": -0.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Juninho Capixaba",
       "Posição": "Lateral",
       "Clube": "RBB",
       "Pontos": 10.0
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Jamerson",
+      "Posição": "Lateral",
+      "Clube": "VIT",
+      "Pontos": -0.3
     },
     {
       "Rodada": 10,
@@ -57469,14 +57469,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Gustavo Scarpa",
-      "Posição": "Meia",
-      "Clube": "CAM",
-      "Pontos": 5.3
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Cril Futebol Club",
       "Nome": "Jhon Jhon",
       "Posição": "Meia",
       "Clube": "RBB",
@@ -57493,10 +57485,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Kaio Jorge",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 5.3
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Cristian Olivera",
       "Posição": "Atacante",
-      "Clube": "CRU",
-      "Pontos": 13.8
+      "Clube": "GRE",
+      "Pontos": 3.0
     },
     {
       "Rodada": 10,
@@ -57509,10 +57509,10 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Cril Futebol Club",
-      "Nome": "Cristian Olivera",
+      "Nome": "Kaio Jorge",
       "Posição": "Atacante",
-      "Clube": "GRE",
-      "Pontos": 3.0
+      "Clube": "CRU",
+      "Pontos": 13.8
     },
     {
       "Rodada": 10,
@@ -57533,18 +57533,18 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Juninho Capixaba",
-      "Posição": "Lateral",
-      "Clube": "RBB",
-      "Pontos": 10.0
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Natanael",
       "Posição": "Lateral",
       "Clube": "CAM",
       "Pontos": 5.9
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 10.0
     },
     {
       "Rodada": 10,
@@ -57565,14 +57565,6 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Oscar",
-      "Posição": "Meia",
-      "Clube": "SAO",
-      "Pontos": 0.5
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Matheuzinho",
       "Posição": "Meia",
       "Clube": "VIT",
@@ -57585,6 +57577,22 @@ const escalacoesSerieA = {
       "Posição": "Meia",
       "Clube": "FLU",
       "Pontos": 3.1
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 10,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Renato Kayzer",
+      "Posição": "Atacante",
+      "Clube": "VIT",
+      "Pontos": 2.9
     },
     {
       "Rodada": 10,
@@ -57605,18 +57613,5772 @@ const escalacoesSerieA = {
     {
       "Rodada": 10,
       "Time Cartola": "Santo Ângelo United",
-      "Nome": "Renato Kayzer",
-      "Posição": "Atacante",
-      "Clube": "VIT",
-      "Pontos": 2.9
-    },
-    {
-      "Rodada": 10,
-      "Time Cartola": "Santo Ângelo United",
       "Nome": "Luis Zubeldía",
       "Posição": "Técnico",
       "Clube": "SAO",
       "Pontos": 1.7
+    }
+  ],
+  "Rodada 11": [
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Matheus Cunha",
+      "Posição": "Goleiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Real SCI",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gig@ntte",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Raniele",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PraiaBravaFC",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Bruno Henrique",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 2.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "OlhaEleAiF.C!",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Diego",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Guilherme",
+      "Posição": "Atacante",
+      "Clube": "SAN",
+      "Pontos": 6.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Gremiomaniasm",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Sport Clube PAIM",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "PUXE FC",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Piquerez",
+      "Posição": "Lateral",
+      "Clube": "PAL",
+      "Pontos": 1.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Fabrício Bruno",
+      "Posição": "Zagueiro",
+      "Clube": "CRU",
+      "Pontos": 1.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Lucas Silva",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 2.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Borré",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RS Expressões da Arte",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "João Ricardo",
+      "Posição": "Goleiro",
+      "Clube": "FOR",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Richard Ríos",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": -0.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Raniele",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Yuri Alberto",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": -0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "ZIVI FC",
+      "Nome": "Thiago Carpini",
+      "Posição": "Técnico",
+      "Clube": "VIT",
+      "Pontos": 6.05
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "O clube do povo Itaqui/Rss",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Jandrei",
+      "Posição": "Goleiro",
+      "Clube": "SAO",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Lucas Ramon",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 9.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Claudinho",
+      "Posição": "Lateral",
+      "Clube": "VIT",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "João Victor",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 8.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "F.C. Rei Das Copas",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Jean Lucas",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Rolo Compressor ZN",
+      "Nome": "Dorival Júnior",
+      "Posição": "Técnico",
+      "Clube": "COR",
+      "Pontos": 5.69
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Marcelo Lomba",
+      "Posição": "Goleiro",
+      "Clube": "PAL",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Lucas Ramon",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 9.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "João Victor",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Taura da Fronteira FCIII",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 6.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Cristaldo",
+      "Posição": "Meia",
+      "Clube": "GRE",
+      "Pontos": 7.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Eleis-Itaqui",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KING LEONN",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Laranjja Mecannica",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Fernando Miguel",
+      "Posição": "Goleiro",
+      "Clube": "CEA",
+      "Pontos": 3.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Fedato Futebol Clube",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Fábio",
+      "Posição": "Goleiro",
+      "Clube": "FLU",
+      "Pontos": 10.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Enzo Díaz",
+      "Posição": "Lateral",
+      "Clube": "SAO",
+      "Pontos": 4.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Arboleda",
+      "Posição": "Zagueiro",
+      "Clube": "SAO",
+      "Pontos": 6.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Pedro Henrique",
+      "Posição": "Zagueiro",
+      "Clube": "RBB",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Oscar",
+      "Posição": "Meia",
+      "Clube": "SAO",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Luciano",
+      "Posição": "Atacante",
+      "Clube": "SAO",
+      "Pontos": 11.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Perronee F.C",
+      "Nome": "Luis Zubeldía",
+      "Posição": "Técnico",
+      "Clube": "SAO",
+      "Pontos": 3.79
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Marcos Felipe",
+      "Posição": "Goleiro",
+      "Clube": "BAH",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Pity10",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Angileri",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Claudinho",
+      "Posição": "Lateral",
+      "Clube": "VIT",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Philippe Coutinho",
+      "Posição": "Meia",
+      "Clube": "VAS",
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pra sempre imortal fc",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "RHANKA DENTY FC25",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Gabriel Brazão",
+      "Posição": "Goleiro",
+      "Clube": "SAN",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TEAM LOPES 99",
+      "Nome": "Dorival Júnior",
+      "Posição": "Técnico",
+      "Clube": "COR",
+      "Pontos": 5.69
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 4.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "pura bucha /botafogo",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "cartola scheuer",
+      "Nome": "Dorival Júnior",
+      "Posição": "Técnico",
+      "Clube": "COR",
+      "Pontos": 5.69
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Lucas Ramon",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 9.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Lyanco",
+      "Posição": "Zagueiro",
+      "Clube": "CAM",
+      "Pontos": 4.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Hulk",
+      "Posição": "Atacante",
+      "Clube": "CAM",
+      "Pontos": 3.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Analove10 ITAQUI GRANDE!!",
+      "Nome": "Dorival Júnior",
+      "Posição": "Técnico",
+      "Clube": "COR",
+      "Pontos": 5.69
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Gabriel Brazão",
+      "Posição": "Goleiro",
+      "Clube": "SAN",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "DM Studio",
+      "Nome": "Dorival Júnior",
+      "Posição": "Técnico",
+      "Clube": "COR",
+      "Pontos": 5.69
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "lsauer fc",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Philippe Coutinho",
+      "Posição": "Meia",
+      "Clube": "VAS",
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "VASCO MARTINS FC",
+      "Nome": "Dorival Júnior",
+      "Posição": "Técnico",
+      "Clube": "COR",
+      "Pontos": 5.69
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "KP JUV.",
+      "Nome": "Rogério Ceni",
+      "Posição": "Técnico",
+      "Clube": "BAH",
+      "Pontos": 6.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Rossi",
+      "Posição": "Goleiro",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Diego",
+      "Posição": "Lateral",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BORGES ITAQUI F.C.",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Gabriel Brazão",
+      "Posição": "Goleiro",
+      "Clube": "SAN",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Zé Rafael",
+      "Posição": "Meia",
+      "Clube": "SAN",
+      "Pontos": 6.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Profit Soccer",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Léo Jardim",
+      "Posição": "Goleiro",
+      "Clube": "VAS",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 20.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tabajara de Inhaua FC2",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TIGRE LEON",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Batalla",
+      "Posição": "Atacante",
+      "Clube": "JUV",
+      "Pontos": 5.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "S.E.R. GRILLO",
+      "Nome": "Roger Machado",
+      "Posição": "Técnico",
+      "Clube": "INT",
+      "Pontos": 3.43
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Lucas Ramon",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 9.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 20.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "seralex",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 8.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "E.C. Bororé",
+      "Nome": "Rogério Ceni",
+      "Posição": "Técnico",
+      "Clube": "BAH",
+      "Pontos": 6.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 8.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Texas Club 2025",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Léo Pereira",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Danielzinho",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Batalla",
+      "Posição": "Atacante",
+      "Clube": "JUV",
+      "Pontos": 5.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MAFRA MARTINS FC",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Marcos Felipe",
+      "Posição": "Goleiro",
+      "Clube": "BAH",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 20.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "BordonFC",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Rochet",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Tatols Beants F.C",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "David Duarte",
+      "Posição": "Zagueiro",
+      "Clube": "BAH",
+      "Pontos": 0.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FIGUEIRA DA ILHA",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Kaiki Bruno",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 14.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 20.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "MauHumor F.C.",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Fernando Miguel",
+      "Posição": "Goleiro",
+      "Clube": "CEA",
+      "Pontos": 3.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vascão f.c",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": -0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "TATITTA FC",
+      "Nome": "Rogério Ceni",
+      "Posição": "Técnico",
+      "Clube": "BAH",
+      "Pontos": 6.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Cássio",
+      "Posição": "Goleiro",
+      "Clube": "CRU",
+      "Pontos": 4.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Kaiki Bruno",
+      "Posição": "Lateral",
+      "Clube": "CRU",
+      "Pontos": 14.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 20.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "HS SPORTS F.C",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Rossi",
+      "Posição": "Goleiro",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Wesley",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "FBC Colorado",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Danielzinho",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Dom Camillo68",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Marcos Felipe",
+      "Posição": "Goleiro",
+      "Clube": "BAH",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Gilberto",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Everton Ribeiro",
+      "Posição": "Meia",
+      "Clube": "BAH",
+      "Pontos": 4.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "mercearia Estrela",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CosmoCity ZO",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Thiago Silva",
+      "Posição": "Zagueiro",
+      "Clube": "FLU",
+      "Pontos": 5.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 4.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Lucas Mugni",
+      "Posição": "Meia",
+      "Clube": "CEA",
+      "Pontos": 1.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Everaldo",
+      "Posição": "Atacante",
+      "Clube": "FLU",
+      "Pontos": 0.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Braithwaite",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 8.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "clarinvalau fc",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Rossi",
+      "Posição": "Goleiro",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Paulo Henrique",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 1.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Danielzinho",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 3.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Grêmio imortal 37",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Lucas Ramon",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 9.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Jemmes",
+      "Posição": "Zagueiro",
+      "Clube": "MIR",
+      "Pontos": 9.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Gustavo Scarpa",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": -0.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Philippe Coutinho",
+      "Posição": "Meia",
+      "Clube": "VAS",
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Eduardo Sasha",
+      "Posição": "Atacante",
+      "Clube": "RBB",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Pedro Raul",
+      "Posição": "Atacante",
+      "Clube": "CEA",
+      "Pontos": 1.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "SERGRILLO",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Rossi",
+      "Posição": "Goleiro",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Varela",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 16.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Super Vasco f.c",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Lucas Piton",
+      "Posição": "Lateral",
+      "Clube": "VAS",
+      "Pontos": 0.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Rubens",
+      "Posição": "Meia",
+      "Clube": "CAM",
+      "Pontos": 5.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Pedro",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 8.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "A Lenda Super Vasco F.c",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Tiago Volpi",
+      "Posição": "Goleiro",
+      "Clube": "GRE",
+      "Pontos": 11.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Wagner Leonardo",
+      "Posição": "Zagueiro",
+      "Clube": "GRE",
+      "Pontos": 6.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Arias",
+      "Posição": "Meia",
+      "Clube": "FLU",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Paulo Virgili FC",
+      "Nome": "Mano Menezes",
+      "Posição": "Técnico",
+      "Clube": "GRE",
+      "Pontos": 10.61
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Alex Sandro",
+      "Posição": "Lateral",
+      "Clube": "FLA",
+      "Pontos": 5.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Gustavo Prado",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 3.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Jhon Jhon",
+      "Posição": "Meia",
+      "Clube": "RBB",
+      "Pontos": 4.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Gilberto",
+      "Posição": "Atacante",
+      "Clube": "JUV",
+      "Pontos": 0.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Estêvão",
+      "Posição": "Atacante",
+      "Clube": "PAL",
+      "Pontos": -0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "CALOMBO ITAQUI RS",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Walter",
+      "Posição": "Goleiro",
+      "Clube": "MIR",
+      "Pontos": 10.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Matheuzinho",
+      "Posição": "Lateral",
+      "Clube": "COR",
+      "Pontos": 8.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "André Ramalho",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Gabriel",
+      "Posição": "Meia",
+      "Clube": "MIR",
+      "Pontos": 1.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Artur",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 9.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Batalla",
+      "Posição": "Atacante",
+      "Clube": "JUV",
+      "Pontos": 5.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Luis lemes inter",
+      "Nome": "Rogério Ceni",
+      "Posição": "Técnico",
+      "Clube": "BAH",
+      "Pontos": 6.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Marlon",
+      "Posição": "Lateral",
+      "Clube": "GRE",
+      "Pontos": 6.5
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Reinaldo",
+      "Posição": "Lateral",
+      "Clube": "MIR",
+      "Pontos": 16.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Maurício",
+      "Posição": "Meia",
+      "Clube": "PAL",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Garro",
+      "Posição": "Meia",
+      "Clube": "COR",
+      "Pontos": 3.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Memphis Depay",
+      "Posição": "Atacante",
+      "Clube": "COR",
+      "Pontos": 2.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Artur",
+      "Posição": "Atacante",
+      "Clube": "BOT",
+      "Pontos": 9.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Cristian Olivera",
+      "Posição": "Atacante",
+      "Clube": "GRE",
+      "Pontos": 13.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "emer jr fc",
+      "Nome": "Rafael Guanaes",
+      "Posição": "Técnico",
+      "Clube": "MIR",
+      "Pontos": 7.26
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Hugo Souza",
+      "Posição": "Goleiro",
+      "Clube": "COR",
+      "Pontos": 7.6
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Escobar",
+      "Posição": "Lateral",
+      "Clube": "SAN",
+      "Pontos": 1.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Juninho Capixaba",
+      "Posição": "Lateral",
+      "Clube": "RBB",
+      "Pontos": 7.2
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Cacá",
+      "Posição": "Zagueiro",
+      "Clube": "COR",
+      "Pontos": 6.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Arrascaeta",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 13.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Erick Pulga",
+      "Posição": "Atacante",
+      "Clube": "BAH",
+      "Pontos": 13.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Luiz Araújo",
+      "Posição": "Atacante",
+      "Clube": "FLA",
+      "Pontos": 20.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Cril Futebol Club",
+      "Nome": "Filipe Luís",
+      "Posição": "Técnico",
+      "Clube": "FLA",
+      "Pontos": 12.32
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Anthoni",
+      "Posição": "Goleiro",
+      "Clube": "INT",
+      "Pontos": -0.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Aguirre",
+      "Posição": "Lateral",
+      "Clube": "INT",
+      "Pontos": 3.0
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Luciano Juba",
+      "Posição": "Lateral",
+      "Clube": "BAH",
+      "Pontos": 4.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Vitão",
+      "Posição": "Zagueiro",
+      "Clube": "INT",
+      "Pontos": 2.4
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Léo Ortiz",
+      "Posição": "Zagueiro",
+      "Clube": "FLA",
+      "Pontos": 13.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Matheus Pereira",
+      "Posição": "Meia",
+      "Clube": "CRU",
+      "Pontos": 4.7
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Alan Patrick",
+      "Posição": "Meia",
+      "Clube": "INT",
+      "Pontos": 0.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Gerson",
+      "Posição": "Meia",
+      "Clube": "FLA",
+      "Pontos": 2.9
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Kaio Jorge",
+      "Posição": "Atacante",
+      "Clube": "CRU",
+      "Pontos": 19.3
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Vegetti",
+      "Posição": "Atacante",
+      "Clube": "VAS",
+      "Pontos": 5.1
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Wesley",
+      "Posição": "Atacante",
+      "Clube": "INT",
+      "Pontos": 2.8
+    },
+    {
+      "Rodada": 11,
+      "Time Cartola": "Santo Ângelo United",
+      "Nome": "Cláudio Tencati",
+      "Posição": "Técnico",
+      "Clube": "JUV",
+      "Pontos": 3.97
     }
   ]
 };
