@@ -27,19 +27,19 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Pedro Henrique",
     "Posição": "Zagueiro",
     "Clube": "RBB",
-    "Quantidade": 42
+    "Quantidade": 47
   },
   {
-    "Nome": "Ignácio",
+    "Nome": "Arboleda",
     "Posição": "Zagueiro",
-    "Clube": "FLU",
-    "Quantidade": 32
+    "Clube": "SAO",
+    "Quantidade": 42
   },
   {
     "Nome": "Junior Alonso",
     "Posição": "Zagueiro",
     "Clube": "CAM",
-    "Quantidade": 31
+    "Quantidade": 33
   },
   {
     "Nome": "Juninho Capixaba",
@@ -87,13 +87,13 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Jhon Jhon",
     "Posição": "Meia",
     "Clube": "RBB",
-    "Quantidade": 59
+    "Quantidade": 75
   },
   {
     "Nome": "Rubens",
     "Posição": "Meia",
     "Clube": "CAM",
-    "Quantidade": 53
+    "Quantidade": 63
   },
   {
     "Nome": "Yuri Alberto",
@@ -105,24 +105,24 @@ const jogadoresMaisEscaladosPorPosicao = [
     "Nome": "Hulk",
     "Posição": "Atacante",
     "Clube": "CAM",
+    "Quantidade": 100
+  },
+  {
+    "Nome": "Kaio Jorge",
+    "Posição": "Atacante",
+    "Clube": "CRU",
     "Quantidade": 70
   },
   {
     "Nome": "Vegetti",
     "Posição": "Atacante",
     "Clube": "VAS",
-    "Quantidade": 64
+    "Quantidade": 66
   },
   {
     "Nome": "Wesley",
     "Posição": "Atacante",
     "Clube": "INT",
-    "Quantidade": 59
-  },
-  {
-    "Nome": "Igor Jesus",
-    "Posição": "Atacante",
-    "Clube": "BOT",
-    "Quantidade": 55
+    "Quantidade": 60
   }
 ];
