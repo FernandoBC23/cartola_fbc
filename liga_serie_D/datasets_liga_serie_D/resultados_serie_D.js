@@ -1444,11 +1444,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "TIGRE LEON",
-      "pontos": null
+      "pontos": 113.669921875
     },
     "visitante": {
       "nome": "FC Los Castilho",
-      "pontos": null
+      "pontos": 120.009765625
     }
   },
   {
@@ -1456,11 +1456,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "pura bucha /botafogo",
-      "pontos": null
+      "pontos": 106.2099609375
     },
     "visitante": {
       "nome": "Tatols Beants F.C",
-      "pontos": null
+      "pontos": 79.41015625
     }
   },
   {
@@ -1468,11 +1468,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 111.91015625
     },
     "visitante": {
       "nome": "pra sempre imortal fc",
-      "pontos": null
+      "pontos": 76.7099609375
     }
   },
   {
@@ -1480,11 +1480,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "TATITTA FC",
-      "pontos": null
+      "pontos": 93.14990234375
     },
     "visitante": {
       "nome": "seralex",
-      "pontos": null
+      "pontos": 121.0400390625
     }
   },
   {
@@ -1492,11 +1492,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 117.10986328125
     },
     "visitante": {
       "nome": "VASCO MARTINS FC",
-      "pontos": null
+      "pontos": 70.68994140625
     }
   },
   {
@@ -1504,11 +1504,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "JV5 Tricolor Gaúcho",
-      "pontos": null
+      "pontos": 128.5400390625
     },
     "visitante": {
       "nome": "FC castelo Branco 2",
-      "pontos": null
+      "pontos": 80.509765625
     }
   },
   {
@@ -1516,11 +1516,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "RHANKA DENTY FC25",
-      "pontos": null
+      "pontos": 111.2099609375
     },
     "visitante": {
       "nome": "FIGUEIRA DA ILHA",
-      "pontos": null
+      "pontos": 119.41015625
     }
   },
   {
@@ -1528,11 +1528,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "Noah A 10",
-      "pontos": null
+      "pontos": 106.81005859375
     },
     "visitante": {
       "nome": "Santo Ângelo United",
-      "pontos": null
+      "pontos": 98.31005859375
     }
   },
   {
@@ -1540,11 +1540,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "MauHumor F.C.",
-      "pontos": null
+      "pontos": 117.47021484375
     },
     "visitante": {
       "nome": "A Lenda Super Vasco F.c",
-      "pontos": null
+      "pontos": 111.91015625
     }
   },
   {
@@ -1552,11 +1552,11 @@ const resultadosFase1 = [
     "rodada": 13,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
+      "pontos": 133.4404296875
     },
     "visitante": {
       "nome": "Fedato Futebol Clube",
-      "pontos": null
+      "pontos": 107.64990234375
     }
   }
 ];
