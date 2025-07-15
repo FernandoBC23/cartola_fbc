@@ -1,10 +1,10 @@
-// scripts/fase3_liberta.js 
+// scripts/fase2_liberta.js 
 
 window.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('loaded');
 
   let rodadaAtual = (() => {
-    const rodadasComPontuacao = resultadosFase3
+    const rodadasComPontuacao = resultados_oitavas_sula
       .filter(r => r.mandante?.pontos != null && r.visitante?.pontos != null)
       .map(r => r.rodada);
     return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 13;
@@ -12,7 +12,7 @@ window.addEventListener('DOMContentLoaded', () => {
   
   const RODADA_MAXIMA = 14;
 
-  const painelGrupos = document.getElementById("painel-fase3");
+  const painelGrupos = document.getElementById("painel-sula-oitavas");
 
   const gerarNomeArquivo = nome => {
     return nome
@@ -22,8 +22,8 @@ window.addEventListener('DOMContentLoaded', () => {
       .toLowerCase();
   };
 
-  // ⚠️ Atualize estes dois objetos se houver mudanças na Fase 3
-    const escudosTimes = {
+
+  const escudosTimes = {
     "Dom Camillo68": "../imagens/2_dom_camillo68.png",  
     "lsauer fc": "../imagens/2_lsauer_fc.png", 
     "Analove10 ITAQUI GRANDE!!":"../imagens/2_analove10_itaqui_grande.png", 
@@ -45,7 +45,7 @@ window.addEventListener('DOMContentLoaded', () => {
     "KillerColorado": "../imagens/2_killercolorado.png",   
   };
 
-   const clubesTimes = {
+  const clubesTimes = {
     "Dom Camillo68": "UCH",   
     "lsauer fc": "BSC",
     "Analove10 ITAQUI GRANDE!!": "CCO",
@@ -65,13 +65,14 @@ window.addEventListener('DOMContentLoaded', () => {
     "Gremiomaniasm": "ATL",
     "Gig@ntte": "SAB",
     "KillerColorado": "SCR",
-  };
+  }; 
+
 
   function renderPainelCompleto(numeroRodada) {
     painelGrupos.innerHTML = "";
 
-    const confrontosRodada = confrontosFase3.filter(j => j.rodada === numeroRodada);
-    const resultadosRodada = resultadosFase3.filter(j => j.rodada === numeroRodada);
+    const confrontosRodada = confrontos_oitavas_sula.filter(j => j.rodada === numeroRodada);
+    const resultadosRodada = resultados_oitavas_sula.filter(j => j.rodada === numeroRodada);
 
     const confrontosPorGrupo = {};
     confrontosRodada.forEach(jogo => {
@@ -80,8 +81,7 @@ window.addEventListener('DOMContentLoaded', () => {
     confrontosPorGrupo[grupo].push(jogo);
     });
 
-
-    Object.entries(classificacaoFase3).forEach(([grupo, times]) => {
+    Object.entries(classificacaoFaseOitavas).forEach(([grupo, times]) => {
       const linha = document.createElement("div");
       linha.className = "linha-grupo";
 
@@ -157,13 +157,16 @@ window.addEventListener('DOMContentLoaded', () => {
 
           const time1 = document.createElement("div");
           time1.className = "time";
+          // time1.innerHTML = `<img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">`;
           time1.innerHTML = `
             <img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">
             <span class="tag-escudo">${clubesTimes[jogo.mandante.nome] ?? ""}</span>
           `;
 
+
           const time2 = document.createElement("div");
           time2.className = "time";
+          // time2.innerHTML = `<img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">`;
           time2.innerHTML = `
             <span class="tag-escudo">${clubesTimes[jogo.visitante.nome] ?? ""}</span>
             <img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">            
@@ -177,6 +180,10 @@ window.addEventListener('DOMContentLoaded', () => {
           const p1 = resultado?.mandante?.pontos?.toFixed(2) ?? "?";
           const p2 = resultado?.visitante?.pontos?.toFixed(2) ?? "?";
 
+          // const placar = document.createElement("div");
+          // placar.className = "placar";
+          // placar.textContent = `${p1} × ${p2}`;
+
           const placar = document.createElement("div");
           placar.className = "placar";
           placar.innerHTML = `
@@ -184,6 +191,7 @@ window.addEventListener('DOMContentLoaded', () => {
             <span class="placar-x"> X </span> 
             <span class="placar-numero">${p2}</span>
           `;
+          
 
           const resultadoDiv = document.createElement("div");
           resultadoDiv.className = "resultado";
@@ -195,7 +203,7 @@ window.addEventListener('DOMContentLoaded', () => {
             span.style.backgroundColor = "#ffc107";
             span.style.color = "#000";
           } else if (resultado.mandante.pontos > resultado.visitante.pontos) {
-            span.textContent = `✅ ${resultado.mandante.nome} venceu`;
+          span.textContent = `✅ ${resultado.mandante.nome} venceu`;
           } else if (resultado.mandante.pontos < resultado.visitante.pontos) {
             span.textContent = `✅ ${resultado.visitante.nome} venceu`;
           } else {
@@ -211,6 +219,7 @@ window.addEventListener('DOMContentLoaded', () => {
           grupoConfrontos.appendChild(resultadoDiv);
         });
 
+        // 🔽 Adiciona separador após os confrontos do grupo
         const separador = document.createElement("div");
         separador.className = "separador-grupo";
         grupoConfrontos.appendChild(separador);
@@ -219,7 +228,10 @@ window.addEventListener('DOMContentLoaded', () => {
       }
 
       const navegacaoRodadaGrupo = criarNavegacaoRodadaGrupo(grupo, numeroRodada);
+      console.log("Adicionando navegação para grupo:", grupo);
+
       colunaDireita.appendChild(navegacaoRodadaGrupo);
+
 
       linha.appendChild(colunaEsquerda);
       linha.appendChild(colunaDireita);
@@ -242,7 +254,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const btnAnterior = document.createElement("button");
     btnAnterior.textContent = "◀️ Rodada Anterior";
     btnAnterior.addEventListener("click", () => {
-      if (rodadaAtual > 13) atualizarRodada(rodadaAtual - 1);
+      if (rodadaAtual > 7) atualizarRodada(rodadaAtual - 1);
     });
   
     const titulo = document.createElement("div");
@@ -265,6 +277,10 @@ window.addEventListener('DOMContentLoaded', () => {
     container.appendChild(navegacao);
     return container;
   }
-
+  
+  // inicia com a rodada atual
   atualizarRodada(rodadaAtual);
+  
 });
+
+

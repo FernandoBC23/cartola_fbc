@@ -1,7 +1,7 @@
 const confrontos_oitavas_sula = [
   {
     "jogo": "Jogo A",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 528730,
       "nome": "Gremiomaniasm"
@@ -13,7 +13,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo B",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 3914981,
       "nome": "BORGES ITAQUI F.C."
@@ -25,7 +25,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo C",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 212042,
       "nome": "Tatols Beants F.C"
@@ -37,7 +37,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo D",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 24468241,
       "nome": "Grêmio imortal 37"
@@ -49,7 +49,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo E",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 159074,
       "nome": "F.C. Rei Das Copas"
@@ -61,7 +61,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo F",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 17887202,
       "nome": "HS SPORTS F.C"
@@ -73,7 +73,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo G",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 25311459,
       "nome": "FC Los Castilho"
@@ -85,7 +85,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo H",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "id": 6148913,
       "nome": "E.C. Bororé"
@@ -97,7 +97,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo A",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 18421230,
       "nome": "Gig@ntte"
@@ -109,7 +109,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo B",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 13951133,
       "nome": "KING LEONN"
@@ -121,7 +121,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo C",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 18344271,
       "nome": "Laranjja Mecannica"
@@ -133,7 +133,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo D",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 20696550,
       "nome": "Dom Camillo68"
@@ -145,7 +145,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo E",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 25751748,
       "nome": "MauHumor F.C."
@@ -157,7 +157,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo F",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 479510,
       "nome": "TEAM LOPES 99"
@@ -169,7 +169,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo G",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 47543456,
       "nome": "Tabajara de Inhaua FC2"
@@ -181,7 +181,7 @@ const confrontos_oitavas_sula = [
   },
   {
     "jogo": "Jogo H",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "id": 44810918,
       "nome": "lsauer fc"

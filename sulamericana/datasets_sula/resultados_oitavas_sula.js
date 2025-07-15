@@ -1,210 +1,210 @@
 const resultados_oitavas_sula = [
   {
     "jogo": "Jogo A",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "Gremiomaniasm",
-      "pontos": 69.2998046875
+      "pontos": 67.91015625
     },
     "visitante": {
       "nome": "Gig@ntte",
-      "pontos": 44.4599609375
+      "pontos": 116.91015625
     },
-    "vencedor": "mandante"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo B",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
-      "pontos": 66.60009765625
+      "pontos": 105.91015625
     },
     "visitante": {
       "nome": "KING LEONN",
-      "pontos": 71.2099609375
+      "pontos": 114.759765625
     },
     "vencedor": "visitante"
   },
   {
     "jogo": "Jogo C",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "Tatols Beants F.C",
-      "pontos": 50.10009765625
+      "pontos": 79.41015625
     },
     "visitante": {
       "nome": "Laranjja Mecannica",
-      "pontos": 54.090087890625
+      "pontos": 121.009765625
     },
     "vencedor": "visitante"
   },
   {
     "jogo": "Jogo D",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "Grêmio imortal 37",
-      "pontos": 65.85986328125
+      "pontos": 133.0498046875
     },
     "visitante": {
       "nome": "Dom Camillo68",
-      "pontos": 40.739990234375
+      "pontos": 108.22021484375
     },
     "vencedor": "mandante"
   },
   {
     "jogo": "Jogo E",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "F.C. Rei Das Copas",
-      "pontos": 48.9599609375
+      "pontos": 64.39990234375
     },
     "visitante": {
       "nome": "MauHumor F.C.",
-      "pontos": 56.4599609375
+      "pontos": 117.47021484375
     },
     "vencedor": "visitante"
   },
   {
     "jogo": "Jogo F",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "HS SPORTS F.C",
-      "pontos": 55.760009765625
+      "pontos": 113.509765625
     },
     "visitante": {
       "nome": "TEAM LOPES 99",
-      "pontos": 59.47998046875
+      "pontos": 120.8701171875
     },
     "vencedor": "visitante"
   },
   {
     "jogo": "Jogo G",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "FC Los Castilho",
-      "pontos": 69.66015625
+      "pontos": 120.009765625
     },
     "visitante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": 63.56005859375
+      "pontos": 133.4404296875
     },
-    "vencedor": "mandante"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo H",
-    "rodada": 12,
+    "rodada": 13,
     "mandante": {
       "nome": "E.C. Bororé",
-      "pontos": 66.9599609375
+      "pontos": 117.509765625
     },
     "visitante": {
       "nome": "lsauer fc",
-      "pontos": 65.81005859375
+      "pontos": 117.10986328125
     },
     "vencedor": "mandante"
   },
   {
     "jogo": "Jogo A",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "Gig@ntte",
-      "pontos": 44.4599609375
+      "pontos": null
     },
     "visitante": {
       "nome": "Gremiomaniasm",
-      "pontos": 69.2998046875
+      "pontos": null
     },
-    "vencedor": "visitante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo B",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "KING LEONN",
-      "pontos": 71.2099609375
+      "pontos": null
     },
     "visitante": {
       "nome": "BORGES ITAQUI F.C.",
-      "pontos": 66.60009765625
+      "pontos": null
     },
-    "vencedor": "mandante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo C",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "Laranjja Mecannica",
-      "pontos": 54.090087890625
+      "pontos": null
     },
     "visitante": {
       "nome": "Tatols Beants F.C",
-      "pontos": 50.10009765625
+      "pontos": null
     },
-    "vencedor": "mandante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo D",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "Dom Camillo68",
-      "pontos": 40.739990234375
+      "pontos": null
     },
     "visitante": {
       "nome": "Grêmio imortal 37",
-      "pontos": 65.85986328125
+      "pontos": null
     },
-    "vencedor": "visitante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo E",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "MauHumor F.C.",
-      "pontos": 56.4599609375
+      "pontos": null
     },
     "visitante": {
       "nome": "F.C. Rei Das Copas",
-      "pontos": 48.9599609375
+      "pontos": null
     },
-    "vencedor": "mandante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo F",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "TEAM LOPES 99",
-      "pontos": 59.47998046875
+      "pontos": null
     },
     "visitante": {
       "nome": "HS SPORTS F.C",
-      "pontos": 55.760009765625
+      "pontos": null
     },
-    "vencedor": "mandante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo G",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": 63.56005859375
+      "pontos": null
     },
     "visitante": {
       "nome": "FC Los Castilho",
-      "pontos": 69.66015625
+      "pontos": null
     },
-    "vencedor": "visitante"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo H",
-    "rodada": 13,
+    "rodada": 14,
     "mandante": {
       "nome": "lsauer fc",
-      "pontos": 65.81005859375
+      "pontos": null
     },
     "visitante": {
       "nome": "E.C. Bororé",
-      "pontos": 66.9599609375
+      "pontos": null
     },
-    "vencedor": "visitante"
+    "vencedor": "indefinido"
   }
 ];
