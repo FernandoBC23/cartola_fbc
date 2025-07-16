@@ -190,8 +190,7 @@ window.addEventListener('DOMContentLoaded', () => {
             <span class="placar-numero">${p1}</span> 
             <span class="placar-x"> X </span> 
             <span class="placar-numero">${p2}</span>
-          `;
-          
+          `;          
 
           const resultadoDiv = document.createElement("div");
           resultadoDiv.className = "resultado";
@@ -203,7 +202,7 @@ window.addEventListener('DOMContentLoaded', () => {
             span.style.backgroundColor = "#ffc107";
             span.style.color = "#000";
           } else if (resultado.mandante.pontos > resultado.visitante.pontos) {
-          span.textContent = `✅ ${resultado.mandante.nome} venceu`;
+            span.textContent = `✅ ${resultado.mandante.nome} venceu`;
           } else if (resultado.mandante.pontos < resultado.visitante.pontos) {
             span.textContent = `✅ ${resultado.visitante.nome} venceu`;
           } else {

@@ -56,51 +56,51 @@ const resultadosFase3 = [
     "rodada": 14,
     "mandante": {
       "nome": "pura bucha /botafogo",
-      "pontos": 0.0
+      "pontos": null
     },
     "visitante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": 0.0
+      "pontos": null
     },
-    "vencedor": "empate"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo 2",
     "rodada": 14,
     "mandante": {
       "nome": "Super Vasco f.c",
-      "pontos": 0.0
+      "pontos": null
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": 0.0
+      "pontos": null
     },
-    "vencedor": "empate"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo 3",
     "rodada": 14,
     "mandante": {
       "nome": "KillerColorado",
-      "pontos": 0.0
+      "pontos": null
     },
     "visitante": {
       "nome": "Real SCI",
-      "pontos": 0.0
+      "pontos": null
     },
-    "vencedor": "empate"
+    "vencedor": "indefinido"
   },
   {
     "jogo": "Jogo 4",
     "rodada": 14,
     "mandante": {
       "nome": "Lá do Itaqui",
-      "pontos": 0.0
+      "pontos": null
     },
     "visitante": {
       "nome": "TORRESMO COM PINGA",
-      "pontos": 0.0
+      "pontos": null
     },
-    "vencedor": "empate"
+    "vencedor": "indefinido"
   }
 ];

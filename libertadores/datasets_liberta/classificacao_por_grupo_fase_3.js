@@ -7,9 +7,9 @@ const classificacaoFase3 = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 1216.37109375,
+      "totalCartola": 118.740234375,
       "cartolaSofrido": 106.2099609375,
-      "saldoCartola": 1110.1611328125
+      "saldoCartola": 12.5302734375
     },
     {
       "posicao": 2,
@@ -18,9 +18,9 @@ const classificacaoFase3 = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 1044.509765625,
+      "totalCartola": 106.2099609375,
       "cartolaSofrido": 118.740234375,
-      "saldoCartola": 925.76953125
+      "saldoCartola": -12.5302734375
     }
   ],
   "Jogo 2": [
@@ -31,9 +31,9 @@ const classificacaoFase3 = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 1158.7392578125,
+      "totalCartola": 111.91015625,
       "cartolaSofrido": 93.509765625,
-      "saldoCartola": 1065.2294921875
+      "saldoCartola": 18.400390625
     },
     {
       "posicao": 2,
@@ -42,9 +42,9 @@ const classificacaoFase3 = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 1155.5400390625,
+      "totalCartola": 93.509765625,
       "cartolaSofrido": 111.91015625,
-      "saldoCartola": 1043.6298828125
+      "saldoCartola": -18.400390625
     }
   ],
   "Jogo 3": [
@@ -55,9 +55,9 @@ const classificacaoFase3 = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 1022.77978515625,
+      "totalCartola": 111.10986328125,
       "cartolaSofrido": 103.81005859375,
-      "saldoCartola": 918.9697265625
+      "saldoCartola": 7.2998046875
     },
     {
       "posicao": 2,
@@ -66,9 +66,9 @@ const classificacaoFase3 = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 1163.760009765625,
+      "totalCartola": 103.81005859375,
       "cartolaSofrido": 111.10986328125,
-      "saldoCartola": 1052.650146484375
+      "saldoCartola": -7.2998046875
     }
   ],
   "Jogo 4": [
@@ -79,9 +79,9 @@ const classificacaoFase3 = {
       "vitorias": 1,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 1060.8204345703125,
+      "totalCartola": 120.25,
       "cartolaSofrido": 111.2099609375,
-      "saldoCartola": 949.6104736328125
+      "saldoCartola": 9.0400390625
     },
     {
       "posicao": 2,
@@ -90,9 +90,9 @@ const classificacaoFase3 = {
       "vitorias": 0,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 1155.240234375,
+      "totalCartola": 111.2099609375,
       "cartolaSofrido": 120.25,
-      "saldoCartola": 1034.990234375
+      "saldoCartola": -9.0400390625
     }
   ]
 };
