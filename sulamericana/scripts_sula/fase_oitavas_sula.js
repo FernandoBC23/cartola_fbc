@@ -26,45 +26,48 @@ window.addEventListener('DOMContentLoaded', () => {
   const escudosTimes = {
     "Dom Camillo68": "../imagens/2_dom_camillo68.png",  
     "lsauer fc": "../imagens/2_lsauer_fc.png", 
-    "Analove10 ITAQUI GRANDE!!":"../imagens/2_analove10_itaqui_grande.png", 
-    "Super Vasco f.c": "../imagens/2_super_vasco_fc.png",
-
-    "Tabajara de Inhaua FC2": "../imagens/2_tabajara_de_inhaua_fc2.png", 
-    "pura bucha /botafogo": "../imagens/2_pura_bucha_botafogo.png",
-    "Texas Club 2025": "../imagens/2_texas_club_2025.png",
+    "Tabajara de Inhaua FC2": "../imagens/2_tabajara_de_inhaua_fc2.png",
     "TEAM LOPES 99": "../imagens/2_team_lopes_99.png",
-
-    "Real SCI": "../imagens/2_real_sci.png",
-    "Lá do Itaqui": "../imagens/2_la_do_itaqui.png",
     "KING LEONN": "../imagens/2_king_leonn.png",
     "Laranjja Mecannica": "../imagens/2_laranjja_mecannica.png",
-
-    "TORRESMO COM PINGA": "../imagens/2_torresmo_com_pinga.png",
     "Gremiomaniasm": "../imagens/2_gremiomaniasm.png",  
-    "Gig@ntte": "../imagens/2_gigntte.png",  
-    "KillerColorado": "../imagens/2_killercolorado.png",   
+    "Gig@ntte": "../imagens/2_gigntte.png", 
+    "BORGES ITAQUI F.C.": "../imagens/2_borges_itaqui_fc.png",
+    "Tatols Beants F.C": "../imagens/2_tatols_beants_fc.png",
+    "Grêmio imortal 37": "../imagens/2_gremio_imortal_37.png",
+    "MauHumor F.C.": "../imagens/2_mauhumor_fc.png",
+    "F.C. Rei Das Copas": "../imagens/2_fc_rei_das_copas.png",
+    "HS SPORTS F.C": "../imagens/2_hs_sports_fc.png",
+    "FC Los Castilho": "../imagens/2_fc_los_castilho.png",
+    "E.C. Bororé": "../imagens/2_ec_borore.png"
   };
 
   const clubesTimes = {
     "Dom Camillo68": "UCH",   
     "lsauer fc": "BSC",
-    "Analove10 ITAQUI GRANDE!!": "CCO",
-    "Super Vasco f.c": "LIB", 
-
+    "BORGES ITAQUI F.C.": "EST",
+    "Tatols Beants F.C": "TAL",
+    "Grêmio imortal 37": "TAC",
+    "MauHumor F.C.": "OLI",
+    "F.C. Rei Das Copas": "CCP",
+    "HS SPORTS F.C": "RIV",
+    "FC Los Castilho": "NAC",
+    "E.C. Bororé": "FOR",
     "Tabajara de Inhaua FC2": "IDV",
-    "pura bucha /botafogo": "BOT",
-    "Texas Club 2025": "SAO",
-    "TEAM LOPES 99": "FLA", 
-
-    "Real SCI": "RAC",
-    "Lá do Itaqui": "INT",
+    "TEAM LOPES 99": "FLA",
     "KING LEONN": "PAL",
-    "Laranjja Mecannica": "PEN",    
-
-    "TORRESMO COM PINGA": "BAH",
+    "Laranjja Mecannica": "PEN",     
     "Gremiomaniasm": "ATL",
     "Gig@ntte": "SAB",
-    "KillerColorado": "SCR",
+
+    // "KillerColorado": "SCR",
+    // "Analove10 ITAQUI GRANDE!!": "CCO",
+    // "Super Vasco f.c": "LIB", 
+    // "pura bucha /botafogo": "BOT",
+    // "Texas Club 2025": "SAO",    
+    // "Real SCI": "RAC",
+    // "Lá do Itaqui": "INT",
+    // "TORRESMO COM PINGA": "BAH",
   }; 
 
 
