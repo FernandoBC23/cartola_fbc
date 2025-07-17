@@ -1,0 +1,1 @@
+const confrontosFase4 = [];
