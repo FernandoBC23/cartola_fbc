@@ -1,6 +1,6 @@
 const resultados_oitavas_sula = [
   {
-    "jogo": "Jogo A",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 13,
     "mandante": {
       "nome": "Gremiomaniasm",
@@ -13,7 +13,7 @@ const resultados_oitavas_sula = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo B",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 13,
     "mandante": {
       "nome": "BORGES ITAQUI F.C.",
@@ -26,7 +26,7 @@ const resultados_oitavas_sula = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo C",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 13,
     "mandante": {
       "nome": "Tatols Beants F.C",
@@ -39,7 +39,7 @@ const resultados_oitavas_sula = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo D",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 13,
     "mandante": {
       "nome": "Grêmio imortal 37",
@@ -52,7 +52,7 @@ const resultados_oitavas_sula = [
     "vencedor": "mandante"
   },
   {
-    "jogo": "Jogo E",
+    "jogo": "Jogo 5 (JG5)",
     "rodada": 13,
     "mandante": {
       "nome": "F.C. Rei Das Copas",
@@ -65,7 +65,7 @@ const resultados_oitavas_sula = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo F",
+    "jogo": "Jogo 6 (JG6)",
     "rodada": 13,
     "mandante": {
       "nome": "HS SPORTS F.C",
@@ -78,7 +78,7 @@ const resultados_oitavas_sula = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo G",
+    "jogo": "Jogo 7 (JG7)",
     "rodada": 13,
     "mandante": {
       "nome": "FC Los Castilho",
@@ -91,7 +91,7 @@ const resultados_oitavas_sula = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo H",
+    "jogo": "Jogo 8 (JG8)",
     "rodada": 13,
     "mandante": {
       "nome": "E.C. Bororé",
@@ -104,7 +104,7 @@ const resultados_oitavas_sula = [
     "vencedor": "mandante"
   },
   {
-    "jogo": "Jogo A",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 14,
     "mandante": {
       "nome": "Gig@ntte",
@@ -117,7 +117,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo B",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 14,
     "mandante": {
       "nome": "KING LEONN",
@@ -130,7 +130,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo C",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 14,
     "mandante": {
       "nome": "Laranjja Mecannica",
@@ -143,7 +143,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo D",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 14,
     "mandante": {
       "nome": "Dom Camillo68",
@@ -156,7 +156,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo E",
+    "jogo": "Jogo 5 (JG5)",
     "rodada": 14,
     "mandante": {
       "nome": "MauHumor F.C.",
@@ -169,7 +169,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo F",
+    "jogo": "Jogo 6 (JG6)",
     "rodada": 14,
     "mandante": {
       "nome": "TEAM LOPES 99",
@@ -182,7 +182,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo G",
+    "jogo": "Jogo 7 (JG7)",
     "rodada": 14,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
@@ -195,7 +195,7 @@ const resultados_oitavas_sula = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo H",
+    "jogo": "Jogo 8 (JG8)",
     "rodada": 14,
     "mandante": {
       "nome": "lsauer fc",

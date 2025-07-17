@@ -1,5 +1,5 @@
 const classificacaoFase3 = {
-  "Jogo 1": [
+  "Jogo 1 (JG1)": [
     {
       "posicao": 1,
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -23,7 +23,7 @@ const classificacaoFase3 = {
       "saldoCartola": -12.5302734375
     }
   ],
-  "Jogo 2": [
+  "Jogo 2 (JG2)": [
     {
       "posicao": 1,
       "nome": "Texas Club 2025",
@@ -47,7 +47,7 @@ const classificacaoFase3 = {
       "saldoCartola": -18.400390625
     }
   ],
-  "Jogo 3": [
+  "Jogo 3 (JG3)": [
     {
       "posicao": 1,
       "nome": "KillerColorado",
@@ -71,7 +71,7 @@ const classificacaoFase3 = {
       "saldoCartola": -7.2998046875
     }
   ],
-  "Jogo 4": [
+  "Jogo 4 (JG4)": [
     {
       "posicao": 1,
       "nome": "Lá do Itaqui",

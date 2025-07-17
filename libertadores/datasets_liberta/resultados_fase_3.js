@@ -1,6 +1,6 @@
 const resultadosFase3 = [
   {
-    "jogo": "Jogo 1",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 13,
     "mandante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
@@ -13,7 +13,7 @@ const resultadosFase3 = [
     "vencedor": "mandante"
   },
   {
-    "jogo": "Jogo 2",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 13,
     "mandante": {
       "nome": "Texas Club 2025",
@@ -26,7 +26,7 @@ const resultadosFase3 = [
     "vencedor": "mandante"
   },
   {
-    "jogo": "Jogo 3",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 13,
     "mandante": {
       "nome": "Real SCI",
@@ -39,7 +39,7 @@ const resultadosFase3 = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo 4",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 13,
     "mandante": {
       "nome": "TORRESMO COM PINGA",
@@ -52,7 +52,7 @@ const resultadosFase3 = [
     "vencedor": "visitante"
   },
   {
-    "jogo": "Jogo 1",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 14,
     "mandante": {
       "nome": "pura bucha /botafogo",
@@ -65,7 +65,7 @@ const resultadosFase3 = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo 2",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 14,
     "mandante": {
       "nome": "Super Vasco f.c",
@@ -78,7 +78,7 @@ const resultadosFase3 = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo 3",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 14,
     "mandante": {
       "nome": "KillerColorado",
@@ -91,7 +91,7 @@ const resultadosFase3 = [
     "vencedor": "indefinido"
   },
   {
-    "jogo": "Jogo 4",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 14,
     "mandante": {
       "nome": "Lá do Itaqui",

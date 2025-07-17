@@ -1,4 +1,4 @@
-// scripts/fase2_liberta.js 
+// scripts/fase_oitavas_sula.js 
 
 window.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('loaded');
@@ -58,16 +58,7 @@ window.addEventListener('DOMContentLoaded', () => {
     "KING LEONN": "PAL",
     "Laranjja Mecannica": "PEN",     
     "Gremiomaniasm": "ATL",
-    "Gig@ntte": "SAB",
-
-    // "KillerColorado": "SCR",
-    // "Analove10 ITAQUI GRANDE!!": "CCO",
-    // "Super Vasco f.c": "LIB", 
-    // "pura bucha /botafogo": "BOT",
-    // "Texas Club 2025": "SAO",    
-    // "Real SCI": "RAC",
-    // "Lá do Itaqui": "INT",
-    // "TORRESMO COM PINGA": "BAH",
+    "Gig@ntte": "SAB"
   }; 
 
 
@@ -159,17 +150,14 @@ window.addEventListener('DOMContentLoaded', () => {
           const escudoSrc = nome => `../imagens/2_${gerarNomeArquivo(nome)}.png`;
 
           const time1 = document.createElement("div");
-          time1.className = "time";
-          // time1.innerHTML = `<img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">`;
+          time1.className = "time";          
           time1.innerHTML = `
             <img src="${escudoSrc(jogo.mandante.nome)}" alt="${jogo.mandante.nome}">
             <span class="tag-escudo">${clubesTimes[jogo.mandante.nome] ?? ""}</span>
           `;
 
-
           const time2 = document.createElement("div");
-          time2.className = "time";
-          // time2.innerHTML = `<img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">`;
+          time2.className = "time";          
           time2.innerHTML = `
             <span class="tag-escudo">${clubesTimes[jogo.visitante.nome] ?? ""}</span>
             <img src="${escudoSrc(jogo.visitante.nome)}" alt="${jogo.visitante.nome}">            
@@ -256,7 +244,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const btnAnterior = document.createElement("button");
     btnAnterior.textContent = "◀️ Rodada Anterior";
     btnAnterior.addEventListener("click", () => {
-      if (rodadaAtual > 7) atualizarRodada(rodadaAtual - 1);
+      if (rodadaAtual > 13) atualizarRodada(rodadaAtual - 1);
     });
   
     const titulo = document.createElement("div");

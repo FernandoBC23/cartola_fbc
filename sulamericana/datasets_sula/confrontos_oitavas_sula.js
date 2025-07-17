@@ -1,6 +1,6 @@
 const confrontos_oitavas_sula = [
   {
-    "jogo": "Jogo A",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 13,
     "mandante": {
       "id": 528730,
@@ -12,7 +12,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo B",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 13,
     "mandante": {
       "id": 3914981,
@@ -24,7 +24,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo C",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 13,
     "mandante": {
       "id": 212042,
@@ -36,7 +36,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo D",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 13,
     "mandante": {
       "id": 24468241,
@@ -48,7 +48,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo E",
+    "jogo": "Jogo 5 (JG5)",
     "rodada": 13,
     "mandante": {
       "id": 159074,
@@ -60,7 +60,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo F",
+    "jogo": "Jogo 6 (JG6)",
     "rodada": 13,
     "mandante": {
       "id": 17887202,
@@ -72,7 +72,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo G",
+    "jogo": "Jogo 7 (JG7)",
     "rodada": 13,
     "mandante": {
       "id": 25311459,
@@ -84,7 +84,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo H",
+    "jogo": "Jogo 8 (JG8)",
     "rodada": 13,
     "mandante": {
       "id": 6148913,
@@ -96,7 +96,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo A",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 14,
     "mandante": {
       "id": 18421230,
@@ -108,7 +108,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo B",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 14,
     "mandante": {
       "id": 13951133,
@@ -120,7 +120,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo C",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 14,
     "mandante": {
       "id": 18344271,
@@ -132,7 +132,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo D",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 14,
     "mandante": {
       "id": 20696550,
@@ -144,7 +144,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo E",
+    "jogo": "Jogo 5 (JG5)",
     "rodada": 14,
     "mandante": {
       "id": 25751748,
@@ -156,7 +156,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo F",
+    "jogo": "Jogo 6 (JG6)",
     "rodada": 14,
     "mandante": {
       "id": 479510,
@@ -168,7 +168,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo G",
+    "jogo": "Jogo 7 (JG7)",
     "rodada": 14,
     "mandante": {
       "id": 47543456,
@@ -180,7 +180,7 @@ const confrontos_oitavas_sula = [
     }
   },
   {
-    "jogo": "Jogo H",
+    "jogo": "Jogo 8 (JG8)",
     "rodada": 14,
     "mandante": {
       "id": 44810918,

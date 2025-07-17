@@ -1,6 +1,6 @@
 const confrontosFase3 = [
   {
-    "jogo": "Jogo 1",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 13,
     "mandante": {
       "id": 44574236,
@@ -12,7 +12,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 2",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 13,
     "mandante": {
       "id": 1273719,
@@ -24,7 +24,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 3",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 13,
     "mandante": {
       "id": 3246608,
@@ -36,7 +36,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 4",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 13,
     "mandante": {
       "id": 49128587,
@@ -48,7 +48,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 1",
+    "jogo": "Jogo 1 (JG1)",
     "rodada": 14,
     "mandante": {
       "id": 18661583,
@@ -60,7 +60,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 2",
+    "jogo": "Jogo 2 (JG2)",
     "rodada": 14,
     "mandante": {
       "id": 13707047,
@@ -72,7 +72,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 3",
+    "jogo": "Jogo 3 (JG3)",
     "rodada": 14,
     "mandante": {
       "id": 36359,
@@ -84,7 +84,7 @@ const confrontosFase3 = [
     }
   },
   {
-    "jogo": "Jogo 4",
+    "jogo": "Jogo 4 (JG4)",
     "rodada": 14,
     "mandante": {
       "id": 50158297,

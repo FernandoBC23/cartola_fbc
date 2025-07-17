@@ -1,5 +1,5 @@
 const classificacaoFaseOitavas = {
-  "Jogo A": [
+  "Jogo 1 (JG1)": [
     {
       "posicao": 1,
       "nome": "Gig@ntte",
@@ -23,7 +23,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -49.0
     }
   ],
-  "Jogo B": [
+  "Jogo 2 (JG2)": [
     {
       "posicao": 1,
       "nome": "KING LEONN",
@@ -47,7 +47,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -8.849609375
     }
   ],
-  "Jogo C": [
+  "Jogo 3 (JG3)": [
     {
       "posicao": 1,
       "nome": "Laranjja Mecannica",
@@ -71,7 +71,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -41.599609375
     }
   ],
-  "Jogo D": [
+  "Jogo 4 (JG4)": [
     {
       "posicao": 1,
       "nome": "Grêmio imortal 37",
@@ -95,7 +95,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -24.82958984375
     }
   ],
-  "Jogo E": [
+  "Jogo 5 (JG5)": [
     {
       "posicao": 1,
       "nome": "MauHumor F.C.",
@@ -119,7 +119,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -53.0703125
     }
   ],
-  "Jogo F": [
+  "Jogo 6 (JG6)": [
     {
       "posicao": 1,
       "nome": "TEAM LOPES 99",
@@ -143,7 +143,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -7.3603515625
     }
   ],
-  "Jogo G": [
+  "Jogo 7 (JG7)": [
     {
       "posicao": 1,
       "nome": "Tabajara de Inhaua FC2",
@@ -167,7 +167,7 @@ const classificacaoFaseOitavas = {
       "saldoCartola": -13.4306640625
     }
   ],
-  "Jogo H": [
+  "Jogo 8 (JG8)": [
     {
       "posicao": 1,
       "nome": "E.C. Bororé",
