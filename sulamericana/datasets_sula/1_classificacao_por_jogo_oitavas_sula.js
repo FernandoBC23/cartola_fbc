@@ -1,4 +1,4 @@
-const classificacaoFaseOitavas = {
+const classificacao_oitavas_sula = {
   "Jogo 1 (JG1)": [
     {
       "posicao": 1,

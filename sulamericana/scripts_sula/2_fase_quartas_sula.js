@@ -1,18 +1,18 @@
-// scripts/fase_oitavas_sula.js 
+// scripts/fase_quartas_sula.js 
 
 window.addEventListener('DOMContentLoaded', () => {
   document.body.classList.add('loaded');
 
   let rodadaAtual = (() => {
-    const rodadasComPontuacao = resultados_oitavas_sula
+    const rodadasComPontuacao = resultados_quartas_sula
       .filter(r => r.mandante?.pontos != null && r.visitante?.pontos != null)
       .map(r => r.rodada);
-    return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 13;
+    return rodadasComPontuacao.length ? Math.max(...rodadasComPontuacao) : 15;
   })();
   
-  const RODADA_MAXIMA = 14;
+  const RODADA_MAXIMA = 16;
 
-  const painelGrupos = document.getElementById("painel-sula-oitavas");
+  const painelGrupos = document.getElementById("painel-sula-quartas");
 
   const gerarNomeArquivo = nome => {
     return nome
@@ -65,8 +65,8 @@ window.addEventListener('DOMContentLoaded', () => {
   function renderPainelCompleto(numeroRodada) {
     painelGrupos.innerHTML = "";
 
-    const confrontosRodada = confrontos_oitavas_sula.filter(j => j.rodada === numeroRodada);
-    const resultadosRodada = resultados_oitavas_sula.filter(j => j.rodada === numeroRodada);
+    const confrontosRodada = confrontos_quartas_sula.filter(j => j.rodada === numeroRodada);
+    const resultadosRodada = resultados_quartas_sula.filter(j => j.rodada === numeroRodada);
 
     const confrontosPorGrupo = {};
     confrontosRodada.forEach(jogo => {
@@ -75,7 +75,7 @@ window.addEventListener('DOMContentLoaded', () => {
     confrontosPorGrupo[grupo].push(jogo);
     });
 
-    Object.entries(classificacaoFaseOitavas).forEach(([grupo, times]) => {
+    Object.entries(classificacao_quartas_sula).forEach(([grupo, times]) => {
       const linha = document.createElement("div");
       linha.className = "linha-grupo";
 
@@ -257,7 +257,7 @@ window.addEventListener('DOMContentLoaded', () => {
       if (rodadaAtual < RODADA_MAXIMA) atualizarRodada(rodadaAtual + 1);
     });
   
-    if (rodadaAtual === 13) btnAnterior.disabled = true;
+    if (rodadaAtual === 15) btnAnterior.disabled = true;
     if (rodadaAtual === RODADA_MAXIMA) btnProxima.disabled = true;
   
     navegacao.appendChild(btnAnterior);
