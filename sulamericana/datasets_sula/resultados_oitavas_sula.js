@@ -108,103 +108,103 @@ const resultados_oitavas_sula = [
     "rodada": 14,
     "mandante": {
       "nome": "Gig@ntte",
-      "pontos": null
+      "pontos": 72.2998046875
     },
     "visitante": {
       "nome": "Gremiomaniasm",
-      "pontos": null
+      "pontos": 48.199951171875
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "jogo": "Jogo 2 (JG2)",
     "rodada": 14,
     "mandante": {
       "nome": "KING LEONN",
-      "pontos": null
+      "pontos": 59.89990234375
     },
     "visitante": {
       "nome": "BORGES ITAQUI F.C.",
-      "pontos": null
+      "pontos": 66.5
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 3 (JG3)",
     "rodada": 14,
     "mandante": {
       "nome": "Laranjja Mecannica",
-      "pontos": null
+      "pontos": 54.0
     },
     "visitante": {
       "nome": "Tatols Beants F.C",
-      "pontos": null
+      "pontos": 64.4501953125
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 4 (JG4)",
     "rodada": 14,
     "mandante": {
       "nome": "Dom Camillo68",
-      "pontos": null
+      "pontos": 78.2998046875
     },
     "visitante": {
       "nome": "Grêmio imortal 37",
-      "pontos": null
+      "pontos": 80.89990234375
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 5 (JG5)",
     "rodada": 14,
     "mandante": {
       "nome": "MauHumor F.C.",
-      "pontos": null
+      "pontos": 72.7001953125
     },
     "visitante": {
       "nome": "F.C. Rei Das Copas",
-      "pontos": null
+      "pontos": 69.7001953125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "jogo": "Jogo 6 (JG6)",
     "rodada": 14,
     "mandante": {
       "nome": "TEAM LOPES 99",
-      "pontos": null
+      "pontos": 75.7998046875
     },
     "visitante": {
       "nome": "HS SPORTS F.C",
-      "pontos": null
+      "pontos": 66.39990234375
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "jogo": "Jogo 7 (JG7)",
     "rodada": 14,
     "mandante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
+      "pontos": 63.5
     },
     "visitante": {
       "nome": "FC Los Castilho",
-      "pontos": null
+      "pontos": 70.5
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 8 (JG8)",
     "rodada": 14,
     "mandante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 73.10009765625
     },
     "visitante": {
       "nome": "E.C. Bororé",
-      "pontos": null
+      "pontos": 68.919921875
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   }
 ];

@@ -3,13 +3,13 @@ const classificacaoFaseOitavas = {
     {
       "posicao": 1,
       "nome": "Gig@ntte",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 116.91015625,
-      "cartolaSofrido": 67.91015625,
-      "saldoCartola": 49.0
+      "totalCartola": 189.2099609375,
+      "cartolaSofrido": 116.110107421875,
+      "saldoCartola": 73.099853515625
     },
     {
       "posicao": 2,
@@ -17,10 +17,10 @@ const classificacaoFaseOitavas = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 67.91015625,
-      "cartolaSofrido": 116.91015625,
-      "saldoCartola": -49.0
+      "derrotas": 2,
+      "totalCartola": 116.110107421875,
+      "cartolaSofrido": 189.2099609375,
+      "saldoCartola": -73.099853515625
     }
   ],
   "Jogo 2 (JG2)": [
@@ -30,21 +30,21 @@ const classificacaoFaseOitavas = {
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 114.759765625,
-      "cartolaSofrido": 105.91015625,
-      "saldoCartola": 8.849609375
+      "derrotas": 1,
+      "totalCartola": 174.65966796875,
+      "cartolaSofrido": 172.41015625,
+      "saldoCartola": 2.24951171875
     },
     {
       "posicao": 2,
       "nome": "BORGES ITAQUI F.C.",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 3,
+      "vitorias": 1,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 105.91015625,
-      "cartolaSofrido": 114.759765625,
-      "saldoCartola": -8.849609375
+      "totalCartola": 172.41015625,
+      "cartolaSofrido": 174.65966796875,
+      "saldoCartola": -2.24951171875
     }
   ],
   "Jogo 3 (JG3)": [
@@ -54,34 +54,34 @@ const classificacaoFaseOitavas = {
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 121.009765625,
-      "cartolaSofrido": 79.41015625,
-      "saldoCartola": 41.599609375
+      "derrotas": 1,
+      "totalCartola": 175.009765625,
+      "cartolaSofrido": 143.8603515625,
+      "saldoCartola": 31.1494140625
     },
     {
       "posicao": 2,
       "nome": "Tatols Beants F.C",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 3,
+      "vitorias": 1,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 79.41015625,
-      "cartolaSofrido": 121.009765625,
-      "saldoCartola": -41.599609375
+      "totalCartola": 143.8603515625,
+      "cartolaSofrido": 175.009765625,
+      "saldoCartola": -31.1494140625
     }
   ],
   "Jogo 4 (JG4)": [
     {
       "posicao": 1,
       "nome": "Grêmio imortal 37",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 133.0498046875,
-      "cartolaSofrido": 108.22021484375,
-      "saldoCartola": 24.82958984375
+      "totalCartola": 213.94970703125,
+      "cartolaSofrido": 186.52001953125,
+      "saldoCartola": 27.4296875
     },
     {
       "posicao": 2,
@@ -89,23 +89,23 @@ const classificacaoFaseOitavas = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 108.22021484375,
-      "cartolaSofrido": 133.0498046875,
-      "saldoCartola": -24.82958984375
+      "derrotas": 2,
+      "totalCartola": 186.52001953125,
+      "cartolaSofrido": 213.94970703125,
+      "saldoCartola": -27.4296875
     }
   ],
   "Jogo 5 (JG5)": [
     {
       "posicao": 1,
       "nome": "MauHumor F.C.",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 117.47021484375,
-      "cartolaSofrido": 64.39990234375,
-      "saldoCartola": 53.0703125
+      "totalCartola": 190.17041015625,
+      "cartolaSofrido": 134.10009765625,
+      "saldoCartola": 56.0703125
     },
     {
       "posicao": 2,
@@ -113,23 +113,23 @@ const classificacaoFaseOitavas = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 64.39990234375,
-      "cartolaSofrido": 117.47021484375,
-      "saldoCartola": -53.0703125
+      "derrotas": 2,
+      "totalCartola": 134.10009765625,
+      "cartolaSofrido": 190.17041015625,
+      "saldoCartola": -56.0703125
     }
   ],
   "Jogo 6 (JG6)": [
     {
       "posicao": 1,
       "nome": "TEAM LOPES 99",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 120.8701171875,
-      "cartolaSofrido": 113.509765625,
-      "saldoCartola": 7.3603515625
+      "totalCartola": 196.669921875,
+      "cartolaSofrido": 179.90966796875,
+      "saldoCartola": 16.76025390625
     },
     {
       "posicao": 2,
@@ -137,10 +137,10 @@ const classificacaoFaseOitavas = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 113.509765625,
-      "cartolaSofrido": 120.8701171875,
-      "saldoCartola": -7.3603515625
+      "derrotas": 2,
+      "totalCartola": 179.90966796875,
+      "cartolaSofrido": 196.669921875,
+      "saldoCartola": -16.76025390625
     }
   ],
   "Jogo 7 (JG7)": [
@@ -150,45 +150,45 @@ const classificacaoFaseOitavas = {
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 133.4404296875,
-      "cartolaSofrido": 120.009765625,
-      "saldoCartola": 13.4306640625
+      "derrotas": 1,
+      "totalCartola": 196.9404296875,
+      "cartolaSofrido": 190.509765625,
+      "saldoCartola": 6.4306640625
     },
     {
       "posicao": 2,
       "nome": "FC Los Castilho",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 3,
+      "vitorias": 1,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 120.009765625,
-      "cartolaSofrido": 133.4404296875,
-      "saldoCartola": -13.4306640625
+      "totalCartola": 190.509765625,
+      "cartolaSofrido": 196.9404296875,
+      "saldoCartola": -6.4306640625
     }
   ],
   "Jogo 8 (JG8)": [
     {
       "posicao": 1,
+      "nome": "lsauer fc",
+      "pontos": 3,
+      "vitorias": 1,
+      "empates": 0,
+      "derrotas": 1,
+      "totalCartola": 190.2099609375,
+      "cartolaSofrido": 186.4296875,
+      "saldoCartola": 3.7802734375
+    },
+    {
+      "posicao": 2,
       "nome": "E.C. Bororé",
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 117.509765625,
-      "cartolaSofrido": 117.10986328125,
-      "saldoCartola": 0.39990234375
-    },
-    {
-      "posicao": 2,
-      "nome": "lsauer fc",
-      "pontos": 0,
-      "vitorias": 0,
-      "empates": 0,
       "derrotas": 1,
-      "totalCartola": 117.10986328125,
-      "cartolaSofrido": 117.509765625,
-      "saldoCartola": -0.39990234375
+      "totalCartola": 186.4296875,
+      "cartolaSofrido": 190.2099609375,
+      "saldoCartola": -3.7802734375
     }
   ]
 };
