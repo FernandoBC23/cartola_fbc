@@ -1558,5 +1558,725 @@ const resultadosFase1 = [
       "nome": "Fedato Futebol Clube",
       "pontos": 107.64990234375
     }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "TIGRE LEON",
+      "pontos": 75.7998046875
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": 73.10009765625
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": 64.4501953125
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": 74.2001953125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": 61.60009765625
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": 50.239990234375
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": 55.429931640625
+    },
+    "visitante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": 58.5
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": 72.39990234375
+    },
+    "visitante": {
+      "nome": "seralex",
+      "pontos": 92.60009765625
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": 73.39990234375
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": 98.2001953125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "FC Los Castilho",
+      "pontos": 70.5
+    },
+    "visitante": {
+      "nome": "Noah A 10",
+      "pontos": 70.5
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": 65.0
+    },
+    "visitante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": 75.7998046875
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": 27.949951171875
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": 78.3798828125
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 14,
+    "mandante": {
+      "nome": "MauHumor F.C.",
+      "pontos": 72.7001953125
+    },
+    "visitante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": 63.5
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "seralex",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "FC Los Castilho",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 15,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "MauHumor F.C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "MauHumor F.C.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 16,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "seralex",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "MauHumor F.C.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "Santo Ângelo United",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 17,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "MauHumor F.C.",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Santo Ângelo United",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 18,
+    "mandante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "Noah A 10",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TIGRE LEON",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "FIGUEIRA DA ILHA",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Tatols Beants F.C",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "A Lenda Super Vasco F.c",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "JV5 Tricolor Gaúcho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "Fedato Futebol Clube",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "VASCO MARTINS FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "Tabajara de Inhaua FC2",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "TATITTA FC",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "Texas Club 2025",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "MauHumor F.C.",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "pura bucha /botafogo",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "Santo Ângelo United",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "RHANKA DENTY FC25",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "pra sempre imortal fc",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "seralex",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC Los Castilho",
+      "pontos": null
+    }
+  },
+  {
+    "grupo": "Série D",
+    "rodada": 19,
+    "mandante": {
+      "nome": "lsauer fc",
+      "pontos": null
+    },
+    "visitante": {
+      "nome": "FC castelo Branco 2",
+      "pontos": null
+    }
   }
 ];
