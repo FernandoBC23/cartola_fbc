@@ -30,25 +30,25 @@ const resultadosFase4 = [
     "rodada": 16,
     "mandante": {
       "nome": "Real SCI",
-      "pontos": null
+      "pontos": 50.60009765625
     },
     "visitante": {
       "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": null
+      "pontos": 75.06005859375
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 2 (JG2)",
     "rodada": 16,
     "mandante": {
       "nome": "Lá do Itaqui",
-      "pontos": null
+      "pontos": 77.25
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 74.009765625
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   }
 ];

@@ -3,13 +3,13 @@ const classificacao_quartas_sula = {
     {
       "posicao": 1,
       "nome": "KING LEONN",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 105.02001953125,
-      "cartolaSofrido": 82.10009765625,
-      "saldoCartola": 22.919921875
+      "totalCartola": 180.3798828125,
+      "cartolaSofrido": 136.39013671875,
+      "saldoCartola": 43.98974609375
     },
     {
       "posicao": 2,
@@ -17,10 +17,10 @@ const classificacao_quartas_sula = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 82.10009765625,
-      "cartolaSofrido": 105.02001953125,
-      "saldoCartola": -22.919921875
+      "derrotas": 2,
+      "totalCartola": 136.39013671875,
+      "cartolaSofrido": 180.3798828125,
+      "saldoCartola": -43.98974609375
     }
   ],
   "Jogo 2 (JG2)": [
@@ -30,21 +30,21 @@ const classificacao_quartas_sula = {
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 81.2001953125,
-      "cartolaSofrido": 68.990234375,
-      "saldoCartola": 12.2099609375
+      "derrotas": 1,
+      "totalCartola": 131.80029296875,
+      "cartolaSofrido": 128.190185546875,
+      "saldoCartola": 3.610107421875
     },
     {
       "posicao": 2,
       "nome": "Laranjja Mecannica",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 3,
+      "vitorias": 1,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 68.990234375,
-      "cartolaSofrido": 81.2001953125,
-      "saldoCartola": -12.2099609375
+      "totalCartola": 128.190185546875,
+      "cartolaSofrido": 131.80029296875,
+      "saldoCartola": -3.610107421875
     }
   ],
   "Jogo 3 (JG3)": [
@@ -54,34 +54,34 @@ const classificacao_quartas_sula = {
       "pontos": 3,
       "vitorias": 1,
       "empates": 0,
-      "derrotas": 0,
-      "totalCartola": 117.7998046875,
-      "cartolaSofrido": 89.7998046875,
-      "saldoCartola": 28.0
+      "derrotas": 1,
+      "totalCartola": 187.56982421875,
+      "cartolaSofrido": 160.77001953125,
+      "saldoCartola": 26.7998046875
     },
     {
       "posicao": 2,
       "nome": "TEAM LOPES 99",
-      "pontos": 0,
-      "vitorias": 0,
+      "pontos": 3,
+      "vitorias": 1,
       "empates": 0,
       "derrotas": 1,
-      "totalCartola": 89.7998046875,
-      "cartolaSofrido": 117.7998046875,
-      "saldoCartola": -28.0
+      "totalCartola": 160.77001953125,
+      "cartolaSofrido": 187.56982421875,
+      "saldoCartola": -26.7998046875
     }
   ],
   "Jogo 4 (JG4)": [
     {
       "posicao": 1,
       "nome": "lsauer fc",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 98.5,
-      "cartolaSofrido": 89.89990234375,
-      "saldoCartola": 8.60009765625
+      "totalCartola": 178.85009765625,
+      "cartolaSofrido": 151.159912109375,
+      "saldoCartola": 27.690185546875
     },
     {
       "posicao": 2,
@@ -89,10 +89,10 @@ const classificacao_quartas_sula = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 89.89990234375,
-      "cartolaSofrido": 98.5,
-      "saldoCartola": -8.60009765625
+      "derrotas": 2,
+      "totalCartola": 151.159912109375,
+      "cartolaSofrido": 178.85009765625,
+      "saldoCartola": -27.690185546875
     }
   ]
 };

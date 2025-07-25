@@ -56,51 +56,51 @@ const resultados_quartas_sula = [
     "rodada": 16,
     "mandante": {
       "nome": "KING LEONN",
-      "pontos": null
+      "pontos": 75.35986328125
     },
     "visitante": {
       "nome": "Gig@ntte",
-      "pontos": null
+      "pontos": 54.2900390625
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "jogo": "Jogo 2 (JG2)",
     "rodada": 16,
     "mandante": {
       "nome": "Grêmio imortal 37",
-      "pontos": null
+      "pontos": 50.60009765625
     },
     "visitante": {
       "nome": "Laranjja Mecannica",
-      "pontos": null
+      "pontos": 59.199951171875
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 3 (JG3)",
     "rodada": 16,
     "mandante": {
       "nome": "TEAM LOPES 99",
-      "pontos": null
+      "pontos": 70.97021484375
     },
     "visitante": {
       "nome": "MauHumor F.C.",
-      "pontos": null
+      "pontos": 69.77001953125
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   },
   {
     "jogo": "Jogo 4 (JG4)",
     "rodada": 16,
     "mandante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 80.35009765625
     },
     "visitante": {
       "nome": "Tabajara de Inhaua FC2",
-      "pontos": null
+      "pontos": 61.260009765625
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   }
 ];

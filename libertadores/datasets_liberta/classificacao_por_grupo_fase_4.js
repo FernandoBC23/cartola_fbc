@@ -3,13 +3,13 @@ const classificacaoFase4 = {
     {
       "posicao": 1,
       "nome": "Analove10 ITAQUI GRANDE!!",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 104.2001953125,
-      "cartolaSofrido": 98.89990234375,
-      "saldoCartola": 5.30029296875
+      "totalCartola": 179.26025390625,
+      "cartolaSofrido": 149.5,
+      "saldoCartola": 29.76025390625
     },
     {
       "posicao": 2,
@@ -17,23 +17,23 @@ const classificacaoFase4 = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 98.89990234375,
-      "cartolaSofrido": 104.2001953125,
-      "saldoCartola": -5.30029296875
+      "derrotas": 2,
+      "totalCartola": 149.5,
+      "cartolaSofrido": 179.26025390625,
+      "saldoCartola": -29.76025390625
     }
   ],
   "Jogo 2 (JG2)": [
     {
       "posicao": 1,
       "nome": "Lá do Itaqui",
-      "pontos": 3,
-      "vitorias": 1,
+      "pontos": 6,
+      "vitorias": 2,
       "empates": 0,
       "derrotas": 0,
-      "totalCartola": 120.2998046875,
-      "cartolaSofrido": 101.7998046875,
-      "saldoCartola": 18.5
+      "totalCartola": 197.5498046875,
+      "cartolaSofrido": 175.8095703125,
+      "saldoCartola": 21.740234375
     },
     {
       "posicao": 2,
@@ -41,10 +41,10 @@ const classificacaoFase4 = {
       "pontos": 0,
       "vitorias": 0,
       "empates": 0,
-      "derrotas": 1,
-      "totalCartola": 101.7998046875,
-      "cartolaSofrido": 120.2998046875,
-      "saldoCartola": -18.5
+      "derrotas": 2,
+      "totalCartola": 175.8095703125,
+      "cartolaSofrido": 197.5498046875,
+      "saldoCartola": -21.740234375
     }
   ]
 };
