@@ -353,7 +353,10 @@ window.addEventListener('DOMContentLoaded', () => {
       confrontosPorGrupo[grupo].push(jogo);
     });
 
-    Object.entries(classificacaoFase5).forEach(([grupo, times]) => {
+    ["Final", "Decisão 3º Lugar"].forEach(grupo => {
+      const times = classificacaoFase5[grupo];
+      if (!times) return;
+
       const grupoConcluido = grupoFinalizado(grupo);
       const isFinal = grupo === "Final";
       const is3Lugar = grupo === "Decisão 3º Lugar";

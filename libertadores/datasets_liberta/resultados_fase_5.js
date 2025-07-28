@@ -17,12 +17,12 @@ const resultadosFase5 = [
     "rodada": 17,
     "mandante": {
       "nome": "Real SCI",
-      "pontos": NaN
+      "pontos": 62.239990234375
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": NaN
+      "pontos": 47.510009765625
     },
-    "vencedor": "indefinido"
+    "vencedor": "mandante"
   }
 ];
