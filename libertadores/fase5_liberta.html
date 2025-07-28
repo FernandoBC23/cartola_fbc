@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Final - Libertadores</title>
+
+  <link rel="stylesheet" href="../css/reset.css" />
+  <link rel="stylesheet" href="../css/styles_global.css" />
+  <link rel="stylesheet" href="../css/styles_confrontos_liberta.css" />
+  
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Menu de Navegação -->
+  <header class="header">
+    <div class="header-content">
+      <div class="logo-titulo">
+        <img src="../imagens/logo-copa-libertadores-256.png" alt="Logo" class="logo" />
+        <h1>Libertadores</h1>
+      </div>
+      <nav class="navbar">
+        <ul>
+          <li><a href="../index.html">Painel Competições</a></li>
+          <li><a href="../libertadores/fase1_liberta.html">Fase 1</a></li>
+          <li><a href="../libertadores/fase2_liberta.html">Fase 2</a></li>
+          <li><a href="../libertadores/fase3_liberta.html">Quartas</a></li>
+          <li><a href="../libertadores/fase4_liberta.html">Semifinais</a></li>
+          <li><a href="../libertadores/fase5_liberta.html" class="ativo">Final</a></li>
+        </ul>
+      </nav>           
+    </div>
+  </header>
+
+  <!-- Painel de Grupos (Classificação e Confrontos) -->
+  <div id="painel-fase5">
+    <!-- Conteúdo da Fase 5 será gerado aqui -->
+  </div>
+
+  <!-- Rodapé -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p>© 2025 Painel Libertadores. Todos os direitos reservados.</p>
+      <p>Desenvolvido por Fernando Chagas</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="../transicoes.js"></script> 
+  <script src="./datasets_liberta/classificacao_por_grupo_fase_5.js"></script>
+  <script src="./datasets_liberta/resultados_fase_5.js"></script> 
+  <script src="./datasets_liberta/confrontos_fase5_libertadores.js"></script>
+  <script src="./scripts_liberta/fase5_liberta.js"></script>
+</body>
+</html>

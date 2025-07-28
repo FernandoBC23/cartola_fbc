@@ -196,6 +196,47 @@
     font-size: 15px;
   }
 
+  /* ----------------------------------------------------------------- */
+
+  /* Destaque base para líderes */
+  .lider-grupo td {
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.03);
+  }
+
+  /* Destaque para o Campeão */
+  tr.campeao td {    
+    background-color: rgba(255, 215, 0, 0.08);
+    color: #e8f0ea;
+    background: #269846;
+  }
+
+  /* Destaque para o 3º lugar */
+  tr.terceiro-lugar td {    
+    background-color: rgba(205, 127, 50, 0.08);
+    color: #e8f0ea;
+    background: #e28a32;
+  }
+
+  /* Organização horizontal do nome + escudo + tags */
+  .tabela-classificacao .time-info {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  tr.campeao td:first-child::before {
+  content: "🏆 ";
+  margin-right: 4px;
+  }
+
+  tr.terceiro-lugar td:first-child::before {
+    content: "🥉 ";
+    margin-right: 4px;
+  }
+
+  /* ------------------------------------------------------------------ */
+
   
 
 /* ------------------------------------
