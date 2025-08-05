@@ -30,25 +30,25 @@ const resultados_semi_sula = [
     "rodada": 18,
     "mandante": {
       "nome": "Grêmio imortal 37",
-      "pontos": null
+      "pontos": 73.2001953125
     },
     "visitante": {
       "nome": "KING LEONN",
-      "pontos": null
+      "pontos": 92.3701171875
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   },
   {
     "jogo": "Jogo 2 (JG2)",
     "rodada": 18,
     "mandante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 82.580078125
     },
     "visitante": {
       "nome": "MauHumor F.C.",
-      "pontos": null
+      "pontos": 105.5
     },
-    "vencedor": "indefinido"
+    "vencedor": "visitante"
   }
 ];

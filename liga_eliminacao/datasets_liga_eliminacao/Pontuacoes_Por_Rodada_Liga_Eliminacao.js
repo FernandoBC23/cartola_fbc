@@ -16,7 +16,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Fedato Futebol Clube": {
     "Rodada 1": 77.580078125,
@@ -35,7 +36,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 78.3798828125,
     "Rodada 15": 88.490234375,
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "BORGES CLIMA FUT F.C": {
     "Rodada 1": 64.08984375,
@@ -54,7 +56,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 64.7998046875,
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "OlhaEleAiF.C!": {
     "Rodada 1": 96.18994140625,
@@ -73,7 +76,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Analove10 ITAQUI GRANDE!!": {
     "Rodada 1": 72.58984375,
@@ -92,7 +96,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 75.39990234375,
     "Rodada 15": 104.2001953125,
     "Rodada 16": 75.06005859375,
-    "Rodada 17": 58.510009765625
+    "Rodada 17": 58.510009765625,
+    "Rodada 18": 78.8701171875
   },
   "Gremiomaniasm": {
     "Rodada 1": 95.22998046875,
@@ -111,7 +116,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Pity10": {
     "Rodada 1": 75.330078125,
@@ -130,7 +136,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 68.89990234375,
     "Rodada 15": 108.7001953125,
     "Rodada 16": 66.66015625,
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "E.C. Bororé": {
     "Rodada 1": 67.990234375,
@@ -149,7 +156,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 68.919921875,
     "Rodada 15": 92.68994140625,
     "Rodada 16": 69.509765625,
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "PUXE FC": {
     "Rodada 1": 84.68994140625,
@@ -168,7 +176,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 74.2998046875,
     "Rodada 15": 101.5,
     "Rodada 16": 79.97021484375,
-    "Rodada 17": 53.2099609375
+    "Rodada 17": 53.2099609375,
+    "Rodada 18": 98.10009765625
   },
   "A Lenda Super Vasco F.c ": {
     "Rodada 1": 59.0,
@@ -187,7 +196,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Super Vasco f.c": {
     "Rodada 1": 60.550048828125,
@@ -206,7 +216,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 81.89990234375,
     "Rodada 15": 100.10009765625,
     "Rodada 16": 79.10009765625,
-    "Rodada 17": 48.81005859375
+    "Rodada 17": 48.81005859375,
+    "Rodada 18": 74.39990234375
   },
   "Texas Club 2025": {
     "Rodada 1": 67.68994140625,
@@ -225,7 +236,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 74.2001953125,
     "Rodada 15": 101.7998046875,
     "Rodada 16": 74.009765625,
-    "Rodada 17": 47.510009765625
+    "Rodada 17": 47.510009765625,
+    "Rodada 18": ""
   },
   "lsauer fc": {
     "Rodada 1": 72.3798828125,
@@ -244,7 +256,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 73.10009765625,
     "Rodada 15": 98.5,
     "Rodada 16": 80.35009765625,
-    "Rodada 17": 44.159912109375
+    "Rodada 17": 44.159912109375,
+    "Rodada 18": ""
   },
   "Grêmio imortal 37": {
     "Rodada 1": 61.550048828125,
@@ -263,7 +276,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 80.89990234375,
     "Rodada 15": 81.2001953125,
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "mercearia Estrela ": {
     "Rodada 1": 63.5,
@@ -282,7 +296,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "pura bucha /botafogo": {
     "Rodada 1": 73.77978515625,
@@ -301,7 +316,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "seralex": {
     "Rodada 1": 68.39990234375,
@@ -320,7 +336,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "HS SPORTS F.C": {
     "Rodada 1": 64.7900390625,
@@ -339,7 +356,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 66.39990234375,
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Dom Camillo68": {
     "Rodada 1": 63.64990234375,
@@ -358,7 +376,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Tatols Beants F.C": {
     "Rodada 1": 66.60009765625,
@@ -377,7 +396,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "TEAM LOPES 99": {
     "Rodada 1": 74.08984375,
@@ -396,7 +416,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 75.7998046875,
     "Rodada 15": 89.7998046875,
     "Rodada 16": 70.97021484375,
-    "Rodada 17": 56.31005859375
+    "Rodada 17": 56.31005859375,
+    "Rodada 18": 124.2998046875
   },
   "MAFRA MARTINS FC": {
     "Rodada 1": 67.14013671875,
@@ -415,7 +436,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "VASCO MARTINS FC": {
     "Rodada 1": 72.2900390625,
@@ -434,7 +456,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Tabajara de Inhaua FC2": {
     "Rodada 1": 69.4501953125,
@@ -453,7 +476,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "FIGUEIRA DA ILHA": {
     "Rodada 1": 66.5,
@@ -472,7 +496,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 73.39990234375,
     "Rodada 15": 95.39990234375,
     "Rodada 16": 76.81005859375,
-    "Rodada 17": 57.510009765625
+    "Rodada 17": 57.510009765625,
+    "Rodada 18": 104.0
   },
   "SERGRILLO": {
     "Rodada 1": 61.14990234375,
@@ -491,7 +516,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "S.E.R. GRILLO": {
     "Rodada 1": 68.47998046875,
@@ -510,7 +536,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "Gig@ntte": {
     "Rodada 1": 100.33984375,
@@ -529,7 +556,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "KP JUV.": {
     "Rodada 1": 72.240234375,
@@ -548,7 +576,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "O clube do povo Itaqui/Rss": {
     "Rodada 1": 82.68017578125,
@@ -567,7 +596,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": "",
     "Rodada 15": "",
     "Rodada 16": "",
-    "Rodada 17": ""
+    "Rodada 17": "",
+    "Rodada 18": ""
   },
   "I.B.CASTILHO FC": {
     "Rodada 1": 77.0498046875,
@@ -586,7 +616,8 @@ const pontuacoesPorRodada = {
     "Rodada 14": 76.0,
     "Rodada 15": 94.60009765625,
     "Rodada 16": 71.35986328125,
-    "Rodada 17": 54.2099609375
+    "Rodada 17": 54.2099609375,
+    "Rodada 18": 76.0
   },
   "FBC Colorado": {
     "Rodada 1": 64.0,
@@ -605,6 +636,7 @@ const pontuacoesPorRodada = {
     "Rodada 14": 72.39990234375,
     "Rodada 15": 100.7998046875,
     "Rodada 16": 79.91015625,
-    "Rodada 17": 51.31005859375
+    "Rodada 17": 51.31005859375,
+    "Rodada 18": 109.39990234375
   }
 };
