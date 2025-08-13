@@ -2164,11 +2164,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "S.E.R. GRILLO",
-      "pontos": null
+      "pontos": 66.35986328125
     },
     "visitante": {
       "nome": "TIGRE LEON",
-      "pontos": null
+      "pontos": 59.1298828125
     }
   },
   {
@@ -2176,11 +2176,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "Dom Camillo68",
-      "pontos": null
+      "pontos": 47.949951171875
     },
     "visitante": {
       "nome": "Texas Club 2025",
-      "pontos": null
+      "pontos": 61.64990234375
     }
   },
   {
@@ -2188,11 +2188,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "Fedato Futebol Clube",
-      "pontos": null
+      "pontos": 60.1201171875
     },
     "visitante": {
       "nome": "seralex",
-      "pontos": null
+      "pontos": 75.64990234375
     }
   },
   {
@@ -2200,11 +2200,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "HS SPORTS F.C",
-      "pontos": null
+      "pontos": 72.2998046875
     },
     "visitante": {
       "nome": "Cril Futebol Club",
-      "pontos": null
+      "pontos": 60.300048828125
     }
   },
   {
@@ -2212,11 +2212,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "TEAM LOPES 99",
-      "pontos": null
+      "pontos": 68.25
     },
     "visitante": {
       "nome": "SERGRILLO",
-      "pontos": null
+      "pontos": 46.030029296875
     }
   },
   {
@@ -2224,11 +2224,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "Tatols Beants F.C",
-      "pontos": null
+      "pontos": 48.1298828125
     },
     "visitante": {
       "nome": "Noah A 10",
-      "pontos": null
+      "pontos": 71.2001953125
     }
   },
   {
@@ -2236,11 +2236,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "DM Studio",
-      "pontos": null
+      "pontos": 65.81005859375
     },
     "visitante": {
       "nome": "cartola scheuer",
-      "pontos": null
+      "pontos": 69.60009765625
     }
   },
   {
@@ -2248,11 +2248,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "Super Vasco f.c",
-      "pontos": null
+      "pontos": 73.4501953125
     },
     "visitante": {
       "nome": "ITAQUI F. C.",
-      "pontos": null
+      "pontos": 53.9599609375
     }
   },
   {
@@ -2260,11 +2260,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "BORGES CLIMA FUT F.C",
-      "pontos": null
+      "pontos": 54.6298828125
     },
     "visitante": {
       "nome": "lsauer fc",
-      "pontos": null
+      "pontos": 52.0
     }
   },
   {
@@ -2272,11 +2272,11 @@ const resultadosFase1 = [
     "rodada": 19,
     "mandante": {
       "nome": "pura bucha /botafogo",
-      "pontos": null
+      "pontos": 76.43017578125
     },
     "visitante": {
       "nome": "KP JUV.",
-      "pontos": null
+      "pontos": 57.35009765625
     }
   }
 ];

@@ -17,7 +17,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 105.0,
     "Rodada 16": 75.4599609375,
     "Rodada 17": 67.16015625,
-    "Rodada 18": 65.47021484375
+    "Rodada 18": 65.47021484375,
+    "Rodada 19": 61.800048828125
   },
   "Gremiomaniasm": {
     "Rodada 1": 95.22998046875,
@@ -37,7 +38,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 77.97998046875,
     "Rodada 16": 86.7099609375,
     "Rodada 17": 57.2099609375,
-    "Rodada 18": 84.77978515625
+    "Rodada 18": 84.77978515625,
+    "Rodada 19": 42.530029296875
   },
   "Atlético Colorado 2021": {
     "Rodada 1": 86.5498046875,
@@ -57,7 +59,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 103.2998046875,
     "Rodada 16": 60.469970703125,
     "Rodada 17": 60.35009765625,
-    "Rodada 18": 91.64990234375
+    "Rodada 18": 91.64990234375,
+    "Rodada 19": 49.85009765625
   },
   "Rolo Compressor ZN": {
     "Rodada 1": 81.9501953125,
@@ -77,7 +80,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 99.2998046875,
     "Rodada 16": 81.419921875,
     "Rodada 17": 72.31005859375,
-    "Rodada 18": 109.0
+    "Rodada 18": 109.0,
+    "Rodada 19": 45.25
   },
   "Eleis-Itaqui": {
     "Rodada 1": 79.9501953125,
@@ -97,7 +101,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 80.5,
     "Rodada 16": 62.56005859375,
     "Rodada 17": 58.25,
-    "Rodada 18": 83.7001953125
+    "Rodada 18": 83.7001953125,
+    "Rodada 19": 60.449951171875
   },
   "Time do S.A.P.O": {
     "Rodada 1": 78.0498046875,
@@ -117,7 +122,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 100.7001953125,
     "Rodada 16": 84.31005859375,
     "Rodada 17": 41.7900390625,
-    "Rodada 18": 86.97021484375
+    "Rodada 18": 86.97021484375,
+    "Rodada 19": 61.5
   },
   "Fedato Futebol Clube": {
     "Rodada 1": 77.580078125,
@@ -137,7 +143,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 88.490234375,
     "Rodada 16": 85.0498046875,
     "Rodada 17": 58.25,
-    "Rodada 18": 71.06982421875
+    "Rodada 18": 71.06982421875,
+    "Rodada 19": 60.1201171875
   },
   "SISO FC25": {
     "Rodada 1": 74.68994140625,
@@ -157,7 +164,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 96.60009765625,
     "Rodada 16": 74.3701171875,
     "Rodada 17": 56.739990234375,
-    "Rodada 18": 81.10009765625
+    "Rodada 18": 81.10009765625,
+    "Rodada 19": 62.449951171875
   },
   "cartola scheuer": {
     "Rodada 1": 73.08984375,
@@ -177,7 +185,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 101.7998046875,
     "Rodada 16": 70.169921875,
     "Rodada 17": 52.840087890625,
-    "Rodada 18": 94.8701171875
+    "Rodada 18": 94.8701171875,
+    "Rodada 19": 69.60009765625
   },
   "Analove10 ITAQUI GRANDE!!": {
     "Rodada 1": 72.58984375,
@@ -197,7 +206,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 104.2001953125,
     "Rodada 16": 75.06005859375,
     "Rodada 17": 58.510009765625,
-    "Rodada 18": 78.8701171875
+    "Rodada 18": 78.8701171875,
+    "Rodada 19": 69.10009765625
   },
   "lsauer fc": {
     "Rodada 1": 72.3798828125,
@@ -217,7 +227,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 98.5,
     "Rodada 16": 80.35009765625,
     "Rodada 17": 44.159912109375,
-    "Rodada 18": 82.580078125
+    "Rodada 18": 82.580078125,
+    "Rodada 19": 52.0
   },
   "BORGES ITAQUI F.C.": {
     "Rodada 1": 71.08984375,
@@ -237,7 +248,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 89.39990234375,
     "Rodada 16": 63.780029296875,
     "Rodada 17": 55.7099609375,
-    "Rodada 18": 70.0
+    "Rodada 18": 70.0,
+    "Rodada 19": 55.0
   },
   "Tabajara de Inhaua FC2": {
     "Rodada 1": 69.4501953125,
@@ -257,7 +269,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 89.89990234375,
     "Rodada 16": 61.260009765625,
     "Rodada 17": 45.260009765625,
-    "Rodada 18": 66.47021484375
+    "Rodada 18": 66.47021484375,
+    "Rodada 19": 51.300048828125
   },
   "TIGRE LEON": {
     "Rodada 1": 69.39990234375,
@@ -277,7 +290,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 103.16015625,
     "Rodada 16": 69.2099609375,
     "Rodada 17": 51.97998046875,
-    "Rodada 18": 102.06982421875
+    "Rodada 18": 102.06982421875,
+    "Rodada 19": 59.1298828125
   },
   "seralex": {
     "Rodada 1": 68.39990234375,
@@ -297,7 +311,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 102.89990234375,
     "Rodada 16": 70.10986328125,
     "Rodada 17": 36.7099609375,
-    "Rodada 18": 88.919921875
+    "Rodada 18": 88.919921875,
+    "Rodada 19": 75.64990234375
   },
   "E.C. Bororé": {
     "Rodada 1": 67.990234375,
@@ -317,7 +332,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 92.68994140625,
     "Rodada 16": 69.509765625,
     "Rodada 17": 45.85009765625,
-    "Rodada 18": 98.0
+    "Rodada 18": 98.0,
+    "Rodada 19": 68.18017578125
   },
   "Texas Club 2025": {
     "Rodada 1": 67.68994140625,
@@ -337,7 +353,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 101.7998046875,
     "Rodada 16": 74.009765625,
     "Rodada 17": 47.510009765625,
-    "Rodada 18": 98.0
+    "Rodada 18": 98.0,
+    "Rodada 19": 61.64990234375
   },
   "Tatols Beants F.C": {
     "Rodada 1": 66.60009765625,
@@ -357,7 +374,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 97.2001953125,
     "Rodada 16": 76.91015625,
     "Rodada 17": 50.64990234375,
-    "Rodada 18": 79.52001953125
+    "Rodada 18": 79.52001953125,
+    "Rodada 19": 48.1298828125
   },
   "FBC Colorado": {
     "Rodada 1": 64.0,
@@ -377,7 +395,8 @@ const pontuacoesPorRodada = {
     "Rodada 15": 100.7998046875,
     "Rodada 16": 79.91015625,
     "Rodada 17": 51.31005859375,
-    "Rodada 18": 109.39990234375
+    "Rodada 18": 109.39990234375,
+    "Rodada 19": 74.10009765625
   },
   "Grêmio imortal 37": {
     "Rodada 1": 61.550048828125,
@@ -397,6 +416,7 @@ const pontuacoesPorRodada = {
     "Rodada 15": 81.2001953125,
     "Rodada 16": 50.60009765625,
     "Rodada 17": 80.10009765625,
-    "Rodada 18": 73.2001953125
+    "Rodada 18": 73.2001953125,
+    "Rodada 19": 62.949951171875
   }
 };
